@@ -3,7 +3,7 @@ from celery.decorators import periodic_task
 from celery.utils.log import get_task_logger
 from datetime import datetime
 from crimeapp.models import TaskHistory
-from utils import getcrime
+#from utils import getcrime
 
 logger = get_task_logger(__name__)
 
@@ -15,7 +15,7 @@ def scraper_example():
     now = datetime.now()
     date_now = now.strftime("%d-%m-%Y %H:%M:%S")
     # Perform all the operations you want here
-    temp_crime = getcrime.create_daily_booking_list()
+    #temp_crime = getcrime.create_daily_booking_list()
       
     # The name of the Task, use to find the correct TaskHistory object
     name = "scraper_example"

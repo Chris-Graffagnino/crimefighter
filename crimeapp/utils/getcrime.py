@@ -3,6 +3,7 @@ import string
 import re
 import requests
 import subprocess
+import json
 
 
 BASE_URL = "http://www.nashville.gov/Police-Department/News-and-Reports/Daily-Booking-List.aspx"
@@ -46,6 +47,26 @@ def pdf_to_text(pdf):
     subprocess.call(['rm', pdf])
     return pdf[:-3] + 'txt'
 
+def fix_perp_errors(perp_str):
+    """
+    :param perp_str: (string) in the form "MM/DD/YYYY  OFFENSE  SURNAME  FIRST_NAME  LOCATION"
+    :return: (list) ["MM/DD/YYYY", "OFFENSE", "SURNAME", "FIRST_NAME", "LOCATION"]
+    :notes: corrects corner-case, where too many spaces within the offense (ie "OFF   ENSE")
+    """
+    t = re.split('\s{2,999}', perp_str)
+
+    if len(t) > 5: #correct for spacing errors in offense field
+        result = [t[0], t[-3], t[-2], t[-1]]
+
+        for x in [0, -3, -2, -1]:
+            del t[x]
+
+        merged_offense_field = ' '.join(t)
+        result.insert(1, merged_offense_field)
+        return result
+    else:
+        return t
+
 
 def parse_text_file(text_file):
     """
@@ -56,7 +77,7 @@ def parse_text_file(text_file):
         records = [line for line in f.readlines()]
         arrests = [rec[:-1] for rec in records if rec[0].isdigit() and len(rec) != 1] # Ignore blank lines, non-records
 
-    return [re.split('\s{2,999}', perp) for perp in arrests]
+    return [fix_perp_errors(n) for n in arrests]
 
 
 def convert_date(date_str):
@@ -84,7 +105,7 @@ def convert_time(time_str):
     :return: (string) 'HH:MM' or ''
     """
     if time_str == '':
-        return ''
+        return '00:00'
     else:
         assert((3 < len(time_str) < 6) and (':' in time_str) and (int(time_str[-2:]) <= 59)) # rough check for validity
         if time_str[1] == ':':
@@ -138,10 +159,48 @@ def create_daily_booking_list():
     return fix_raw_datetime(parse_text_file(pdf_to_text(pull_report(get_pdf_link(BASE_URL)))))
 
 
-#TODO Make a cron to get the pdf on daily basis, commit the data to db
+def json_from_daily_booking(booking_list):
+    """
+    :param booking_list: A list of lists from create_daily_booking_list()
+    :return: (json) [{"model": crimeapp.crimes,
+                      "pk": pk_number,
+                      "fields": {
+                                  "date": date,
+                                  "time": time,
+                                  "offense": offense,
+                                  "surname": surname,
+                                  "first_name": first_name,
+                                  "location": location
+                                }
+                    }]
+    """
 
-# for x in create_daily_booking_list():
-   # print x
+    result = []
+    for crime in booking_list:
+
+        result.append(dict([
+            ("model", "crimeapp.crimes"),
+            ("fields", dict([
+                ("date", crime[0]),
+                ("time", crime[1]),
+                ("offense", crime[2]),
+                ("surname", crime[3]),
+                ("first_name", crime[4]),
+                ("location", crime[5])
+            ]))
+
+        ]))
+    
+    with open('recent_arrests.json', 'w') as outfile:
+        json.dump(result, outfile, indent=4)
+
+
+
+json_from_daily_booking(create_daily_booking_list())
+#for x in create_daily_booking_list():
+  #print x
+#print(create_daily_booking_list())
+#print("FIRING!!!  getcrime.py")
 
 
 
@@ -150,7 +209,6 @@ def main():
 
 if __name__ == '__main__':
     sys.exit(main())
-
 
 
 
