@@ -1,0 +1,289 @@
+                                                               Arrestee     Arrestee
+
+Arrest Date      Charge Description                            Last Name    First Name   Street
+
+9/27/2014 3:00   ALCOHOL- UNDER 21, CONSUMPTION                LEE          LOUIS        25TH AVE S
+
+9/28/2014 3:50   ALCOHOL- UNDER 21, CONSUMPTION                CARRILLO     NAHUM        OLD HICKORY BLVD
+
+9/28/2014 3:16   ASSAULT OF OFFICER - OFFENSIVE CONTACT        DIXIE        VINCHENZO    14TH AVE N
+
+9/28/2014 4:09   ASSAULT OFFICER-AGG - STRANGULATION - INT/KN  BOHANNON     DEANGELO     MCKENNELL DR
+
+9/28/2014 3:02   ASSAULT, AGG DEADLY WEAPON- INT/KN            GANT         NOLAN        OLD HICKORY BLVD
+
+9/28/2014 21:48  Assault, Aggravated - Strangulation - Int/Kn  JENNETTE     JUSTIN       NOLENSVILLE PIKE
+
+9/27/2014 23:11  ASSAULT, DOMESTIC BODILY INJURY               JOHNSON      ANTONIO      PERCY PRIEST DR
+
+9/28/2014 0:11   ASSAULT, DOMESTIC BODILY INJURY               CATES        ARTILLIUS    SHIHMEN DR
+
+9/28/2014 0:26   ASSAULT, DOMESTIC BODILY INJURY               DAVIS        MARQUISE     BUENA VISTA PIKE
+
+9/28/2014 7:44   ASSAULT, DOMESTIC BODILY INJURY               BARTOLD      JAIME        CHARMAINE CT
+
+9/28/2014 7:30   ASSAULT, DOMESTIC BODILY INJURY               WOODS        JOSHLYN      RICHARDS RD
+
+9/28/2014 9:58   ASSAULT, DOMESTIC BODILY INJURY               HEATHERLY    BRYAN        4TH AVE N
+
+9/28/2014 14:07  ASSAULT, DOMESTIC BODILY INJURY               BAKER        ARCENIO      2ND AVE N
+
+9/28/2014 15:42  ASSAULT, DOMESTIC BODILY INJURY               ROBINSON     DAVID        JAMES ROBERTSON PKWY
+
+9/28/2014 17:32  ASSAULT, DOMESTIC BODILY INJURY               JOHNSON      FRED         PLUS PARK BLVD
+
+9/28/2014 17:41  ASSAULT, DOMESTIC BODILY INJURY               JOHNSON      JENNIFER     PLUS PARK BLVD
+
+9/28/2014 18:08  ASSAULT, DOMESTIC BODILY INJURY               UNDERWOOD    ANGELA       LITTON AVE
+
+9/27/2014 22:44  ASSAULT, DOMESTIC FEAR OF BODILY INJURY       GREEN        DASHUN       SYMPHONY PL
+
+9/28/2014 4:25   ASSAULT, DOMESTIC FEAR OF BODILY INJURY       KING         LEOLA        BATE AVE
+
+9/28/2014 13:16  ASSAULT, DOMESTIC FEAR OF BODILY INJURY       BURRELL      INEQUA       ROBERT CARTWRIGHT DR
+
+9/28/2014 19:46  ASSAULT, DOMESTIC FEAR OF BODILY INJURY       WATKINS      BRIANA       JAMES ROBERTSON PKWY
+
+9/28/2014 4:22   ASSAULT-BODILY INJURY                         HENDERSON    TERRY
+
+9/28/2014 7:49   BURGLARY                                      WORTHY       ROBERT       TWIN ELMS CT
+
+9/28/2014 21:49  BURGLARY                                      HOLLOWAY     DAVID        4TH AVE S
+
+9/28/2014 7:49   BURGLARY TOOLS- POSSESSION                    WORTHY       ROBERT       TWIN ELMS CT
+
+9/28/2014 1:33   CRIMINAL IMPERSONATION                        ROSALES      RAUL         HARDING PL
+
+9/28/2014 3:16   CRIMINAL TRESPASS                             DIXIE        VINCHENZO    14TH AVE N
+
+9/28/2014 17:05  CRIMINAL TRESPASS                             BROWN        ROBERT       ROSA L PARKS BLVD
+
+9/28/2014 1:46   DISORDERLY CONDUCT                            ROBERTS      CHRISTOPHER  BROADWAY
+
+9/27/2014 3:00   DISORDERLY CONDUCT                            LEE          LOUIS        25TH AVE S
+
+8/23/2014 17:00  DRIV. LIC. - NO D/L                           GREEN        KEVON        BRICK CHURCH PIKE
+
+9/28/2014 2:47   DRIV. LIC. - NO D/L                           ALIG         JOSHUA       MCMURRAY DR
+
+                                                               Page 1 of 5
+                                                                     Arrestee     Arrestee
+
+Arrest Date      Charge Description                                  Last Name    First Name  Street
+
+9/28/2014 9:13   DRIV. LIC. - NO D/L                                 JONES        MITCHELL    MURPHY RD
+
+9/28/2014 18:41  DRIV. LIC. - NO D/L                                 VARGAS       JONATHAN    HAYWOOD LN
+
+9/28/2014 2:18   DRIVING- REVOKED LICENSE                            SHEDAKER     CRYSTAL     BELL RD
+
+9/28/2014 1:33   DRIVING- REVOKED LICENSE                            ROSALES      RAUL        HARDING PL
+
+9/28/2014 6:11   DRIVING- REVOKED LICENSE                            TAYLOR       WILLIAM     GREAT CIRCLE RD
+
+9/28/2014 5:02   DRIVING- REVOKED LICENSE                            CASTRO       ELIO        S GALLATIN PIKE
+
+9/28/2014 19:17  DRIVING- REVOKED LICENSE                            GRIGSBY      PAUL        N 1ST ST
+
+8/17/2014 23:43  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         COOK         DALONTAE    W TRINITY LN
+
+9/28/2014 0:40   DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         SPENCER      PERONNEAU   40TH AVE N
+
+9/28/2014 13:22  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         WALLACE      ROBERT      LEBANON PIKE
+
+9/28/2014 22:38  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         GREGORY      CHERYL      W TRINITY LN
+
+7/24/2014 3:45   DRIVING- SUSPENDED LICENSE                          WILLIAMS     DANIEL      ANDREW JACKSON PKWY
+
+8/21/2014 23:42  DRIVING- SUSPENDED LICENSE                          GUIDER       ANDRE       6TH AVE N
+
+9/27/2014 23:15  DRIVING- SUSPENDED LICENSE                          THOMPSON     XAVIER      I 24 W
+
+9/28/2014 1:12   DRIVING- SUSPENDED LICENSE                          ESCOE        JOHN        40TH AVE N
+
+9/28/2014 3:40   DRIVING- SUSPENDED LICENSE                          WILLIAMS     DANIEL      I 65 N
+
+9/28/2014 0:26   DRIVING UNDER THE INFLUENCE                         FORTUNE      TIMOTHY     I24 W
+
+9/27/2014 23:15  DRIVING UNDER THE INFLUENCE                         THOMPSON     XAVIER      I 24 W
+
+9/28/2014 1:15   DRIVING UNDER THE INFLUENCE                         JAMISON      RACHEL      BELL RD
+
+9/28/2014 1:39   DRIVING UNDER THE INFLUENCE                         VILLA        HOLLY       BELL RD
+
+9/28/2014 2:18   DRIVING UNDER THE INFLUENCE                         SHEDAKER     CRYSTAL     BELL RD
+
+9/28/2014 3:50   DRIVING UNDER THE INFLUENCE                         CARRILLO     NAHUM       OLD HICKORY BLVD
+
+9/28/2014 4:52   DRIVING UNDER THE INFLUENCE                         CALLICUT     JAMAAL      FRANKLIN LIMESTONE RD
+
+9/28/2014 6:47   DRIVING UNDER THE INFLUENCE                         CLEARY       MATTHEW     OLD HICKORY BLVD
+
+9/28/2014 1:33   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           ROSALES      RAUL        HARDING PL
+
+9/28/2014 5:02   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           CASTRO       ELIO        S GALLATIN PIKE
+
+9/28/2014 10:00  DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           MELGAR       PEDRO       CHARLOTTE PIKE
+
+9/28/2014 19:17  DRIVING UNDER THE INFLUENCE - 4TH OFFENSE OR  MORE  GRIGSBY      PAUL        N 1ST ST
+
+9/28/2014 5:47   DRIVING UNDER THE INFLUENCE-VEHICLE OWNER           VARNEDOE     ANDREW
+
+9/28/2014 1:15   DRUG PARAPHERNALIA- UNLAWFUL USE                    JAMISON      RACHEL      BELL RD
+
+9/28/2014 16:55  DRUG PARAPHERNALIA- UNLAWFUL USE                    WADDEY       AMY
+
+9/28/2014 17:59  DRUG PARAPHERNALIA- UNLAWFUL USE                    TOWNSEND     PAUL        MAIN ST
+
+                                                                     Page 2 of 5
+                                                                     Arrestee     Arrestee
+
+Arrest Date      Charge Description                                  Last Name    First Name   Street
+
+9/28/2014 19:31  DRUG PARAPHERNALIA- UNLAWFUL USE                    COOK         DALONTAE     CARVELL AVE
+
+9/28/2014 20:10  DRUG PARAPHERNALIA- UNLAWFUL USE                    TEFTELLER    CHRISTOPHER  WALGREEN'S 101 N  MAIN  STR
+
+9/27/2014 23:15  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  THOMPSON     XAVIER       I 24 W
+
+9/28/2014 3:40   FAILURE TO BE BOOKED                                WILLIAMS     DANIEL       I 65 N
+
+9/28/2014 3:36   FAILURE TO BE BOOKED                                GUIDER       ANDRE        DICKERSON PIKE S
+
+9/28/2014 7:36   FAILURE TO BE BOOKED                                GILBREATH    BRIAN        STRAIGHTWAY AVE
+
+9/28/2014 9:17   FAILURE TO BE BOOKED                                GREEN        KEVON        PETWAY AVE
+
+9/28/2014 18:41  FAILURE TO BE BOOKED                                VARGAS       JONATHAN     HAYWOOD LN
+
+9/28/2014 19:31  FAILURE TO BE BOOKED                                COOK         DALONTAE     CARVELL AVE
+
+9/28/2014 2:47   FAILURE TO FILE AN ACCIDENT REPORT                  ALIG         JOSHUA       MCMURRAY DR
+
+9/28/2014 2:47   FALSE REPORT- INCIDENT OR OFFENSE                   ALIG         JOSHUA       MCMURRAY DR
+
+9/28/2014 5:47   IMPLIED CONSENT - CIVIL                             VARNEDOE     ANDREW
+
+9/28/2014 10:00  IMPLIED CONSENT - CIVIL                             MELGAR       PEDRO        CHARLOTTE PIKE
+
+9/28/2014 4:52   IMPLIED CONSENT - CRIMINAL                          CALLICUT     JAMAAL       FRANKLIN LIMESTONE RD
+
+9/28/2014 5:02   IMPLIED CONSENT - CRIMINAL                          CASTRO       ELIO         S GALLATIN PIKE
+
+9/28/2014 21:48  KIDNAPPING- AGG.- TO TERRORIZE/TO INFLICT INJURY    JENNETTE     JUSTIN       NOLENSVILLE PIKE
+
+9/28/2014 2:47   LEAVING THE SCENE OF AN ACC. W/PERS. INJURY         ALIG         JOSHUA       MCMURRAY DR
+
+9/28/2014 13:22  LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE         WALLACE      ROBERT       LEBANON PIKE
+
+9/28/2014 1:33   OPEN CONTAINER VIOL.                                ROSALES      RAUL         HARDING PL
+
+9/28/2014 3:50   OPEN CONTAINER VIOL.                                CARRILLO     NAHUM        OLD HICKORY BLVD
+
+9/28/2014 5:47   OPEN CONTAINER VIOL.                                VARNEDOE     ANDREW
+
+9/28/2014 14:25  ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION     BROWN        CORTEZ       14TH AVE N
+
+9/28/2014 20:45  ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION     DEATRICK     WILLIAM      TRADING POST CT
+
+8/25/2014 21:28  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  GILBREATH    BRIAN        S GALLATIN PIKE
+
+9/28/2014 1:15   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  JAMISON      RACHEL       BELL RD
+
+9/28/2014 7:44   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  BARTOLD      JAIME        CHARMAINE CT
+
+9/28/2014 9:47   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  GRUNDY       ENRICO       FAIRWAY DR
+
+9/28/2014 19:31  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  COOK         DALONTAE     CARVELL AVE
+
+9/28/2014 21:49  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  HOLLOWAY     DAVID        4TH AVE S
+
+9/28/2014 16:55  POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.     WADDEY       AMY
+
+9/28/2014 20:10  POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.     TEFTELLER    CHRISTOPHER  WALGREEN'S 101 N MAIN STR
+
+9/28/2014 2:36   PROBATION VIOLATION- FELONY                         KEELER       DEVANTE      INTERSTATE DR
+
+                                                                     Page 3 of 5
+                                                                  Arrestee     Arrestee
+
+Arrest Date      Charge Description                               Last Name    First Name   Street
+
+9/28/2014 2:36   PROBATION VIOLATION- FELONY                      KEELER       DEVANTE      INTERSTATE DR
+
+9/28/2014 2:36   PROBATION VIOLATION- FELONY                      KEELER       DEVANTE      INTERSTATE DR
+
+9/28/2014 7:04   PROBATION VIOLATION- FELONY                      LUCAS        ODELL        CLIFF DR
+
+9/28/2014 8:15   PROBATION VIOLATION- MISDEMEANOR                 EDWARDS      JEREL        TANGLEWOOD CT
+
+9/28/2014 8:15   PROBATION VIOLATION- MISDEMEANOR                 EDWARDS      JEREL        TANGLEWOOD CT
+
+9/28/2014 9:47   PROBATION VIOLATION- MISDEMEANOR                 GRUNDY       ENRICO       FAIRWAY DR
+
+9/28/2014 17:29  PROBATION VIOLATION- MISDEMEANOR                 SCRUGGS      BERRY        JEWEL ST
+
+9/28/2014 20:04  PROBATION VIOLATION- MISDEMEANOR                 SPENCER      JOHN         JAMES ROBERTSON PKWY
+
+7/14/2014 16:15  PROSTITUTION                                     VARGAS       JONATHAN     ELM HILL PIKE
+
+9/28/2014 0:39   PUBLIC INTOXICATION                              RIZZO        BRETT        CALDWELL AVE
+
+9/28/2014 0:44   PUBLIC INTOXICATION                              LADOUCEUR    DARRICK      BROADWAY
+
+9/28/2014 1:46   PUBLIC INTOXICATION                              ROBERTS      CHRISTOPHER  BROADWAY
+
+9/28/2014 2:52   PUBLIC INTOXICATION                              GAYHART      STEVEN       4TH AVE N
+
+9/27/2014 3:00   PUBLIC INTOXICATION                              LEE          LOUIS        25TH AVE S
+
+9/28/2014 3:51   PUBLIC INTOXICATION                              HUFF         APRIL        CHURCH ST
+
+9/28/2014 3:56   PUBLIC INTOXICATION                              STEWART      ALEXANDER    N 1ST ST
+
+9/28/2014 4:53   PUBLIC INTOXICATION                              STEVENSON    MELVIN       DEMONBREUN ST
+
+9/28/2014 5:39   PUBLIC INTOXICATION                              GUZMAN       RIGOBERTO    DEMONBREUN ST
+
+9/28/2014 8:30   PUBLIC INTOXICATION                              GOSWICK      JEFFREY      N 11TH ST / WOODLAND ST
+
+9/28/2014 13:33  PUBLIC INTOXICATION                              CHEATHAM     HOWARD       28TH AVE N
+
+9/28/2014 16:51  PUBLIC INTOXICATION                              DURHAM       MALINDA      MILLWOOD DR
+
+9/28/2014 17:05  PUBLIC INTOXICATION                              BROWN        ROBERT       ROSA L PARKS BLVD
+
+9/28/2014 17:25  PUBLIC INTOXICATION                              SANDERS      RODNEY       2ND AVE N
+
+9/28/2014 21:10  PUBLIC INTOXICATION                              WEST         DANNY        BROADWAY
+
+9/28/2014 20:10  PUBLIC INTOXICATION                              TEFTELLER    CHRISTOPHER  WALGREEN'S 101 N MAIN STR
+
+9/28/2014 1:15   RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH  JAMISON      RACHEL       BELL RD
+
+9/28/2014 3:16   RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH  DIXIE        VINCHENZO    14TH AVE N
+
+9/27/2014 23:22  THEFT OF MERCHANDISE - $500 OR LESS              ELDER        BRENDA       DICKERSON PIKE
+
+9/28/2014 16:10  THEFT OF PROPERTY- $60,000 OR MORE               PARK         KATHERINE    JAMES ROBERTSON PKWY
+
+9/28/2014 1:06   THEFT OF PROPERTY- GT $500, LT $1,000            KNOCH        LAUREN       MUSIC VALLEY DR
+
+9/28/2014 0:26   VANDALISM- $500 OR LESS                          DAVIS        MARQUISE     BUENA VISTA PIKE
+
+9/28/2014 14:07  VANDALISM- $500 OR LESS                          BAKER        ARCENIO      2ND AVE N
+
+                                                                  Page 4 of 5
+                                                      Arrestee     Arrestee
+
+Arrest Date      Charge Description                   Last Name    First Name  Street
+
+9/28/2014 19:03  VANDALISM- $500 OR LESS              WILLIAMS     MICHAEL     MIMOSA DR
+
+9/28/2014 19:46  VANDALISM- $500 OR LESS              WATKINS      BRIANA      JAMES ROBERTSON PKWY
+
+9/28/2014 21:00  VANDALISM- $1,000 OR GT, LT $10,000  STAPLES      CRYSTAL     HERITAGE TRL
+
+9/28/2014 7:49   VANDALISM- GT $500, LT $1,000        WORTHY       ROBERT      TWIN ELMS CT
+
+                                                      Page 5 of 5

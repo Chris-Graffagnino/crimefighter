@@ -1,0 +1,143 @@
+                                                                         Arrestee          Arrestee
+
+Arrest Date       Charge Description                                     Last Name         First Name  Street
+
+12/25/2014 9:01   Assault, Aggravated - Deadly Weapon - Int/Kn           WRIGHT            EVERETT     BONNAHURST DR
+
+12/25/2014 0:13   Assault, Aggravated - Deadly Weapon - Reckless         GORDON            ERIC        ALBION ST
+
+12/24/2014 23:54  Assault, Aggravated - Strangulation - Int/Kn           WICKS             ROBERT      MURFREESBORO PIKE
+
+12/24/2014 23:22  ASSAULT, DOMESTIC BODILY INJURY                        FREEMAN           JEREMY      N 12TH ST
+
+12/24/2014 23:54  ASSAULT, DOMESTIC BODILY INJURY                        WICKS             ROBERT      MURFREESBORO PIKE
+
+12/25/2014 1:45   ASSAULT, DOMESTIC BODILY INJURY                        HARLESTON         FELICIA     S 9TH ST
+
+12/25/2014 1:45   ASSAULT, DOMESTIC BODILY INJURY                        HARLESTON         FELICIA     S 9TH ST
+
+12/25/2014 1:30   ASSAULT, DOMESTIC BODILY INJURY                        BAKER             JEFFERY     DICKERSON PIKE S
+
+12/25/2014 3:01   ASSAULT, DOMESTIC BODILY INJURY                        HENRIQUEZ         MARIA       ALTA LOMA RD
+
+12/25/2014 19:31  ASSAULT, DOMESTIC BODILY INJURY                        MALDONADO-RIVERA  ERNESTO     WHITSETT RD
+
+12/25/2014 20:22  ASSAULT, DOMESTIC FEAR OF BODILY INJURY                BABANZADEH        NARMIN      JAMES ROBERTSON PKWY
+
+12/25/2014 15:24  ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT        KELLEY            BARRY       DUE WEST VALLEY DR
+
+12/25/2014 5:12   BURGLARY- AGGRAVATED                                   TAYSE             JONATHAN    MCCLURKAN AVE
+
+12/25/2014 5:12   CRIMINAL SIMULATION- $500 OR LESS                      TAYSE             JONATHAN    MCCLURKAN AVE
+
+10/23/2014 0:19   CRIMINAL TRESPASS                                      UNDERWOOD         MICHAEL     MAIN ST
+
+11/4/2014 23:43   CRIMINAL TRESPASS                                      UNDERWOOD         MICHAEL     5TH AVE N
+
+11/14/2014 12:01  CRIMINAL TRESPASS                                      JACKSON           DESEAN      IRELAND ST
+
+12/24/2014 12:13  CRIMINAL TRESPASS                                      BRASHEAR          KATHERYN    ROSA L PARKS BLVD
+
+12/25/2014 4:58   DISORDERLY CONDUCT                                     BURNS             MASON       9TH AVE N
+
+8/2/2013 20:18    DRIV. LIC. - NO D/L                                    LANGLAND          STEPHINE    MYATT DR
+
+12/25/2014 17:29  DRIV. LIC. - NO D/L                                    KNIGHT            JERMAINE    JO JOHNSTON AVE
+
+12/25/2014 11:32  DRIV. LIC. - POSS. OF REVOKED, SUSP. OR ALTERED        WADE              DONTA       I 40 E
+
+12/25/2014 11:32  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT            WADE              DONTA       I 40 E
+
+12/25/2014 0:17   DRIVING- SUSPENDED LICENSE                             GATNY             THEODORE    S GALLATIN PIKE
+
+12/24/2014 23:50  DRIVING UNDER THE INFLUENCE - 3RD OFFENSE              ANDERSON          JOE         E TRINITY LN
+
+7/30/2013 13:00   DRUG PARAPHERNALIA- UNLAWFUL USE                       LANGLAND          STEPHINE    E MARTHONA RD
+
+12/25/2014 0:17   DRUG PARAPHERNALIA- UNLAWFUL USE                       GATNY             THEODORE    S GALLATIN PIKE
+
+12/25/2014 5:12   EVADING ARREST- MISDEMEANOR                            TAYSE             JONATHAN    MCCLURKAN AVE
+
+12/25/2014 7:36   EVADING ARREST- MISDEMEANOR                            ALVARADO          JOSE        PENNSYLVANIA AVE
+
+12/25/2014 7:46   EVADING ARREST- MISDEMEANOR                            ORTEGA            JAVIER      PENNSYLVANIA AVE
+
+                                                                   Page  1 of 3
+                                                                            Arrestee    Arrestee
+
+Arrest Date       Charge Description                                        Last Name   First Name  Street
+
+12/25/2014 0:27   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING        HILL        CANDY       DICKERSON PIKE
+
+12/25/2014 0:27   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING        HILL        CANDY       DICKERSON PIKE
+
+12/25/2014 9:53   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING        CLARK       SAMANTHA    MENEES LN
+
+12/25/2014 10:45  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING        DOZIER      JERIME      RUTHERFORD COUNTY JAIL
+
+12/25/2014 10:45  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING        DOZIER      JERIME      RUTHERFORD COUNTY JAIL
+
+12/25/2014 16:37  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING        SETTLES     DEREK       DOLAN RD
+
+12/24/2014 23:12  FAILURE TO BE BOOKED                                      UNDERWOOD   MICHAEL     HARDING PL
+
+12/24/2014 23:12  FAILURE TO BE BOOKED                                      UNDERWOOD   MICHAEL     HARDING PL
+
+12/25/2014 3:46   FAILURE TO BE BOOKED                                      JACKSON     DESEAN      S 9TH ST
+
+12/25/2014 9:03   FAILURE TO BE BOOKED                                      LANGLAND    STEPHINE    MYATT DR
+
+12/25/2014 9:03   FAILURE TO BE BOOKED                                      LANGLAND    STEPHINE    MYATT DR
+
+12/25/2014 9:03   FAILURE TO BE BOOKED                                      LANGLAND    STEPHINE    MYATT DR
+
+12/25/2014 9:03   FAILURE TO BE BOOKED                                      LANGLAND    STEPHINE    MYATT DR
+
+12/25/2014 1:10   HARASSMENT REPETITIVE CALLS                               HALL        BRAD        WESTLAWN DR
+
+12/25/2014 0:40   NONEMERGENCY 911 CALL                                     NANNIE      JUSTIN      S 13TH ST
+
+12/25/2014 0:17   PAROLE VIOLATION                                          GATNY       THEODORE    S GALLATIN PIKE
+
+12/25/2014 0:17   Poss. or Casual Exchange of Meth                          GATNY       THEODORE    S GALLATIN PIKE
+
+7/30/2013 13:00   POSS. OR CASUAL EXCHANGE-CONT.SUB.                        LANGLAND    STEPHINE    E MARTHONA RD
+
+7/30/2013 13:00   POSS. W/O PRESCRIPTION, LEGEND DRUGS                      LANGLAND    STEPHINE    E MARTHONA RD
+
+12/25/2014 1:30   PROBATION VIOLATION- FELONY                               BAKER       JEFFERY     DICKERSON PIKE S
+
+12/25/2014 10:48  PROBATION VIOLATION- MISDEMEANOR                          MARTIN      ANTHONY     RUTHERFORD COUNTY JAIL
+
+12/25/2014 17:47  PROBATION VIOLATION- MISDEMEANOR                          WILSON      DAVID       HAMPTON ST
+
+12/25/2014 17:47  PROBATION VIOLATION- MISDEMEANOR                          WILSON      DAVID       HAMPTON ST
+
+12/25/2014 17:34  PUBLIC INTOXICATION                                       VILLALOBOS  JOSE        HAMILTON CHURCH RD
+
+12/25/2014 18:00  PUBLIC INTOXICATION                                       FOLEY       MICHAEL     N MAIN ST
+
+12/25/2014 19:11  PUBLIC INTOXICATION                                       GORDON      RALPH
+
+12/25/2014 0:13   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH            GORDON      ERIC        ALBION ST
+
+12/25/2014 11:32  RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH            WADE        DONTA       I 40 E
+
+12/25/2014 0:13   THEFT OF MERCHANDISE- GT $500, LT $1,000                  GORDON      ERIC        ALBION ST
+
+12/25/2014 7:36   THEFT OF PROPERTY- $1,000 OR GT, LT $10,000               ALVARADO    JOSE        PENNSYLVANIA AVE
+
+                                                                      Page  2 of 3
+                                                               Arrestee     Arrestee
+
+Arrest Date       Charge Description                           Last Name    First Name  Street
+
+12/25/2014 7:46   THEFT OF PROPERTY- $1,000 OR GT, LT $10,000  ORTEGA       JAVIER      PENNSYLVANIA AVE
+
+12/25/2014 5:12   VANDALISM- $500 OR LESS                      TAYSE        JONATHAN    MCCLURKAN AVE
+
+12/25/2014 9:01   VANDALISM- $500 OR LESS                      WRIGHT       EVERETT     BONNAHURST DR
+
+12/25/2014 16:09  VANDALISM- $500 OR LESS                      HARRIS       ABBIE-GAIL  VALLEY CREEK LN
+
+                                                               Page 3 of 3

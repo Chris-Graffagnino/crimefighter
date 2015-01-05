@@ -1,0 +1,323 @@
+                                                                               Arrestee          Arrestee
+
+Arrest Date       Charge Description                                           Last Name         First Name  Street
+
+12/13/2014 1:46   ALCOHOL- UNDER 21, CONSUMPTION                               SHARIFF           SAMSAM      BISMARK DR
+
+12/13/2014 4:38   ALCOHOL- UNDER 21, POSSESSION                                SANTIAGO          ARTURO      ANTIOCH PIKE
+
+12/13/2014 20:30  ASSAULT OF OFFICER - OFFENSIVE CONTACT                       MEDLEY            JOHNATHAN   JEANS CT
+
+12/13/2014 3:30   ASSAULT, AGG DEADLY WEAPON- INT/KN                           JACKSON           KEDRICK     RUTHERFORD CO JAIL
+
+12/13/2014 17:18  ASSAULT, AGG SERIOUS BODILY INJURY- INT/KN                   BROWN             CHARLES     DREXEL ST
+
+12/13/2014 3:30   ASSAULT, AGGRAVATED - STRANGULATION-INT/KN                   JACKSON           KEDRICK     RUTHERFORD CO JAIL
+
+12/12/2014 23:37  ASSAULT, DOMESTIC BODILY INJURY                              DOSS              TANISHA     17TH AVE N
+
+12/13/2014 1:15   ASSAULT, DOMESTIC BODILY INJURY                              BUFF              ASHLEY      LONG AVE
+
+12/13/2014 4:49   ASSAULT, DOMESTIC BODILY INJURY                              GORDON            REGINALD    CODY HILL CT
+
+12/13/2014 5:54   ASSAULT, DOMESTIC BODILY INJURY                              TWEED             SCOTT       SUMMERTIME CT
+
+12/13/2014 8:11   ASSAULT, DOMESTIC BODILY INJURY                              SIRCY             WILLIAM     DEMPSEY DR
+
+12/13/2014 11:56  ASSAULT, DOMESTIC BODILY INJURY                              AMAYA             RAFAEL      HAYWOOD LN
+
+12/13/2014 11:57  ASSAULT, DOMESTIC BODILY INJURY                              MADAR             DOMINIC     MORAN AVE
+
+12/13/2014 20:51  ASSAULT, DOMESTIC BODILY INJURY                              MCCALL            KEWIN       6TH AVE S
+
+12/13/2014 20:55  ASSAULT, DOMESTIC BODILY INJURY                              WILLIAMS          CHARLES     ASH GROVE DR
+
+12/13/2014 21:23  ASSAULT, DOMESTIC BODILY INJURY                              MANNING           CHESTER     2ND AVE N
+
+12/13/2014 12:18  ASSAULT, DOMESTIC FEAR OF BODILY INJURY                      PAZ RIVOS         DAMIEN      STEWARTS FERRY PIKE
+
+12/13/2014 15:34  ASSAULT, DOMESTIC FEAR OF BODILY INJURY                      EXTON             PETER       JAMES ROBERTSON PKWY
+
+12/13/2014 21:36  ASSAULT, DOMESTIC FEAR OF BODILY INJURY                      PAYNE             JASON       BONNALYNN DR
+
+12/13/2014 15:44  ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT              SOLIS HERNANDEZ   BOJORGES    HARDING PL
+
+12/13/2014 16:51  ASSAULT-BODILY INJURY                                        HOLLY             LAWRENCE    CARTWRIGHT ST
+
+11/11/2014 15:49  BURGLARY TOOLS- POSSESSION                                   COWHERD           ELIZABETH   DONELSON PIKE
+
+12/13/2014 0:29   CHILD ABUSE - AGGRAVATED - CHILD 8 OR LESS/DISABLE           CARMAN            TAFFANY     MEDICAL CENTER DR
+
+12/13/2014 12:18  CRIMINAL TRESPASS                                            PALACIOS          SERGIO      POWELL AVE
+
+12/13/2014 13:22  CRIMINAL TRESPASS                                            WILLIAMS          KIMBERLY    MEDICAL CENTER DR
+
+12/13/2014 17:24  CRIMINAL TRESPASS                                            BRADLEY           HELEN       RIVERGATE PARKWAY
+
+12/13/2014 1:46   CRIMINAL TRESPASS-AGGRAVATED-HOME/SCHOOL                     SHARIFF           SAMSAM      BISMARK DR
+
+12/13/2014 3:00   DISORDERLY CONDUCT                                           PEEKS             DAVID       BROADWAY
+
+12/13/2014 2:51   DISORDERLY CONDUCT                                           MCLAURIN-NELSON   EVAN        BROADWAY
+
+12/13/2014 11:59  DISORDERLY CONDUCT                                           PRINCE            DAMIEN      HART LN
+
+12/12/2014 23:30  DRIV. LIC. - NO D/L                                          LEWIS             KEYSHA      REVELS DR
+
+12/13/2014 3:48   DRIV. LIC. - NO D/L                                          SANDOVAL-MARIN    ONESIMO
+
+12/13/2014 4:38   DRIV. LIC. - NO D/L                                          SANTIAGO          ARTURO      ANTIOCH PIKE
+
+12/13/2014 22:46  DRIV. LIC. - NO D/L                                          MARTINEZ-VAZQUEZ  EDGAR       EDMONDSON PIKE
+
+12/13/2014 16:17  DRIVING- REVOKED LICENSE                                     WARREN            JAMES       ROSA L PARKS BLVD
+
+                                                                      Page  1  of 5
+                                                                               Arrestee          Arrestee
+
+Arrest Date       Charge Description                                           Last Name         First Name   Street
+
+12/13/2014 18:05  DRIVING- REVOKED LICENSE                                     HILL              NATHANIEL    CHARLES E DAVIS BLVD
+
+12/13/2014 20:46  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT                  SMITH             GREGORY      41ST AVE N
+
+11/1/2014 21:10   DRIVING- SUSPENDED LICENSE                                   PATTERSON         MELISSA      S MAIN ST
+
+12/12/2014 22:24  DRIVING- SUSPENDED LICENSE                                   MCMURTRY          ZACHARY      S GALLATIN PIKE
+
+12/13/2014 0:49   DRIVING- SUSPENDED LICENSE                                   MALLARD           ERIC         S GALLATIN PIKE
+
+12/13/2014 12:18  DRIVING- SUSPENDED LICENSE                                   PALACIOS          SERGIO       POWELL AVE
+
+12/12/2014 23:06  DRIVING UNDER THE INFLUENCE                                  MCCUEN            KEVIN P      14TH AVE S
+
+12/12/2014 22:24  DRIVING UNDER THE INFLUENCE                                  MCMURTRY          ZACHARY      S GALLATIN PIKE
+
+12/12/2014 23:30  DRIVING UNDER THE INFLUENCE                                  LEWIS             KEYSHA       REVELS DR
+
+12/13/2014 0:49   DRIVING UNDER THE INFLUENCE                                  MALLARD           ERIC         S GALLATIN PIKE
+
+12/13/2014 1:21   DRIVING UNDER THE INFLUENCE                                  SULLIVAN          RYAN         CAHAL AVE
+
+12/13/2014 2:24   DRIVING UNDER THE INFLUENCE                                  MEADOWS           MARK         I 24 W
+
+12/13/2014 1:44   DRIVING UNDER THE INFLUENCE                                  MASSEY            VERONICA     14TH AVE N
+
+12/13/2014 2:59   DRIVING UNDER THE INFLUENCE                                  ABAD              CHRISTOPHER  GRAND AVE
+
+12/13/2014 3:41   DRIVING UNDER THE INFLUENCE                                  BAXLEY            CALEB        GLASTONBURY RD
+
+12/13/2014 4:38   DRIVING UNDER THE INFLUENCE                                  SANTIAGO          ARTURO       ANTIOCH PIKE
+
+12/13/2014 4:47   DRIVING UNDER THE INFLUENCE                                  MUHAMMAD          MARLON       4TH AVE S
+
+12/13/2014 19:54  DRIVING UNDER THE INFLUENCE                                  ANDERSON          ELLIOT       DICKERSON PIKE
+
+12/13/2014 22:46  DRIVING UNDER THE INFLUENCE                                  MARTINEZ-VAZQUEZ  EDGAR        EDMONDSON PIKE
+
+12/13/2014 14:30  DRIVING UNDER THE INFLUENCE - 2ND OFFENSE                    JUMBI             LAMBERT      ALBION ST
+
+12/13/2014 16:10  DRIVING UNDER THE INFLUENCE - 4TH OFFENSE OR MORE            DUNTON            JEFFERY      BROADWAY
+
+11/11/2014 15:49  DRUG PARAPHERNALIA- UNLAWFUL USE                             COWHERD           ELIZABETH    DONELSON PIKE
+
+10/27/2014 16:35  DRUG PARAPHERNALIA- UNLAWFUL USE                             HARDIMAN          PATRICIA     PERKINS ST
+
+12/12/2014 22:24  DRUG PARAPHERNALIA- UNLAWFUL USE                             MCMURTRY          ZACHARY      S GALLATIN PIKE
+
+12/12/2014 23:10  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           WILSON            KEITH        JAMES ROBERTSON PKWY
+
+12/13/2014 4:00   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           AVERITT           ALISHA       WILLIAMSON CO JAIL
+
+12/13/2014 3:30   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           JACKSON           KEDRICK      RUTHERFORD CO JAIL
+
+12/13/2014 2:45   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           DILL              DUSTIN       JAMES ROBERTSON PKWY
+
+12/13/2014 8:34   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           GARRISON          DEREK        2ND AVE N
+
+12/13/2014 10:00  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           PEARCE            STEPHANIE    BONNAWOOD DR
+
+12/13/2014 14:22  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           LANCE             TONI         MARLIN PASS
+
+12/13/2014 14:22  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           LANCE             TONI         MARLIN PASS
+
+12/13/2014 14:22  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           LANCE             TONI         MARLIN PASS
+
+12/13/2014 15:14  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           LOVE              GARY         JAMES ROBERTSON PKWY
+
+12/13/2014 18:05  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           HILL              NATHANIEL    CHARLES E DAVIS BLVD
+
+                                                                      Page  2  of 5
+                                                                               Arrestee          Arrestee
+
+Arrest Date       Charge Description                                           Last Name         First Name   Street
+
+12/13/2014 20:46  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           SMITH             GREGORY      41ST AVE N
+
+12/13/2014 19:35  FAILURE TO BE BOOKED                                         PATTERSON         MELISSA      CARTWRIGHT ST
+
+12/13/2014 21:18  FAILURE TO BE BOOKED                                         TIDWELL           PATRICIA     MURFREESBORO PIKE
+
+12/13/2014 12:18  FAILURE TO FILE A WRITTEN REPORT OF AN ACCIDENT              PALACIOS          SERGIO       POWELL AVE
+
+12/13/2014 12:18  FAILURE TO GIVE INFORMATION/RENDER AID                       PALACIOS          SERGIO       POWELL AVE
+
+12/13/2014 15:50  FORGERY- $500 OR LESS                                        OVERALL           JOHN         JAMES ROBERTSON PKWY
+
+12/13/2014 21:09  FUGITIVE FROM JUSTICE- WITHOUT WARRANT                       CASEY             ORBIELEE     BELL RD
+
+12/13/2014 16:10  HABITUAL MOTOR VEH. OFFENDER                                 DUNTON            JEFFERY      BROADWAY
+
+12/13/2014 12:18  IMMEDIATE NOTICE OF ACCIDENT- FAILURE TO COMPLY              PALACIOS          SERGIO       POWELL AVE
+
+12/13/2014 8:11   IMPAIRED ADULT- ABUSE OR NEGLECT                             SWEENEY           MATTIE       UNIVERSITY CT
+
+12/12/2014 23:06  IMPLIED CONSENT - CIVIL                                      MCCUEN            KEVIN P      14TH AVE S
+
+12/13/2014 2:24   IMPLIED CONSENT - CIVIL                                      MEADOWS           MARK         I 24 W
+
+12/13/2014 2:59   IMPLIED CONSENT - CIVIL                                      ABAD              CHRISTOPHER  GRAND AVE
+
+12/13/2014 3:41   IMPLIED CONSENT - CIVIL                                      BAXLEY            CALEB        GLASTONBURY RD
+
+12/13/2014 22:46  IMPLIED CONSENT - CIVIL                                      MARTINEZ-VAZQUEZ  EDGAR        EDMONDSON PIKE
+
+12/13/2014 16:10  IMPLIED CONSENT - CRIMINAL                                   DUNTON            JEFFERY      BROADWAY
+
+12/13/2014 0:52   INDECENT EXPOSURE                                            PILLOW            WILLIAM      DARBYTOWN DR
+
+12/13/2014 1:44   LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE                  MASSEY            VERONICA     14TH AVE N
+
+12/13/2014 12:18  LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE                  PALACIOS          SERGIO       POWELL AVE
+
+12/13/2014 16:01  MONITORING DEVICE TAMPERING/REMOVAL/VANDALISM                BLACKMAN          BARRY        DREXEL ST
+
+12/13/2014 4:27   NONEMERGENCY 911 CALL - AGGRAVATED                           CARDOZA-VELASCO   EDUARDO      MURFREESBORO PIKE
+
+12/12/2014 23:30  OPEN CONTAINER VIOL.                                         LEWIS             KEYSHA       REVELS DR
+
+12/13/2014 16:10  OPEN CONTAINER VIOL.                                         DUNTON            JEFFERY      BROADWAY
+
+12/13/2014 12:18  ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION              PAZ RIVOS         DAMIEN       STEWARTS FERRY PIKE
+
+12/12/2014 20:42  PAROLE VIOLATION                                             POTTER            CHARLES      2ND AVE N
+
+12/12/2014 20:48  PAROLE VIOLATION                                             BROWN             NATHAN       2ND AVE N
+
+12/12/2014 22:24  POSS. OR CASUAL EXCHANGE-CONT.SUB.                           MCMURTRY          ZACHARY      S GALLATIN PIKE
+
+12/13/2014 15:47  POSS. OR CASUAL EXCHANGE-CONT.SUB.                           CRUTCHER          CONTESSA     11TH AVE S
+
+12/13/2014 15:47  POSS. OR CASUAL EXCHANGE-CONT.SUB.                           CRUTCHER          CONTESSA     11TH AVE S
+
+12/13/2014 15:47  POSS. OR CASUAL EXCHANGE-CONT.SUB.                           CRUTCHER          CONTESSA     11TH AVE S
+
+11/11/2014 15:49  POSS. W/O PRESCRIPTION, LEGEND DRUGS                         COWHERD           ELIZABETH    DONELSON PIKE
+
+12/13/2014 4:01   PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.             COLEMAN           CARY         ENGLISH IVY DR
+
+12/12/2014 18:07  PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.             LYONS             PRINCESS     2ND AVE N
+
+12/13/2014 3:18   PROBATION VIOLATION- FELONY                                  GALVAN            SERGIO       JAMES ROBERTSON PKY
+
+12/13/2014 4:00   PROBATION VIOLATION- FELONY                                  BARRETT           REBECCA      OLD HICKORY BLVD
+
+                                                                      Page  3  of 5
+                                                                            Arrestee         Arrestee
+
+Arrest Date       Charge Description                                        Last Name        First Name   Street
+
+12/13/2014 7:55   PROBATION VIOLATION- FELONY                               FRIERSON         ANTONIO      HODGE CT
+
+12/13/2014 8:20   PROBATION VIOLATION- FELONY                               HAYES            BRANDY       SUMMER PL
+
+12/13/2014 8:24   PROBATION VIOLATION- FELONY                               TURNER           RONEL        ROWAN DR
+
+12/13/2014 8:24   PROBATION VIOLATION- FELONY                               TURNER           RONEL        ROWAN DR
+
+12/13/2014 8:05   PROBATION VIOLATION- FELONY                               WAYNICK          CATHERINE    2ND AVE N
+
+12/12/2014 18:30  PROBATION VIOLATION- FELONY                               FORBES           TAJH         2ND AVE N
+
+12/12/2014 20:45  PROBATION VIOLATION- FELONY                               HINDIEH          MOHAMED      2ND AVE N
+
+12/13/2014 3:30   PROBATION VIOLATION- FELONY                               ULMER            HENRY        2ND AVE N
+
+12/13/2014 8:00   PROBATION VIOLATION- FELONY                               WILLIAMS         WINSTON      2ND AVE N
+
+12/13/2014 7:46   PROBATION VIOLATION- FELONY                               REYNOLDS         ROBERT       2ND AVE N
+
+12/13/2014 12:22  PROBATION VIOLATION- FELONY                               MOORE            NICHOLAS     2ND AVE N
+
+12/13/2014 12:22  PROBATION VIOLATION- FELONY                               MOORE            NICHOLAS     2ND AVE N
+
+12/13/2014 8:34   PROBATION VIOLATION- MISDEMEANOR                          GARRISON         DEREK        2ND AVE N
+
+12/12/2014 18:22  PROBATION VIOLATION- MISDEMEANOR                          BOATMAN          ASHLEY       2ND AVE N
+
+12/12/2014 18:24  PROBATION VIOLATION- MISDEMEANOR                          JOHNSON          DARLENE      2ND AVE N
+
+12/13/2014 16:32  PROBATION VIOLATION- MISDEMEANOR                          BELL             KENNETH      2ND AVE N
+
+12/13/2014 21:29  PROBATION VIOLATION- MISDEMEANOR                          GRESHAM          KELAUS       JAMES ROBERTSON PKWY
+
+12/13/2014 0:29   PROMOTION OF METH MANUFACTURE                             CARMAN           TAFFANY      MEDICAL CENTER DR
+
+11/10/2014 21:20  PROSTITUTION                                              TIDWELL          PATRICIA     MURFREESBORO PIKE
+
+12/13/2014 0:39   PUBLIC INTOXICATION                                       KEETON           ROBERT       BROADWAY
+
+12/13/2014 0:52   PUBLIC INTOXICATION                                       PILLOW           WILLIAM      DARBYTOWN DR
+
+12/13/2014 1:46   PUBLIC INTOXICATION                                       SHARIFF          SAMSAM       BISMARK DR
+
+12/13/2014 1:36   PUBLIC INTOXICATION                                       MASSEY           DAVID        14TH AVE N
+
+12/13/2014 3:00   PUBLIC INTOXICATION                                       PEEKS            DAVID        BROADWAY
+
+12/13/2014 2:51   PUBLIC INTOXICATION                                       MCLAURIN-NELSON  EVAN         BROADWAY
+
+12/13/2014 3:10   PUBLIC INTOXICATION                                       RUIZ             MICHAEL      FATHERLAND ST
+
+12/13/2014 3:36   PUBLIC INTOXICATION                                       STEWART          CHRISTOPHER  WEST END AVE
+
+12/13/2014 3:21   PUBLIC INTOXICATION                                       VILLEGAS         JUAN         12TH AVE S
+
+12/13/2014 4:27   PUBLIC INTOXICATION                                       CARDOZA-VELASCO  EDUARDO      MURFREESBORO PIKE
+
+12/13/2014 20:56  PUBLIC INTOXICATION                                       CONSOLATTE       NDAYIZEYE    S 4TH ST
+
+12/13/2014 17:24  PUBLIC INTOXICATION                                       BRADLEY          HELEN        RIVERGATE PARKWAY
+
+12/13/2014 21:23  PUBLIC INTOXICATION                                       MANNING          CHESTER      2ND AVE N
+
+8/12/2014 14:00   REGISTER, EX-CON (SEX OFFENDER)                           ESCOBAR          WEDNESDAY
+
+12/13/2014 2:51   RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH           MCLAURIN-NELSON  EVAN         BROADWAY
+
+11/11/2014 15:49  THEFT OF MERCHANDISE - $500 OR LESS                       COWHERD          ELIZABETH    DONELSON PIKE
+
+                                                                   Page  4  of 5
+                                                                         Arrestee         Arrestee
+
+Arrest Date       Charge Description                                     Last Name        First Name  Street
+
+12/13/2014 17:24  THEFT OF MERCHANDISE - $500 OR LESS                    BRADLEY          HELEN       RIVERGATE PARKWAY
+
+12/13/2014 17:56  THEFT OF MERCHANDISE- GT $500, LT $1,000               DAVIDSON         DEE         CHARLOTTE PIKE
+
+12/13/2014 12:18  THEFT OF PROPERTY- $10,000 OR GT, LT $60,000           PALACIOS         SERGIO      POWELL AVE
+
+12/13/2014 1:15   VANDALISM- $500 OR LESS                                BUFF             ASHLEY      LONG AVE
+
+12/13/2014 12:20  VANDALISM- $500 OR LESS                                BESWICK          BELYNDA     STEWARTS FERRY PIKE
+
+12/13/2014 15:44  VANDALISM- $500 OR LESS                                SOLIS HERNANDEZ  BOJORGES    HARDING PL
+
+12/13/2014 12:18  VANDALISM- $1,000 OR GT, LT $10,000                    PAZ RIVOS        DAMIEN      STEWARTS FERRY PIKE
+
+12/13/2014 21:36  VANDALISM- GT $500, LT $1,000                          PAYNE            JASON       BONNALYNN DR
+
+12/13/2014 3:41   WEAPON- POSSESSION WHILE UNDER INFLUENCE               BAXLEY           CALEB       GLASTONBURY RD
+
+                                                                Page  5  of 5

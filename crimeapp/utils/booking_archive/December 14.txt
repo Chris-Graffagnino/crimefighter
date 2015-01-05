@@ -1,0 +1,296 @@
+                                                                      Arrestee             Arrestee
+
+Arrest Date       Charge Description                                  Last Name            First Name  Street
+
+12/13/2014 22:59  ALCOHOL- UNDER 21, CONSUMPTION                      AIREBAMEN            INEGBENOSE  WADE CIR
+
+12/14/2014 7:58   Assault, Aggravated - Deadly Weapon - Int/Kn        SWEENEY              ANDREA      CLARKSVILLE PIKE
+
+12/14/2014 13:40  Assault, Aggravated - Deadly Weapon - Int/Kn        ALLEN                LEIGH       THISTLE LN
+
+12/14/2014 12:22  Assault, Aggravated - Strangulation - Int/Kn        OLIVARES-VENCES      ZULI        HAYES ST
+
+12/14/2014 13:07  Assault, Aggravated - Strangulation - Int/Kn        CHANDLER             DARREN      JAMES ROBERTSON PKWY
+
+12/13/2014 22:48  ASSAULT, DOMESTIC BODILY INJURY                     KOEHL                RAYMOND     FRIST BLVD
+
+12/14/2014 2:01   ASSAULT, DOMESTIC BODILY INJURY                     STEM                 FIDEL       23RD AVE N
+
+12/14/2014 3:25   ASSAULT, DOMESTIC BODILY INJURY                     HUGHLEY              UNIQUE      3RD AVE N
+
+12/14/2014 3:56   ASSAULT, DOMESTIC BODILY INJURY                     DOTY                 MICHAEL     CENTURY BLVD
+
+12/14/2014 4:51   ASSAULT, DOMESTIC BODILY INJURY                     KIDD                 ASHLEY      JACKSON DOWNS BLVD
+
+12/14/2014 11:10  ASSAULT, DOMESTIC BODILY INJURY                     LYONS                LAQUISHA    ROBERTSON ST
+
+12/14/2014 14:41  ASSAULT, DOMESTIC BODILY INJURY                     SANDERS              TERRY       THOMPSON LN
+
+12/14/2014 19:48  ASSAULT, DOMESTIC BODILY INJURY                     WILLIAMS             EVANDER     HICKORY HOLLOW PKWY
+
+12/14/2014 19:16  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             TODD                 TONY        BRANTLEY DR
+
+12/14/2014 1:08   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     SADLER               JOEY        3RD AVE S
+
+12/14/2014 1:15   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     CARTER               DONALSON    RIVERGATE PKWY
+
+12/14/2014 17:28  ASSAULT-BODILY INJURY                               NEAL                 CLIFTON     CLIFTON AVE
+
+12/13/2014 22:59  CONTRIBUTING - DELINQUENCY OF A MINOR               AIREBAMEN            INEGBENOSE  WADE CIR
+
+12/14/2014 17:30  CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION  HEINRICH             RICHARD     BROADWAY
+
+12/14/2014 0:43   CRIMINAL IMPERSONATION                              PETERKIN             FAITH       CLARKSVILLE PIKE
+
+12/14/2014 7:58   CRIMINAL IMPERSONATION                              SWEENEY              ANDREA      CLARKSVILLE PIKE
+
+12/14/2014 14:29  CRIMINAL IMPERSONATION                              LOWE                 JOHN        RUSSELL ST
+
+12/14/2014 5:12   CRIMINAL SIMULATION- GT $500, LT $1,000             BROWN                TERRANCE    DELLWAY VILLA RD
+
+5/24/2012 8:30    CRIMINAL TRESPASS                                   HEWITT               CORY        EWING AVE
+
+12/14/2014 3:40   DISORDERLY CONDUCT                                  FISHER               KEYARA      19TH AVE N
+
+12/14/2014 0:04   DRIV. LIC. - NO D/L                                 ZEKOVITCH            MICHAEL     STRATTON AVE
+
+12/14/2014 2:44   DRIV. LIC. - NO D/L                                 FERNANDEZ-HERNANDEZ  CIRO        S DOUGLAS AV
+
+12/14/2014 3:18   DRIV. LIC. - NO D/L                                 MARTINEZ             JULIO       EXPRESSWAY PARK DR
+
+12/14/2014 2:51   DRIV. LIC. - NO D/L                                 MADRIGAL             JOSUE       I65 S
+
+12/14/2014 4:16   DRIV. LIC. - NO D/L                                 ALVARADO             DARLYN      MURFREESBORO PIKE
+
+12/14/2014 11:48  DRIV. LIC. - NO D/L                                 MEJIACASTANEDA       GERARDO     LINBAR DR
+
+12/14/2014 3:40   DRIV. LIC. - POSS. OF REVOKED, SUSP. OR ALTERED     FISHER               KEYARA      19TH AVE N
+
+12/13/2014 22:50  DRIVING- REVOKED LICENSE                            YOUNG                GARY        10TH AVE N
+
+12/14/2014 0:29   DRIVING- REVOKED LICENSE                            BROWN                TERENCE     9TH AVE S
+
+12/14/2014 2:45   DRIVING- REVOKED LICENSE                            MCLURE               LUCAS       NOLENSVILLE PIKE
+
+                                                                      Page 1 of 4
+                                                                      Arrestee        Arrestee
+
+Arrest Date       Charge Description                                  Last Name       First Name  Street
+
+12/14/2014 12:44  DRIVING- REVOKED LICENSE                            ANDERSON        JOHN        9TH AVE N
+
+12/14/2014 19:00  DRIVING- REVOKED LICENSE                            CAHUEC          EDGAR       2ND AVE S
+
+10/9/2014 1:09    DRIVING- SUSPENDED LICENSE                          TEKLEGORGIS     AGAZE       CENTRAL PIKE
+
+12/14/2014 3:40   DRIVING- SUSPENDED LICENSE                          FISHER          KEYARA      19TH AVE N
+
+12/14/2014 0:43   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       PETERKIN        FAITH       CLARKSVILLE PIKE
+
+12/13/2014 23:55  DRIVING UNDER THE INFLUENCE                         CURRY           JOHN        21ST AVE S
+
+12/13/2014 22:50  DRIVING UNDER THE INFLUENCE                         YOUNG           GARY        10TH AVE N
+
+12/14/2014 0:28   DRIVING UNDER THE INFLUENCE                         ZUKANOVIC       ZIJAD       BELL RD
+
+12/14/2014 1:20   DRIVING UNDER THE INFLUENCE                         NEWTON          JUSTIN      I 40 E
+
+12/14/2014 0:15   DRIVING UNDER THE INFLUENCE                         WILSON          APRIL       RIVERGATE PKWY
+
+12/14/2014 2:45   DRIVING UNDER THE INFLUENCE                         MCLURE          LUCAS       NOLENSVILLE PIKE
+
+12/14/2014 2:55   DRIVING UNDER THE INFLUENCE                         CARTER          KIRSTEN     ROSA PARKS
+
+12/14/2014 3:18   DRIVING UNDER THE INFLUENCE                         MARTINEZ        JULIO       EXPRESSWAY PARK DR
+
+12/14/2014 2:45   DRIVING UNDER THE INFLUENCE                         MARTIN          MITCHELL    CHICAMAUGA AVE
+
+12/14/2014 2:51   DRIVING UNDER THE INFLUENCE                         MADRIGAL        JOSUE       I65 S
+
+12/14/2014 4:11   DRIVING UNDER THE INFLUENCE                         JOHNSON         ERIC        NEELYS BEND RD
+
+12/14/2014 4:16   DRIVING UNDER THE INFLUENCE                         ALVARADO        DARLYN      MURFREESBORO PIKE
+
+12/14/2014 11:48  DRIVING UNDER THE INFLUENCE                         MEJIACASTANEDA  GERARDO     LINBAR DR
+
+12/14/2014 16:22  DRIVING UNDER THE INFLUENCE                         BROTHERS        KIMBERLY    KIRKWOOD AVE
+
+12/14/2014 2:05   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           STRADTNER       BRANDON     EASTLAND AVE
+
+12/14/2014 5:40   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           DAVIS           JEFFREY     I 24 E MM 56
+
+12/14/2014 6:04   DRIVING UNDER THE INFLUENCE - 4TH OFFENSE OR MORE   BUNI            CHARLES     HICKORY WOODS DR
+
+12/13/2014 23:48  DRIVING UNDER THE INFLUENCE-VEHICLE OWNER           HANNAH          ASHLYN      10TH AVE N
+
+12/14/2014 1:20   DRUG PARAPHERNALIA- UNLAWFUL USE                    NEWTON          JUSTIN      I 40 E
+
+12/14/2014 14:29  DRUG PARAPHERNALIA- UNLAWFUL USE                    LOWE            JOHN        RUSSELL ST
+
+12/14/2014 3:40   EVADING ARREST- MISDEMEANOR                         FISHER          KEYARA      19TH AVE N
+
+12/14/2014 19:00  EVADING ARREST- MISDEMEANOR                         CAHUEC          EDGAR       2ND AVE S
+
+12/14/2014 3:40   EVADING ARREST- MOTOR VEHICLE                       FISHER          KEYARA      19TH AVE N
+
+12/14/2014 20:56  FAILURE TO APPEAR - FELONY OR CLASS A MISD.         HANNAH          ALEXANDRA   SUMNER CO JAIL
+
+12/14/2014 2:51   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  MARTIN          BRANDON     SLATE DR
+
+12/13/2014 22:59  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  AIREBAMEN       INEGBENOSE  WADE CIR
+
+12/14/2014 5:24   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  WATTERS         TERRY       CRUTCHER ST
+
+12/14/2014 5:24   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  WATTERS         TERRY       CRUTCHER ST
+
+12/14/2014 9:16   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  HARMON          JASMINE     JAMES ROBERTSON PKWY
+
+12/14/2014 10:16  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  SWEENEY         JAMECIA     JAMES ROBERTSON PKWY
+
+                                                                      Page 2 of 4
+                                                                      Arrestee           Arrestee
+
+Arrest Date       Charge Description                                  Last Name          First Name  Street
+
+12/14/2014 10:29  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  COOK               CRYSTAL     3RD AVE S
+
+12/14/2014 11:00  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  SANCHEZ-VELAZQUEZ  SAUL        CEDARMONT CIR
+
+12/14/2014 14:29  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  LOWE               JOHN        RUSSELL ST
+
+12/14/2014 20:00  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  HENDRY             JOSEPH      WILSON CO JAIL
+
+12/14/2014 21:31  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  REFFEGEE           LAQUINTA    JAMES ROBERTSON PKWY
+
+12/14/2014 10:29  FAILURE TO BE BOOKED                                COOK               CRYSTAL     3RD AVE S
+
+12/14/2014 20:56  FAILURE TO BE BOOKED                                HEWITT             CORY        SUMNER CO JAIL
+
+12/14/2014 20:00  FAILURE TO BE BOOKED                                TEKLEGORGIS        AGAZE       WILSON CO JAIL
+
+12/14/2014 12:22  FALSE IMPRISONMENT                                  OLIVARES-VENCES    ZULI        HAYES ST
+
+12/14/2014 8:04   FORFEITURE - VIOL BOND COND. OR BOND INCREASE       TORRES             RICARDO     PACKARD DR
+
+12/14/2014 8:35   FORFEITURE - VIOL BOND COND. OR BOND INCREASE       KING               STEPHEN     BARRYWOOD DR
+
+12/13/2014 23:45  FORGERY- $1,000 OR GT, LT $10,000                   PARDUE             VINCENT     SUMNER COUNTY JAIL
+
+12/14/2014 5:12   FORGERY- GT $500, LT $1,000                         BROWN              TERRANCE    DELLWAY VILLA RD
+
+12/13/2014 23:37  FUGITIVE FROM JUSTICE- WITH WARRANT                 CUMMINGS           ELLIOT      DICKERSON PIKE
+
+12/14/2014 1:00   HARASSMENT - CAUSE EMOTIONAL DISTRESS, INTIMIDATE,  COLE               JOE         PEBBLE CREEK CIR
+
+12/14/2014 1:15   HARASSMENT REPETITIVE CALLS                         CARTER             DONALSON    RIVERGATE PKWY
+
+12/14/2014 16:51  HARASSMENT THREATS                                  HEARD              STEPHEN     JONES PARK CT
+
+12/14/2014 16:51  HARASSMENT THREATS                                  HEARD              STEPHEN     JONES PARK CT
+
+12/14/2014 16:51  HARASSMENT THREATS                                  HEARD              STEPHEN     JONES PARK CT
+
+12/13/2014 23:55  IMPLIED CONSENT - CIVIL                             CURRY              JOHN        21ST AVE S
+
+12/13/2014 22:50  IMPLIED CONSENT - CIVIL                             YOUNG              GARY        10TH AVE N
+
+12/14/2014 0:15   IMPLIED CONSENT - CIVIL                             WILSON             APRIL       RIVERGATE PKWY
+
+12/14/2014 2:55   IMPLIED CONSENT - CIVIL                             CARTER             KIRSTEN     ROSA PARKS
+
+12/14/2014 2:45   IMPLIED CONSENT - CIVIL                             MARTIN             MITCHELL    CHICAMAUGA AVE
+
+12/14/2014 4:16   IMPLIED CONSENT - CIVIL                             ALVARADO           DARLYN      MURFREESBORO PIKE
+
+12/14/2014 16:22  IMPLIED CONSENT - CIVIL                             BROTHERS           KIMBERLY    KIRKWOOD AVE
+
+12/14/2014 2:51   INSURANCE-EVIDENCE OF COMPLIANCE-TRAFFIC            MADRIGAL           JOSUE       I65 S
+
+12/14/2014 12:22  INTERFERENCE W/EMERGENCY CALL                       OLIVARES-VENCES    ZULI        HAYES ST
+
+12/14/2014 0:15   OPEN CONTAINER VIOL.                                WILSON             APRIL       RIVERGATE PKWY
+
+12/14/2014 2:45   OPEN CONTAINER VIOL.                                MCLURE             LUCAS       NOLENSVILLE PIKE
+
+12/13/2014 21:08  ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION     HUTCHINSON         BRANDON     CENTENNIAL BLVD
+
+12/13/2014 21:08  ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION     HUTCHINSON         BRANDON     CENTENNIAL BLVD
+
+12/14/2014 1:00   ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION     COLE               JOE         PEBBLE CREEK CIR
+
+12/14/2014 0:53   PAROLE VIOLATION                                    MOSS               CEDRIC      CLARKSVILLE PIKE
+
+12/14/2014 1:20   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  NEWTON             JUSTIN      I 40 E
+
+                                                                      Page 3 of 4
+                                                                      Arrestee     Arrestee
+
+Arrest Date       Charge Description                                  Last Name    First Name  Street
+
+12/14/2014 14:29  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  LOWE         JOHN        RUSSELL ST
+
+12/14/2014 0:29   POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.     BROWN        TERENCE     9TH AVE S
+
+12/14/2014 1:20   POSS. W/O PRESCRIPTION, LEGEND DRUGS                NEWTON       JUSTIN      I 40 E
+
+12/14/2014 3:43   PROBATION VIOLATION- FELONY                         SMITHEY      CHARLIE     PENNSYLVANIA AVE
+
+12/14/2014 14:29  PROBATION VIOLATION- FELONY                         LOWE         JOHN        RUSSELL ST
+
+12/14/2014 17:41  PROBATION VIOLATION- FELONY                         BONHAMA      BRIAN       HADLEY AVE
+
+12/14/2014 20:16  PROBATION VIOLATION- FELONY                         ELLIOT       MICHAEL     16TH AVE N
+
+12/14/2014 7:58   PROBATION VIOLATION- MISDEMEANOR                    SWEENEY      ANDREA      CLARKSVILLE PIKE
+
+12/14/2014 12:19  PROBATION VIOLATION- MISDEMEANOR                    BERRYMAN     DONALD      GARRY DR
+
+12/14/2014 18:13  PROBATION VIOLATION- MISDEMEANOR                    SEYER        KRISTINA    JAMES ROBERTSON PKWY
+
+12/14/2014 20:00  PROBATION VIOLATION- MISDEMEANOR                    HENDRY       JOSEPH      WILSON CO JAIL
+
+12/14/2014 19:32  PROBATION VIOLATION- MISDEMEANOR                    BRYANT       CHRISTY     NOLENSVILLE PIKE
+
+9/23/2014 15:45   PROSTITUTION                                        COOK         CRYSTAL     MURFREESBORO
+
+12/13/2014 23:20  PUBLIC INTOXICATION                                 COSBY        MACK        S HAMILTON RD
+
+12/13/2014 23:55  PUBLIC INTOXICATION                                 MAIER        NICHOLAS    SYMPHONY PL
+
+12/14/2014 1:15   PUBLIC INTOXICATION                                 BROWN        ROBERT      ROSA L PARKS BLVD
+
+12/14/2014 1:32   PUBLIC INTOXICATION                                 BRAUGHTON    ROGER       OPRY PL
+
+12/14/2014 6:33   PUBLIC INTOXICATION                                 ANDERSON     SEAN        DICKERSON PIKE
+
+12/14/2014 15:38  PUBLIC INTOXICATION                                 DOSS         YANCEY      DIVISION ST
+
+12/14/2014 15:39  PUBLIC INTOXICATION                                 WILDER       JAMES       DIVISION ST
+
+12/14/2014 0:15   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH      WILSON       APRIL       RIVERGATE PKWY
+
+12/14/2014 16:22  RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH      BROTHERS     KIMBERLY    KIRKWOOD AVE
+
+12/14/2014 18:27  THEFT OF MERCHANDISE - $500 OR LESS                 BONNER       THOMAS      DICKERSON PIKE
+
+12/13/2014 17:33  THEFT OF MERCHANDISE- GT $500, LT $1,000            ZANARDI      PAMELA      2ND AVE N
+
+12/13/2014 23:45  THEFT OF PROPERTY- $1,000 OR GT, LT $10,000         PARDUE       VINCENT     SUMNER COUNTY JAIL
+
+12/14/2014 0:53   THEFT OF PROPERTY- $500 OR LESS                     MOSS         CEDRIC      CLARKSVILLE PIKE
+
+12/14/2014 5:12   THEFT OF PROPERTY- GT $500, LT $1,000               BROWN        TERRANCE    DELLWAY VILLA RD
+
+12/14/2014 14:29  THEFT OF PROPERTY- GT $500, LT $1,000               LOWE         JOHN        RUSSELL ST
+
+12/14/2014 0:15   VANDALISM- $500 OR LESS                             WILSON       APRIL       RIVERGATE PKWY
+
+12/14/2014 13:40  VANDALISM- $1,000 OR GT, LT $10,000                 ALLEN        LEIGH       THISTLE LN
+
+12/14/2014 0:50   VEHICLE THEFT - $1,000 OR GT, LT $10,000            WILLIAMS     CALVIN      MURFREESBORO PIKE
+
+12/14/2014 0:53   Weapon - Felon-Poss-Firearm (Force,Violence,Deadly  MOSS         CEDRIC      CLARKSVILLE PIKE
+
+12/14/2014 3:16   WEAPON - HANDGUN                                    NEVILS       JAMES       MURFREESBORO PIKE
+
+                                                                      Page 4 of 4

@@ -1,0 +1,288 @@
+                                                                   Arrestee     Arrestee
+
+Arrest Date       Charge Description                               Last Name    First Name  Street
+
+10/11/2014 22:22  ASSAULT OF OFFICER - BODILY INJURY               PARDUE       JEFFREY     LANE WOOD CT
+
+10/11/2014 22:22  ASSAULT OF OFFICER - BODILY INJURY               PARDUE       JEFFREY     LANE WOOD CT
+
+10/12/2014 11:42  ASSAULT OF OFFICER - BODILY INJURY               WEEKS        CINDY       SHUTE LN
+
+10/12/2014 11:42  ASSAULT OF OFFICER - BODILY INJURY               WEEKS        CINDY       SHUTE LN
+
+10/12/2014 5:14   ASSAULT OF OFFICER - FEAR OF BODILY INJURY       BOWIE        MASSAY      BELL RD
+
+10/12/2014 1:36   ASSAULT OF OFFICER - OFFENSIVE CONTACT           WADDY        KRISTOPHER  EDGEWOOD AVE
+
+10/12/2014 18:20  ASSAULT OF OFFICER - OFFENSIVE CONTACT           COLEMAN      MAURICE     ROSA L PARKS BLVD
+
+10/12/2014 2:07   Assault, Aggravated - Deadly Weapon - Int/Kn     YOUNG        TERRY       HILLCREST DR
+
+10/12/2014 8:23   Assault, Aggravated - Deadly Weapon - Int/Kn     IVERY        JACQUELINE  LAKEWOOD VILLAGE DR
+
+10/12/2014 3:52   Assault, Aggravated - Strangulation - Int/Kn     DIBRELL      TAYLOR      17TH AVE N
+
+10/12/2014 4:01   Assault, Aggravated - Strangulation - Int/Kn     PRIMERO      SANTOS      IDLEWILD DR
+
+10/12/2014 12:23  Assault, Aggravated - Strangulation - Int/Kn     TIPTON       DAWN        JAMES ROBERTSON PKWY
+
+10/11/2014 22:37  ASSAULT, DOMESTIC BODILY INJURY                  RAY          ERICA       LANEWOOD CT
+
+10/11/2014 23:44  ASSAULT, DOMESTIC BODILY INJURY                  BILLS        SAMUEL      ASHTON AVE
+
+10/12/2014 2:06   ASSAULT, DOMESTIC BODILY INJURY                  BARBIER      WENDY       HARLIN DR
+
+10/12/2014 2:07   ASSAULT, DOMESTIC BODILY INJURY                  YOUNG        TERRY       HILLCREST DR
+
+10/12/2014 2:06   ASSAULT, DOMESTIC BODILY INJURY                  BRADFORD     ALLEN       HARDING PL
+
+10/12/2014 4:09   ASSAULT, DOMESTIC BODILY INJURY                  GREEN        CHARLEY     N 6TH ST
+
+10/12/2014 4:17   ASSAULT, DOMESTIC BODILY INJURY                  DIAZ-IBARRA  JUAN        MURFREESBORO PIKE
+
+10/12/2014 4:17   ASSAULT, DOMESTIC BODILY INJURY                  DIAZ-IBARRA  JUAN        MURFREESBORO PIKE
+
+10/12/2014 8:23   ASSAULT, DOMESTIC BODILY INJURY                  IVERY        JACQUELINE  LAKEWOOD VILLAGE DR
+
+10/12/2014 16:50  ASSAULT, DOMESTIC BODILY INJURY                  ZONNEVILLE   CHRISTINA   RIVERCHASE BLVD
+
+10/12/2014 18:06  ASSAULT, DOMESTIC BODILY INJURY                  MEADE        GREGORY     E TRINITY LN
+
+10/12/2014 18:31  ASSAULT, DOMESTIC BODILY INJURY                  ROBERTS      ANDREA      QUIET TREE GRV
+
+10/12/2014 20:15  ASSAULT, DOMESTIC BODILY INJURY                  PRESSLEY     ANDREA      EDITH AVE
+
+10/12/2014 22:11  ASSAULT, DOMESTIC BODILY INJURY                  HALL         RONALD      24TH AVE N
+
+10/11/2014 23:30  ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  COOPER       DESTINY     DAVIDSON ST
+
+10/12/2014 3:36   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  GLISSON      JULI        PUEBLO DR
+
+10/12/2014 18:06  ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  MEADE        GREGORY     E TRINITY LN
+
+10/12/2014 18:06  ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  MEADE        GREGORY     E TRINITY LN
+
+10/12/2014 21:59  ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  LATCH        VALERIE     OPRY MILLS DR
+
+10/12/2014 16:17  ASSAULT, DOMESTIC, BODILY INJURY 2ND OFFENSE     WHITNEY      MALICIA     S 7TH ST
+
+10/12/2014 19:56  ASSAULT, DOMESTIC, BODILY INJURY 2ND OFFENSE     GLENN        RONALD      MURFREESBORO PIKE
+
+10/12/2014 4:09   ASSAULT-BODILY INJURY                            GREEN        CHARLEY     N 6TH ST
+
+                                                                Page 1 of 4
+                                                                            Arrestee       Arrestee
+
+Arrest Date       Charge Description                                        Last Name      First Name  Street
+
+10/12/2014 0:25   CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION        GEARY NARVAEZ  PYADTETANA  LAFAYETTE ST
+
+10/11/2014 23:43  CRIMINAL SIMULATION- $500 OR LESS                         CARROLL        LARRIE      4TH AVE
+
+6/16/2014 19:00   CRIMINAL TRESPASS                                         LANE           ROBERT      YEAMAN PL
+
+10/11/2014 22:41  CRIMINAL TRESPASS                                         BIGGS          TEASHA      DICKERSON PIKE
+
+10/11/2014 23:43  CRIMINAL TRESPASS                                         CARROLL        LARRIE      4TH AVE
+
+10/12/2014 11:42  CRIMINAL TRESPASS                                         WEEKS          CINDY       SHUTE LN
+
+10/12/2014 15:30  CRIMINAL TRESPASS                                         WARD           TIMOTHY     TITANS WAY
+
+10/12/2014 15:30  CRIMINAL TRESPASS                                         MEJIA          ALEJANDRO   TITANS WAY
+
+10/12/2014 15:30  CRIMINAL TRESPASS                                         LOPEZ          ARMANDO     S 2ND ST
+
+10/12/2014 16:24  CRIMINAL TRESPASS                                         HUSEMAN        DALE        SHELBY AVE
+
+10/11/2014 22:22  DISORDERLY CONDUCT                                        PARDUE         JEFFREY     LANE WOOD CT
+
+10/12/2014 8:56   DRIV. LIC. - NO D/L                                       BEDA           VICTOR      LINBAR DR
+
+10/12/2014 1:27   DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT               DAVIS          JEREMY      BRILEY PKWY N
+
+10/12/2014 12:02  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT               CASTRO         MIGUEL      MURFREESBORO PIKE
+
+10/12/2014 16:15  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT               COFFEE         ROBERT      I 40 W
+
+10/12/2014 16:50  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT               ZONNEVILLE     CHRISTINA   RIVERCHASE BLVD
+
+10/12/2014 16:03  DRIVING- SUSPENDED LICENSE                                KELLY          ANTWAIN     JAMES ROBERTSON PKWY
+
+10/12/2014 15:00  DRIVING- SUSPENDED LICENSE                                DOMINGUEZ      LUIS        MYATT DR
+
+10/12/2014 6:21   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT             YOUNG          JOHNNY      E OLD HICKORY BLVD
+
+10/12/2014 16:29  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT             HARRIS         DIJUAN      COWAN ST
+
+10/11/2014 22:48  DRIVING UNDER THE INFLUENCE                               RICHARDS       CHARLES     TERMINAL DR
+
+10/12/2014 1:27   DRIVING UNDER THE INFLUENCE                               DAVIS          JEREMY      BRILEY PKWY N
+
+10/12/2014 5:14   DRIVING UNDER THE INFLUENCE                               BOWIE          MASSAY      BELL RD
+
+10/12/2014 8:56   DRIVING UNDER THE INFLUENCE                               BEDA           VICTOR      LINBAR DR
+
+10/12/2014 12:02  DRIVING UNDER THE INFLUENCE                               CASTRO         MIGUEL      MURFREESBORO PIKE
+
+10/12/2014 17:35  DRIVING UNDER THE INFLUENCE                               ATCHISON       LISA
+
+10/12/2014 2:48   DRIVING UNDER THE INFLUENCE - 3RD OFFENSE                 LANE           ROBERT      NOLENSVILLE PIKE
+
+10/12/2014 8:42   DRIVING UNDER THE INFLUENCE-VEHICLE OWNER                 MBOKO          MARCELLIN   LINBAR DR
+
+6/16/2014 19:00   DRUG PARAPHERNALIA- UNLAWFUL USE                          LANE           ROBERT      YEAMAN PL
+
+10/12/2014 1:33   DRUG PARAPHERNALIA- UNLAWFUL USE                          JEFFERS        DEVAUGHN    BROADWAY
+
+10/12/2014 2:06   DRUG PARAPHERNALIA- UNLAWFUL USE                          BRADFORD       ALLEN       HARDING PL
+
+10/12/2014 2:48   DRUG PARAPHERNALIA- UNLAWFUL USE                          LANE           ROBERT      NOLENSVILLE PIKE
+
+10/12/2014 16:03  DRUG PARAPHERNALIA- UNLAWFUL USE                          KELLY          ANTWAIN     JAMES ROBERTSON PKWY
+
+10/12/2014 18:20  DRUG PARAPHERNALIA- UNLAWFUL USE                          COLEMAN        MAURICE     ROSA L PARKS BLVD
+
+                                                                 Page 2 of  4
+                                                                               Arrestee       Arrestee
+
+Arrest Date       Charge Description                                           Last Name      First Name  Street
+
+10/12/2014 2:06   EVADING ARREST- MISDEMEANOR                                  BRADFORD       ALLEN       HARDING PL
+
+10/12/2014 5:14   EVADING ARREST- MISDEMEANOR                                  BOWIE          MASSAY      BELL RD
+
+10/12/2014 16:03  EVADING ARREST- MOTOR VEHICLE                                KELLY          ANTWAIN     JAMES ROBERTSON    PKWY
+
+10/12/2014 14:58  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           BROWN          WILLIAM     DICKERSON PIKE
+
+10/12/2014 16:16  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           LEGGS          ROSALYN     GATEWOOD AVE
+
+10/12/2014 2:48   FAILURE TO BE BOOKED                                         LANE           ROBERT      NOLENSVILLE PIKE
+
+10/12/2014 2:48   FAILURE TO BE BOOKED                                         LANE           ROBERT      NOLENSVILLE PIKE
+
+10/12/2014 14:20  FAILURE TO BE BOOKED                                         GATHINGS       CYNTHIA     TITANS WAY
+
+10/12/2014 2:06   FALSE IMPRISONMENT                                           BRADFORD       ALLEN       HARDING PL
+
+10/12/2014 4:01   FALSE IMPRISONMENT                                           PRIMERO        SANTOS      IDLEWILD DR
+
+10/12/2014 11:41  FALSE REPORT- EMERGENCY                                      MURRAY         BEN         15TH AVE N
+
+10/12/2014 0:48   HABITUAL MOTOR VEH. OFFENDER                                 COPELAND       KEYON       S 4TH ST
+
+10/12/2014 0:25   HARASSMENT THREATS                                           GEARY NARVAEZ  PYADTETANA  LAFAYETTE ST
+
+10/12/2014 17:35  IMPLIED CONSENT - CIVIL                                      ATCHISON       LISA
+
+10/12/2014 18:06  INTERFERENCE W/EMERGENCY CALL                                MEADE          GREGORY     E TRINITY LN
+
+10/12/2014 18:19  LEAVING THE SCENE OF AN ACC. W/PERS. INJURY                  SUMMERS        JACOB       WILSON CO JAIL
+
+10/12/2014 2:19   MONITORING DEVICE TAMPERING/REMOVAL/VANDALISM                HARRIS         MAURICE     BROADWAY
+
+6/25/2014 2:42    OBSTRUCTING A PASSAGEWAY                                     GATHINGS       CYNTHIA     3RD AVE S
+
+10/12/2014 18:50  ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION              BROWN          LARRY       SHAYLIN LOOP
+
+10/11/2014 22:41  POSS. OR CASUAL EXCHANGE-CONT.SUB.                           BIGGS          TEASHA      DICKERSON PIKE
+
+10/12/2014 2:07   POSS. OR CASUAL EXCHANGE-CONT.SUB.                           YOUNG          TERRY       HILLCREST DR
+
+10/12/2014 2:06   POSS. OR CASUAL EXCHANGE-CONT.SUB.                           BRADFORD       ALLEN       HARDING PL
+
+10/12/2014 16:03  POSS. OR CASUAL EXCHANGE-CONT.SUB.                           KELLY          ANTWAIN     JAMES ROBERTSON PKWY
+
+10/12/2014 1:33   POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.              JEFFERS        DEVAUGHN    BROADWAY
+
+10/12/2014 2:27   POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.              ANDERSON       JAMES       4TH AVE S
+
+10/12/2014 18:20  POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.              COLEMAN        MAURICE     ROSA L PARKS BLVD
+
+10/12/2014 11:42  POSS. W/O PRESCRIPTION, LEGEND DRUGS                         WEEKS          CINDY       SHUTE LN
+
+10/12/2014 18:20  POSS.W/INT-CONT.SUB.- COCAINE .5 GR. OR MORE                 COLEMAN        MAURICE     ROSA L PARKS BLVD
+
+10/12/2014 8:05   PROBATION VIOLATION- FELONY                                  PATTON         JOHN        BUENA VISTA
+
+10/12/2014 12:51  PROBATION VIOLATION- FELONY                                  DAWSON         RANDY       S 5TH ST
+
+10/12/2014 16:15  PROBATION VIOLATION- FELONY                                  COFFEE         ROBERT      I 40 W
+
+10/12/2014 16:50  PROBATION VIOLATION- FELONY                                  ZONNEVILLE     CHRISTINA   RIVERCHASE BLVD
+
+10/12/2014 13:19  PROBATION VIOLATION- MISDEMEANOR                             ADKINS         TERRY       CHARLOTTE PIKE
+
+10/12/2014 19:55  PROBATION VIOLATION- MISDEMEANOR                             FAULKNER       DILLARD     2ND AVE N
+
+                                                                   Page 3  of  4
+                                                                  Arrestee     Arrestee
+
+Arrest Date       Charge Description                              Last Name    First Name  Street
+
+10/12/2014        PUBLIC INTOXICATION                             BENDER       BRIAN       RIVERSIDE DR
+
+10/12/2014 0:43   PUBLIC INTOXICATION                             PRICE        JAMMY       BROADWAY
+
+10/11/2014 23:30  PUBLIC INTOXICATION                             COOPER       DESTINY     DAVIDSON ST
+
+10/12/2014 1:18   PUBLIC INTOXICATION                             HUTCHESON    MICHAEL     2ND AVE N
+
+10/12/2014 1:49   PUBLIC INTOXICATION                             SMITH        TARA        22ND AVE N
+
+10/12/2014 2:27   PUBLIC INTOXICATION                             ANDERSON     JAMES       4TH AVE S
+
+10/12/2014 3:05   PUBLIC INTOXICATION                             MOSS         ARNOLD      3RD AVE N
+
+10/12/2014 14:00  PUBLIC INTOXICATION                             KOSELKA      ROBERT      TITANS WAY
+
+10/12/2014 15:30  PUBLIC INTOXICATION                             WARD         TIMOTHY     TITANS WAY
+
+10/12/2014 16:01  PUBLIC INTOXICATION                             CASH         RHONDA      S 2ND ST
+
+10/12/2014 15:30  PUBLIC INTOXICATION                             MEJIA        ALEJANDRO   TITANS WAY
+
+10/12/2014 15:30  PUBLIC INTOXICATION                             LOPEZ        ARMANDO     S 2ND ST
+
+10/12/2014 20:15  PUBLIC INTOXICATION                             BURNES       WILLIAM
+
+10/12/2014 21:46  PUBLIC INTOXICATION                             NEELEY       ALONZO      N GALLATIN PIKE
+
+10/11/2014 22:22  RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  PARDUE       JEFFREY     LANE WOOD CT
+
+10/12/2014 1:36   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  WADDY        KRISTOPHER  EDGEWOOD AVE
+
+10/12/2014 5:14   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  BOWIE        MASSAY      BELL RD
+
+10/12/2014 11:42  RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  WEEKS        CINDY       SHUTE LN
+
+10/12/2014 15:30  RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  WARD         TIMOTHY     TITANS WAY
+
+10/12/2014 17:20  RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  RISNER       CHANCE      JEANS CT
+
+10/12/2014 18:20  RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  COLEMAN      MAURICE     ROSA L PARKS BLVD
+
+10/12/2014 2:06   ROBBERY                                         BRADFORD     ALLEN       HARDING PL
+
+10/11/2014 22:41  THEFT OF MERCHANDISE - $500 OR LESS             BIGGS        TEASHA      DICKERSON PIKE
+
+10/12/2014 14:58  THEFT OF MERCHANDISE - $500 OR LESS             BROWN        WILLIAM     DICKERSON PIKE
+
+10/12/2014 14:58  THEFT OF MERCHANDISE - $500 OR LESS             BROWN        WILLIAM     DICKERSON PIKE
+
+10/12/2014 2:07   THEFT OF PROPERTY- $500 OR LESS                 YOUNG        TERRY       HILLCREST DR
+
+10/12/2014 16:50  THEFT OF PROPERTY- $500 OR LESS                 ZONNEVILLE   CHRISTINA   RIVERCHASE BLVD
+
+10/12/2014 4:09   VANDALISM- $500 OR LESS                         GREEN        CHARLEY     N 6TH ST
+
+10/12/2014 17:20  VANDALISM- $500 OR LESS                         RISNER       CHANCE      JEANS CT
+
+10/12/2014 17:20  VANDALISM- $500 OR LESS                         RISNER       CHANCE      JEANS CT
+
+10/12/2014 8:23   VANDALISM- $1,000 OR GT, LT $10,000             IVERY        JACQUELINE  LAKEWOOD VILLAGE   DR
+
+10/12/2014 18:20  WEAPON - FELON IN POSSESSION OF A HANDGUN       COLEMAN      MAURICE     ROSA L PARKS BLVD
+
+                                                                  Page 4 of 4

@@ -8,7 +8,7 @@ class TaskHistoryAdminModel(admin.ModelAdmin):
         models.TaskHistory
 
 class CrimesAdminModel(admin.ModelAdmin):
-    list_display = ("date", "time", "surname",)
+    list_display = ("date", "time", "first_name", "surname", "offense", "location")
     class Meta:
         models.Crimes
 

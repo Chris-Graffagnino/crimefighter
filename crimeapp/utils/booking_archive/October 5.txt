@@ -1,0 +1,301 @@
+                                                                     Arrestee     Arrestee
+
+Arrest Date      Charge Description                                  Last Name    First Name  Street
+
+10/5/2014 0:45   ALCOHOL- UNDER 21, CONSUMPTION                      PEERY        ALEX        LINCOYA BAY DR
+
+10/5/2014 0:11   ASSAULT, AGG DEADLY WEAPON- INT/KN                  THOMAS       GIOVANTIE   JAMES ROBERTSON PKWY
+
+10/5/2014 3:02   ASSAULT, AGG DEADLY WEAPON- INT/KN                  ROBINSON     JONATHAN    INTERSTATE DR
+
+10/5/2014 3:02   ASSAULT, AGG DEADLY WEAPON- INT/KN                  ROBINSON     JONATHAN    INTERSTATE DR
+
+10/5/2014 3:03   Assault, Aggravated - Deadly Weapon - Reckless      GARDNER      JAMES       BROADWAY
+
+10/5/2014 18:34  Assault, Aggravated - Deadly Weapon - Reckless      ODOM         TEREAN      2ND AVE N
+
+10/5/2014 8:02   Assault, Aggravated - Strangulation - Int/Kn        ROBINSON     TIMOTHY     HILLSIDE AVE
+
+10/5/2014 13:27  Assault, Aggravated - Strangulation - Int/Kn        SADLER       LAVONA      STINSON RD
+
+10/5/2014 15:06  ASSAULT, AGGRAVATED - STRANGULATION-INT/KN          GAUTHER      CODY        RICE AVE
+
+10/4/2014 23:38  ASSAULT, DOMESTIC BODILY INJURY                     GIRARD       ROY         12TH AVE S
+
+10/5/2014 1:02   ASSAULT, DOMESTIC BODILY INJURY                     COLE         GARVIN      NOLENSVILLE PIKE
+
+10/5/2014 7:55   ASSAULT, DOMESTIC BODILY INJURY                     NEWELL       ANDRE       ALBION ST
+
+10/5/2014 9:42   ASSAULT, DOMESTIC BODILY INJURY                     GRIZZARD     TERRANCE    HAMPTON ST
+
+10/5/2014 13:47  ASSAULT, DOMESTIC BODILY INJURY                     BROWN        ROGER       GALAXIE DR
+
+10/5/2014 15:38  ASSAULT, DOMESTIC BODILY INJURY                     FOSTER       OPHELIA     JAMES ROBERTSON PKWY
+
+10/5/2014 15:32  ASSAULT, DOMESTIC BODILY INJURY                     MURPHY       JAMES       17TH AVE N
+
+10/5/2014 15:06  ASSAULT, DOMESTIC BODILY INJURY                     GAUTHER      CODY        RICE AVE
+
+10/5/2014 1:19   ASSAULT, DOMESTIC FEAR OF BODILY INJURY             COMER        ETHEL       12TH AVE S
+
+10/5/2014 13:47  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             BROWN        ROGER       GALAXIE DR
+
+10/5/2014 21:19  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             MULZER       ANGELINO    2ND AVE N
+
+10/4/2014 23:53  ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     ALLEN        RONSHAYE    NOLENSVILLE PIKE
+
+10/5/2014 1:36   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     GUANDONA     KUIN        GLASTONBURY RD
+
+10/5/2014 3:41   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     GRAMS        JOSHUA      COMMERCE ST
+
+10/5/2014 9:27   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     RONEY        BRIAN       SHELBY AVE
+
+10/5/2014 12:05  BURGLARY- AGGRAVATED                                PRUETT       JIMMY       WEDGEWOOD AVE
+
+10/5/2014 4:10   CONTRABAND IN PENAL INSTITUTION-POSSESSION          HOOTEN       CYNTHIA     GALLATIN AVE
+
+10/5/2014 7:05   CONTRABAND IN PENAL INSTITUTION-POSSESSION          LEWIS        SHANE       LADY NASHVILLE DR
+
+10/5/2014 18:52  CONTRABAND IN PENAL INSTITUTION-POSSESSION          ROSS         BRYANT      BREWER DR
+
+10/4/2014 22:45  CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION  POPE         RICHARD     JAY ST
+
+10/5/2014 17:00  CRIMINAL SIMULATION- $500 OR LESS                   ALLEN        BRANDON     SUMNER CO JAIL
+
+10/5/2014 17:00  CRIMINAL SIMULATION- $500 OR LESS                   ALLEN        BRANDON     SUMNER CO JAIL
+
+10/5/2014 17:00  CRIMINAL SIMULATION- $500 OR LESS                   ALLEN        BRANDON     SUMNER CO JAIL
+
+10/5/2014 17:00  CRIMINAL SIMULATION- $500 OR LESS                   ALLEN        BRANDON     SUMNER CO JAIL
+
+                                                                     Page 1 of 5
+                                                                 Arrestee       Arrestee
+
+Arrest Date      Charge Description                              Last Name      First Name   Street
+
+10/5/2014 18:15  CRIMINAL SIMULATION- $500 OR LESS               FOSTER         JOHN         OPRY MILLS DR
+
+9/11/2014        CRIMINAL TRESPASS                               RAY            DAVID        N GALLATIN PIKE
+
+10/5/2014 0:45   CRIMINAL TRESPASS                               PEERY          ALEX         LINCOYA BAY DR
+
+10/5/2014 9:27   CRIMINAL TRESPASS                               KESTNER        TIMOTHY      S GALLATIN PIKE
+
+10/5/2014 12:58  CRIMINAL TRESPASS                               MASON          RODNEY       TITANS WAY
+
+10/5/2014 15:29  CRIMINAL TRESPASS                               RAY            DAVID        DICKERSON PIKE
+
+10/5/2014 20:36  CRIMINAL TRESPASS                               OWEN           AMANDA       NOLENSVILLE PIKE
+
+10/5/2014 2:30   DISORDERLY CONDUCT                              COOK           DIANTE       2ND AVE N
+
+10/5/2014 12:58  DISORDERLY CONDUCT                              MASON          RODNEY       TITANS WAY
+
+10/5/2014 13:53  DISORDERLY CONDUCT                              TSIROS         ALEXANDER    TITANS WAY
+
+10/4/2014 22:35  DRIV. LIC. - NO D/L                             LUCIANO        CRISPIN      BILOXI AVE
+
+10/4/2014 23:28  DRIV. LIC. - NO D/L                             PEREZ-MENDOZA  EDUARDO      BEACON DR
+
+10/5/2014 19:32  DRIV. LIC. - NO D/L                             WILKERSON      TIMOTHY      ARDEE AVE
+
+9/1/2014 21:47   DRIVING- REVOKED LICENSE                        CLIFTON        STEVEN       E CAMPBELL RD
+
+8/27/2014        DRIVING- REVOKED LICENSE                        CLIFTON        STEVEN       N 1ST ST
+
+8/13/2014 17:23  DRIVING- SUSPENDED LICENSE                      HEFNER         AARON        ILLINOIS AVE
+
+8/19/2014 3:10   DRIVING- SUSPENDED LICENSE                      LEWIS          SHANE        BRONTE AVE
+
+9/3/2014 16:22   DRIVING- SUSPENDED LICENSE                      WESTALL        JORDAN       I 24 W
+
+10/4/2014 23:35  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR  GT  MARTINEZ       PEDRO        CONFERENCE DR
+
+10/5/2014 3:42   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR  GT  BASICH CARNEY  PEGGI        DUE WEST AVE E
+
+10/5/2014 9:10   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR  GT  ESTRADA        LESLY        LEBANON PIKE
+
+10/4/2014 22:35  DRIVING UNDER THE INFLUENCE                     LUCIANO        CRISPIN      BILOXI AVE
+
+10/5/2014 1:21   DRIVING UNDER THE INFLUENCE                     FRANKENBACH    DANIEL       COMMERCE ST
+
+10/5/2014 0:25   DRIVING UNDER THE INFLUENCE                     KOSLOSKIE      TAMARA       17TH AVE N
+
+10/5/2014 1:33   DRIVING UNDER THE INFLUENCE                     LYONS          CLIFFORD     RIVERGATE PKWY
+
+10/5/2014 2:42   DRIVING UNDER THE INFLUENCE                     SYPRASEUT      KELLY        21ST AVE S
+
+10/5/2014 3:53   DRIVING UNDER THE INFLUENCE                     THAXTON        JASON        CENTRAL PIKE
+
+10/5/2014 4:34   DRIVING UNDER THE INFLUENCE                     MOMCHILOV      TYLER        S GALLATIN PIKE
+
+10/5/2014 4:02   DRIVING UNDER THE INFLUENCE                     CAGLE          CHRISTOPHER  WHITES CREEK PIKE
+
+10/5/2014 17:53  DRIVING UNDER THE INFLUENCE                     NEGUS          JEFFERSON    40 W
+
+10/5/2014 2:00   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE       PERRY          TIMOTHY      43RD AVE N
+
+10/5/2014 4:10   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE       HOOTEN         CYNTHIA      GALLATIN AVE
+
+10/5/2014 3:02   DRUG PARAPHERNALIA- UNLAWFUL USE                ROBINSON       JONATHAN     INTERSTATE DR
+
+                                                                 Page 2 of 5
+                                                                     Arrestee       Arrestee
+
+Arrest Date      Charge Description                                  Last Name      First Name  Street
+
+10/5/2014 4:08   DRUG PARAPHERNALIA- UNLAWFUL USE                    SMITH          WILLIAM     PATTERSON ST
+
+10/5/2014 17:05  DRUG PARAPHERNALIA- UNLAWFUL USE                    SCOTT          CALVIN      ALAMEDA ST
+
+10/4/2014 23:28  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  PEREZ-MENDOZA  EDUARDO     BEACON DR
+
+10/4/2014 23:28  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  PEREZ-MENDOZA  EDUARDO     BEACON DR
+
+10/4/2014 23:28  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  PEREZ-MENDOZA  EDUARDO     BEACON DR
+
+10/4/2014 22:35  FAILURE TO BE BOOKED                                HEFNER         AARON       N 1ST ST
+
+10/4/2014 23:10  FAILURE TO BE BOOKED                                WALLS          MALCOLM     DICKERSON PIKE
+
+10/5/2014 2:46   FAILURE TO BE BOOKED                                CLIFTON        STEVEN      SOUTHRIDGE DR
+
+10/5/2014 2:46   FAILURE TO BE BOOKED                                CLIFTON        STEVEN      SOUTHRIDGE DR
+
+10/5/2014 2:46   FAILURE TO BE BOOKED                                CLIFTON        STEVEN      SOUTHRIDGE DR
+
+10/5/2014 5:08   FAILURE TO BE BOOKED                                PEGRAM         KODY        JAMES ROBERTSON PKWY
+
+10/5/2014 5:08   FAILURE TO BE BOOKED                                PEGRAM         KODY        JAMES ROBERTSON PKWY
+
+10/5/2014 7:05   FAILURE TO BE BOOKED                                LEWIS          SHANE       LADY NASHVILLE DR
+
+10/5/2014 9:49   FAILURE TO BE BOOKED                                DUPREE         LEON        4TH AVE N
+
+10/5/2014 15:29  FAILURE TO BE BOOKED                                WESTALL        JORDAN      TUGGLE AVE
+
+10/5/2014 15:29  FAILURE TO BE BOOKED                                RAY            DAVID       DICKERSON PIKE
+
+10/5/2014 15:29  FAILURE TO BE BOOKED                                RAY            DAVID       DICKERSON PIKE
+
+10/5/2014 18:52  FAILURE TO BE BOOKED                                ROSS           BRYANT      BREWER DR
+
+10/5/2014 3:02   FALSE IMPRISONMENT                                  ROBINSON       JONATHAN    INTERSTATE DR
+
+10/5/2014 3:02   FALSE IMPRISONMENT                                  ROBINSON       JONATHAN    INTERSTATE DR
+
+10/5/2014 17:42  FORGERY- $500 OR LESS                               BENDER         JACINDA     51ST AVE N
+
+10/5/2014 12:59  HOMICIDE- CRIMINAL                                  DODD           SCOTTY      TITANS WAY
+
+10/5/2014 12:59  HOMICIDE- CRIMINAL                                  DODD           SCOTTY      TITANS WAY
+
+10/4/2014 22:35  IMPLIED CONSENT - CIVIL                             LUCIANO        CRISPIN     BILOXI AVE
+
+10/5/2014 1:21   IMPLIED CONSENT - CIVIL                             FRANKENBACH    DANIEL      COMMERCE ST
+
+10/5/2014 0:25   IMPLIED CONSENT - CIVIL                             KOSLOSKIE      TAMARA      17TH AVE N
+
+10/5/2014 2:42   IMPLIED CONSENT - CIVIL                             SYPRASEUT      KELLY       21ST AVE S
+
+10/5/2014 8:34   INTERFERENCE W/EMERGENCY CALL                       TERWILLIGER    FLOYD       ROBERTSON AVE
+
+10/4/2014 22:35  LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE         LUCIANO        CRISPIN     BILOXI AVE
+
+1/16/2014 16:51  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  ROSS           BRYANT      BESS CT N
+
+2/19/2014 15:22  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  WALLS          MALCOLM     CAPITOL BLVD
+
+9/1/2014 21:47   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  CLIFTON        STEVEN      E CAMPBELL RD
+
+10/5/2014 3:02   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  ROBINSON       JONATHAN    INTERSTATE DR
+
+                                                                     Page 3 of 5
+                                                                   Arrestee     Arrestee
+
+Arrest Date      Charge Description                                Last Name    First Name  Street
+
+10/5/2014 3:02   POSS. OR CASUAL EXCHANGE-CONT.SUB.                ROBINSON     JONATHAN    INTERSTATE DR
+
+10/5/2014 4:08   POSS. OR CASUAL EXCHANGE-CONT.SUB.                SMITH        WILLIAM     PATTERSON ST
+
+10/5/2014 4:08   POSS. W/O PRESCRIPTION, LEGEND DRUGS              SMITH        WILLIAM     PATTERSON ST
+
+10/5/2014 16:25  PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  TOMLIN       TONY        GRANADA AVE
+
+10/5/2014 18:44  PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  GUINN        LALTARO     JAMES ROBERTSON   PKWY
+
+10/5/2014 0:17   PUBLIC INTOXICATION                               SMITH        WILLIAM     2ND AVE S
+
+10/5/2014 0:40   PUBLIC INTOXICATION                               HAPNEY       TERRY       2ND AVE N
+
+10/5/2014 2:26   PUBLIC INTOXICATION                               MORRISON     WILLIAM     BROADWAY
+
+10/5/2014 2:26   PUBLIC INTOXICATION                               HILL         JARED       2ND AVE N
+
+10/5/2014 2:30   PUBLIC INTOXICATION                               COOK         DIANTE      2ND AVE N
+
+10/5/2014 2:36   PUBLIC INTOXICATION                               KUMAR        SHIVA       2ND AVE N
+
+10/5/2014 3:03   PUBLIC INTOXICATION                               GARDNER      JAMES       BROADWAY
+
+10/5/2014 4:08   PUBLIC INTOXICATION                               SMITH        WILLIAM     PATTERSON ST
+
+10/5/2014 13:39  PUBLIC INTOXICATION                               CORBITT      BRIAN       TITANS WAY
+
+10/5/2014 13:53  PUBLIC INTOXICATION                               TSIROS       ALEXANDER   TITANS WAY
+
+10/5/2014 15:54  PUBLIC INTOXICATION                               WOLFE        MITCHELL    N 1ST ST
+
+10/5/2014 18:10  PUBLIC INTOXICATION                               FREELS       ROGER       1ST AVE N
+
+10/5/2014 21:19  PUBLIC INTOXICATION                               MULZER       ANGELINO    2ND AVE N
+
+10/5/2014 3:02   RAPE- AGG.- WEAPON OR OBJECT                      ROBINSON     JONATHAN    INTERSTATE DR
+
+10/5/2014 3:02   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH    ROBINSON     JONATHAN    INTERSTATE DR
+
+10/5/2014 7:55   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH    NEWELL       ANDRE       ALBION ST
+
+10/5/2014 9:24   ROBBERY- AGG.- WEAPON OR OBJECT                   RAINES       MICHAEL     2ND AVE N
+
+10/5/2014 9:21   ROBBERY- AGG.- WEAPON OR OBJECT                   MCCORD       VINCENT     JAMES ROBERTSON   PKY
+
+10/5/2014 9:21   ROBBERY- AGG.- WEAPON OR OBJECT                   MCCORD       VINCENT     JAMES ROBERTSON   PKY
+
+10/5/2014 9:21   ROBBERY- AGG.- WEAPON OR OBJECT                   MCCORD       VINCENT     JAMES ROBERTSON   PKY
+
+10/5/2014 9:21   ROBBERY- AGG.- WEAPON OR OBJECT                   MCCORD       VINCENT     JAMES ROBERTSON   PKY
+
+10/5/2014 9:21   ROBBERY- AGG.- WEAPON OR OBJECT                   MCCORD       VINCENT     JAMES ROBERTSON   PKY
+
+10/5/2014 9:21   ROBBERY- AGG.- WEAPON OR OBJECT                   MCCORD       VINCENT     JAMES ROBERTSON   PKY
+
+10/5/2014 15:29  THEFT OF MERCHANDISE - $500 OR LESS               RAY          DAVID       DICKERSON PIKE
+
+10/5/2014 20:36  THEFT OF MERCHANDISE - $500 OR LESS               OWEN         AMANDA      NOLENSVILLE PIKE
+
+8/20/2014 15:23  THEFT OF PROPERTY- $500 OR LESS                   DUPREE       LEON        3RD AVE N
+
+9/11/2014        THEFT OF PROPERTY- $500 OR LESS                   RAY          DAVID       N GALLATIN PIKE
+
+10/5/2014 12:05  THEFT OF PROPERTY- $500 OR LESS                   PRUETT       JIMMY       WEDGEWOOD AVE
+
+                                                                   Page 4 of 5
+                                                                  Arrestee     Arrestee
+
+Arrest Date      Charge Description                               Last Name    First Name  Street
+
+10/4/2014 23:53  VANDALISM- $500 OR LESS                          ALLEN        RONSHAYE    NOLENSVILLE PIKE
+
+10/5/2014 2:57   VANDALISM- $500 OR LESS                          CABRAL       MANUEL      TENNESSEE AVE
+
+10/5/2014 13:47  VANDALISM- $500 OR LESS                          BROWN        ROGER       GALAXIE DR
+
+10/5/2014 17:26  VANDALISM- $500 OR LESS                          CARTER       DONALSON    JAMES ROBERTSON PKWY
+
+10/5/2014 12:05  WEAPON - PROHIBITED - MISDEMEANOR                PRUETT       JIMMY       WEDGEWOOD AVE
+
+10/5/2014 17:05  WEAPON- CARRYING ON SCHOOL PROPERTY WITH INTENT  SCOTT        CALVIN      ALAMEDA ST
+
+                                                                  Page 5 of 5

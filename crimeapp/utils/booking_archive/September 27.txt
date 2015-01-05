@@ -1,0 +1,390 @@
+                                                                     Arrestee           Arrestee
+
+Arrest Date      Charge Description                                  Last Name          First Name  Street
+
+9/27/2014 1:42   ALCOHOL- UNDER 21, CONSUMPTION                      YANG               JOHN        19TH AVE S
+
+9/27/2014 0:58   ASSAULT- FEAR OF BODILY INJURY                      HARRIS             QUINN       HILLSIDE AVE
+
+9/27/2014 1:37   ASSAULT OF OFFICER - BODILY INJURY                  DICOSTANZO         JACLYN      HILLMEADE DR
+
+9/27/2014 15:43  ASSAULT OF OFFICER - BODILY INJURY                  ALLEN              COLETTE     JAMES ROBERTSON PKWY
+
+9/27/2014 2:48   ASSAULT OF OFFICER - FEAR OF BODILY INJURY          RAMIREZ-FRANCISCO  FELICIANO   DOWDY CT
+
+9/26/2014 20:52  ASSAULT- OFFENSIVE OR PROVOCATIVE CONTACT           BROWN              JAMES       DAVIDSON ST
+
+9/27/2014 1:29   ASSAULT- OFFENSIVE OR PROVOCATIVE CONTACT           MURRAY             BRANDY      BRICK CHURCH PIKE
+
+9/27/2014 2:56   ASSAULT- OFFENSIVE OR PROVOCATIVE CONTACT           BLACK              WILMA       LOUISE DR
+
+9/27/2014 4:23   ASSAULT, AGG DEADLY WEAPON- INT/KN                  ARAIZA             ARMANDO     BENZING RD
+
+9/27/2014 4:36   ASSAULT, AGG SERIOUS BODILY INJURY- RECKLESS        BEATRIZ            ROSENDO     PATRICIA DR
+
+9/27/2014 0:30   ASSAULT, DOMESTIC BODILY INJURY                     ROBINETTE          TERESA      BROOKRIDGE TRL
+
+9/27/2014 0:56   ASSAULT, DOMESTIC BODILY INJURY                     PUCKETT            CLEO        JONES AVE
+
+9/27/2014 2:06   ASSAULT, DOMESTIC BODILY INJURY                     BASILIO-RAMIREZ    JUAN        MURFREESBORO PIKE
+
+9/27/2014 4:14   ASSAULT, DOMESTIC BODILY INJURY                     MANN               AAENNER     CENTRAL VALLEY CT
+
+9/27/2014 4:14   ASSAULT, DOMESTIC BODILY INJURY                     MANN               AAENNER     CENTRAL VALLEY CT
+
+9/27/2014 4:14   ASSAULT, DOMESTIC BODILY INJURY                     MANN               AAENNER     CENTRAL VALLEY CT
+
+9/27/2014 4:36   ASSAULT, DOMESTIC BODILY INJURY                     BEATRIZ            ROSENDO     PATRICIA DR
+
+9/27/2014 13:05  ASSAULT, DOMESTIC BODILY INJURY                     REED               DANTE       OLD ANDERSON RD
+
+9/27/2014 18:54  ASSAULT, DOMESTIC BODILY INJURY                     TUCKER             ROBERT      THOMPSON PL
+
+9/27/2014 22:29  ASSAULT, DOMESTIC BODILY INJURY                     HOWARD             DEANDRE     21ST AVE N
+
+9/26/2014 22:42  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             LEHNHARDT          CHAD        SCHOLARSHIP DR
+
+9/27/2014 16:00  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             BARZANJY           NASYAR      CHURCH ST
+
+9/27/2014 17:41  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             BAKER              ROBERT      MALLETTE DR
+
+9/27/2014 8:26   ASSAULT, DOMESTIC, BODILY INJURY 2ND OFFENSE        HENDERSON          BILLY       3RD AVE N
+
+9/27/2014 9:46   ASSAULT, DOMESTIC, BODILY INJURY 2ND OFFENSE        TRAMMELL           DONALD      NEELYS BEND RD
+
+9/27/2014 15:43  ASSAULT-BODILY INJURY                               ALLEN              COLETTE     JAMES ROBERTSON PKWY
+
+9/26/2014 15:29  BURGLARY- AGGRAVATED                                ROSALES            REYNA       VERBENA DR
+
+9/26/2014 19:07  CREDIT CARD, FRAUDULENT USE - $500 OR LESS          MIRAY              IBRAHIM     2ND AVE N
+
+9/26/2014 23:14  CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION  KNIGHT             JEREMY      PARK AVE
+
+8/25/2014 14:18  CRIMINAL IMPERSONATION                              REID               SANTONIO    PRINCETON PL
+
+9/27/2014 4:49   CRIMINAL IMPERSONATION                              LUCKETT            JOSHUA      DUE WEST AVE W
+
+9/27/2014 6:18   CRIMINAL IMPERSONATION                              RAWLINGS           AVERY       ACKLEN AVE
+
+9/26/2014 20:48  CRIMINAL SIMULATION- $1,000 OR GT, LT $10,000       PANNELL            TORREY      2ND AVE N
+
+                                                                     Page 1 of 6
+                                                                     Arrestee     Arrestee
+
+Arrest Date      Charge Description                                  Last Name    First Name   Street
+
+9/26/2014 20:48  CRIMINAL SIMULATION- $1,000 OR GT, LT $10,000       PANNELL      TORREY       2ND AVE N
+
+8/5/2014 7:25    CRIMINAL TRESPASS                                   FENNELY      BLAINE       EWING AVE
+
+9/27/2014 0:58   CRIMINAL TRESPASS                                   HARRIS       QUINN        HILLSIDE AVE
+
+9/27/2014 6:18   CRIMINAL TRESPASS                                   RAWLINGS     AVERY        ACKLEN AVE
+
+9/27/2014 16:00  CRIMINAL TRESPASS                                   STARNES      JAMES        RIVERGATE PKWY
+
+9/27/2014 5:12   CRIMINAL TRESPASS-AGGRAVATED                        HAGOOD       CHRISTOPHER  1ST AVE S
+
+9/26/2014 18:07  DISORDERLY CONDUCT                                  CHIZER       LLYRIS       10TH AVE N
+
+9/27/2014 1:29   DISORDERLY CONDUCT                                  MURRAY       BRANDY       BRICK CHURCH PIKE
+
+9/27/2014 1:37   DISORDERLY CONDUCT                                  DICOSTANZO   JACLYN       HILLMEADE DR
+
+9/27/2014 6:18   DISORDERLY CONDUCT                                  RAWLINGS     AVERY        ACKLEN AVE
+
+7/25/2014 12:21  DRIV. LIC. - NO D/L                                 DALTON       DARRON       DR D B TODD JR BLVD
+
+8/12/2014 11:50  DRIV. LIC. - NO D/L                                 RHODES       MICHAEL      I 65 N
+
+8/19/2014 9:10   DRIV. LIC. - NO D/L                                 VILLALOBOS   GILIBERTO    BERRY RD
+
+9/26/2014 23:45  DRIV. LIC. - NO D/L                                 NEELY        JOSHUA       DICKERSON PIKE
+
+9/27/2014 13:43  DRIV. LIC. - NO D/L                                 EVANGELISTA  DANIEL       I 40 E
+
+9/27/2014 1:00   DRIVING- REVOKED LICENSE                            CUNNINGHAM   DAVID        LEWIS ST
+
+9/27/2014 21:58  DRIVING- REVOKED LICENSE                            COATES       JAMARIN      12TH AVE S
+
+9/26/2014 22:35  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         CRODE        SEBAKIRE     S 4TH ST
+
+9/27/2014 19:32  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         JOHNSON      DEVERN
+
+9/27/2014 4:49   DRIVING- SUSPENDED LICENSE                          LUCKETT      JOSHUA       DUE WEST AVE W
+
+9/27/2014 19:40  DRIVING- SUSPENDED LICENSE                          THOMPSON     ROMAN
+
+9/26/2014 22:30  DRIVING UNDER THE INFLUENCE                         CHESSOR      RAMONA       LEATH DR
+
+9/26/2014 23:09  DRIVING UNDER THE INFLUENCE                         WOODS        CHRISTOPHER  DICKERSON PIKE S
+
+9/27/2014 0:08   DRIVING UNDER THE INFLUENCE                         ALLEN        LUKE         S 4TH ST
+
+9/27/2014 4:49   DRIVING UNDER THE INFLUENCE                         LUCKETT      JOSHUA       DUE WEST AVE W
+
+9/27/2014 0:20   DRIVING UNDER THE INFLUENCE                         NEELY        JUSTIN       29TH AVE N
+
+9/26/2014 23:43  DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           MCCULLOUGH   DEBBIE       N GALLATIN PIKE
+
+9/26/2014 22:35  DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           CRODE        SEBAKIRE     S 4TH ST
+
+9/27/2014 0:50   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           HYBERGER     DONALD       ROBBIE CT
+
+9/27/2014 1:00   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           CUNNINGHAM   DAVID        LEWIS ST
+
+9/27/2014 13:52  DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           BOWDEN       KORNELIUS    MURFREESBORO PIKE
+
+9/26/2014 22:20  DRIVING UNDER THE INFLUENCE - 4TH OFFENSE OR MORE   WHITE        WINSTON      MILBRIDGE WAY
+
+9/27/2014 4:49   DRUG FREE SCH.ZONE-CONT.SUB.-MARIJUANA 14.175-4,53  LUCKETT      JOSHUA       DUE WEST AVE W
+
+                                                                     Page 2 of 6
+                                                                     Arrestee     Arrestee
+
+Arrest Date      Charge Description                                  Last Name    First Name  Street
+
+9/27/2014 14:10  DRUG FREE SCH.ZONE-CONT.SUB.-SCH. II                EVANS        TYRUS       27TH AVE N
+
+9/27/2014 4:49   DRUG PARAPHERNALIA- DELIVER OR MANUFACTURE          LUCKETT      JOSHUA      DUE WEST AVE W
+
+8/26/2014 19:20  DRUG PARAPHERNALIA- UNLAWFUL USE                    BUNDAGE      TERENCE     MURFREESBORO PIKE
+
+9/26/2014 21:44  DRUG PARAPHERNALIA- UNLAWFUL USE                    MERRIMON     MICHAEL     WELSHWOOD DR
+
+9/26/2014 22:20  DRUG PARAPHERNALIA- UNLAWFUL USE                    WHITE        WINSTON     MILBRIDGE WAY
+
+9/27/2014 17:55  DRUG PARAPHERNALIA- UNLAWFUL USE                    BOOKER       LARRY
+
+9/27/2014 17:47  DRUG PARAPHERNALIA- UNLAWFUL USE                    SPAIN        AMANDA
+
+9/27/2014 3:32   ESCAPE - PENAL INSTITUTION - FELONY                 EDWARDS      ROY         GILMORE CROSSING LN
+
+9/26/2014 22:35  EVADING ARREST- MISDEMEANOR                         CRODE        SEBAKIRE    S 4TH ST
+
+9/26/2014 22:09  FAILURE TO APPEAR - FELONY OR CLASS A MISD.         HARRIS       MICHAEL     19TH AVE S
+
+9/27/2014 7:21   FAILURE TO APPEAR - FELONY OR CLASS A MISD.         WOODARD      PHILLIP     STOCKELL ST
+
+9/26/2014 22:09  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  HARRIS       MICHAEL     19TH AVE S
+
+9/27/2014 4:49   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  LUCKETT      JOSHUA      DUE WEST AVE W
+
+9/27/2014 4:49   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  LUCKETT      JOSHUA      DUE WEST AVE W
+
+9/27/2014 12:43  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  ROBINSON     FRAJON      CHURCH ST
+
+9/27/2014 15:11  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  CLEMENT      MATTHEW
+
+9/27/2014 15:47  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  REED         JUSTIN      NEW SALEM RD
+
+9/24/2014 18:53  FAILURE TO BE BOOKED                                FENNELY      BLAINE      LAFAYETTE ST
+
+9/27/2014 10:10  FAILURE TO BE BOOKED                                VILLALOBOS   GILIBERTO   CEDARMONT DR
+
+9/27/2014 15:31  FAILURE TO BE BOOKED                                WATSON       MONTE       CLAIBORNE ST
+
+9/27/2014 16:28  FAILURE TO BE BOOKED                                BUNDAGE      TERENCE     2ND AVE N
+
+9/27/2014 17:01  FAILURE TO BE BOOKED                                RHODES       MICHAEL     2ND AVE N
+
+9/27/2014 21:20  FAILURE TO BE BOOKED                                DALTON       DARRON      HORTON AVE
+
+9/27/2014 4:14   FALSE IMPRISONMENT                                  MANN         AAENNER     CENTRAL VALLEY  CT
+
+9/27/2014 4:14   FALSE IMPRISONMENT                                  MANN         AAENNER     CENTRAL VALLEY  CT
+
+9/27/2014 4:36   FALSE IMPRISONMENT                                  BEATRIZ      ROSENDO     PATRICIA DR
+
+9/27/2014 9:46   FALSE IMPRISONMENT                                  TRAMMELL     DONALD      NEELYS BEND RD
+
+9/27/2014 12:59  FALSE IMPRISONMENT                                  RIVERA       FRANCHELIZ  N DUPONT AVE
+
+9/26/2014 20:48  FORGERY- $1,000 OR GT, LT $10,000                   PANNELL      TORREY      2ND AVE N
+
+9/26/2014 20:48  FORGERY- $1,000 OR GT, LT $10,000                   PANNELL      TORREY      2ND AVE N
+
+9/27/2014 4:49   FUGITIVE FROM JUSTICE- WITH WARRANT                 LUCKETT      JOSHUA      DUE WEST AVE W
+
+9/26/2014 20:36  FUGITIVE FROM JUSTICE- WITHOUT WARRANT              GARCIA       ELIAS       2ND AVE N
+
+9/26/2014 22:20  HABITUAL MOTOR VEH. OFFENDER                        WHITE        WINSTON     MILBRIDGE WAY
+
+                                                                     Page 3 of 6
+                                                                     Arrestee     Arrestee
+
+Arrest Date      Charge Description                                  Last Name    First Name   Street
+
+9/27/2014 22:51  HARASSMENT - CAUSE EMOTIONAL DISTRESS, INTIMIDATE,  FINCH        KEVIUS       2ND AVE N
+
+9/26/2014 20:48  IDENTITY THEFT                                      PANNELL      TORREY       2ND AVE N
+
+9/26/2014 20:48  IDENTITY THEFT                                      PANNELL      TORREY       2ND AVE N
+
+9/26/2014 23:09  IMPLIED CONSENT - CIVIL                             WOODS        CHRISTOPHER  DICKERSON PIKE S
+
+9/27/2014 0:08   IMPLIED CONSENT - CIVIL                             ALLEN        LUKE         S 4TH ST
+
+9/27/2014 4:49   IMPLIED CONSENT - CIVIL                             LUCKETT      JOSHUA       DUE WEST AVE W
+
+9/27/2014 13:52  IMPLIED CONSENT - CIVIL                             BOWDEN       KORNELIUS    MURFREESBORO PIKE
+
+9/26/2014 22:35  IMPLIED CONSENT - CRIMINAL                          CRODE        SEBAKIRE     S 4TH ST
+
+9/26/2014 22:20  IMPLIED CONSENT - CRIMINAL                          WHITE        WINSTON      MILBRIDGE WAY
+
+9/20/2014 19:15  INDECENT EXPOSURE                                   HALL         CHARLES
+
+9/27/2014 16:51  INDECENT EXPOSURE TO A GUARD                        WHITE        ERICK        2ND AVE N
+
+9/27/2014 16:51  INDECENT EXPOSURE TO A GUARD                        WHITE        ERICK        2ND AVE N
+
+9/27/2014 16:51  INDECENT EXPOSURE TO A GUARD                        WHITE        ERICK        2ND AVE N
+
+9/27/2014 16:51  INDECENT EXPOSURE TO A GUARD                        WHITE        ERICK        2ND AVE N
+
+9/27/2014 16:51  INDECENT EXPOSURE TO A GUARD                        WHITE        ERICK        2ND AVE N
+
+9/27/2014 16:51  INDECENT EXPOSURE TO A GUARD                        WHITE        ERICK        2ND AVE N
+
+9/27/2014 16:51  INDECENT EXPOSURE TO A GUARD                        WHITE        ERICK        2ND AVE N
+
+9/27/2014 16:51  INDECENT EXPOSURE TO A GUARD                        WHITE        ERICK        2ND AVE N
+
+9/27/2014 4:14   INTERFERENCE W/EMERGENCY CALL                       MANN         AAENNER      CENTRAL VALLEY CT
+
+9/27/2014 4:36   INTERFERENCE W/EMERGENCY CALL                       BEATRIZ      ROSENDO      PATRICIA DR
+
+9/26/2014 22:35  LEAVING THE SCENE OF AN ACC. W/PERS. INJURY         CRODE        SEBAKIRE     S 4TH ST
+
+9/27/2014 0:50   LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE         HYBERGER     DONALD       ROBBIE CT
+
+9/26/2014 18:07  PEDESTRIAN SOL. RIDE OR BUSINESS                    CHIZER       LLYRIS       10TH AVE N
+
+7/10/2014        POSS. OR CASUAL EXCHANGE-CONT.SUB.                  WATSON       MONTE        CHARLES E DAVIS BLVD
+
+9/26/2014 23:45  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  NEELY        JOSHUA       DICKERSON PIKE
+
+9/27/2014 1:24   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  ALLEN        COLETTE      CHURCH ST
+
+9/26/2014 22:20  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  WHITE        WINSTON      MILBRIDGE WAY
+
+9/27/2014 12:59  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  RIVERA       FRANCHELIZ   N DUPONT AVE
+
+9/27/2014 17:47  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  SPAIN        AMANDA
+
+9/26/2014 21:44  POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.     MERRIMON     MICHAEL      WELSHWOOD DR
+
+9/26/2014 19:16  PROBATION VIOLATION- FELONY                         JOLLY        ANTHONY      2ND AVE N
+
+9/26/2014 19:23  PROBATION VIOLATION- FELONY                         MARABLE      JACARLVIS    2ND AVE N
+
+9/27/2014 3:00   PROBATION VIOLATION- FELONY                         RAUDENBUSH   VALENTINEO   RUTHERFORD CO JAIL
+
+                                                                     Page 4 of 6
+                                                                   Arrestee     Arrestee
+
+Arrest Date      Charge Description                                Last Name    First Name  Street
+
+9/27/2014 3:00   PROBATION VIOLATION- FELONY                       RAUDENBUSH   VALENTINEO  RUTHERFORD CO JAIL
+
+9/27/2014 3:00   PROBATION VIOLATION- FELONY                       HOFFMAN      JESSICA     RUTHERFORD CO JAIL
+
+9/27/2014 8:31   PROBATION VIOLATION- FELONY                       JAMES        SHANITA     UNIVERSITY CT
+
+9/27/2014 9:33   PROBATION VIOLATION- FELONY                       JACKSON      JEREMY      BRANCH ST
+
+9/26/2014 19:19  PROBATION VIOLATION- FELONY                       GROSS        JOHN        2ND AVE N
+
+9/26/2014 21:30  PROBATION VIOLATION- MISDEMEANOR                  CLAYBROOKS   TERRENCE    2ND AVE N
+
+9/27/2014 4:14   PROBATION VIOLATION- MISDEMEANOR                  MANN         AAENNER     CENTRAL VALLEY CT
+
+9/27/2014 8:51   PROBATION VIOLATION- MISDEMEANOR                  BRUMLEY      DANIEL      EMMITT AVE
+
+9/26/2014 20:44  PROBATION VIOLATION- MISDEMEANOR                  BIJOU        MARTIN      2ND AVE N
+
+9/27/2014 21:10  PROBATION VIOLATION- MISDEMEANOR                  HOWSE        DEQUAN      JAMES ROBERTSON PKWY
+
+9/27/2014 21:10  PROBATION VIOLATION- MISDEMEANOR                  HOWSE        DEQUAN      JAMES ROBERTSON PKWY
+
+9/26/2014 18:07  PUBLIC INTOXICATION                               CHIZER       LLYRIS      10TH AVE N
+
+9/26/2014 23:45  PUBLIC INTOXICATION                               NEELY        JOSHUA      DICKERSON PIKE
+
+9/27/2014 0:22   PUBLIC INTOXICATION                               MCKEOWN      ROBERT      24TH AVE S
+
+9/27/2014 1:42   PUBLIC INTOXICATION                               YANG         JOHN        19TH AVE S
+
+9/27/2014 1:29   PUBLIC INTOXICATION                               MURRAY       BRANDY      BRICK CHURCH PIKE
+
+9/27/2014 1:37   PUBLIC INTOXICATION                               DICOSTANZO   JACLYN      HILLMEADE DR
+
+9/27/2014 2:14   PUBLIC INTOXICATION                               HUFFINE      CODY        GALE LN
+
+9/27/2014 2:56   PUBLIC INTOXICATION                               BLACK        WILMA       LOUISE DR
+
+9/27/2014 3:45   PUBLIC INTOXICATION                               SANCHEZ      WILLIAM     DICKERSON PIKE
+
+9/27/2014 3:46   PUBLIC INTOXICATION                               GREGORY      GREGORY     DICKERSON PIKE
+
+9/27/2014 4:13   PUBLIC INTOXICATION                               NORRIS       JOHN        PLUS PARK BLVD
+
+9/27/2014 6:18   PUBLIC INTOXICATION                               RAWLINGS     AVERY       ACKLEN AVE
+
+9/27/2014 8:48   PUBLIC INTOXICATION                               LOUISANT     MICHER      GLENGARRY DR
+
+9/27/2014 15:33  PUBLIC INTOXICATION                               GREEN        JOHNNY      MAIN ST
+
+9/27/2014 17:00  PUBLIC INTOXICATION                               ALLISON      VAN         S 2ND ST
+
+9/27/2014 16:00  PUBLIC INTOXICATION                               STARNES      JAMES       RIVERGATE PKWY
+
+9/20/2014 19:15  PUBLIC INTOXICATION                               HALL         CHARLES
+
+9/26/2014 22:41  RAPE- WITHOUT CONSENT                             BOERGERT     JOHN        HICKORY HILL LN
+
+9/27/2014 0:08   RESISTING STOP, FRISK, HALT, ARREST,  OR  SEARCH  ALLEN        LUKE        S 4TH ST
+
+9/27/2014 1:37   RESISTING STOP, FRISK, HALT, ARREST,  OR  SEARCH  DICOSTANZO   JACLYN      HILLMEADE DR
+
+9/27/2014 1:24   ROBBERY- AGG.- WEAPON OR OBJECT                   RAINES       MICHAEL     E TRINITY LN
+
+9/27/2014 1:24   ROBBERY- AGG.- WEAPON OR OBJECT                   RAINES       MICHAEL     E TRINITY LN
+
+                                                                   Page 5 of 6
+                                                                 Arrestee     Arrestee
+
+Arrest Date      Charge Description                              Last Name    First Name   Street
+
+9/27/2014 1:24   ROBBERY- AGG.- WEAPON OR OBJECT                 RAINES       MICHAEL      E TRINITY LN
+
+9/27/2014 1:24   ROBBERY- AGG.- WEAPON OR OBJECT                 RAINES       MICHAEL      E TRINITY LN
+
+9/26/2014 23:45  THEFT OF MERCHANDISE - $500 OR LESS             NEELY        JOSHUA       DICKERSON PIKE
+
+9/27/2014 14:11  THEFT OF MERCHANDISE - $500 OR LESS             PEEBLES      BOBBY        RIVERGATE PKWY
+
+9/27/2014 16:00  THEFT OF MERCHANDISE - $500 OR LESS             STARNES      JAMES        RIVERGATE PKWY
+
+9/26/2014 21:13  THEFT OF MERCHANDISE- $1,000 OR GT, LT $10,000  BROWN        RONALD
+
+9/26/2014 20:41  THEFT OF MERCHANDISE- $1,000 OR GT, LT $10,000  HACKETT      TERRY        2ND AVE N
+
+9/26/2014 15:29  THEFT OF PROPERTY- $1,000 OR GT, LT $10,000     ROSALES      REYNA        VERBENA DR
+
+9/27/2014 7:25   THEFT OF PROPERTY- $1,000 OR GT, LT $10,000     WOODY        STACIE       2ND AVE N
+
+9/26/2014 20:48  THEFT OF PROPERTY- $1,000 OR GT, LT $10,000     PANNELL      TORREY       2ND AVE N
+
+9/27/2014 1:24   THEFT OF PROPERTY- $500 OR LESS                 RAINES       MICHAEL      E TRINITY LN
+
+9/27/2014 5:12   THEFT OF PROPERTY- $500 OR LESS                 HAGOOD       CHRISTOPHER  1ST AVE S
+
+9/27/2014 12:59  VANDALISM- $500 OR LESS                         RIVERA       FRANCHELIZ   N DUPONT AVE
+
+9/27/2014 4:49   Weapon - Felon-Poss-Firearm (Drug Offense)      LUCKETT      JOSHUA       DUE WEST AVE W
+
+9/27/2014 0:08   WEAPON- POSSESSION WHILE UNDER INFLUENCE        ALLEN        LUKE         S 4TH ST
+
+                                                                 Page 6 of 6

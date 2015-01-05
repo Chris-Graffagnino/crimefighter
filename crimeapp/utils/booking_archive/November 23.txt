@@ -1,0 +1,280 @@
+                                                                   Arrestee       Arrestee
+
+Arrest Date       Charge Description                               Last Name      First Name  Street
+
+11/23/2014 1:13   ALCOHOL- UNDER 21, CONSUMPTION                   IMAN           MOHAMUD     MURFREESBORO PIKE
+
+11/23/2014 2:56   ANIMAL- INTENTIONAL KILLING - $500 OR LESS       TYSON          DARRIN      OSAGE ST
+
+11/23/2014 2:56   ANIMAL- INTENTIONAL KILLING - $500 OR LESS       TYSON          DARRIN      OSAGE ST
+
+11/22/2014 22:28  ASSAULT OF OFFICER - BODILY INJURY               LUCAS          ROBERT      N GALLATIN PIKE
+
+11/22/2014 23:35  ASSAULT OF OFFICER - OFFENSIVE CONTACT           PEW            MICHELLE    ELYSIAN FIELDS RD
+
+11/23/2014 0:16   ASSAULT OF OFFICER - OFFENSIVE CONTACT           JOHNSON        TONY
+
+11/22/2014 23:35  ASSAULT- OFFENSIVE OR PROVOCATIVE CONTACT        PEW            MICHELLE    ELYSIAN FIELDS RD
+
+11/22/2014 23:05  Assault, Aggravated - Deadly Weapon - Int/Kn     RICHARD        KIMBERLY    CHIMNEYTOP DR
+
+11/23/2014 0:37   Assault, Aggravated - Deadly Weapon - Int/Kn     GIVENS         JEANNE      FOREST PARK
+
+11/23/2014 2:56   Assault, Aggravated - Deadly Weapon - Int/Kn     TYSON          DARRIN      OSAGE ST
+
+11/23/2014 2:56   Assault, Aggravated - Deadly Weapon - Int/Kn     TYSON          DARRIN      OSAGE ST
+
+11/23/2014 2:56   Assault, Aggravated - Deadly Weapon - Int/Kn     TYSON          DARRIN      OSAGE ST
+
+11/23/2014 15:41  Assault, Aggravated - Deadly Weapon - Int/Kn     STEWART        LASHONDA    16TH AVE N
+
+11/23/2014 18:12  Assault, Aggravated - Deadly Weapon - Int/Kn     JONES          LAKIMBERLY  BELL RD
+
+11/22/2014 22:58  Assault, Aggravated - Strangulation - Int/Kn     WARD           DEMETISE    12TH AVE S
+
+11/23/2014 0:36   Assault, Aggravated - Strangulation - Int/Kn     SWISHER        PAUL        FOREST PARK
+
+11/23/2014 17:29  Assault, Aggravated - Strangulation - Int/Kn     DAMTE          BELACHEW    WOODLARK CT
+
+11/23/2014 0:11   ASSAULT, DOMESTIC BODILY INJURY                  LONDON         JEJUAN      HINKLE DR
+
+11/23/2014 1:38   ASSAULT, DOMESTIC BODILY INJURY                  BEVERLY        DERRICK     NEESE DR
+
+11/23/2014 3:37   ASSAULT, DOMESTIC BODILY INJURY                  WILSON         CANTRELL    RAVENWOOD DR
+
+11/23/2014 6:01   ASSAULT, DOMESTIC BODILY INJURY                  SMITH          SHANETTA    DELLWAY VILLA RD
+
+11/23/2014 9:19   ASSAULT, DOMESTIC BODILY INJURY                  IDEHEN         TIA         MYRTLEWOOD DR
+
+11/23/2014 14:00  ASSAULT, DOMESTIC BODILY INJURY                  GATES          SHANE       JAMES ROBERTSON PKWY
+
+11/23/2014 15:53  ASSAULT, DOMESTIC BODILY INJURY                  MORET          RYAN        CLEVELAND ST
+
+11/23/2014 16:04  ASSAULT, DOMESTIC BODILY INJURY                  ALVAREZ-LOPEZ  ESAUL       CHESTNUT OAK DR
+
+11/22/2014 23:54  ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  HICKS          KETURAH     ROSA L PARKS BLVD
+
+11/23/2014 3:46   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  KEMPER         LINNEA      FORREST AVE
+
+11/23/2014 8:12   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  SMITH          JOEL        PREMIER DR
+
+11/23/2014 15:15  ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  COOLEY         CRYSTAL     GILLOCK ST
+
+11/23/2014 3:24   ASSAULT-BODILY INJURY                            SIRCY          JEFFERY     BROADWAY
+
+11/23/2014 18:41  CHILD NEGLECT - CHILD 8 OR LESS                  JACOCKS        ACHANA      CHARLOTTE PIKE
+
+11/22/2014 23:01  CRIMINAL TRESPASS                                JACKSON        STEVEN      DREXEL ST
+
+11/22/2014 23:38  CRIMINAL TRESPASS                                PAYNE          WILLIAM     MAIN ST
+
+                                                                   Page 1 of 4
+                                                                     Arrestee           Arrestee
+
+Arrest Date       Charge Description                                 Last Name          First Name  Street
+
+11/23/2014 0:10   CRIMINAL TRESPASS                                  PARTIN             SAMUEL      BROADWAY
+
+11/23/2014 1:03   CRIMINAL TRESPASS                                  GROVES             HEATHER     WEST END AVE
+
+11/23/2014 5:40   CRIMINAL TRESPASS                                  HERRON             LAMETRIA    ALAMEDA ST
+
+11/23/2014 5:42   CRIMINAL TRESPASS                                  MEDARIES           ROBERT      DELLWAY VILLA RD
+
+10/17/2014 14:27  DISORDERLY CONDUCT                                 DRAKE              MONTEZ      WALTON LN
+
+11/22/2014 23:35  DISORDERLY CONDUCT                                 PEW                MICHELLE    ELYSIAN FIELDS RD
+
+11/23/2014 0:16   DISORDERLY CONDUCT                                 JOHNSON            TONY
+
+11/23/2014 5:40   DISORDERLY CONDUCT                                 HERRON             LAMETRIA    ALAMEDA ST
+
+11/23/2014 2:11   DRIV. LIC. - NO D/L                                MERNANDEZ-FUENTES  MARCOS      I 440 E
+
+11/23/2014 1:40   DRIV. LIC. - NO D/L                                ALOTAIBI           AHMED       25TH AVE S
+
+11/22/2014 22:28  DRIVING- REVOKED LICENSE                           LUCAS              ROBERT      N GALLATIN PIKE
+
+11/23/2014 12:37  DRIVING- REVOKED LICENSE                           GORDON             BETTY       W HAMILTON RD
+
+11/23/2014 4:07   DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT        SANDERS            ABBY        I 40 E
+
+9/7/2012 1:32     DRIVING- SUSPENDED LICENSE                         RICE               SAMMY       BERRY ST
+
+6/4/2014 8:29     DRIVING- SUSPENDED LICENSE                         DAVIS              BRITTENEY   MURFREESBORO PIKE
+
+9/16/2014 0:22    DRIVING- SUSPENDED LICENSE                         WILLIAMS           MARVIN      S 9TH ST
+
+11/23/2014 1:38   DRIVING- SUSPENDED LICENSE                         POLLARD            ADRIAN      GLEAVES ST
+
+11/23/2014 3:48   DRIVING- SUSPENDED LICENSE                         MCARTHY            KATHERINE   MUSIC VALLEY DR
+
+11/22/2014 21:30  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT      WHITEHEAD          JAMIE       DICKERSON PIKE
+
+11/22/2014 21:30  DRIVING UNDER THE INFLUENCE                        WHITEHEAD          JAMIE       DICKERSON PIKE
+
+11/22/2014 22:52  DRIVING UNDER THE INFLUENCE                        PURDY              SUSAN       BELL RD
+
+11/22/2014 23:28  DRIVING UNDER THE INFLUENCE                        PEREZ-LARA         JORGE       ELYSIAN FIELDS RD
+
+11/23/2014 1:13   DRIVING UNDER THE INFLUENCE                        IMAN               MOHAMUD     MURFREESBORO PIKE
+
+11/23/2014 0:05   DRIVING UNDER THE INFLUENCE                        JOHNSON            RONALD      HARDING RD
+
+11/23/2014 1:14   DRIVING UNDER THE INFLUENCE                        ODEN               DEANDRE     18TH AVE S
+
+11/23/2014 2:11   DRIVING UNDER THE INFLUENCE                        MERNANDEZ-FUENTES  MARCOS      I 440 E
+
+11/23/2014 3:48   DRIVING UNDER THE INFLUENCE                        MCARTHY            KATHERINE   MUSIC VALLEY DR
+
+11/23/2014 14:00  DRIVING UNDER THE INFLUENCE                        WARE               WALTER      ANDREW JACKSON PKWY
+
+11/23/2014 1:38   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE          JAMES              MICHAEL     I 40 W
+
+11/23/2014 2:40   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE          ROWE               COLIN       BROADWAY
+
+11/23/2014 12:37  DRIVING UNDER THE INFLUENCE - 3RD OFFENSE          GORDON             BETTY       W HAMILTON RD
+
+11/23/2014 4:07   DRIVING UNDER THE INFLUENCE - 4TH OFFENSE OR MORE  SANDERS            ABBY        I 40 E
+
+11/23/2014 10:38  DRUG PARAPHERNALIA- UNLAWFUL USE                   CAIN               JAMES       PLUS PARK BLVD
+
+                                                                     Page 2 of 4
+                                                                             Arrestee       Arrestee
+
+Arrest Date       Charge Description                                         Last Name      First Name   Street
+
+11/22/2014 22:28  EVADING ARREST- MISDEMEANOR                                LUCAS          ROBERT       N GALLATIN PIKE
+
+11/23/2014 2:56   EVADING ARREST- MISDEMEANOR                                TYSON          DARRIN       OSAGE ST
+
+11/23/2014 17:42  EVADING ARREST- MISDEMEANOR                                BELL           AMBER        LEBANON PIKE
+
+11/23/2014 3:48   EVADING ARREST- MOTOR VEHICLE                              MCARTHY        KATHERINE    MUSIC VALLEY DR
+
+11/23/2014 10:38  EVIDENCE- TAMPERING                                        CAIN           JAMES        PLUS PARK BLVD
+
+11/22/2014 17:30  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        WHITE          JOHN         JAMES ROBERTSON PKWY
+
+11/22/2014 17:30  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        WHITE          JOHN         JAMES ROBERTSON PKWY
+
+11/22/2014 17:30  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        WHITE          JOHN         JAMES ROBERTSON PKWY
+
+11/22/2014 17:30  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        WHITE          JOHN         JAMES ROBERTSON PKWY
+
+11/22/2014 22:28  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        LUCAS          ROBERT       N GALLATIN PIKE
+
+11/22/2014 22:28  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        LUCAS          ROBERT       N GALLATIN PIKE
+
+11/22/2014 23:58  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        RICE           SAMMY        SLATE DR
+
+11/23/2014 0:58   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        FOSTER         ROBERT       WEST END AVE
+
+11/23/2014 1:33   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        SANCHEZ LARA   PATRICIO     NOLENSVILLE PIKE
+
+11/23/2014 1:33   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        SANCHEZ LARA   PATRICIO     NOLENSVILLE PIKE
+
+11/23/2014 2:49   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        WOODLAND       RODNEY       MORAN AVE
+
+11/23/2014 4:16   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        JORDAN         KEITH        TWO MILE PIKE
+
+11/23/2014 16:04  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        ALVAREZ-LOPEZ  ESAUL        CHESTNUT OAK DR
+
+11/23/2014 18:06  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        HUDSON         JESSICA      GALLATIN AVE
+
+11/22/2014 23:58  FAILURE TO BE BOOKED                                       RICE           SAMMY        SLATE DR
+
+11/23/2014 0:25   FAILURE TO BE BOOKED                                       WILLIAMS       MARVIN       GRACE ST
+
+11/23/2014 4:43   FAILURE TO BE BOOKED                                       DRAKE          MONTEZ       CAROLYN AVE
+
+11/23/2014 22:58  FAILURE TO BE BOOKED                                       DAVIS          BRITTENEY    DICKERSON PIKE
+
+11/23/2014 1:13   IMPLIED CONSENT - CIVIL                                    IMAN           MOHAMUD      MURFREESBORO PIKE
+
+11/23/2014 1:14   IMPLIED CONSENT - CIVIL                                    ODEN           DEANDRE      18TH AVE S
+
+11/23/2014 1:38   IMPLIED CONSENT - CIVIL                                    JAMES          MICHAEL      I 40 W
+
+11/23/2014 3:48   IMPLIED CONSENT - CIVIL                                    MCARTHY        KATHERINE    MUSIC VALLEY DR
+
+11/23/2014 0:38   OBSTRUCTING A PASSAGEWAY                                   HENDERSON      CHRISTOPHER  2ND AVE N
+
+11/23/2014 3:48   POSS. OR CASUAL EXCHANGE-CONT.SUB.                         MCARTHY        KATHERINE    MUSIC VALLEY DR
+
+11/23/2014 10:38  POSS. OR CASUAL EXCHANGE-CONT.SUB.                         CAIN           JAMES        PLUS PARK BLVD
+
+11/23/2014 10:38  POSS. OR CASUAL EXCHANGE-CONT.SUB.                         CAIN           JAMES        PLUS PARK BLVD
+
+11/23/2014 17:42  POSS. W/O PRESCRIPTION, LEGEND DRUGS                       BELL           AMBER        LEBANON PIKE
+
+11/23/2014 9:31   PROBATION VIOLATION- FELONY                                MANOLITO       JORDAN       KAREN WAYNE DR
+
+                                                                       Page  3 of 4
+                                                                   Arrestee     Arrestee
+
+Arrest Date       Charge Description                               Last Name    First Name   Street
+
+11/23/2014 9:31   PROBATION VIOLATION- FELONY                      MANOLITO     JORDAN       KAREN WAYNE DR
+
+11/23/2014 11:59  PROBATION VIOLATION- FELONY                      PRUITT       BARRY        2ND AVE N
+
+11/23/2014 0:30   PROBATION VIOLATION- MISDEMEANOR                 MUNDAY       ERIC         SUMNER COUNTY JAIL
+
+11/23/2014 7:26   PROBATION VIOLATION- MISDEMEANOR                 HURT         PAULA        2ND AVE
+
+11/23/2014 11:55  PROBATION VIOLATION- MISDEMEANOR                 MILLNER      WILLIE       2ND AVE N
+
+11/23/2014 16:04  PROBATION VIOLATION- MISDEMEANOR                 SNOW         HARRISON     RIVERCHASE BLVD
+
+11/21/2014 13:48  PUBLIC INTOXICATION                              DUNCAN       BRANDON      12TH AVE S
+
+11/22/2014 23:38  PUBLIC INTOXICATION                              PAYNE        WILLIAM      MAIN ST
+
+11/22/2014 23:37  PUBLIC INTOXICATION                              GOODALE      CHRISTOPHER  ALHAMBRA CIR
+
+11/22/2014 23:40  PUBLIC INTOXICATION                              LOCKETT      CONNETT      DEW ST
+
+11/22/2014 23:35  PUBLIC INTOXICATION                              PEW          MICHELLE     ELYSIAN FIELDS RD
+
+11/23/2014 0:16   PUBLIC INTOXICATION                              JOHNSON      TONY
+
+11/23/2014 0:33   PUBLIC INTOXICATION                              GERA         WALTER       BROADWAY
+
+11/23/2014 0:38   PUBLIC INTOXICATION                              HENDERSON    CHRISTOPHER  2ND AVE N
+
+11/23/2014 1:57   PUBLIC INTOXICATION                              XITAMUL      EDEN         MURFREESBORO PIKE
+
+11/23/2014 2:06   PUBLIC INTOXICATION                              GAUDET       BRIAN        BROADWAY
+
+11/23/2014 2:59   PUBLIC INTOXICATION                              ARMSTRONG    CHRISTOPHER  BROADWAY
+
+11/23/2014 3:24   PUBLIC INTOXICATION                              SIRCY        JEFFERY      BROADWAY
+
+11/22/2014 22:28  RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH  LUCAS        ROBERT       N GALLATIN PIKE
+
+11/22/2014 23:35  RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH  PEW          MICHELLE     ELYSIAN FIELDS RD
+
+11/23/2014 0:16   RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH  JOHNSON      TONY
+
+11/23/2014 1:13   RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH  IMAN         MOHAMUD      MURFREESBORO PIKE
+
+11/23/2014 5:40   RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH  HERRON       LAMETRIA     ALAMEDA ST
+
+11/22/2014 22:28  THEFT OF MERCHANDISE - $500 OR LESS              LUCAS        ROBERT       N GALLATIN PIKE
+
+11/23/2014 0:16   THEFT OF MERCHANDISE - $500 OR LESS              JOHNSON      TONY
+
+11/23/2014 14:12  THEFT OF MERCHANDISE - $500 OR LESS              MORRELL      MELISSA      MURFREESBORO PIKE
+
+11/23/2014 4:41   THEFT OF PROPERTY- $500 OR LESS                  FRAZIER      KENDRICK     BULLOCK AVE
+
+11/23/2014 2:56   THEFT OF PROPERTY- GT $500, LT $1,000            TYSON        DARRIN       OSAGE ST
+
+11/23/2014 6:30   VANDALISM- $500 OR LESS                          HOLBROOK     BLAKE        ELLIOTT DR
+
+11/23/2014 2:56   VANDALISM- $1,000 OR GT, LT $10,000              TYSON        DARRIN       OSAGE ST
+
+11/23/2014 2:56   WEAPON - HANDGUN                                 TYSON        DARRIN       OSAGE ST
+
+                                                                   Page 4 of 4

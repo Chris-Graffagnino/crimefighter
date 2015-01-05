@@ -1,0 +1,244 @@
+                                                                     Arrestee         Arrestee
+
+Arrest Date      Charge Description                                  Last Name        First Name   Street
+
+9/21/2014 7:38   ASSAULT- FEAR OF BODILY INJURY                      AYUBE            JAVED        CATHY JO CIR
+
+9/21/2014 1:55   ASSAULT OF OFFICER - BODILY INJURY                  WELLS            VINCENT      25TH AVE S
+
+9/21/2014 8:20   ASSAULT, AGG SERIOUS BODILY INJURY- INT/KN          WADE             JOHN         CHURCH ST
+
+9/21/2014 12:34  Assault, Aggravated - Deadly Weapon - Int/Kn        KITCHEN          BRENT        DAVIDSON ST
+
+9/21/2014 3:09   Assault, Aggravated - Serious Bodily Injury - Reck  ESAW             QUANTIKO     16TH AVE N
+
+9/21/2014 1:17   ASSAULT, DOMESTIC BODILY INJURY                     PULLEN           RICKY        MOORMANS ARM RD
+
+9/21/2014 9:08   ASSAULT, DOMESTIC BODILY INJURY                     HURDT            ZACHARY      FARVIEW DR
+
+9/21/2014 14:13  ASSAULT, DOMESTIC BODILY INJURY                     HUGHES           WILLIE       PROVIDENCE PARK LN
+
+9/21/2014 19:29  ASSAULT, DOMESTIC BODILY INJURY                     TOMLINSON        TONYA        S 4TH ST
+
+9/21/2014 0:51   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     BRITT            TREDARIUS    SUNSET CIR
+
+9/20/2014 23:57  ASSAULT, DOMESTIC, BODILY INJURY 2ND OFFENSE        DUKE             JOHN         MCCALL ST
+
+9/21/2014 1:55   BURGLARY- MOTOR VEHICLE                             WELLS            VINCENT      25TH AVE S
+
+9/21/2014 0:33   BURGLARY TOOLS- POSSESSION                          MCFARLAND        WALTER       TERRACE PL
+
+9/20/2014 23:30  CONTRABAND IN PENAL INSTITUTION-POSSESSION          PEDROZA          JUAN         DUE WEST
+
+9/21/2014 11:54  CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION  SMOTHERMAN       KEITH        WENDELL AVE
+
+9/21/2014 12:23  CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION  KING             BILLY        JAMES ROBERTSON PKWY
+
+5/29/2014 7:25   CRIMINAL TRESPASS                                   WILSON           CHRISTOPHER  2ND AVE S
+
+8/12/2014 13:30  CRIMINAL TRESPASS                                   READ             RANDALL      MEDICAL CENTER DR
+
+9/20/2014 0:30   CRIMINAL TRESPASS                                   HALL             CHARLES      MEDICAL CENTER DR
+
+9/21/2014 11:00  CRIMINAL TRESPASS                                   BOOKER           MAURICE      21ST AVE N
+
+9/21/2014 18:35  CRIMINAL TRESPASS                                   MCMEAN           PAUL         W TRINITY LN
+
+9/20/2014 18:54  DISORDERLY CONDUCT                                  WOLCOTT          RACHEL       7TH AVE N
+
+9/21/2014 4:04   DISORDERLY CONDUCT                                  MCEWEN           NATHAN       BROADWAY
+
+6/30/2014 14:23  DRIV. LIC. - NO D/L                                 SKIPPER          JOSEPH       ANDREW JACKSON PKWY
+
+9/21/2014 1:31   DRIV. LIC. - NO D/L                                 ALBERTO-BELTRAN  SEBASTIAN    CEDARMONT DR
+
+9/21/2014 4:04   DRIV. LIC. - NO D/L                                 PEREZ CRUZ       JORGE        BASS AVE
+
+9/20/2014 23:30  DRIVING- REVOKED LICENSE                            PEDROZA          JUAN         DUE WEST
+
+9/21/2014 16:57  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         DISSPAYNE        ELMER
+
+9/21/2014 18:33  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         COLEMAN          CLARENCE     JAMES ROBERTSON PKWY
+
+6/20/2014 6:15   DRIVING- SUSPENDED LICENSE                          BOYD             MIKE         I40 E
+
+8/22/2014 1:02   DRIVING- SUSPENDED LICENSE                          KELLY            DAVID        CHEYENNE BLVD
+
+8/22/2014 13:40  DRIVING- SUSPENDED LICENSE                          BURCH            THERESA      TRINITY LN
+
+9/21/2014 10:16  DRIVING- SUSPENDED LICENSE                          DUKE             GREGORY      BEECH BEND DR
+
+9/21/2014 15:13  DRIVING- SUSPENDED LICENSE                          KELLY            DAVID        GALLATIN AVE
+
+                                                                     Page 1 of 4
+                                                                     Arrestee          Arrestee
+
+Arrest Date      Charge Description                                  Last Name         First Name   Street
+
+9/20/2014 23:25  DRIVING UNDER THE INFLUENCE                         MIXAYPHONE        DANNY        N GALLATIN PIKE
+
+9/20/2014 23:15  DRIVING UNDER THE INFLUENCE                         WILTSE            TYLER        OLD HICKORY BLVD
+
+9/21/2014 1:29   DRIVING UNDER THE INFLUENCE                         DICKISON          TIMOTHY      BELL RD
+
+9/21/2014 1:31   DRIVING UNDER THE INFLUENCE                         ALBERTO-BELTRAN   SEBASTIAN    CEDARMONT DR
+
+9/21/2014 3:15   DRIVING UNDER THE INFLUENCE                         MAZUR             ELIZABETH    30TH AVE N
+
+9/21/2014 5:20   DRIVING UNDER THE INFLUENCE                         LOWE              ANDREW       NOLENSVILLE PIKE
+
+9/21/2014 4:04   DRIVING UNDER THE INFLUENCE                         PEREZ CRUZ        JORGE        BASS AVE
+
+9/21/2014 5:58   DRIVING UNDER THE INFLUENCE                         CHESSER           DEVIN        MOORMANS ARM RD
+
+9/20/2014 23:30  DRIVING UNDER THE INFLUENCE - 3RD OFFENSE           PEDROZA           JUAN         DUE WEST
+
+9/21/2014 16:57  DRIVING UNDER THE INFLUENCE - 4TH OFFENSE OR MORE   DISSPAYNE         ELMER
+
+9/21/2014 4:04   DRIVING UNDER THE INFLUENCE-VEHICLE OWNER           HERNANDEZ CHAVEZ  SANTOS       BASS AVE
+
+9/21/2014 2:40   DRUG PARAPHERNALIA- UNLAWFUL USE                    HALL              JARROD       MCGAVOCK PIKE
+
+9/21/2014 4:04   DRUG PARAPHERNALIA- UNLAWFUL USE                    PEREZ CRUZ        JORGE        BASS AVE
+
+9/21/2014 9:08   DRUG PARAPHERNALIA- UNLAWFUL USE                    HURDT             ZACHARY      FARVIEW DR
+
+9/21/2014 13:50  DRUG PARAPHERNALIA- UNLAWFUL USE                    JETTON            BEVERLY      12TH AVE S
+
+9/21/2014 18:33  EVADING ARREST- MISDEMEANOR                         COLEMAN           CLARENCE     JAMES ROBERTSON PKWY
+
+9/21/2014 10:16  EVADING ARREST- MOTOR VEHICLE                       DUKE              GREGORY      BEECH BEND DR
+
+9/21/2014 18:33  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  COLEMAN           CLARENCE     JAMES ROBERTSON PKWY
+
+9/21/2014 18:33  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  COLEMAN           CLARENCE     JAMES ROBERTSON PKWY
+
+9/21/2014 5:31   FAILURE TO BE BOOKED                                BURCH             THERESA      ANDREW JACKSON WAY
+
+9/21/2014 8:34   FAILURE TO BE BOOKED                                SKIPPER           JOSEPH       ERIN LN
+
+9/21/2014 9:13   FAILURE TO BE BOOKED                                BOYD              MIKE         3RD AVE S
+
+9/21/2014 13:50  FAILURE TO BE BOOKED                                JETTON            BEVERLY      12TH AVE S
+
+9/21/2014 15:13  FAILURE TO BE BOOKED                                KELLY             DAVID        GALLATIN AVE
+
+9/21/2014 17:33  FAILURE TO BE BOOKED                                READ              RANDALL      HARDING PIKE
+
+9/21/2014 17:33  FAILURE TO BE BOOKED                                READ              RANDALL      HARDING PIKE
+
+9/21/2014 17:37  FAILURE TO BE BOOKED                                WILSON            CHRISTOPHER  DIVISION ST
+
+9/20/2014 23:15  FALSE REPORT- EMERGENCY                             GOOLSBY           CHASITY      RIVERGATE PKWY
+
+9/21/2014 0:38   FUGITIVE FROM JUSTICE- WITHOUT WARRANT              RAMEY             JONATHAN     17TH AVE N
+
+9/21/2014 0:19   HARASSMENT REPETITIVE CALLS                         LAWLESS           MADIZON      FRANKLIN PIKE
+
+9/21/2014 1:29   IMPLIED CONSENT - CIVIL                             DICKISON          TIMOTHY      BELL RD
+
+9/21/2014 3:15   IMPLIED CONSENT - CIVIL                             MAZUR             ELIZABETH    30TH AVE N
+
+9/21/2014 4:04   IMPLIED CONSENT - CIVIL                             PEREZ CRUZ        JORGE        BASS AVE
+
+9/21/2014 5:58   IMPLIED CONSENT - CIVIL                             CHESSER           DEVIN        MOORMANS ARM RD
+
+                                                                    Page 2 of 4
+                                                               Arrestee         Arrestee
+
+Arrest Date      Charge Description                            Last Name        First Name   Street
+
+9/21/2014 1:31   LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE   ALBERTO-BELTRAN  SEBASTIAN    CEDARMONT DR
+
+9/21/2014 3:48   NONEMERGENCY 911 CALL                         DOUGLAS          LAKETA       TORBETT ST
+
+9/20/2014 23:25  OPEN CONTAINER VIOL.                          MIXAYPHONE       DANNY        N GALLATIN PIKE
+
+9/20/2014 23:15  OPEN CONTAINER VIOL.                          WILTSE           TYLER        OLD HICKORY BLVD
+
+9/21/2014 4:04   OPEN CONTAINER VIOL.                          PEREZ CRUZ       JORGE        BASS AVE
+
+8/12/2014 14:45  Poss. or Casual Exchange of Meth              JETTON           BEVERLY      11TH AVE S
+
+9/21/2014 4:04   POSS. OR CASUAL EXCHANGE-CONT.SUB.            PEREZ CRUZ       JORGE        BASS AVE
+
+9/21/2014 9:08   POSS. OR CASUAL EXCHANGE-CONT.SUB.            HURDT            ZACHARY      FARVIEW DR
+
+9/21/2014 20:13  POSS. OR CASUAL EXCHANGE-CONT.SUB.            SCALES           KIMBERLY     NOLENSVILLE PIKE
+
+9/21/2014 2:40   POSS.W/INT-CONT.SUB.- COCAINE .5 GR. OR MORE  HALL             JARROD       MCGAVOCK PIKE
+
+9/21/2014 10:22  PROBATION VIOLATION- FELONY                   GREEN            ANGELA       GLENVIEW DR
+
+9/21/2014 13:04  PROBATION VIOLATION- FELONY                   WARREN           JAMES        2ND AVE N
+
+9/21/2014 18:33  PROBATION VIOLATION- FELONY                   COLEMAN          CLARENCE     JAMES ROBERTSON PKWY
+
+9/21/2014 12:52  PROBATION VIOLATION- MISDEMEANOR              HARVEY           ALEX         MURFREESBORO PKE
+
+9/21/2014 12:52  PROBATION VIOLATION- MISDEMEANOR              HARVEY           ALEX         MURFREESBORO PKE
+
+9/21/2014 19:51  PROBATION VIOLATION- MISDEMEANOR              DECKER           PATRICK      LADY NASHVILLE DR
+
+9/20/2014 18:54  PUBLIC INTOXICATION                           WOLCOTT          RACHEL       7TH AVE N
+
+9/21/2014 0:38   PUBLIC INTOXICATION                           RAMEY            JONATHAN     17TH AVE N
+
+9/21/2014 1:36   PUBLIC INTOXICATION                           LINTICUM         DARRYL       BROADWAY
+
+9/21/2014 1:54   PUBLIC INTOXICATION                           MORENO           MARCIAL      8TH AVE S
+
+9/21/2014 2:01   PUBLIC INTOXICATION                           HORTON           CLARK        BROADWAY
+
+9/21/2014 2:22   PUBLIC INTOXICATION                           GRAY             SAMUEL       BROADWAY
+
+9/21/2014 4:04   PUBLIC INTOXICATION                           MCEWEN           NATHAN       BROADWAY
+
+9/21/2014 10:14  PUBLIC INTOXICATION                           CHOL             BLIEN        BRICK CHURCH PIKE
+
+9/21/2014 17:37  PUBLIC INTOXICATION                           WILSON           CHRISTOPHER  DIVISION ST
+
+9/21/2014 18:39  PUBLIC INTOXICATION                           BROUTHERS        JAY          1ST AVE N
+
+9/21/2014 18:40  PUBLIC INTOXICATION                           JONES            CARA         1ST AVE N
+
+9/21/2014 18:51  PUBLIC INTOXICATION                           SANDERS          RODNEY       1ST AVE N
+
+9/21/2014 18:35  PUBLIC INTOXICATION                           MCMEAN           PAUL         W TRINITY LN
+
+9/21/2014 19:19  PUBLIC INTOXICATION                           BUIE             NICK         HERITAGE TRL
+
+9/21/2014 20:23  PUBLIC INTOXICATION                           GREGORY          CATHERINE    5TH AVE S
+
+9/21/2014 12:23  STALKING - AGGRAVATED                         KING             BILLY        JAMES ROBERTSON PKWY
+
+8/9/2014         THEFT OF MERCHANDISE - $500 OR LESS           READ             RANDALL      WEST END AVE
+
+9/21/2014 7:38   THEFT OF MERCHANDISE - $500 OR LESS           AYUBE            JAVED        CATHY JO CIR
+
+                                                               Page 3 of 4
+                                                                 Arrestee     Arrestee
+
+Arrest Date      Charge Description                              Last Name    First Name  Street
+
+9/21/2014 20:13  THEFT OF MERCHANDISE- $1,000 OR GT, LT $10,000  SCALES       KIMBERLY    NOLENSVILLE PIKE
+
+9/21/2014 20:26  THEFT OF MERCHANDISE- $1,000 OR GT, LT $10,000  SHARPLEY     SATIN       NOLENSVILLE PIKE
+
+9/21/2014 20:42  THEFT OF MERCHANDISE- $1,000 OR GT, LT $10,000  MCMILLAN     ALLYSON     NOLENSVILLE PIKE
+
+9/21/2014 12:23  THEFT OF PROPERTY- $1,000 OR GT, LT $10,000     KING         BILLY       JAMES ROBERTSON   PKWY
+
+9/21/2014 0:33   THEFT OF PROPERTY- $500 OR LESS                 MCFARLAND    WALTER      TERRACE PL
+
+9/21/2014 0:51   VANDALISM- $500 OR LESS                         BRITT        TREDARIUS   SUNSET CIR
+
+9/21/2014 6:10   VANDALISM- $500 OR LESS                         JOHNSON      ISAAC       PORT HOPE CT
+
+9/21/2014 10:16  VANDALISM- $500 OR LESS                         DUKE         GREGORY     BEECH BEND DR
+
+9/21/2014 16:59  VANDALISM- $500 OR LESS                         NELSON       ROYAL       MAXWELL RD
+
+9/21/2014 12:23  VANDALISM- $1,000 OR GT, LT $10,000             KING         BILLY       JAMES ROBERTSON   PKWY
+
+                                                                 Page 4 of 4

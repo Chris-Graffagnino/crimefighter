@@ -1,0 +1,345 @@
+                                                                      Arrestee     Arrestee
+
+Arrest Date       Charge Description                                  Last Name    First Name   Street
+
+10/18/2014 1:29   ALCOHOL- UNDER 21, CONSUMPTION                      ROLLINS      JOHN         DEMONBREUN ST
+
+10/18/2014 2:55   ALTERATION OF IDENTIFICATION NUMBERS                DENZMORE     ROLANDUS     HWY 45
+
+10/18/2014 3:33   ALTERATION OF IDENTIFICATION NUMBERS                WATKINS      TROYVONTE    HWY 45
+
+10/18/2014 15:27  ASSAULT, AGG VIOLATION OF COURT ORDER               PARKER       CHRISTOPHER  JAMES ROBERTSON PKWY
+
+10/18/2014 11:28  Assault, Aggravated - Deadly Weapon - Int/Kn        BIGGS        TERRY        I-24 W / EXIT 31
+
+10/18/2014 3:54   Assault, Aggravated - Strangulation - Int/Kn        ATEM         KOOL         PLUS PARK BLVD
+
+10/18/2014 7:48   Assault, Aggravated - Strangulation - Int/Kn        WILLIAMS     DANIEL       I 40 E
+
+10/18/2014 11:28  Assault, Aggravated - Strangulation - Int/Kn        BIGGS        TERRY        I-24 W / EXIT 31
+
+10/18/2014 3:35   ASSAULT, DOMESTIC BODILY INJURY                     LEWIS        ALLISON      OLD FRANKLIN RD
+
+10/18/2014 7:18   ASSAULT, DOMESTIC BODILY INJURY                     HARTLEY      LARRY        CABOT DR
+
+10/18/2014 21:08  ASSAULT, DOMESTIC BODILY INJURY                     OJEDO        JOSE         MURFREESBORO PIKE
+
+10/18/2014 14:26  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             GUINN        TANIQUEL     SWISS AVE
+
+10/18/2014 20:02  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             ABDALLAH     NADER        PAMELA DR
+
+10/18/2014 5:14   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     CHANDLER     DARREN       MURFREESBORO PIKE
+
+10/18/2014 16:40  ASSAULT, DOMESTIC, BODILY INJURY 2ND OFFENSE        STEM         MARCELLO     JENNINGS ST
+
+10/18/2014 16:40  ASSAULT, DOMESTIC, BODILY INJURY 2ND OFFENSE        STEM         MARCELLO     JENNINGS ST
+
+10/18/2014 20:21  ASSAULT, DOMESTIC, BODILY INJURY 2ND OFFENSE        ALLISON      TRE          DICKERSON PIKE
+
+10/18/2014 5:32   ASSAULT, DOMESTIC, BODILY INJURY 3RD OR MORE        CLAYBROOKS   JOHNNY       BUCHANAN ST
+
+10/18/2014 16:06  CONTROLLED ACCESS- USE BY NON-MOT. VEH.             ALLEN        JOSHUA       MM 212.4
+
+10/18/2014 18:25  CONTROLLED ACCESS- USE BY NON-MOT. VEH.             BROWN        ROBERT       I65 N/ ROSA L PARKS
+
+9/12/2014         CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION  WILLIAMS     DEBORAH      GLASTONBURY RD
+
+10/17/2014 23:39  CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION  MARTINEZ     ENRIQUE      SONYA DR
+
+10/18/2014 1:29   CRIMINAL IMPERSONATION                              ROLLINS      JOHN         DEMONBREUN ST
+
+10/18/2014 18:40  CRIMINAL IMPERSONATION                              SIMMONS      ANTHONY      HERMITAGE AVE
+
+10/18/2014 1:08   CRIMINAL TRESPASS                                   GREEN        ROBERT       NEELYS BEND RD
+
+10/18/2014 10:10  CRIMINAL TRESPASS                                   HICKS        HOWARD       WEST END AVE
+
+10/18/2014 10:15  CRIMINAL TRESPASS                                   BRANDEWIE    JEFF         GLEAVES ST
+
+10/18/2014 13:31  CRIMINAL TRESPASS                                   REDFEARIN    CINDY        RIVERGATE PKWY
+
+10/18/2014 17:26  CRIMINAL TRESPASS                                   EMERY        DAVID        LAFAYETTE ST
+
+10/18/2014 22:00  CRIMINAL TRESPASS                                   MCMEAN       PAUL         W TRINITY LN
+
+5/27/2014 13:24   DISORDERLY CONDUCT                                  BRANDEWIE    JEFF
+
+6/1/2014 19:30    DRIV. LIC. - NO D/L                                 SMITH        KHALIL       CJC
+
+                                                                      Page 1 of 5
+                                                                   Arrestee           Arrestee
+
+Arrest Date       Charge Description                               Last Name          First Name   Street
+
+9/21/2014 3:11    DRIV. LIC. - NO D/L                              MORALES            LIZETH       DUE WEST AVE N
+
+10/18/2014 5:00   DRIV. LIC. - NO D/L                              SALDANA-HERNANDEZ  JORGE        I65 N
+
+10/18/2014 20:12  DRIV. LIC. - NO D/L                              HUNTER             DEJONGE      CARROLL ST
+
+6/11/2014 9:49    DRIV. LIC. - POSS. OF REVOKED, SUSP. OR ALTERED  TAMAYO             FRANSCISCO   PRIEST LAKE DR
+
+10/18/2014 3:33   DRIV. LIC. - POSS. OF REVOKED, SUSP. OR ALTERED  WATKINS            TROYVONTE    HWY 45
+
+6/17/2014 19:30   DRIVING- REVOKED LICENSE                         SCOTT              TANGELA      N GALLATIN PIKE
+
+8/13/2014 23:34   DRIVING- REVOKED LICENSE                         SMITH              TERRY        ELM HILL PIKE
+
+10/17/2014 23:29  DRIVING- REVOKED LICENSE                         MILES              DANESHIA     TERMINAL DR
+
+10/18/2014 3:33   DRIVING- REVOKED LICENSE                         WATKINS            TROYVONTE    HWY 45
+
+10/18/2014 12:02  DRIVING- REVOKED LICENSE                         MAJOK              ATEM         PARAGON MILLS RD
+
+10/18/2014 21:29  DRIVING- REVOKED LICENSE                         BOYD               KYNIESHA     11TH AVE N
+
+10/18/2014 2:55   DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT      MASSEY             ROBERT       MALL ACCESS ROAD
+
+10/18/2014 17:36  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT      MCKINNEY           HAROLD       S GALLATIN PIKE
+
+8/20/2014 2:15    DRIVING- SUSPENDED LICENSE                       TAYLOR             RENITA       10TH AVE S
+
+9/6/2014 23:56    DRIVING- SUSPENDED LICENSE                       BROSIOUS           MATTHEW      GRACE ST
+
+10/18/2014 1:45   DRIVING- SUSPENDED LICENSE                       MCADAMS            TEARRA       8TH AVE S
+
+10/18/2014 1:58   DRIVING- SUSPENDED LICENSE                       NIMAN              JACQUELINE   43RD AVE N
+
+10/18/2014 2:31   DRIVING- SUSPENDED LICENSE                       SWANN              JAMES        HERMITAGE AVE
+
+6/11/2014 9:49    DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT    TAMAYO             FRANSCISCO   PRIEST LAKE DR
+
+10/17/2014 23:29  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT    WEIVODA            MORGAN       DICKERSON PIKE
+
+10/18/2014 0:37   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT    BAXTER             LATONYA      DANBY DR
+
+10/18/2014 0:03   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT    MATTESON           CHRISTOPHER  WOODLAND ST
+
+10/18/2014 0:03   DRIVING UNDER THE INFLUENCE                      MATTESON           CHRISTOPHER  WOODLAND ST
+
+10/18/2014 2:31   DRIVING UNDER THE INFLUENCE                      SWANN              JAMES        HERMITAGE AVE
+
+10/18/2014 2:05   DRIVING UNDER THE INFLUENCE                      BARNES             NASHA        14TH AVE S
+
+10/18/2014 2:50   DRIVING UNDER THE INFLUENCE                      IPOCK              TRACI        S 2ND ST
+
+10/18/2014 2:36   DRIVING UNDER THE INFLUENCE                      JACKSON            KYLE         S 2ND ST
+
+10/18/2014 3:09   DRIVING UNDER THE INFLUENCE                      HERNANDEZ          JENNIFER     CHARLOTTE PIKE
+
+10/18/2014 3:47   DRIVING UNDER THE INFLUENCE                      HIGDON             JUSTIN       I 40 E
+
+10/18/2014 2:15   DRIVING UNDER THE INFLUENCE                      HAND               ARTHUR       CHARLOTTE PIKE
+
+10/18/2014 5:06   DRIVING UNDER THE INFLUENCE                      WILSON             MELISSA      NEELYS BEND RD
+
+10/18/2014 5:00   DRIVING UNDER THE INFLUENCE                      SALDANA-HERNANDEZ  JORGE        I65 N
+
+                                                                   Page 2 of 5
+                                                                      Arrestee     Arrestee
+
+Arrest Date       Charge Description                                  Last Name    First Name   Street
+
+10/18/2014 5:11   DRIVING UNDER THE INFLUENCE                         COX          JONATHAN     I 440 W
+
+10/17/2014 23:25  DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           KNUCKLES     MARK         RIVERGATE PKWY
+
+10/18/2014 2:59   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           WILLIAMS     TERRENCE     EDMONDSON PIKE
+
+10/18/2014 4:16   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           CRABTREE     TAMMY        BROOKSIDE WOODS BLVD
+
+10/18/2014 0:20   DRIVING UNDER THE INFLUENCE - 4TH OFFENSE OR MORE   BAKER        KENNETH      MURFREESBORO PIKE
+
+10/18/2014 2:55   DRIVING UNDER THE INFLUENCE - 4TH OFFENSE OR MORE   MASSEY       ROBERT       MALL ACCESS ROAD
+
+10/18/2014 12:02  DRIVING UNDER THE INFLUENCE - 4TH OFFENSE OR MORE   MAJOK        ATEM         PARAGON MILLS RD
+
+10/18/2014 3:06   DRIVING UNDER THE INFLUENCE-VEHICLE OWNER           TRULL        CHRISTOPHER  14TH AVE S
+
+10/18/2014 2:32   DRUG FREE NONSCH.ZONE-CONT.SUB.-MARIJUANA 14.175-4  MUSHI        GERALD       HARDING PL
+
+10/18/2014 1:25   DRUG PARAPHERNALIA- UNLAWFUL USE                    CURVIN       SABRINA      THUNDERBIRD DR
+
+10/18/2014 2:55   DRUG PARAPHERNALIA- UNLAWFUL USE                    DENZMORE     ROLANDUS     HWY 45
+
+10/18/2014 2:32   DRUG PARAPHERNALIA- UNLAWFUL USE                    MUSHI        GERALD       HARDING PL
+
+10/18/2014 3:09   DRUG PARAPHERNALIA- UNLAWFUL USE                    HERNANDEZ    JENNIFER     CHARLOTTE PIKE
+
+10/18/2014 2:15   DRUG PARAPHERNALIA- UNLAWFUL USE                    HAND         ARTHUR       CHARLOTTE PIKE
+
+10/18/2014 3:33   DRUG PARAPHERNALIA- UNLAWFUL USE                    WATKINS      TROYVONTE    HWY 45
+
+10/18/2014 19:40  DRUG PARAPHERNALIA- UNLAWFUL USE                    TIMES        WILLIAM      W HEIMAN ST
+
+10/18/2014 8:18   FAIL TO BE BOOKED (CRIMINAL SUMMONS)                WILLIAMS     DEBORAH      GLASTONBURY RD
+
+10/18/2014 1:45   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  MCADAMS      TEARRA       8TH AVE S
+
+10/18/2014 4:00   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  NAGOZRUK     ARTHUR       COFFEE CO JAIL
+
+10/18/2014 4:00   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  NAGOZRUK     ARTHUR       COFFEE CO JAIL
+
+10/18/2014 4:00   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  NAGOZRUK     ARTHUR       COFFEE CO JAIL
+
+10/18/2014 16:34  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  KEESEE       HENRY        N 8TH ST
+
+10/18/2014 21:00  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  HATHAWAY     TICOLA       RUTHERFORD CO JAIL
+
+10/18/2014 0:32   FAILURE TO BE BOOKED                                SCOTT        TANGELA      HILLSIDE AVE
+
+10/18/2014 0:57   FAILURE TO BE BOOKED                                TAYLOR       KIANTE       CENTRAL AVE
+
+10/18/2014 2:17   FAILURE TO BE BOOKED                                TAMAYO       FRANSCISCO   BELL RD
+
+10/18/2014 2:17   FAILURE TO BE BOOKED                                TAMAYO       FRANSCISCO   BELL RD
+
+10/18/2014 3:16   FAILURE TO BE BOOKED                                MORALES      LIZETH       DUE WEST AVE N
+
+10/18/2014 6:30   FAILURE TO BE BOOKED                                BROSIOUS     MATTHEW      HILLSIDE AVE
+
+10/18/2014 17:26  FAILURE TO BE BOOKED                                SMITH        TERRY        LEMONT DR
+
+10/18/2014 16:28  FAILURE TO BE BOOKED                                TAYLOR       RENITA       RIVERGATE PKWY
+
+10/18/2014 17:58  FAILURE TO BE BOOKED                                WILSON       BRIAN        LAFAYETTE ST
+
+                                                                      Page 3 of 5
+                                                                    Arrestee     Arrestee
+
+Arrest Date       Charge Description                                Last Name    First Name   Street
+
+10/18/2014 16:36  FORGERY- $500 OR LESS                             OLDHAM       STEWART      JAMES ROBERTSON PKWY
+
+10/18/2014 0:20   HABITUAL MOTOR VEH. OFFENDER                      BAKER        KENNETH      MURFREESBORO PIKE
+
+10/18/2014 18:40  HABITUAL MOTOR VEH. OFFENDER                      SIMMONS      ANTHONY      HERMITAGE AVE
+
+10/18/2014 16:36  IDENTITY THEFT                                    OLDHAM       STEWART      JAMES ROBERTSON PKWY
+
+10/17/2014 23:25  IMPLIED CONSENT - CIVIL                           KNUCKLES     MARK         RIVERGATE PKWY
+
+10/18/2014 0:03   IMPLIED CONSENT - CIVIL                           MATTESON     CHRISTOPHER  WOODLAND ST
+
+10/18/2014 2:31   IMPLIED CONSENT - CIVIL                           SWANN        JAMES        HERMITAGE AVE
+
+10/18/2014 2:36   IMPLIED CONSENT - CIVIL                           JACKSON      KYLE         S 2ND ST
+
+10/18/2014 4:16   IMPLIED CONSENT - CIVIL                           CRABTREE     TAMMY        BROOKSIDE WOODS BLVD
+
+10/18/2014 0:20   IMPLIED CONSENT - CRIMINAL                        BAKER        KENNETH      MURFREESBORO PIKE
+
+10/18/2014 2:55   IMPLIED CONSENT - CRIMINAL                        MASSEY       ROBERT       MALL ACCESS ROAD
+
+10/18/2014 12:02  IMPLIED CONSENT - CRIMINAL                        MAJOK        ATEM         PARAGON MILLS RD
+
+10/18/2014 22:18  OBSTRUCTING A PASSAGEWAY                          SANDERS      RODNEY       2ND AVE N
+
+10/18/2014 2:59   OPEN CONTAINER VIOL.                              WILLIAMS     TERRENCE     EDMONDSON PIKE
+
+10/18/2014 15:27  ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION   PARKER       CHRISTOPHER  JAMES ROBERTSON PKWY
+
+10/18/2014 16:06  PEDESTRIAN SOL. RIDE OR BUSINESS                  ALLEN        JOSHUA       MM 212.4
+
+4/14/2014 18:30   POSS. OR CASUAL EXCHANGE-CONT.SUB.                TAYLOR       KIANTE       CLEVELAND AVE
+
+10/18/2014 1:08   POSS. OR CASUAL EXCHANGE-CONT.SUB.                GREEN        ROBERT       NEELYS BEND RD
+
+10/18/2014 2:15   POSS. OR CASUAL EXCHANGE-CONT.SUB.                HAND         ARTHUR       CHARLOTTE PIKE
+
+10/18/2014 2:55   POSS. OR CASUAL EXCHANGE-CONT.SUB.                MASSEY       ROBERT       MALL ACCESS ROAD
+
+10/18/2014 19:40  POSS. OR CASUAL EXCHANGE-CONT.SUB.                TIMES        WILLIAM      W HEIMAN ST
+
+10/18/2014 21:44  POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.   BROWN        ROBERT       S 6TH ST
+
+10/18/2014 2:15   POSS. W/O PRESCRIPTION, LEGEND DRUGS              HAND         ARTHUR       CHARLOTTE PIKE
+
+10/18/2014 2:55   POSS.W/INT-CONT.SUB.- MARIJUANA 14.175-4,535 GR.  DENZMORE     ROLANDUS     HWY 45
+
+10/18/2014 3:33   POSS.W/INT-CONT.SUB.- MARIJUANA 14.175-4,535 GR.  WATKINS      TROYVONTE    HWY 45
+
+10/18/2014 1:25   PROB VIOLATION SEE MIS                            CURVIN       SABRINA      THUNDERBIRD DR
+
+10/18/2014 4:30   PROB VIOLATION SEE MIS                            HUNT         MARSHALL     HAMILTON AVE
+
+10/18/2014 20:12  PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  HUNTER       DEJONGE      CARROLL ST
+
+10/17/2014 23:00  PROBATION VIOLATION- FELONY                       HODO         MARQUESE     SMITH SPRINGS RD
+
+10/17/2014 23:05  PROBATION VIOLATION- FELONY                       WHITTEMORE   DEAN         DICKERSON PIKE
+
+10/18/2014 20:42  PROBATION VIOLATION- FELONY                       ROBERTSON    ALLEN        JAMES ROBERTSON PKWY
+
+10/17/2014 23:29  PROBATION VIOLATION- MISDEMEANOR                  WEIVODA      MORGAN       DICKERSON PIKE
+
+                                                                    Page 4 of 5
+                                                                                Arrestee   Arrestee
+
+Arrest Date       Charge Description                                            Last Name  First Name   Street
+
+10/18/2014 13:17  PROBATION VIOLATION- MISDEMEANOR                              COX        AARON        RUTHERFORD COUNTY JAIL
+
+10/18/2014 18:34  PROBATION VIOLATION- MISDEMEANOR                              SMITH      KHALIL       DRAKES BRANCH RD
+
+9/5/2014          PROSTITUTION                                                  WILSON     BRIAN        LAFAYETTE ST
+
+10/17/2014 23:54  PUBLIC INTOXICATION                                           SPENCE     CHRISTOPHER  EDMONDSON PIKE
+
+10/18/2014 1:01   PUBLIC INTOXICATION                                           GOODALE    CHRISTOPHER  BEN ALLEN RD
+
+10/18/2014 1:36   PUBLIC INTOXICATION                                           SIMPSON    TERRY        DEMONBREUN ST
+
+10/18/2014 3:12   PUBLIC INTOXICATION                                           SAVAGE     RONNIE       DICKERSON PIKE
+
+10/18/2014 3:38   PUBLIC INTOXICATION                                           BROWN      MATTHEW      16TH AVE N
+
+10/18/2014 4:45   PUBLIC INTOXICATION                                           CRAFT      TYLER        NOLENSVILLE PIKE
+
+10/18/2014 10:10  PUBLIC INTOXICATION                                           HICKS      HOWARD       WEST END AVE
+
+10/18/2014 16:31  PUBLIC INTOXICATION                                           HENDERSON  CHRISTOPHER  1ST AVE N
+
+10/18/2014 18:30  PUBLIC INTOXICATION                                           RODAS      ANIBAL       4TH AVE N
+
+10/18/2014 19:00  PUBLIC INTOXICATION                                           ANDERSON   JAMES        1ST AVE N
+
+10/18/2014 19:49  PUBLIC INTOXICATION                                           STOKES     WILLIAM      MAIN ST
+
+10/18/2014 20:23  PUBLIC INTOXICATION                                           SMITH      WILLIAM      2ND AVE N
+
+10/18/2014 22:18  PUBLIC INTOXICATION                                           SANDERS    RODNEY       2ND AVE N
+
+10/18/2014 3:32   THEFT OF MERCHANDISE - $500 OR LESS                           PATTERSON  JASMINE      CREEKWOOD DR
+
+10/18/2014 13:31  THEFT OF MERCHANDISE - $500 OR LESS                           REDFEARIN  CINDY        RIVERGATE PKWY
+
+10/18/2014 16:28  THEFT OF MERCHANDISE - $500 OR LESS                           TAYLOR     RENITA       RIVERGATE PKWY
+
+10/18/2014 12:49  THEFT OF MERCHANDISE- GT $500, LT $1,000                      MEJIA      KARLA        JACKSON DOWNS BLVD
+
+10/18/2014 21:44  THEFT OF PROPERTY- $500 OR LESS                               SHACKLETT  STEPHEN      METROPLEX DR
+
+10/18/2014 6:23   VANDALISM- $500 OR LESS                                       AL-SADI    SAMI         THUSS AVE
+
+10/18/2014 8:15   VANDALISM- $500 OR LESS                                       SMITH      TERI         LONG BR
+
+10/18/2014 9:11   VANDALISM- $500 OR LESS                                       HODGE      XAVIER       ENSLEY AVE
+
+10/18/2014 15:27  VANDALISM- $500 OR LESS                                       PARKER     CHRISTOPHER  JAMES ROBERTSON PKWY
+
+10/18/2014 16:40  VANDALISM- $500 OR LESS                                       STEM       MARCELLO     JENNINGS ST
+
+10/18/2014 7:48   VANDALISM- $1,000 OR GT, LT $10,000                           WILLIAMS   DANIEL       I 40 E
+
+10/17/2014 20:35  VANDALISM- GT $500, LT $1,000                                 MCKINNEY   WILLIAM      CHARLOTTE AVE
+
+10/18/2014 16:38  VANDALISM- GT $500, LT $1,000                                 GREGORY    HAROLD       BUCHANAN ST
+
+10/18/2014 20:27  VANDALISM- GT $500, LT $1,000                                 BENESTO    FLORENCE     RICHARDS RD
+
+10/18/2014 3:33   WEAPON - DANGEROUS FELONY - POSS. OF FIREARM  W/INT           WATKINS    TROYVONTE    HWY 45
+
+10/18/2014 2:55   Weapon - Felon-Poss-Firearm (Drug Offense)                    DENZMORE   ROLANDUS     HWY 45
+
+                                                                       Page  5  of 5
