@@ -7,19 +7,25 @@ import logging
 import json
 
 
-def get_pdf_link():
+def get_metro_html():
     """
-    :param url: (string) - A url
-    :return: Text - the url of the most recent embedded pdf
+    :return: (string) HTML from metro_arrests_url
     """
     metro_arrests_url = "http://www.nashville.gov/Police-Department/News-and-Reports/Daily-Booking-List.aspx"
-    page = requests.get(metro_arrests_url).text
-    lines = page.split("\n")
+    return requests.get(metro_arrests_url).text
+
+
+def get_first_pdf_link(html_text):
+    """
+    :param html_text: (string) - html expected from get_metro_html()
+    :return: Text - the url of the most recent embedded pdf
+    """
+    lines = html_text.split("\n")
     target = re.compile(r'^\s+<li><a href="/Portals/0/SiteContent/Police/docs/Media/Daily')
-    most_recent_arrests = [line for line in lines if re.match(target, line)][0]
+    most_recent_arrests = [line.strip()  for line in lines if re.match(target, line)][0]
     end_of_link = string.find(most_recent_arrests, '">')
 
-    return "www.nashville.gov{}".format(most_recent_arrests[17: end_of_link])
+    return "http://www.nashville.gov{}".format(most_recent_arrests[13: end_of_link])
 
 
 def pull_report(url):
@@ -47,44 +53,53 @@ def pdf_to_text(pdf):
     return pdf[:-3] + 'txt'
 
 
-def parse_text_file2(text_file):
+def read_text_file(text_file):
     """
     :param text_file: (file) .txt
-    :return: A list of lists (of arrests): [['date/time', 'offense', 'last name', 'first name', 'location],...]
-    :comment: Each page of .txt file starts with 'Arrests'.  This header determines the position of the fields.
+    :return: (list) lines of the text file
     """
     with open(text_file) as f:
-        records = [line for line in f.readlines()]
-        result = []
-        spaces = re.compile(r'\s{2,99}') 
-        for item in records:
+        return [line for line in f.readlines()]
+
+
+def parse_text_file(lines_from_text_file):
+    """
+    :param lines_from_text_file: (list) the lines from a text file
+    :return: A list of lists (of arrests): [['date', 'time', 'offense', 'last name', 'first name', 'location'],...]
+    :comment: Each page of .txt file starts with 'Arrests'.  This header determines the position of the fields.
+    """
+    result = []
+
+    for item in lines_from_text_file:
             
-            if item[0] == 'A':
-                date_pos = item.find('Arrest')
-                offense_pos = item.find('Charge')
-                name_pos = item.find('Last')
-                location_pos = item.find('Street')
+        if item[0] == 'A':
+            date_pos = item.find('Arrest')
+            offense_pos = item.find('Charge')
+            name_pos = item.find('Last')
+            location_pos = item.find('Street')
 
-            if item[0].isdigit():
-                datetime = item[date_pos: offense_pos-1].rstrip().split()
-                offense = ' '.join(item[offense_pos: name_pos-1].lower().split())
-                name = ' '.join(item[name_pos: location_pos-1].split()).lower().split()  #split/join to extra spaces, then split again
-                location = ' '.join(item[location_pos:].lower().replace('\n', '').split())
-                if len(name) == 1:
-                    name.append('')
-                
-                arrest = [convert_date(datetime[0]), convert_time(datetime[-1]), offense, name[0], name[1], location]
-                if len(arrest) != 6:
-                    arrest.append(None)
+        if item[0].isdigit():
+            datetime = item[date_pos: offense_pos-1].rstrip().split()
+            offense = ' '.join(item[offense_pos: name_pos-1].lower().split())
+            name = ' '.join(item[name_pos: location_pos-1].split()).lower().split()  # split/join to extra spaces, then split again
+            location = ' '.join(item[location_pos:].lower().replace('\n', '').split())
+            while len(name) < 2: # Is either name field empty?
+                name.append('')
+
+            arrest = [convert_date(datetime[0]), convert_time(datetime[-1]), offense, name[0], name[1], location]
+            if len(arrest) != 6:
+                arrest.append(None)
+            if len(arrest) == 6:
                 result.append(arrest)
-
-        return result
+            else:
+                print("there was a problem with {}".format(arrest)) #if not the right length, print/log error & do not append
+    return result
                 
 
 def convert_date(date_str):
     """
     :param date_str:(string) Date in the format 'M/D/YYYY'
-    :return: (string) 'YYYY MM DD'
+    :return: (string) 'YYYY-MM-DD'
     """
     date_str = date_str.replace(' ', '').replace('-', '/')
 
@@ -118,9 +133,8 @@ def convert_time(time_str):
 
 def fix_raw_datetime(bookings_list):
         """
-        :param bookings_list: (list) A list of lists of arrest records.[['datetime', 'offense', 'last_name', 'first_name', 'location']]
-        :detail: datetime string converted from 'M/D/YYYY H:MM' to 'YYYY MM DD HH MM'
-        :return:(list) [['YYYY MM DD', 'HH MM', 'offense', 'last_name', 'first_name', 'location'], ['etc',]]
+        :param bookings_list: (list) A list of lists of arrest records.[['datetime', 'offense', 'last_name', 'first_name', 'location']] 
+        :return:(list) [['YYYY-MM-DD', 'HH:MM', 'offense', 'last_name', 'first_name', 'location'], ['etc',]]
         """
         result = []
         for record in bookings_list:
@@ -139,6 +153,7 @@ def fix_raw_datetime(bookings_list):
 
         return result
 
+
 def remove_duplicates(iterable):
     """
     :param iterable: (list)
@@ -156,7 +171,7 @@ def create_daily_booking_list():
     :return: a list of lists of the most recent arrests listed on nashville.gov
     :notes: multiple counts will appear as duplicates
     """
-    return parse_text_file2(pdf_to_text(pull_report(get_pdf_link())))
+    return parse_text_file(read_text_file(pdf_to_text(pull_report(get_first_pdf_link(get_metro_html())))))
 
 
 def booking_list_from_text_file(text_file):
@@ -164,7 +179,7 @@ def booking_list_from_text_file(text_file):
     :param text_file: an existing text file
     :return: a list of lists
     """
-    return fix_raw_datetime(parse_text_file2(text_file))    
+    return fix_raw_datetime(parse_text_file((read_text_file(text_file))))    
 
 
 def json_from_daily_booking(booking_list):
@@ -182,7 +197,6 @@ def json_from_daily_booking(booking_list):
                                 }
                     }]
     """
-
     result = []
     for crime in booking_list:
         if crime[-1] == 'None':
@@ -205,16 +219,9 @@ def json_from_daily_booking(booking_list):
 
 
 
-#json_from_daily_booking(create_daily_booking_list())
-#json_from_daily_booking(booking_list_from_text_file('November 5.txt'))
-#print(fix_location_in_first_name(['2014-11-2', '10:51', 'driving- revoked license, 2nd offense or gt thompson', 'alan', 'cliff', 'None']))
-#test_is_streetname(PROBLEM_STREETNAMES)
-#print(fix_perp_errors('2014-10-6 09:11  jaywalking  smith  kathryn  baptist church  dr'))
-#print(fix_perp_errors_test())
-#print(parse_text_file2('November 7.txt'))
-
 def main():
-    pass
+    json_from_daily_booking(create_daily_booking_list())
+
 
 if __name__ == '__main__':
     sys.exit(main())

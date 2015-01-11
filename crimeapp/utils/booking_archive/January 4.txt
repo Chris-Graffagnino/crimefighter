@@ -1,0 +1,240 @@
+                                                                         Arrestee            Arrestee
+
+Arrest Date       Charge Description                                     Last Name           First Name  Street
+
+1/4/2015 4:09     ALCOHOL- UNDER 21, CONSUMPTION                         BANUELOS RODRIGUEZ  DIEGO       15TH AVE N
+
+1/4/2015 8:28     ALTER TITLE, REGISTRATION, PLATE OR PERMIT             WEBB                PAMELA      BROADMOOR DR
+
+1/4/2015 2:23     ASSAULT OF OFFICER - FEAR OF BODILY INJURY             COFFEE              CARLA       ALBION ST
+
+1/4/2015 7:28     ASSAULT OF OFFICER - OFFENSIVE CONTACT                 LITTLE              JEANETTE    MURFREESBORO PIKE
+
+1/4/2015 17:08    ASSAULT- OFFENSIVE OR PROVOCATIVE CONTACT              FOXX                CIERRA      LAFAYETTE ST
+
+1/4/2015 2:23     Assault, Aggravated - Deadly Weapon - Int/Kn           COFFEE              CARLA       ALBION ST
+
+1/4/2015 18:03    Assault, Aggravated - Deadly Weapon - Int/Kn           GRAY                JAMES       CHEATHAM PL
+
+1/4/2015 20:33    Assault, Aggravated - Deadly Weapon - Int/Kn           PHILLIPS            JOSHUA      JAMES ROBERTSON PKWY
+
+1/4/2015 20:33    Assault, Aggravated - Deadly Weapon - Reckless         PHILLIPS            JOSHUA      JAMES ROBERTSON PKWY
+
+1/3/2015 21:49    Assault, Aggravated - Strangulation - Int/Kn           MYERS               RONALD      E CEDAR ST
+
+1/4/2015 2:57     ASSAULT, DOMESTIC BODILY INJURY                        HOLDEN              THEODORE    JEFFERSON ST
+
+1/4/2015 7:21     ASSAULT, DOMESTIC BODILY INJURY                        SCOTT               RODNEY      JAMES ROBERTSON PKWY
+
+1/4/2015 11:51    ASSAULT, DOMESTIC BODILY INJURY                        HUNTER              SHANAE      JAMES ROBERTSON PKWY
+
+1/4/2015 18:03    ASSAULT, DOMESTIC BODILY INJURY                        GRAY                JAMES       CHEATHAM PL
+
+1/4/2015 18:55    ASSAULT, DOMESTIC BODILY INJURY                        QUICK               PATRICK     NEWSOM STATION RD
+
+1/4/2015 20:36    ASSAULT, DOMESTIC BODILY INJURY                        CEPEDA              ANTHONY     ANTIOCH PIKE
+
+1/4/2015 5:31     ASSAULT, DOMESTIC FEAR OF BODILY INJURY                HIGH                DAVID       HICKORY TRACE DR
+
+1/4/2015          ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT        CARUTHERS           JOSEPH      POWERS AVE
+
+1/4/2015 0:19     ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT        CARUTHERS           MARILYN     POWERS AVE
+
+1/4/2015 7:47     ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT        ACOSTA              JENNIFER    LEBANON PIKE
+
+1/4/2015 9:02     ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT        BAIRD               TIFFANY     PREMIER DR
+
+1/4/2015 9:20     ASSAULT-BODILY INJURY                                  CHEATHAM            HOWARD      5TH AVE N
+
+1/4/2015 17:08    ASSAULT-BODILY INJURY                                  FOXX                CIERRA      LAFAYETTE ST
+
+1/4/2015 10:48    COMMUNITY SUPERV. VIOL. BY FELONY OFF.                 PITTS               TERRON      DR D B TODD JR BLVD
+
+1/3/2015 21:49    CONTRABAND IN PENAL INSTITUTION-POSSESSION             MYERS               RONALD      E CEDAR ST
+
+10/31/2014 17:50  CRIMINAL IMPERSONATION                                 ERVIN               JONATHAN    NATCHEZ CT
+
+1/3/2015 23:31    CRIMINAL IMPERSONATION                                 MATHIS              DONALD      HILLSIDE AVE
+
+1/4/2015 4:09     CRIMINAL IMPERSONATION                                 BENITEZ             ANGEL       APACHE TRL
+
+1/4/2015 17:08    CRIMINAL TRESPASS                                      FOXX                CIERRA      LAFAYETTE ST
+
+10/2/2014 21:04   CRIMINAL TRESPASS- AGGRAVATED-RAILROAD PROPERTY        CEPEDA              ANTHONY     FORT NEGLEY BLVD
+
+1/4/2015 5:27     DISORDERLY CONDUCT                                     CHURCH              CORY        CRYSTAL SPRING LN
+
+1/4/2015 5:32     DISORDERLY CONDUCT                                     RAMOS               JAVIER      CRYSTAL SPRING LN
+
+3/14/2014 23:14   DRIV. LIC. - NO D/L                                    CRUTCHER            MYKYA       BUENA VISTA PIKE
+
+                                                                   Page  1 of 4
+                                                                      Arrestee            Arrestee
+
+Arrest Date       Charge Description                                  Last Name           First Name   Street
+
+1/3/2015 23:20    DRIV. LIC. - NO D/L                                 HUERTA-GONZALEZ     JOSE         I 24 E
+
+1/4/2015 4:09     DRIV. LIC. - NO D/L                                 BENITEZ             ANGEL        APACHE TRL
+
+1/4/2015 16:05    DRIV. LIC. - NO D/L                                 COSTON              MELISSA      WESTFIELD DR
+
+1/4/2015 18:26    DRIV. LIC. - NO D/L                                 BUCHANON            TIMOTHY      BRANSFORD AVE
+
+11/28/2014 3:07   DRIVING- CANCELLED LICENSE                          MELLOR              CHRISTOPHER  I 65 S
+
+1/3/2015 21:45    DRIVING- REVOKED LICENSE                            TAJI                SAFUAN       N GALLATIN PIKE
+
+1/3/2015 23:31    DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         MATHIS              DONALD       HILLSIDE AVE
+
+1/3/2015 23:31    DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         MATHIS              DONALD       HILLSIDE AVE
+
+1/4/2015 4:07     DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         LONDON              GREGORY      15TH AVE N
+
+6/29/2014 23:30   DRIVING- SUSPENDED LICENSE                          SCHMIDT             GERALD       LAFAYETTE ST
+
+10/24/2014 17:01  DRIVING- SUSPENDED LICENSE                          JOHNSON             DERICK       VALLEY GROVE DR
+
+1/4/2015 8:28     DRIVING- SUSPENDED LICENSE                          WEBB                PAMELA       BROADMOOR DR
+
+1/4/2015 1:17     DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       PHILLIPS            CARLA        JACKMAN RD
+
+1/4/2015 10:41    DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       PARNELL             ASHLEY       OLD HICKORY BLVD
+
+1/4/2015 11:54    DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       MCMILLIAN           WILED        BRICK CHURCH PIKE
+
+1/3/2015 23:20    DRIVING UNDER THE INFLUENCE                         HUERTA-GONZALEZ     JOSE         I 24 E
+
+1/4/2015 1:17     DRIVING UNDER THE INFLUENCE                         PHILLIPS            CARLA        JACKMAN RD
+
+1/4/2015 2:40     DRIVING UNDER THE INFLUENCE                         GRINDLE             DANNIE       CHANDLER RD
+
+1/4/2015 4:14     DRIVING UNDER THE INFLUENCE                         PARKER              RYAN         4TH AVE S
+
+1/4/2015 4:09     DRIVING UNDER THE INFLUENCE                         BANUELOS RODRIGUEZ  DIEGO        15TH AVE N
+
+1/4/2015 4:32     DRIVING UNDER THE INFLUENCE                         LAGUNAS PADILLA     JUAN         ALICE AVE
+
+1/4/2015 2:12     DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           URBAN               ANTHONY      HARPETH PKWY W
+
+1/3/2015 21:45    DRIVING UNDER THE INFLUENCE - 4TH OFFENSE OR MORE   TAJI                SAFUAN       N GALLATIN PIKE
+
+1/4/2015 2:12     DRUG PARAPHERNALIA- UNLAWFUL USE                    URBAN               ANTHONY      HARPETH PKWY W
+
+1/3/2015 21:35    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  CRUTCHER            MYKYA        6TH AVE N
+
+1/3/2015 21:35    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  CRUTCHER            MYKYA        6TH AVE N
+
+1/3/2015 21:35    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  CRUTCHER            MYKYA        6TH AVE N
+
+1/4/2015 2:23     FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  RICHMOND            DATERREIS    BUENA VISTA PIKE
+
+1/4/2015 2:23     FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  RICHMOND            DATERREIS    BUENA VISTA PIKE
+
+1/4/2015 2:59     FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  NELSEN              BRIAN        2ND AVE N
+
+1/4/2015 4:07     FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  LONDON              GREGORY      15TH AVE N
+
+1/4/2015 4:07     FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  LONDON              GREGORY      15TH AVE N
+
+1/4/2015 11:51    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  HUNTER              SHANAE       JAMES ROBERTSON PKWY
+
+                                                                      Page 2 of 4
+                                                                           Arrestee         Arrestee
+
+Arrest Date     Charge Description                                         Last Name        First Name   Street
+
+1/4/2015 12:11  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        PEMBERTON        AMANDA       CLIFF DR
+
+1/4/2015 17:08  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        FOXX             CIERRA       LAFAYETTE ST
+
+1/4/2015 17:08  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        FOXX             CIERRA       LAFAYETTE ST
+
+1/4/2015 17:08  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        FOXX             CIERRA       LAFAYETTE ST
+
+1/4/2015 18:24  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        ROGERS           STACEY       MYATT DR
+
+1/4/2015 18:46  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        JOHNSON          BOBBY        HAYWOOD LN
+
+1/4/2015 18:46  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING        JOHNSON          BOBBY        HAYWOOD LN
+
+1/3/2015 21:35  FAILURE TO BE BOOKED                                       CRUTCHER         MYKYA        6TH AVE N
+
+1/3/2015 21:51  FAILURE TO BE BOOKED                                       MELLOR           CHRISTOPHER  OHB
+
+1/3/2015 23:19  FAILURE TO BE BOOKED                                       SCHMIDT          GERALD       BRILEY PKWY N
+
+1/4/2015 2:23   FAILURE TO BE BOOKED                                       ERVIN            JONATHAN     63RD AVE N
+
+1/4/2015 20:36  FAILURE TO BE BOOKED                                       CEPEDA           ANTHONY      ANTIOCH PIKE
+
+1/4/2015 20:56  FAILURE TO BE BOOKED                                       JOHNSON          DERICK       OLD HICKORY BLVD
+
+1/4/2015        FALSE IMPRISONMENT                                         CARUTHERS        JOSEPH       POWERS AVE
+
+1/4/2015 18:46  FUGITIVE FROM JUSTICE- WITH WARRANT                        T0MPKINS         GREG0RY      JACKSON DOWNS BLVD
+
+1/3/2015 23:20  IMPLIED CONSENT - CIVIL                                    HUERTA-GONZALEZ  JOSE         I 24 E
+
+1/4/2015 2:12   IMPLIED CONSENT - CIVIL                                    URBAN            ANTHONY      HARPETH PKWY W
+
+1/4/2015 2:40   IMPLIED CONSENT - CIVIL                                    GRINDLE          DANNIE       CHANDLER RD
+
+1/4/2015 4:14   IMPLIED CONSENT - CIVIL                                    PARKER           RYAN         4TH AVE S
+
+1/3/2015 21:49  POSS. OR CASUAL EXCHANGE-CONT.SUB.                         MYERS            RONALD       E CEDAR ST
+
+1/4/2015 2:12   POSS. OR CASUAL EXCHANGE-CONT.SUB.                         URBAN            ANTHONY      HARPETH PKWY W
+
+1/4/2015 16:02  PROBATION VIOLATION- FELONY                                ROBERTS-FUQUA    VANESSA      JAMES ROBERTSON PKWY
+
+1/3/2015 23:49  PROBATION VIOLATION- MISDEMEANOR                           WARREN           KIERA        2ND AVE N
+
+1/3/2015 23:49  PROBATION VIOLATION- MISDEMEANOR                           WARREN           KIERA        2ND AVE N
+
+1/4/2015 4:09   PROBATION VIOLATION- MISDEMEANOR                           BENITEZ          ANGEL        APACHE TRL
+
+1/4/2015 10:41  PROBATION VIOLATION- MISDEMEANOR                           PARNELL          ASHLEY       OLD HICKORY BLVD
+
+1/4/2015 20:26  PROBATION VIOLATION- MISDEMEANOR                           ACOSTA-DELGADO   JUSTIN       EDGEMONT DR
+
+1/4/2015 20:56  PROBATION VIOLATION- MISDEMEANOR                           JOHNSON          DERICK       OLD HICKORY BLVD
+
+1/4/2015 4:41   PROSTITUTION                                               LINDSEY          BRITTANY     S MAIN ST
+
+1/3/2015 22:33  PUBLIC INTOXICATION                                        CRAIG            RONNIE       DAVIDSON ST
+
+1/4/2015 3:37   PUBLIC INTOXICATION                                        KELLEY           DANNY        I65 N
+
+1/4/2015 4:15   PUBLIC INTOXICATION                                        MAULDIN          DAWN         4TH AVE N
+
+1/4/2015 9:20   PUBLIC INTOXICATION                                        CHEATHAM         HOWARD       5TH AVE N
+
+                                                                     Page  3 of 4
+                                                                Arrestee     Arrestee
+
+Arrest Date     Charge Description                              Last Name    First Name  Street
+
+1/4/2015 16:34  PUBLIC INTOXICATION                             ESCOBAR      JORGE       APACHE TRL
+
+1/4/2015 2:23   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  COFFEE       CARLA       ALBION ST
+
+1/4/2015 10:48  SEX OFFENDER REGISTRATION VIOL.-2ND OFFENSE     PITTS        TERRON      DR D B TODD JR BLVD
+
+1/4/2015 17:08  THEFT OF MERCHANDISE - $500 OR LESS             FOXX         CIERRA      LAFAYETTE ST
+
+1/4/2015 16:05  THEFT OF SERVICES- $500 OR LESS                 COSTON       MELISSA     WESTFIELD DR
+
+1/4/2015 7:21   VANDALISM- $500 OR LESS                         SCOTT        RODNEY      JAMES ROBERTSON PKWY
+
+1/4/2015 7:28   VANDALISM- $500 OR LESS                         LITTLE       JEANETTE    MURFREESBORO PIKE
+
+1/4/2015 11:19  VANDALISM- $500 OR LESS                         JONES        DAMEON      N GALLATIN PIKE
+
+1/4/2015 10:53  VANDALISM- $1,000 OR GT, LT $10,000             SIMMS        JAMES       BELL RD
+
+1/4/2015 14:22  VEHICLE THEFT - $1,000 OR GT, LT $10,000        BRANDON      STEVEN      CHARLOTTE PIKE
+
+1/3/2015 22:50  WEAPON - FELON IN POSSESSION OF A HANDGUN       MAJOK        JACOB       14TH AVE N
+
+                                                                Page 4 of 4

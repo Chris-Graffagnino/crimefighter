@@ -1,0 +1,723 @@
+                                                                      Arrestee      Arrestee
+
+Arrest Date       Charge Description                                  Last Name     First Name   Street
+
+12/17/2014 23:20  ALCOHOL- UNDER 21, POSSESSION                       BUCKNER       MIKAYLA      HAMILTON CHURCH RD
+
+12/13/2014 16:00  ALCOHOL-UNDER 21,SALE TO MINOR                      RIZO          ANGELICA     ALLATIN PKE
+
+12/2/2014 11:49   ASSAULT- FEAR OF BODILY INJURY                      GRAY          MARCUS       LEBANON PIKE
+
+12/11/2014        ASSAULT- FEAR OF BODILY INJURY                      WOODS         CHARLES      2ND AVE N
+
+1/8/2015 21:48    ASSAULT OF OFFICER - BODILY INJURY                  RILEY         FRANKIE      CHESTNUT ST
+
+1/8/2015 8:17     Assault, Aggravated - Deadly Weapon - Int/Kn        NOBLE         WALTER       WHITES CREEK PIKE
+
+1/8/2015 8:17     Assault, Aggravated - Deadly Weapon - Int/Kn        NOBLE         WALTER       WHITES CREEK PIKE
+
+1/8/2015 12:43    Assault, Aggravated - Deadly Weapon - Int/Kn        MCMILLION     TROLAURENCE  CRAFTWOOD CT
+
+1/8/2015 12:43    Assault, Aggravated - Deadly Weapon - Int/Kn        MCMILLION     TROLAURENCE  CRAFTWOOD CT
+
+1/7/2015 23:00    Assault, Aggravated - Strangulation - Int/Kn        GOODSON       MARK         UPSALL DR
+
+12/12/2014        ASSAULT, DOMESTIC BODILY INJURY                     MUCKELROY     AMANDA       2ND AVE N
+
+1/8/2015 0:03     ASSAULT, DOMESTIC BODILY INJURY                     COUNTS        ALBERT       BROADWAY
+
+1/8/2015 7:34     ASSAULT, DOMESTIC BODILY INJURY                     RUTLAND       CIARA        2ND AVE N
+
+1/8/2015 13:58    ASSAULT, DOMESTIC BODILY INJURY                     GONZALEZ      AURORA
+
+1/8/2015 14:39    ASSAULT, DOMESTIC BODILY INJURY                     AKINELE       EMMANUEL     JAMES ROBERTSON PKWY
+
+1/8/2015 16:12    ASSAULT, DOMESTIC BODILY INJURY                     SALES         WOODROW      JAMES ROBERTSON PKWY
+
+1/8/2015 20:41    ASSAULT, DOMESTIC BODILY INJURY                     DERAPS        KATHERINE    NEELYS BEND RD
+
+1/8/2015 20:41    ASSAULT, DOMESTIC BODILY INJURY                     DERAPS        KATHERINE    NEELYS BEND RD
+
+1/8/2015 21:48    ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     MALONE        CHRISTOPHER  MAYER LN
+
+1/8/2015 15:46    CONTRABAND IN PENAL INSTITUTION-POSSESSION          GILCREASE     DERRICK      N 5TH ST
+
+1/8/2015 21:39    CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION  WALKUP        CHAD         INGRAM RD
+
+1/8/2015 21:48    CRIMINAL IMPERSONATION                              RILEY         FRANKIE      CHESTNUT ST
+
+1/8/2015 21:48    CRIMINAL IMPERSONATION                              RILEY         FRANKIE      CHESTNUT ST
+
+1/8/2015 14:00    CRIMINAL SIMULATION- $500 OR LESS                   STEVENSON     LATREA       MCKINLEY ST
+
+9/29/2014 0:05    CRIMINAL TRESPASS                                   KIMBROUGH     TERRANCE     LEWIS ST
+
+12/13/2014 14:05  CRIMINAL TRESPASS                                   AMEY          JORDAN       LEBANON PIKE
+
+12/11/2014 10:37  CRIMINAL TRESPASS                                   HAYNES        JERMESIA     2ND AVE N
+
+12/10/2014        CRIMINAL TRESPASS                                   STOREY        MICHAEL      COMMERCE ST
+
+1/8/2015 2:35     CRIMINAL TRESPASS                                   NANNIE        MICHELLE     S 20TH ST & SHELBY A
+
+1/8/2015 2:29     CRIMINAL TRESPASS                                   LUFFMAN       JAMES        RIVERSIDE DR
+
+1/8/2015 2:56     CRIMINAL TRESPASS                                   KIMBROUGH     TERRANCE     LEWIS ST
+
+1/8/2015 8:09     CRIMINAL TRESPASS                                   JEFFRIES      RICKEY       28TH AVE N
+
+1/8/2015 21:19    CRIMINAL TRESPASS                                   JOHNS         TAMMY        PATIO DR
+
+                                                                      Page 1 of 11
+                                       Arrestee          Arrestee
+
+Arrest Date       Charge Description   Last Name         First Name  Street
+
+1/8/2015 21:48    CRIMINAL TRESPASS    RILEY             FRANKIE     CHESTNUT ST
+
+12/11/2014 10:37  DISORDERLY CONDUCT   HAYNES            JERMESIA    2ND AVE N
+
+1/8/2015 17:24    DISORDERLY CONDUCT   JUT               MAYUAK      MURFREESBORO PIKE
+
+7/2/2013 0:12     DRIV. LIC. - NO D/L  LACY              DELENA      BELL RD
+
+11/15/2014 0:38   DRIV. LIC. - NO D/L  ARTEAGA-VARELA    ROGER       PERKINS ST
+
+11/19/2014 11:09  DRIV. LIC. - NO D/L  AVILA             ELIDA       GLASTONBURY RD
+
+11/24/2014 20:47  DRIV. LIC. - NO D/L  GONZALEZ          ISAIAS      MERRITT ST
+
+11/30/2014 6:26   DRIV. LIC. - NO D/L  HERRERA-GACILAZO  MARIA       JONQUIL DR
+
+12/1/2014 10:45   DRIV. LIC. - NO D/L  TORRES            ROSA        MURFREESBORO PIKE
+
+12/8/2014 6:33    DRIV. LIC. - NO D/L  RODRIGUEZ         JUAN        FESSLERS LN
+
+12/9/2014 1:08    DRIV. LIC. - NO D/L  ARTEAGA-VARELA    ROGER       EXPRESSWAY PARK DR
+
+12/9/2014 6:49    DRIV. LIC. - NO D/L  LOPEZ             GABRIEL     CJC
+
+12/9/2014 7:51    DRIV. LIC. - NO D/L  DERAS             SANDRA      SMITH SPRINGS RD
+
+12/11/2014 6:19   DRIV. LIC. - NO D/L  HEDGES            JASON       S GALLATIN PIKE
+
+12/11/2014 7:49   DRIV. LIC. - NO D/L  MARTINEZ          SAUL        I 40 E
+
+12/11/2014 9:01   DRIV. LIC. - NO D/L  SANCHEZ-TEPEPA    MARACELA    FRANKLIN PIKE
+
+12/11/2014 15:24  DRIV. LIC. - NO D/L  NAPIER            TERRANCE    CLAIBORNE ST
+
+12/11/2014 17:05  DRIV. LIC. - NO D/L  VINKLER           BETH        BRILEY PKWY N
+
+12/12/2014 6:37   DRIV. LIC. - NO D/L  REYES-EMAMORUDO   MARCOS
+
+12/12/2014 11:51  DRIV. LIC. - NO D/L  BERRY             STACEY      FAIRFIELD AVE
+
+12/12/2014 19:20  DRIV. LIC. - NO D/L  VILLANUEVA        HIPOLITO    PAVILION BLVD
+
+12/13/2014 9:02   DRIV. LIC. - NO D/L  GARCIA            ANGEL
+
+12/14/2014 16:01  DRIV. LIC. - NO D/L  MOORE             BRITTANY    I40 W
+
+12/14/2014 18:29  DRIV. LIC. - NO D/L  RODRIGUEZ         MOIS        MM 13 0 BRILEY N
+
+12/16/2014 7:32   DRIV. LIC. - NO D/L  PRIMERO           GREGORIO    BAXTER ST
+
+12/16/2014 8:31   DRIV. LIC. - NO D/L  TREJO             RAQUEL      GRAYLYNN DR
+
+12/16/2014 21:10  DRIV. LIC. - NO D/L  ENRIQUEZ          EMILIANO    MURFREESBORO PIKE
+
+12/16/2014 23:43  DRIV. LIC. - NO D/L  VASTOLA           SARAH       MARTINGALE DR
+
+12/17/2014 11:25  DRIV. LIC. - NO D/L  TAKROUNI          FAISAL      MURFREESBORO PIKE
+
+12/17/2014 12:15  DRIV. LIC. - NO D/L  PELAEZ            DULIER      BRILEY PKWY N
+
+12/17/2014 15:16  DRIV. LIC. - NO D/L  SMITH             LASHAWN     BELL RD
+
+12/17/2014 17:13  DRIV. LIC. - NO D/L  MGONGA            ABDIKADIR   CANNON ST
+
+12/18/2014 12:12  DRIV. LIC. - NO D/L  ROBINSON          ASHLEY      I 40 E
+
+                                       Page 2 of 11
+                                                                      Arrestee          Arrestee
+
+Arrest Date       Charge Description                                  Last Name         First Name   Street
+
+12/18/2014 18:39  DRIV. LIC. - NO D/L                                 BARHAM            MATTEW       ELM HILL PIKE
+
+12/18/2014 21:34  DRIV. LIC. - NO D/L                                 GERSON-JEHOVANNI  CHACON       LAFAYETTE ST
+
+12/2/2014 23:15   DRIV. LIC. - NO D/L                                 WILLIAMS          LERISHA      2ND AVE S
+
+12/24/2014 4:42   DRIV. LIC. - NO D/L                                 CORTEZ            MELISSA      N GALLATIN PIKE
+
+12/11/2014 12:00  DRIV. LIC. - NO D/L                                 PEOPLES           CHESSTRINA   DICKERSON PIKE
+
+12/17/2014 23:45  DRIV. LIC. - NO D/L                                 ALSHAMLY          JAMILLA      BROOKSBORO PL
+
+12/14/2014 21:25  DRIV. LIC. - NO D/L                                 ARTEAGA           WENDY        DONELSON PIKE
+
+12/6/2014         DRIV. LIC. - NO D/L                                 OCAUA             TRUJILLO     N GALLATIN PIKE
+
+12/15/2014        DRIV. LIC. - NO D/L                                 TACKETT           SKYLAR       CJC
+
+1/8/2015 0:36     DRIV. LIC. - NO D/L                                 WILKERSON         TIMOTHY      CHESTER AVE
+
+1/8/2015 13:25    DRIV. LIC. - NO D/L                                 PHILLIPS          DANNIELLE    I 440 W
+
+11/26/2014 1:11   DRIV. LIC. - POSS. OF REVOKED,  SUSP.  OR  ALTERED  EDWARDS           CORNELIUS    CHARLOTTE PIKE
+
+12/9/2014 1:58    DRIV. LIC. - POSS. OF REVOKED,  SUSP.  OR  ALTERED  COLEMAN           WILLIAM      MAY DR
+
+12/9/2014 15:14   DRIV. LIC. - POSS. OF REVOKED,  SUSP.  OR  ALTERED  GRANDERSON        ADRIAN       DELTA AVE
+
+11/8/2014 20:46   DRIVING- REVOKED LICENSE                            OCANA             RUTH         COLLIER AVE
+
+10/30/2014 22:24  DRIVING- REVOKED LICENSE                            SMITH             BRITTANY     RIVERGATE PKWY
+
+11/18/2014 23:24  DRIVING- REVOKED LICENSE                            BROWN             TERRANCE     I 65 N
+
+11/26/2014 1:11   DRIVING- REVOKED LICENSE                            EDWARDS           CORNELIUS    CHARLOTTE PIKE
+
+11/10/2014 13:15  DRIVING- REVOKED LICENSE                            PEWITT            HERBERT      I 440 E
+
+12/3/2014 12:16   DRIVING- REVOKED LICENSE                            POWELL            BEULAH       9TH AVE N
+
+12/8/2014 4:12    DRIVING- REVOKED LICENSE                            ISABELL           JESSICA      BRILEY PKWY N
+
+12/8/2014 19:56   DRIVING- REVOKED LICENSE                            WHITE             CHRISTOPHER  ANDREW JACKSON PKWY
+
+12/9/2014 13:45   DRIVING- REVOKED LICENSE                            CLAYBROOKS        DONEKA       IRELAND ST
+
+12/10/2014 16:13  DRIVING- REVOKED LICENSE                            ALCORN            DAVID        DUTCHMANS DR
+
+12/15/2014 9:51   DRIVING- REVOKED LICENSE                            TIBBS             SHONN        DANYACREST DR
+
+12/16/2014 9:54   DRIVING- REVOKED LICENSE                            HAYNES            HERMAN       FAIRFIELD AVE
+
+12/16/2014 13:38  DRIVING- REVOKED LICENSE                            BEAUDION          KYARRA       BRILEY PKWY W
+
+12/16/2014 22:00  DRIVING- REVOKED LICENSE                            GRAY              GIINOU       PATRICIA DR
+
+12/17/2014 19:07  DRIVING- REVOKED LICENSE                            AKINS             FERNANDO     CHARLES E DAVIS BLVD
+
+12/18/2014 3:49   DRIVING- REVOKED LICENSE                            COZORT            SARAH        FOSTER AVE
+
+12/18/2014 13:43  DRIVING- REVOKED LICENSE                            PENA              DENISE       LAKEVILLA DR
+
+12/18/2014 21:54  DRIVING- REVOKED LICENSE                            FISHER            COREY        MCGAVOCK PIKE
+
+12/23/2014 0:27   DRIVING- REVOKED LICENSE                            HUDSON            DAVID        W TRINITY LN
+
+                                                                      Page 3 of 11
+                                                                  Arrestee      Arrestee
+
+Arrest Date       Charge Description                              Last Name     First Name  Street
+
+12/8/2014 13:30   DRIVING- REVOKED LICENSE                        KITTRELL      JOSHUA      DICKERSON PIKE
+
+12/17/2014 16:00  DRIVING- REVOKED LICENSE                        BUTLER        LORENZO     I 40 E
+
+12/6/2014 18:00   DRIVING- REVOKED LICENSE                        COLEMAN       BRANDON     DICKERSON PIKE
+
+12/12/2014        DRIVING- REVOKED LICENSE                        MEJIA         YAIRE       LEBANON PIKE
+
+12/18/2014        DRIVING- REVOKED LICENSE                        ZAVALA        BRAD        MURFREESBORO PIKE
+
+1/8/2015 2:17     DRIVING- REVOKED LICENSE                        FITZGERALD    GLADYS      MURFREESBORO PIKE
+
+1/8/2015 14:19    DRIVING- REVOKED LICENSE                        SALAH         SHAWKI      29TH AVE N
+
+1/8/2015 17:57    DRIVING- REVOKED LICENSE                        WELCH         WALTER      11TH AVE S
+
+1/8/2015 20:27    DRIVING- REVOKED LICENSE                        ROSS          ROBERT      I 65 N
+
+11/28/2014 16:35  DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  BOTTS         RANDALL     JACKSON DOWNS BLVD
+
+12/3/2014 11:02   DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  DAVIS         MARY        MURFREESBORO PIKE
+
+12/9/2014 18:55   DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  WOODARD       DENISE      ALLEN RD
+
+12/10/2014 11:35  DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  LAW           ASHANTI     NOLENSVILLE PIKE
+
+1/7/2015 23:19    DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  SMITH         CHAUNCEY    BLACKMAN RD
+
+1/8/2015 14:00    DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  GLENN         CHLOE       BRICK CHURCH PIKE
+
+1/8/2015 17:05    DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  MILLER        DOUGLAS     NOLENSVILLE PIKE
+
+6/4/2014 23:18    DRIVING- SUSPENDED LICENSE                      COX           BRYAN       LEBANON PIKE
+
+11/12/2014 18:34  DRIVING- SUSPENDED LICENSE                      TOM           MARGARET    CRYSTAL SPRING LN
+
+12/1/2014 17:32   DRIVING- SUSPENDED LICENSE                      WILKINS       ERIC        S 7TH ST
+
+12/3/2014 23:53   DRIVING- SUSPENDED LICENSE                      WILLIAMS      ZACHARIAH   2ND AVE S
+
+12/4/2014 2:35    DRIVING- SUSPENDED LICENSE                      JEWELL        CARL        2ND AVE N
+
+12/9/2014 1:58    DRIVING- SUSPENDED LICENSE                      COLEMAN       WILLIAM     MAY DR
+
+12/9/2014 3:07    DRIVING- SUSPENDED LICENSE                      BYRD          AUDREY      ANNEX CT
+
+12/9/2014 5:00    DRIVING- SUSPENDED LICENSE                      ZIRKER        CHAROLETTE  ELM HILL PIKE
+
+12/9/2014 7:08    DRIVING- SUSPENDED LICENSE                      SIMMONS       KELLIE      DODSON CHAPEL RD
+
+12/9/2014 15:14   DRIVING- SUSPENDED LICENSE                      GRANDERSON    ADRIAN      DELTA AVE
+
+12/10/2014 14:25  DRIVING- SUSPENDED LICENSE                      DOTY          ALISON      DICKERSON PIKE S
+
+12/11/2014 13:03  DRIVING- SUSPENDED LICENSE                      BRUCE         DONNA       BELL RD
+
+12/11/2014 14:40  DRIVING- SUSPENDED LICENSE                      DAVIS         PRESTON     DICKERSON PIKE
+
+12/11/2014 15:59  DRIVING- SUSPENDED LICENSE                      DAVIS         MARQUEZ     LEWIS ST
+
+12/11/2014 18:12  DRIVING- SUSPENDED LICENSE                      HARRIS        AMBER       I-40 W
+
+12/12/2014 9:40   DRIVING- SUSPENDED LICENSE                      MINNICK       KAITLYNN    I 40 W
+
+12/12/2014 9:56   DRIVING- SUSPENDED LICENSE                      JOHNSON       DORIAN      MM 215 8 I40 E
+
+                                                                  Page 4 of 11
+                                                                      Arrestee       Arrestee
+
+Arrest Date       Charge Description                                  Last Name      First Name  Street
+
+12/12/2014 16:17  DRIVING- SUSPENDED  LICENSE                         MARCELO        LLOYDA      THOMPSON PL
+
+12/12/2014 16:44  DRIVING- SUSPENDED  LICENSE                         HALL           MARVIN      I 40 W
+
+12/13/2014 2:20   DRIVING- SUSPENDED  LICENSE                         CONQUEST       MATTHEW     MM 196 0 I40 W
+
+12/13/2014 15:31  DRIVING- SUSPENDED  LICENSE                         BUFFORD        JONATHAN    I 40 ENTRY W
+
+12/14/2014 5:27   DRIVING- SUSPENDED  LICENSE                         IRVIN          SHANE       ARBOR CREEK BLVD
+
+12/14/2014 17:28  DRIVING- SUSPENDED  LICENSE                         LOPEZ          JORGE       DISSPAYNE DR
+
+12/14/2014 23:01  DRIVING- SUSPENDED  LICENSE                         ROBERSON       CHARVEL     ANDREW JACKSON PKWY
+
+12/16/2014 4:37   DRIVING- SUSPENDED  LICENSE                         GRAHAM         KEYARA      OLD MURFREESBORO PIKE
+
+12/17/2014 0:09   DRIVING- SUSPENDED  LICENSE                         LEWIS          LIWAYNITA   BELL RD
+
+12/17/2014 21:11  DRIVING- SUSPENDED  LICENSE                         CARDIEL        MARIO       JUAREZ DR
+
+12/18/2014 7:42   DRIVING- SUSPENDED  LICENSE                         ZAVALA         NELSON      BELL RD
+
+12/18/2014 8:58   DRIVING- SUSPENDED  LICENSE                         TOM            MARGARET    LEBANON PIKE
+
+12/18/2014 13:05  DRIVING- SUSPENDED  LICENSE                         POPEJOY        TERRIE      CASTLEGATE DR
+
+12/18/2014 15:53  DRIVING- SUSPENDED  LICENSE                         HENDERSON      DAVID       MODENA DR
+
+12/18/2014 16:08  DRIVING- SUSPENDED  LICENSE                         BROWN          SHNJORIA    MM 55 2 I24 W
+
+12/19/2014 11:57  DRIVING- SUSPENDED  LICENSE                         JAMES          DWIGHT      DELTA AVE
+
+12/2/2014 22:45   DRIVING- SUSPENDED  LICENSE                         MARTIN         JUWON       FAIRFIELD AVE
+
+12/22/2014 19:14  DRIVING- SUSPENDED  LICENSE                         ISHAK          MAGEO       MURFREESBORO PIKE
+
+12/9/2014 19:50   DRIVING- SUSPENDED  LICENSE                         CHAVEZ AVILA   DARLING     I65 N
+
+12/12/2014 1:05   DRIVING- SUSPENDED  LICENSE                         DERAKHSHANIAN  AMELIA      HARDING PL
+
+12/11/2014 0:45   DRIVING- SUSPENDED  LICENSE                         MCDONNELL      JENNIFER    FRANKLIN PIKE
+
+12/17/2014 9:11   DRIVING- SUSPENDED  LICENSE                         BASS           SHELLEY     E OLD HICKORY BLVD
+
+12/17/2014        DRIVING- SUSPENDED  LICENSE                         LOTT           DARTEZ      NASHBORO BLVD
+
+12/6/2014 22:20   DRIVING- SUSPENDED  LICENSE                         CATALAN        AMADO       BRILEY PKWY E
+
+12/3/2014 15:50   DRIVING- SUSPENDED  LICENSE                         HAYES          CORNEISHA   S 7TH ST
+
+12/12/2014        DRIVING- SUSPENDED  LICENSE                         TURNER         ARTESHA     CJC
+
+12/28/2014 20:38  DRIVING- SUSPENDED  LICENSE                         BLACKSHEAR     ELEZA       LESTER AVE
+
+1/8/2015 9:44     DRIVING- SUSPENDED  LICENSE                         MACKLIN        AIREIZ      HART CT
+
+1/8/2015 16:00    DRIVING- SUSPENDED  LICENSE                         LACY           DELENA      LEBANON PIKE
+
+1/8/2015 18:12    DRIVING- SUSPENDED  LICENSE                         CARTER         MAURICE     ANDREW JACKSON PKWY
+
+1/8/2015 19:58    DRIVING- SUSPENDED  LICENSE                         MORGAN         RICO        9TH AVE N
+
+12/8/2014 8:11    DRIVING- SUSPENDED  LICENSE,  2ND  OFFENSE  OR  GT  BOWEN          SHANELL     CLEVELAND ST
+
+12/11/2014        DRIVING- SUSPENDED  LICENSE,  2ND  OFFENSE  OR  GT  FLEMING        AMESIA
+
+                                                                      Page 5 of 11
+                                                                      Arrestee           Arrestee
+
+Arrest Date       Charge Description                                  Last Name          First Name  Street
+
+12/11/2014 20:18  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       BLACKSHEAR         ELEZA       GRAYLYNN DR
+
+12/14/2014 17:12  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       CAGE               IRVIN       CANNON ST
+
+12/16/2014 4:03   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       CASTILLO-QUINONES  JORGE       PATRICIA DR
+
+12/16/2014 17:17  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       KHAMPHAA           SOMBUNKHAN  DICKERSON PIKE
+
+12/16/2014 18:13  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       SMITH              BERTRAND    LEBANON PIKE
+
+12/18/2014 2:03   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       CHARETTE           SERENA      I 40 WEST ENTRANCE RAMP
+
+12/18/2014 15:09  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       LAYNE              JAMES       LEBANON PIKE
+
+1/7/2015 23:54    DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       MALLARD            JOANN       GALLATIN AVE
+
+12/6/2014         DRIVING UNDER THE INFLUENCE                         SEYER              KRISTINA    HARDING PL
+
+1/8/2015 4:31     DRIVING UNDER THE INFLUENCE                         HEDGES             JOSHUA      CHARLOTTE AVE
+
+1/8/2015 17:47    DRIVING UNDER THE INFLUENCE                         PAYNE              STEPHANIE   BRIARVILLE RD
+
+1/7/2015 23:19    DRIVING UNDER THE INFLUENCE - 3RD OFFENSE           SMITH              CHAUNCEY    BLACKMAN RD
+
+1/8/2015 4:05     DRIVING UNDER THE INFLUENCE-VEHICLE OWNER           DANIELS            MORGAN      CHARLOTTE AVE
+
+12/12/2014 0:58   DRUG PARAPHERNALIA- UNLAWFUL USE                    BURROW             STEVEN      JAMES KAY LN
+
+12/16/2014 17:49  DRUG PARAPHERNALIA- UNLAWFUL USE                    MAJORS             PHILLIP     LAFAYETTE ST
+
+12/18/2014 14:24  DRUG PARAPHERNALIA- UNLAWFUL USE                    SMITH              NATHAN      CASTLEGATE DR
+
+12/20/2014 0:50   DRUG PARAPHERNALIA- UNLAWFUL USE                    BIGGS              CHASE       OLD HICKORY BLVD
+
+12/2/2014         DRUG PARAPHERNALIA- UNLAWFUL USE                    KIRBY              STEPHANIE   BURNING TREE DR
+
+12/17/2014        DRUG PARAPHERNALIA- UNLAWFUL USE                    LEWIS              LIWAYNITA   HAMILTON CHURCH RD
+
+12/6/2014 22:20   DRUG PARAPHERNALIA- UNLAWFUL USE                    CATALAN            AMADO       BRILEY PKWY E
+
+12/18/2014 23:25  DRUG PARAPHERNALIA- UNLAWFUL USE                    GEBREKIDAN         NATNAEL     DONELSON PIKE
+
+12/18/2014        DRUG PARAPHERNALIA- UNLAWFUL USE                    TEKLU              MILKAS      DONELSON PIKE
+
+1/7/2015 22:10    DRUG PARAPHERNALIA- UNLAWFUL USE                    IAQUINTA           JOSEPH      CARTWRIGHT ST # 225
+
+12/18/2014 18:00  DRUG PARAPHERNALIA- UNLAWFUL USE                    ELLIOTT            DONALD      LAFAYETTE ST
+
+1/7/2015 22:34    DRUG PARAPHERNALIA- UNLAWFUL USE                    AL MUTORY          HASSAN      JAMES ROBERTSON PKY
+
+1/8/2015 18:11    DRUG PARAPHERNALIA- UNLAWFUL USE                    GILMORE            ANTONIO     5TH AVE S
+
+1/8/2015 20:00    DRUG PARAPHERNALIA- UNLAWFUL USE                    GOODIN             RONALD      LAKELAND DR
+
+1/8/2015 2:56     EVADING ARREST- MISDEMEANOR                         KIMBROUGH          TERRANCE    LEWIS ST
+
+1/8/2015 21:48    EVADING ARREST- MISDEMEANOR                         RILEY              FRANKIE     CHESTNUT ST
+
+1/8/2015 21:48    EVADING ARREST- MISDEMEANOR                         RILEY              FRANKIE     CHESTNUT ST
+
+1/8/2015 16:46    EVADING ARREST- MOTOR VEHICLE                       STEWART            MATTHEW     OLD HICKORY BLVD
+
+1/8/2015 10:03    FAILURE TO APPEAR - FELONY OR CLASS A MISD.         COOK               HEATHER     2ND AVE N
+
+1/7/2015 22:10    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  IAQUINTA           JOSEPH      CARTWRIGHT ST # 225
+
+                                                                      Page 6 of 11
+                                                                      Arrestee      Arrestee
+
+Arrest Date       Charge Description                                  Last Name     First Name   Street
+
+1/7/2015 22:10    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  IAQUINTA      JOSEPH       CARTWRIGHT ST # 225
+
+1/8/2015 3:39     FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  HYSNER        CRAIG        LAFAYETTE ST
+
+1/8/2015 8:09     FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  JONES         FRANK        17TH AVE S
+
+1/8/2015 8:56     FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  MANSFIELD     PATRICK      2ND AVE N
+
+1/8/2015 10:03    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  COOK          HEATHER      2ND AVE N
+
+1/8/2015 13:00    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  ABERNATHY     THOMAS       DICKERSON PIKE
+
+1/8/2015 14:34    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  MALL          JOHN         DREXEL ST
+
+1/8/2015 18:11    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  GILMORE       ANTONIO      5TH AVE S
+
+1/8/2015 18:42    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  SAVAGE        ROBERT       CHESAPEAKE CIR
+
+1/8/2015 20:27    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  ROSS          ROBERT       I 65 N
+
+1/7/2015 22:59    FAILURE TO BE BOOKED                                COX           BRYAN        NOLENSVILLE PIKE
+
+1/8/2015 2:56     FAILURE TO BE BOOKED                                KIMBROUGH     TERRANCE     LEWIS ST
+
+1/8/2015 2:56     FAILURE TO BE BOOKED                                KIMBROUGH     TERRANCE     LEWIS ST
+
+1/8/2015 13:23    FAILURE TO BE BOOKED                                SMITH         BRITTANY     JAMES ROBERTSON PKWY
+
+1/8/2015 15:11    FAILURE TO BE BOOKED                                OCANA         RUTH         JAMES ROBERTSON PKWY
+
+1/8/2015 16:00    FAILURE TO BE BOOKED                                LACY          DELENA       LEBANON PIKE
+
+1/8/2015 16:37    FAILURE TO BE BOOKED                                EDWARDS       CORNELIUS    BASSWOOD AVE
+
+1/8/2015 16:37    FAILURE TO BE BOOKED                                EDWARDS       CORNELIUS    BASSWOOD AVE
+
+1/8/2015 17:19    FAILURE TO BE BOOKED                                BROWN         TERRANCE     HOLLY ST
+
+1/8/2015 18:13    FAILURE TO BE BOOKED                                RAINER        SHAWNTERRIE  ANDREW JACKSON PKWY
+
+1/8/2015 14:00    FORGERY- $500 OR LESS                               STEVENSON     LATREA       MCKINLEY ST
+
+12/17/2014 9:41   IMMEDIATE NOTICE OF ACCIDENT- FAILURE TO COMPLY     GORDON        TIMOTHY      MURFREESBORO PIKE
+
+12/17/2014 13:58  IMMEDIATE NOTICE OF ACCIDENT- FAILURE TO COMPLY     HERRIN        KEVIN        MURFREESBORO PIKE
+
+1/7/2015 23:19    IMPLIED CONSENT - CRIMINAL                          SMITH         CHAUNCEY     BLACKMAN RD
+
+12/18/2014 16:25  INDECENT EXPOSURE                                   BEATTY        MONROE       BELL RD
+
+12/18/2014 16:45  INDECENT EXPOSURE                                   EVANS         MARK         BELL RD
+
+12/15/2014 15:53  LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE         WILSON        STEVEN       STEAMBOAT DR
+
+1/7/2015 23:19    LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE         SMITH         CHAUNCEY     BLACKMAN RD
+
+1/8/2015 5:50     MANUF.-CONT.SUB. - METH .5 GR or MORE               ROBERTSON     MARK         7TH AVE S
+
+1/8/2015 5:43     MANUF.-CONT.SUB. - METH .5 GR or MORE               MISTICH       VANITY       7TH AVE S
+
+1/8/2015 8:09     OBSTRUCTING A PASSAGEWAY                            JEFFRIES      RICKEY       28TH AVE N
+
+12/16/2014        OPEN CONTAINER VIOL.                                KENNAMORE     DERANDELL    BURNING TREE DR
+
+10/2/2014 5:25    Poss. or Casual Exchange of Meth                    KIMBROUGH     TERRANCE     LEUAS
+
+                                                                      Page 7 of 11
+                                                                      Arrestee      Arrestee
+
+Arrest Date       Charge Description                                  Last Name     First Name   Street
+
+1/7/2015 22:10    Poss. or Casual Exchange of Meth - Prior Convictio  IAQUINTA      JOSEPH       CARTWRIGHT ST # 225
+
+3/26/2013         POSS. OR CASUAL EXCHANGE-CONT.SUB.                  RAINER        SHAWNTERRIE  LEBANON PIKE
+
+12/12/2014 20:20  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  FLETCHER      MARKEITH     DONELSON ST
+
+12/12/2014 22:03  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  BURNS         JAMISON      4TH AVE S
+
+12/16/2014 15:48  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  ANDERSON      TERRY        61ST AVE N
+
+12/16/2014 17:49  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  MAJORS        PHILLIP      LAFAYETTE ST
+
+12/17/2014 12:38  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  CROMARTIE     ALEXANDER
+
+12/18/2014 14:24  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  SMITH         NATHAN       CASTLEGATE DR
+
+12/20/2014 0:50   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  BIGGS         CHASE        OLD HICKORY BLVD
+
+12/3/2014 1:15    POSS. OR CASUAL EXCHANGE-CONT.SUB.                  BACON         BRADLEY      BOWWOOD CT
+
+12/19/2014 17:15  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  ARMSTRONG     ANDREA       CREEKVIEW DR
+
+12/2/2014 16:00   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  AUSTIN        AMY          HICKORY HILL LN
+
+12/17/2014        POSS. OR CASUAL EXCHANGE-CONT.SUB.                  LEWIS         LIWAYNITA    HAMILTON CHURCH RD
+
+12/6/2014 22:20   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  CATALAN       AMADO        BRILEY PKWY E
+
+12/18/2014 12:15  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  DEESE         AUSTIN       BURNETT RD
+
+12/9/2014         POSS. OR CASUAL EXCHANGE-CONT.SUB.                  MARTINEZ      BRANDON      TRENTON DR
+
+12/18/2014 23:25  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  GEBREKIDAN    NATNAEL      DONELSON PIKE
+
+12/18/2014        POSS. OR CASUAL EXCHANGE-CONT.SUB.                  TEKLU         MILKAS       DONELSON PIKE
+
+12/16/2017        POSS. OR CASUAL EXCHANGE-CONT.SUB.                  VAUGHN        ANDRE        CLAIBORNE ST
+
+12/10/2014        POSS. OR CASUAL EXCHANGE-CONT.SUB.                  WILLIAMSON    LANITA       LEWIS ST
+
+12/17/2014 16:05  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  AZADINA       TALEB        BRILEY PKWY E
+
+1/8/2015 8:09     POSS. OR CASUAL EXCHANGE-CONT.SUB.                  JONES         FRANK        17TH AVE S
+
+1/8/2015 13:00    POSS. OR CASUAL EXCHANGE-CONT.SUB.                  ABERNATHY     THOMAS       DICKERSON PIKE
+
+1/8/2015 15:46    POSS. OR CASUAL EXCHANGE-CONT.SUB.                  GILCREASE     DERRICK      N 5TH ST
+
+1/8/2015 18:11    POSS. OR CASUAL EXCHANGE-CONT.SUB.                  GILMORE       ANTONIO      5TH AVE S
+
+1/8/2015 20:50    POSS. OR CASUAL EXCHANGE-CONT.SUB.                  GOODIN        CRYSTAL      LAKELAND DR
+
+1/8/2015 20:00    POSS. OR CASUAL EXCHANGE-CONT.SUB.                  GOODIN        RONALD       LAKELAND DR
+
+1/7/2015 22:10    POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.     IAQUINTA      JOSEPH       CARTWRIGHT ST # 225
+
+1/7/2015 22:34    POSS.W/INT-CONT.SUB.- COCAINE .5 GR. OR MORE        AL MUTORY     HASSAN       JAMES ROBERTSON PKY
+
+1/7/2015 22:34    POSS.W/INT-CONT.SUB.- MARIJUANA 14.175-4,535 GR.    AL MUTORY     HASSAN       JAMES ROBERTSON PKY
+
+1/8/2015 20:00    POSS.W/INT-CONT.SUB.- MARIJUANA 14.175-4,535 GR.    GOODIN        RONALD       LAKELAND DR
+
+1/7/2015 22:34    POSS.W/INT-CONT.SUB.- SCH. II                       AL MUTORY     HASSAN       JAMES ROBERTSON PKY
+
+1/8/2015 20:50    POSS.W/INT-CONT.SUB.- SCH. IV                       GOODIN        CRYSTAL      LAKELAND DR
+
+                                                                      Page 8 of 11
+                                                                    Arrestee      Arrestee
+
+Arrest Date     Charge Description                                  Last Name     First Name  Street
+
+1/8/2015 2:06   PROBATION VIOLATION-  COMMUNITY CORRECTIONS  VIOL.  BUSTILLO      JOSE        OAK FOREST DR
+
+1/8/2015 8:56   PROBATION VIOLATION-  COMMUNITY CORRECTIONS  VIOL.  MYRACLE       THOMAS      SAINT EDWARDS DR
+
+1/8/2015 8:56   PROBATION VIOLATION-  COMMUNITY CORRECTIONS  VIOL.  MYRACLE       THOMAS      SAINT EDWARDS DR
+
+1/8/2015 9:55   PROBATION VIOLATION-  COMMUNITY CORRECTIONS  VIOL.  MARSH         TIMOTHY     2ND AVE N
+
+1/8/2015 11:09  PROBATION VIOLATION-  COMMUNITY CORRECTIONS  VIOL.  NEAL          MARQUIS     2ND AVE N
+
+1/8/2015 11:09  PROBATION VIOLATION-  COMMUNITY CORRECTIONS  VIOL.  NEAL          MARQUIS     2ND AVE N
+
+1/8/2015 11:09  PROBATION VIOLATION-  COMMUNITY CORRECTIONS  VIOL.  NEAL          MARQUIS     2ND AVE N
+
+1/8/2015 14:36  PROBATION VIOLATION-  COMMUNITY CORRECTIONS  VIOL.  EVANS         KENNETH     MANUEL DR
+
+1/8/2015 18:06  PROBATION VIOLATION-  COMMUNITY CORRECTIONS  VIOL.  STINSON       LEON        NEILL AVE
+
+1/7/2015 23:52  PROBATION VIOLATION-  FELONY                        HOFFMAN       JESSICA     BELL RD
+
+1/7/2015 22:15  PROBATION VIOLATION-  FELONY                        PANNELL       TORREY      2ND AVE N
+
+1/7/2015 22:15  PROBATION VIOLATION-  FELONY                        PANNELL       TORREY      2ND AVE N
+
+1/7/2015 18:38  PROBATION VIOLATION-  FELONY                        JOHNSON       JOEY        2ND AVE N
+
+1/8/2015 0:34   PROBATION VIOLATION-  FELONY                        WELLS         KENNETH     STOCKELL ST
+
+1/8/2015 4:27   PROBATION VIOLATION-  FELONY                        CRAWFORD      ROBERT      CELINA DR
+
+1/8/2015 4:28   PROBATION VIOLATION-  FELONY                        MCNEAL        WANDA       DREXEL ST
+
+1/8/2015 9:03   PROBATION VIOLATION-  FELONY                        MCCRAW        DEAN        2ND AVE N
+
+1/8/2015 10:02  PROBATION VIOLATION-  FELONY                        THOMAS        ANTHONY     2ND AVE N
+
+1/8/2015 10:02  PROBATION VIOLATION-  FELONY                        THOMAS        ANTHONY     2ND AVE N
+
+1/8/2015 10:02  PROBATION VIOLATION-  FELONY                        THOMAS        ANTHONY     2ND AVE N
+
+1/8/2015 11:16  PROBATION VIOLATION-  FELONY                        HARPER        JAMES       2ND AVE N
+
+1/8/2015 12:38  PROBATION VIOLATION-  FELONY                        HENDERSON     ANTONIO     2ND AVE N
+
+1/8/2015 14:42  PROBATION VIOLATION-  FELONY                        ADAMS         TYRESE      CHIMNEY TOP DR
+
+1/8/2015 14:50  PROBATION VIOLATION-  FELONY                        LINDSEY       MARQUIS     JAMES ROBERTSON   PKWY
+
+1/8/2015 15:46  PROBATION VIOLATION-  FELONY                        GILCREASE     DERRICK     N 5TH ST
+
+1/7/2015 22:22  PROBATION VIOLATION-  FELONY                        PIRTLE        ALFONZO     2ND AVE N
+
+1/8/2015 19:16  PROBATION VIOLATION-  FELONY                        MITCHELL      MICHAEL     2ND AVE N
+
+1/8/2015 4:28   PROBATION VIOLATION-  MISDEMEANOR                   MCNEAL        WANDA       DREXEL ST
+
+1/8/2015 7:51   PROBATION VIOLATION-  MISDEMEANOR                   GIPSON        MONTA       RICHARDS RD
+
+1/8/2015 12:49  PROBATION VIOLATION-  MISDEMEANOR                   SMITH         CORTEZ      14TH AVE S
+
+1/8/2015 12:59  PROBATION VIOLATION-  MISDEMEANOR                   THOMAS        VERNICE     2ND AVE N
+
+1/8/2015 16:37  PROBATION VIOLATION-  MISDEMEANOR                   EDWARDS       CORNELIUS   BASSWOOD AVE
+
+1/8/2015 17:28  PROBATION VIOLATION-  MISDEMEANOR                   LEWIS         JOHN        JAMES ROBERTSON   PKWY
+
+                                                                    Page 9 of 11
+                                                                Arrestee       Arrestee
+
+Arrest Date       Charge Description                            Last Name      First Name   Street
+
+1/8/2015 17:16    PROBATION VIOLATION- MISDEMEANOR              HUGHES         ANTHONY      SEIFRIED ST
+
+1/7/2015 18:45    PROBATION VIOLATION- MISDEMEANOR              LANG           JARVIS       2ND AVE N
+
+12/12/2014 0:58   PROSTITUTION- PATRONIZING                     BURROW         STEVEN       JAMES KAY LN
+
+1/8/2015 0:51     PUBLIC INTOXICATION                           MARKOU         CONSTANDIN   S 16TH ST
+
+1/8/2015 0:59     PUBLIC INTOXICATION                           KLEIN          TRAVIS       CHURCH ST
+
+1/8/2015 2:29     PUBLIC INTOXICATION                           LUFFMAN        JAMES        RIVERSIDE DR
+
+1/8/2015 2:56     PUBLIC INTOXICATION                           CAPUTO         FRANK        2ND AVE S
+
+1/8/2015 8:09     PUBLIC INTOXICATION                           JEFFRIES       RICKEY       28TH AVE N
+
+1/8/2015 16:31    PUBLIC INTOXICATION                           SAPP           WILLIAM      EWING AVE
+
+1/8/2015 10:51    SEX OFFENDER REGISTRATION VIOL.-1ST OFFENSE   DEAN           DALE         DICKERSON PIKE
+
+1/8/2015 16:00    SEX OFFENDER REGISTRATION VIOL.-1ST OFFENSE   MAGNON-EVANS   AMY          LONG HOLLOW PIKE
+
+1/8/2015 13:57    SEX OFFENDER REGISTRATION VIOL.-2ND OFFENSE   ROBINSON       RUNAS        JAMES ROBERTSON PARKWAY
+
+1/8/2015 13:57    SEX OFFENDER REGISTRATION VIOL.-2ND OFFENSE   ROBINSON       RUNAS        JAMES ROBERTSON PARKWAY
+
+1/8/2015 10:51    SEX OFFENDER RESIDENTIAL/VICTIM VIOL.         DEAN           DALE         DICKERSON PIKE
+
+12/7/2014 18:02   THEFT OF MERCHANDISE - $500 OR LESS           PIGNONE        JEFFERY      OLD HICKORY BLVD
+
+12/10/2014 15:52  THEFT OF MERCHANDISE - $500 OR LESS           BATEY          MARY         DONELSON PIKE
+
+12/11/2014 12:59  THEFT OF MERCHANDISE - $500 OR LESS           KOKO           SLAMA        MURFREESBORO PIKE
+
+12/11/2014 18:20  THEFT OF MERCHANDISE - $500 OR LESS           MIRELES        KELLI        SMITH SPRINGS RD
+
+12/18/2014 10:20  THEFT OF MERCHANDISE - $500 OR LESS           DOWNING        BRANDY       JACKSON DOWNS BLVD
+
+12/18/2014 20:24  THEFT OF MERCHANDISE - $500 OR LESS           RANDOLPH       DALTON       MCGAVOCK PIKE
+
+11/29/2014 12:35  THEFT OF MERCHANDISE - $500 OR LESS           RUTLAND        CIARA        RIVERGATE PKWY
+
+1/8/2015 17:31    THEFT OF MERCHANDISE - $500 OR LESS           WILLIAMS       KIMBERLY     CHARLOTTE PIKE
+
+1/8/2015 17:31    THEFT OF MERCHANDISE - $500 OR LESS           WILLIAMS       KIMBERLY     CHARLOTTE PIKE
+
+1/8/2015 17:31    THEFT OF MERCHANDISE - $500 OR LESS           WILLIAMS       KIMBERLY     CHARLOTTE PIKE
+
+1/8/2015 17:31    THEFT OF MERCHANDISE - $500 OR LESS           WILLIAMS       KIMBERLY     CHARLOTTE PIKE
+
+1/8/2015 17:45    THEFT OF MERCHANDISE - $500 OR LESS           PAINTER        JEROME
+
+1/8/2015 2:56     THEFT OF PROPERTY- $10,000 OR GT, LT $60,000  KIMBROUGH      TERRANCE     LEWIS ST
+
+12/12/2014 15:36  THEFT OF PROPERTY- $500 OR LESS               LEGIER         ELIZABETH    OPRYLAND DR
+
+12/13/2014 14:05  THEFT OF PROPERTY- $500 OR LESS               AMEY           JORDAN       LEBANON PIKE
+
+1/8/2015 14:00    THEFT OF PROPERTY- GT $500, LT $1,000         STEVENSON      LATREA       MCKINLEY ST
+
+12/11/2014        VANDALISM- $500 OR LESS                       WOODS          CHARLES      2ND AVE N
+
+1/8/2015 12:43    VANDALISM- $500 OR LESS                       MCMILLION      TROLAURENCE  CRAFTWOOD CT
+
+1/8/2015 9:23     VANDALISM- GT $500, LT $1,000                 WILLIAMS       JOHN         BROOK HOLLOW RD
+
+                                                                Page 10 of 11
+                                                                                Arrestee   Arrestee
+
+Arrest Date     Charge Description                                              Last Name  First Name  Street
+
+1/7/2015 22:34  WEAPON - DANGEROUS FELONY - POSS. OF        FIREARM  W/INT      AL MUTORY  HASSAN      JAMES ROBERTSON PKY
+
+1/8/2015 20:50  WEAPON - DANGEROUS FELONY - POSS. OF        FIREARM  W/INT      GOODIN     CRYSTAL     LAKELAND DR
+
+1/8/2015 20:00  WEAPON - DANGEROUS FELONY - POSS. OF        FIREARM  W/INT      GOODIN     RONALD      LAKELAND DR
+
+1/8/2015 20:00  Weapon - Felon-Poss-Firearm (Drug Offense)                      GOODIN     RONALD      LAKELAND DR
+
+                                                                     Page   11  of 11

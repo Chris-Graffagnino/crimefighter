@@ -1,0 +1,368 @@
+                                                                   Arrestee       Arrestee
+
+Arrest Date       Charge Description                               Last Name      First Name   Street
+
+1/1/2015 1:29     ALCOHOL- UNDER 21, CONSUMPTION                   HALL           ALEX         4TH AVE N
+
+12/31/2014 18:17  ASSAULT- FEAR OF BODILY INJURY                   COURTNEY       BENJI        BROADWAY
+
+1/1/2015 3:30     ASSAULT, AGG SERIOUS BODILY INJURY- INT/KN       THOMPSON       JENNIFER     BROADWAY
+
+1/1/2015 12:01    ASSAULT, AGG SERIOUS BODILY INJURY- INT/KN       WRYE           DRENNAN      NORTH CREEK
+
+1/1/2015 18:33    ASSAULT, AGG SERIOUS BODILY INJURY- INT/KN       BEENE          JOHN         LANCASHIRE DR
+
+1/1/2015 17:53    Assault, Aggravated - Deadly Weapon - Int/Kn     JACKSON        SHACORIA     14TH AVE S
+
+1/1/2015 18:36    Assault, Aggravated - Deadly Weapon - Int/Kn     FOSTER         GLORIA       ROBERTSON ST
+
+1/1/2015 6:04     Assault, Aggravated - Strangulation - Int/Kn     PIRTLE         ALFONZO      DICKERSON PIKE
+
+1/1/2015 15:40    Assault, Aggravated - Strangulation - Int/Kn     THOMPSON       JEFFREY      DELAWARE AVE
+
+12/31/2014 23:13  ASSAULT, DOMESTIC BODILY INJURY                  MILLS          CAMERON      KEETON AVE
+
+12/31/2014 22:33  ASSAULT, DOMESTIC BODILY INJURY                  PEREZ-MENDOZA  EDUARDO      KEETON AVE
+
+1/1/2015 1:14     ASSAULT, DOMESTIC BODILY INJURY                  BECKHAM        CHRISTOPHER  TERRACE HILL RD
+
+1/1/2015 2:44     ASSAULT, DOMESTIC BODILY INJURY                  DOUGLAS        KATHY        CRESCENT VALLEY LN
+
+1/1/2015 3:24     ASSAULT, DOMESTIC BODILY INJURY                  ROBINSON       CHRISTOPHER  TOWNESHIP RD
+
+1/1/2015 3:36     ASSAULT, DOMESTIC BODILY INJURY                  BERNIER        JOHN         OPRYLAND DR
+
+1/1/2015 4:53     ASSAULT, DOMESTIC BODILY INJURY                  GLOVER         JESSICA      N GALLATIN PIKE
+
+1/1/2015 5:29     ASSAULT, DOMESTIC BODILY INJURY                  VASSAR         KIMBERLY     BUBBLING WELL RD
+
+1/1/2015 9:02     ASSAULT, DOMESTIC BODILY INJURY                  WARREN         MARK         GORDON TER
+
+1/1/2015 17:30    ASSAULT, DOMESTIC BODILY INJURY                  MITCHELL       MICHAEL      NOLENSVILLE PIKE
+
+1/1/2015 18:47    ASSAULT, DOMESTIC BODILY INJURY                  SANGSTER       EDMOND       BELL RD
+
+1/1/2015 19:07    ASSAULT, DOMESTIC BODILY INJURY                  SMITH          JESSICA      OAKWOOD AVE
+
+1/1/2015 20:38    ASSAULT, DOMESTIC BODILY INJURY                  PUCKETT        CLEO         JAMES ROBERTSON PKWY
+
+1/1/2015 15:15    ASSAULT, DOMESTIC FEAR OF BODILY INJURY          BOATENG        KOFI         ELM HILL PIKE
+
+1/1/2015 2:31     ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  JOHNSON        ADAM         NEAL TER
+
+1/1/2015 5:40     ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  THOMPSON       BRITTIAN     BLUE MOUNTAIN LN
+
+1/1/2015 19:19    ASSAULT-BODILY INJURY                            BURNS          BRYAN        GALE LN
+
+12/31/2014 20:01  CONTRIBUTING - DELINQUENCY OF A MINOR            MCCORD         EMION        2ND AVE N AND COMMERCE
+
+1/1/2015 5:10     CRIMINAL IMPERSONATION                           FLORES         LUIS         ANDERSON RD
+
+1/1/2015 16:23    CRIMINAL IMPERSONATION                           REYES          JOSE         FAIRWAY DR
+
+1/1/2015 17:30    CRIMINAL IMPERSONATION                           MITCHELL       MICHAEL      NOLENSVILLE PIKE
+
+1/1/2015 13:39    CRIMINAL TRESPASS                                BEAN           HOSEA        JAMES ROBERTSON PKWY
+
+1/1/2015 16:04    CRIMINAL TRESPASS                                GIBSON         BRANDON      OLD HICKORY BLVD
+
+1/1/2015 19:50    CRIMINAL TRESPASS                                CONNER         JASON        2ND AVE N
+
+                                                                   Page 1 of 6
+                                                                  Arrestee        Arrestee
+
+Arrest Date       Charge Description                              Last Name       First Name   Street
+
+1/1/2015 0:15     DISORDERLY CONDUCT                              MITTON          CHRISTOPHER  2ND AVE N
+
+12/31/2014 18:19  DISORDERLY CONDUCT                              MCDADE          JESSICA      2ND AVE N
+
+12/31/2014 18:17  DISORDERLY CONDUCT                              COURTNEY        BENJI        BROADWAY
+
+1/1/2015 3:11     DISORDERLY CONDUCT                              LANTRIP         CHRISTOPHER  3RD AVE N
+
+1/1/2015 3:05     DISORDERLY CONDUCT                              LITTLE          BENJAMIN     3RD AVE N
+
+9/24/2014 18:24   DRIV. LIC. - NO D/L                             FLORES          LUIS
+
+10/21/2014        DRIV. LIC. - NO D/L                             GILBERT         TYNEACE      DICKERSON PIKE S
+
+1/1/2015 1:20     DRIV. LIC. - NO D/L                             AMIDON          RODNEY       21ST AVE S
+
+1/1/2015 5:45     DRIV. LIC. - NO D/L                             GOMEZ           HUMBERTO     OLD HICKORY BLVD
+
+1/1/2015 7:11     DRIV. LIC. - NO D/L                             ROJAS-PADRON    ROLANDO      LAKE POINT CT
+
+1/1/2015 13:27    DRIV. LIC. - NO D/L                             MATA            ISMAEL
+
+1/1/2015 16:23    DRIV. LIC. - NO D/L                             REYES           JOSE         FAIRWAY DR
+
+1/1/2015 21:24    DRIV. LIC. - NO D/L                             SERRANO- TREJO  OSCAR        EDMONDSON PIKE
+
+12/31/2014 23:17  DRIVING- REVOKED LICENSE                        LEWIS           LAMONTAYE    DOUGLAS AVE
+
+1/1/2015 5:29     DRIVING- REVOKED LICENSE                        COTZALO         FRANCISCO    HWY 45
+
+1/1/2015 11:43    DRIVING- REVOKED LICENSE                        MARMON          KIMBERLY     OLD HICKORY BLVD
+
+1/1/2015 20:15    DRIVING- REVOKED LICENSE                        HARDY           MITCHELL     LARGO DR
+
+1/1/2015 1:44     DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  JOHNSON         JERRY        MAUDINA AVE
+
+11/21/2014 23:27  DRIVING- SUSPENDED LICENSE                      MYHRVOLD        STEPHANIE    STEWARTS FERRY PKE
+
+11/24/2014 19:12  DRIVING- SUSPENDED LICENSE                      ROBERTS         KAWANA       ANDERSON LN
+
+1/1/2015 17:55    DRIVING- SUSPENDED LICENSE                      FITZGERALD      TONDRIQUE    MAIN ST
+
+1/1/2015 18:01    DRIVING- SUSPENDED LICENSE                      TEASLEY         SHALETHIA    CHARLES E DAVIS BLVD
+
+1/1/2015 19:51    DRIVING- SUSPENDED LICENSE                      MYHRVOLD        STEPHANIE    FRIST BLVD
+
+12/31/2014 22:56  DRIVING UNDER THE INFLUENCE                     MESSMER         ARTHUR       21ST AVE S
+
+12/31/2014 21:57  DRIVING UNDER THE INFLUENCE                     HARRIS          EMILY        BRILEY PKWY N
+
+12/31/2014 23:29  DRIVING UNDER THE INFLUENCE                     WILLIAMS        HAYDEN       ARROWWOOD DR
+
+1/1/2015 0:45     DRIVING UNDER THE INFLUENCE                     EVANS           ASHLEY       S 2ND ST
+
+1/1/2015 2:24     DRIVING UNDER THE INFLUENCE                     DODD            CAMERON      CHARLOTTE PIKE
+
+1/1/2015 1:25     DRIVING UNDER THE INFLUENCE                     PALOS           JESUS        N GALLATIN PIKE
+
+1/1/2015 1:44     DRIVING UNDER THE INFLUENCE                     JOHNSON         JERRY        MAUDINA AVE
+
+1/1/2015 2:00     DRIVING UNDER THE INFLUENCE                     BREWER          KARA         MAUDINA AV / OCEOLA AV
+
+1/1/2015 3:01     DRIVING UNDER THE INFLUENCE                     STANTON         AARON        CENTRAL PIKE
+
+1/1/2015 4:32     DRIVING UNDER THE INFLUENCE                     TUN             MIN          MURFREESBORO PK/NASHBORO
+
+                                                                  Page 2 of 6
+                                                                      Arrestee      Arrestee
+
+Arrest Date       Charge Description                                  Last Name     First Name  Street
+
+1/1/2015 5:13     DRIVING UNDER THE INFLUENCE                         PEACH         APRIL       JUAREZ DR
+
+1/1/2015 2:52     DRIVING UNDER THE INFLUENCE                         MCNAMARA      JENNIFER    I440 E
+
+1/1/2015 5:29     DRIVING UNDER THE INFLUENCE                         COTZALO       FRANCISCO   HWY 45
+
+1/1/2015 5:45     DRIVING UNDER THE INFLUENCE                         GOMEZ         HUMBERTO    OLD HICKORY BLVD
+
+1/1/2015 6:43     DRIVING UNDER THE INFLUENCE                         ODOYO         MARTIN      CANE RIDGE RD
+
+1/1/2015 7:11     DRIVING UNDER THE INFLUENCE                         ROJAS-PADRON  ROLANDO     LAKE POINT CT
+
+1/1/2015 13:27    DRIVING UNDER THE INFLUENCE                         MATA          ISMAEL
+
+12/31/2014 22:56  DRIVING UNDER THE INFLUENCE - PER SE                MESSMER       ARTHUR      21ST AVE S
+
+11/25/2014 19:55  DRUG PARAPHERNALIA- UNLAWFUL USE                    BAGWELL       MISTY       HARDING PL
+
+1/1/2015 1:41     DRUG PARAPHERNALIA- UNLAWFUL USE                    DAVIS         REGINALD    25TH AVE S
+
+1/1/2015 18:01    DRUG PARAPHERNALIA- UNLAWFUL USE                    TEASLEY       SHALETHIA   CHARLES E DAVIS BLVD
+
+1/1/2015 7:11     EVADING ARREST- MOTOR VEHICLE                       ROJAS-PADRON  ROLANDO     LAKE POINT CT
+
+1/1/2015 15:40    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  THOMPSON      JEFFREY     DELAWARE AVE
+
+1/1/2015 17:55    FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  CHAUVIN       JEFFERY     HWY 100
+
+1/1/2015 5:10     FAILURE TO BE BOOKED                                FLORES        LUIS        ANDERSON RD
+
+12/31/2014 17:13  FAILURE TO BE BOOKED                                PALACIOS      SERGIO      2ND AVE N
+
+12/31/2014 17:10  FAILURE TO BE BOOKED                                BAGWELL       MISTY       2ND AVE N
+
+1/1/2015 13:42    FAILURE TO BE BOOKED                                ROBERTS       KAWANA      JAMES ROBERTSON PKWY
+
+1/1/2015 16:48    FAILURE TO BE BOOKED                                GILBERT       TYNEACE     BROADMOOR DR
+
+1/1/2015 17:55    FAILURE TO BE BOOKED                                CHAUVIN       JEFFERY     HWY 100
+
+1/1/2015 19:51    FAILURE TO BE BOOKED                                MYHRVOLD      STEPHANIE   FRIST BLVD
+
+1/1/2015 11:43    FAILURE TO FILE A WRITTEN REPORT OF AN ACCIDENT     MARMON        KIMBERLY    OLD HICKORY BLVD
+
+1/1/2015 1:20     FUGITIVE FROM JUSTICE- WITH WARRANT                 AMIDON        RODNEY      21ST AVE S
+
+1/1/2015 3:43     HOMICIDE- CRIMINAL                                  JOHNSON       BRITTANY    9TH AVE N
+
+12/31/2014 21:57  IMPLIED CONSENT - CIVIL                             HARRIS        EMILY       BRILEY PKWY N
+
+12/31/2014 23:29  IMPLIED CONSENT - CIVIL                             WILLIAMS      HAYDEN      ARROWWOOD DR
+
+1/1/2015 6:43     IMPLIED CONSENT - CIVIL                             ODOYO         MARTIN      CANE RIDGE RD
+
+1/1/2015 13:27    IMPLIED CONSENT - CIVIL                             MATA          ISMAEL
+
+12/31/2014 23:29  INSURANCE-EVIDENCE OF COMPLIANCE-TRAFFIC            WILLIAMS      HAYDEN      ARROWWOOD DR
+
+1/1/2015 17:30    JOYRIDING - UNAUTHORIZED USE OF VEHICLE             MITCHELL      MICHAEL     NOLENSVILLE PIKE
+
+1/1/2015 11:43    LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE         MARMON        KIMBERLY    OLD HICKORY BLVD
+
+1/1/2015 13:27    OPEN CONTAINER VIOL.                                MATA          ISMAEL
+
+1/1/2015 18:33    ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION     BEENE         JOHN        LANCASHIRE DR
+
+                                                                      Page 3 of 6
+                                                                    Arrestee      Arrestee
+
+Arrest Date       Charge Description                                Last Name     First Name   Street
+
+12/31/2014 23:21  POSS. OR CASUAL EXCHANGE-CONT.SUB.                FLETCHER      KANISHA      DOUGLAS AVE
+
+1/1/2015 1:35     POSS. OR CASUAL EXCHANGE-CONT.SUB.                PRIDE         TASHARA      25TH AVE N
+
+1/1/2015 1:35     POSS. OR CASUAL EXCHANGE-CONT.SUB.                PRIDE         TASHARA      25TH AVE N
+
+1/1/2015 12:01    POSS. OR CASUAL EXCHANGE-CONT.SUB.                WRYE          DRENNAN      NORTH CREEK
+
+12/31/2014 23:17  POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.   LEWIS         LAMONTAYE    DOUGLAS AVE
+
+1/1/2015 1:41     POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.   DAVIS         REGINALD     25TH AVE S
+
+1/1/2015 7:11     POSS. W/O PRESCRIPTION, LEGEND DRUGS              ROJAS-PADRON  ROLANDO      LAKE POINT CT
+
+1/1/2015 17:30    PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  MITCHELL      MICHAEL      NOLENSVILLE PIKE
+
+1/1/2015 17:30    PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  MITCHELL      MICHAEL      NOLENSVILLE PIKE
+
+1/1/2015 17:30    PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  MITCHELL      MICHAEL      NOLENSVILLE PIKE
+
+1/1/2015 4:49     PROBATION VIOLATION- FELONY                       MARTIN        JERRY        CHICKASAW AVE
+
+1/1/2015 6:36     PROBATION VIOLATION- FELONY                       GUY           CALVIN       RUTHERFORD COUNTY  JAIL
+
+1/1/2015 16:48    PROBATION VIOLATION- FELONY                       GILBERT       TYNEACE      BROADMOOR DR
+
+1/1/2015 1:35     PROBATION VIOLATION- MISDEMEANOR                  PRIDE         TASHARA      25TH AVE N
+
+1/1/2015 2:54     PROBATION VIOLATION- MISDEMEANOR                  SCOTT         ERNEST       GALLATIN PIKE
+
+1/1/2015 2:54     PROBATION VIOLATION- MISDEMEANOR                  SCOTT         ERNEST       GALLATIN PIKE
+
+1/1/2015 5:25     PROBATION VIOLATION- MISDEMEANOR                  LAWRENCE      BRIAN        HARNESS DR
+
+12/31/2014 17:15  PROBATION VIOLATION- MISDEMEANOR                  JACKSON       OLIVIA       2ND AVE N
+
+12/31/2014 22:25  PUBLIC INTOXICATION                               SIMS          REGINALD     2ND AVE N
+
+12/31/2014 21:17  PUBLIC INTOXICATION                               DAVIS         SCOTT        BROADWAY
+
+12/31/2014 22:28  PUBLIC INTOXICATION                               CLARK         WILLIAM      4TH
+
+12/31/2014 22:50  PUBLIC INTOXICATION                               JOHNSTON      AARON        BROADWAY
+
+12/31/2014 22:40  PUBLIC INTOXICATION                               FREIMUTH      CHRISTOPHER  1ST AVE N
+
+12/31/2014 23:53  PUBLIC INTOXICATION                               CARRIERE      RICHARD      DICKERSON PIKE
+
+12/31/2014 22:55  PUBLIC INTOXICATION                               GRAINGLER     FALYN        2ND AVE N
+
+1/1/2015 0:06     PUBLIC INTOXICATION                               BRANDENBURG   EDWARD       BROADWAY
+
+1/1/2015 0:05     PUBLIC INTOXICATION                               ARMSTRONG     AARON        2ND AVE N
+
+1/1/2015 0:15     PUBLIC INTOXICATION                               MITTON        CHRISTOPHER  2ND AVE N
+
+1/1/2015 1:04     PUBLIC INTOXICATION                               BRUZDZINSGI   DANIEL       2ND AVE N
+
+1/1/2015 1:11     PUBLIC INTOXICATION                               GREENWOOD     CHARLES      2ND AVE S
+
+1/1/2015 1:21     PUBLIC INTOXICATION                               SLUSS         ROBERT       12TH AVE S
+
+1/1/2015 1:29     PUBLIC INTOXICATION                               HALL          ALEX         4TH AVE N
+
+12/31/2014 18:18  PUBLIC INTOXICATION                               ALESSI        CALEB        4TH ST
+
+                                                                    Page 4 of 6
+                                                                         Arrestee            Arrestee
+
+Arrest Date       Charge Description                                     Last Name           First Name   Street
+
+1/1/2015 2:20     PUBLIC INTOXICATION                                    RODRIGUEZ           DAVID        BROADWAY
+
+1/1/2015 2:20     PUBLIC INTOXICATION                                    SADLIK              DEANNA       BROADWAY
+
+12/31/2014 18:17  PUBLIC INTOXICATION                                    COURTNEY            BENJI        BROADWAY
+
+1/1/2015 2:30     PUBLIC INTOXICATION                                    WOODARD             CHAD         2ND AVE S
+
+1/1/2015 2:59     PUBLIC INTOXICATION                                    ASHFORD             JOHN         BROADWAY
+
+1/1/2015 3:11     PUBLIC INTOXICATION                                    LANTRIP             CHRISTOPHER  3RD AVE N
+
+1/1/2015 3:19     PUBLIC INTOXICATION                                    ELLIS               BRIAN        6TH AVE S
+
+1/1/2015 3:05     PUBLIC INTOXICATION                                    LITTLE              BENJAMIN     3RD AVE N
+
+12/31/2014 2:40   PUBLIC INTOXICATION                                    WALKER              LEE          4TH AVE N
+
+1/1/2015 3:47     PUBLIC INTOXICATION                                    RODGERS             MONIQUE      ROCKY MOUNTAIN    PKWY
+
+1/1/2015 4:00     PUBLIC INTOXICATION                                    DASHER              CHRISTIAN    5TH AVE S
+
+1/1/2015 5:11     PUBLIC INTOXICATION                                    VELASQUEZ  MIRANDA  AMANDA       OLD GLENROSE
+
+1/1/2015 10:15    PUBLIC INTOXICATION                                    MILES               DERRIE       4TH AVE
+
+1/1/2015 11:08    PUBLIC INTOXICATION                                    SHUTLER             DAVID        LAFAYETTE ST
+
+1/1/2015 19:50    PUBLIC INTOXICATION                                    CONNER              JASON        2ND AVE N
+
+1/1/2015 20:05    PUBLIC INTOXICATION                                    MALLARD             ELIZABETH
+
+1/1/2015 20:13    PUBLIC INTOXICATION                                    TOVAR               JENNIFER     BROADWAY
+
+1/1/2015 6:43     RECKLESS DRIVING                                       ODOYO               MARTIN       CANE RIDGE RD
+
+12/31/2014 20:01  RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH        MCCORD              EMION        2ND AVE N AND COMMERCE
+
+1/1/2015 0:15     RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH        MITTON              CHRISTOPHER  2ND AVE N
+
+1/1/2015 0:45     RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH        EVANS               ASHLEY       S 2ND ST
+
+12/31/2014 18:17  RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH        COURTNEY            BENJI        BROADWAY
+
+1/1/2015 5:11     RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH        VELASQUEZ  MIRANDA  AMANDA       OLD GLENROSE
+
+1/1/2015 4:28     RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH        BOOKER              MAURICE      WEST END AVE
+
+12/31/2014 22:55  SEX OFFENDER POSSESSION OF ID                          SCALES              HORACE       12TH AVE N
+
+12/31/2014 23:07  SEX OFFENDER POSSESSION OF ID                          PETERSON            ROBERT       LAFAYETTE ST
+
+12/2/2014 11:34   THEFT OF MERCHANDISE - $500 OR LESS                    PALACIOS            SERGIO       NOLENSVILLE PIKE
+
+1/1/2015 16:04    THEFT OF MERCHANDISE - $500 OR LESS                    GIBSON              BRANDON      OLD HICKORY BLVD
+
+1/1/2015 3:43     VANDALISM- $500 OR LESS                                JOHNSON             BRITTANY     9TH AVE N
+
+1/1/2015 5:40     VANDALISM- $500 OR LESS                                THOMPSON            BRITTIAN     BLUE MOUNTAIN LN
+
+1/1/2015 16:11    VANDALISM- $500 OR LESS                                CRUZ                ARMANDO      FAIRWAY DR
+
+1/1/2015 20:04    VANDALISM- $500 OR LESS                                MCDOWELL            LINDSEY      MAGGIE DR
+
+1/1/2015 20:05    VANDALISM- $500 OR LESS                                MALLARD             ELIZABETH
+
+                                                                   Page  5 of 6
+                                                            Arrestee     Arrestee
+
+Arrest Date       Charge Description                        Last Name    First Name   Street
+
+12/31/2014 22:56  WEAPON- POSSESSION WHILE UNDER INFLUENCE  MESSMER      ARTHUR       21ST AVE S
+
+1/1/2015 0:06     WEAPON- POSSESSION WHILE UNDER INFLUENCE  BRANDENBURG  EDWARD       BROADWAY
+
+1/1/2015 3:11     WEAPON- POSSESSION WHILE UNDER INFLUENCE  LANTRIP      CHRISTOPHER  3RD AVE N
+
+1/1/2015 3:05     WEAPON- POSSESSION WHILE UNDER INFLUENCE  LITTLE       BENJAMIN     3RD AVE N
+
+                                                            Page 6 of 6
