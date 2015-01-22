@@ -1,0 +1,295 @@
+                                                                           Arrestee    Arrestee
+
+Arrest Date      Charge Description                                        Last Name   First Name   Street
+
+1/18/2015 0:57   ALTER TITLE, REGISTRATION, PLATE OR PERMIT                MCADAMS     TEARRA       CLAIBORNE ST
+
+1/18/2015 19:41  ALTER TITLE, REGISTRATION, PLATE OR PERMIT                LANGSTER    LAKEISHA     ST AVE SOUTH/DIXIE PLACE
+
+1/18/2015 11:07  ASSAULT, AGG SERIOUS BODILY INJURY- INT/KN                JOHNSON     DONALD       DICKERSON PIKE
+
+1/18/2015 15:59  ASSAULT, AGG SERIOUS BODILY INJURY- INT/KN                MITCHELL    PATRICIA     HART LN
+
+1/18/2015 3:18   Assault, Aggravated - Deadly Weapon - Int/Kn              WOODS       TRACEY       ALBION ST
+
+1/18/2015 5:37   Assault, Aggravated - Deadly Weapon - Int/Kn              GILMORE     KELLY        MARKET SQ
+
+1/18/2015 5:37   Assault, Aggravated - Deadly Weapon - Int/Kn              GILMORE     KELLY        MARKET SQ
+
+1/18/2015 18:38  Assault, Aggravated - Deadly Weapon - Int/Kn              ARMSTRONG   BETTYE       EDEN ST
+
+1/18/2015 19:00  Assault, Aggravated - Strangulation - Int/Kn              ALMAHMMODY  MOHAMED      ZERMAT
+
+1/18/2015 0:56   ASSAULT, DOMESTIC BODILY INJURY                           THOMPSON    THOMAS       MIDDLETON ST
+
+1/18/2015 2:42   ASSAULT, DOMESTIC BODILY INJURY                           HOWARD      JAMES        BROADWAY
+
+1/18/2015 7:42   ASSAULT, DOMESTIC BODILY INJURY                           HOLT        CHRISTOPHER  ROWAN DR
+
+1/18/2015 7:58   ASSAULT, DOMESTIC BODILY INJURY                           SHAW        JEREMONTE    JAMES ROBERTSON PKWY
+
+1/18/2015 11:44  ASSAULT, DOMESTIC BODILY INJURY                           MCQUISTON   JOHNNY       KAREN DR
+
+1/18/2015 15:15  ASSAULT, DOMESTIC BODILY INJURY                           ALI         ISRAA        HARDING PL
+
+1/18/2015 15:14  ASSAULT, DOMESTIC BODILY INJURY                           HAYDIR      ALTIMIMI     HARDING PL
+
+1/18/2015 20:36  ASSAULT, DOMESTIC BODILY INJURY                           CALLISTER   CALEB        HERMITAGE AVE
+
+1/18/2015 4:04   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT           WOOTEN      LUKE         12TH AVE S
+
+1/18/2015 21:36  ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT           CRAWLEY     TAMEEKA      CAPITOL PT
+
+1/18/2015 4:44   ASSAULT, DOMESTIC, BODILY INJURY 2ND OFFENSE              GAMBLE      CANDICE      WOODYHILL DR
+
+1/18/2015 15:29  ASSAULT, DOMESTIC, BODILY INJURY 3RD OR MORE              HYDE        MARCUS       DICKERSON PIKE
+
+1/18/2015 0:27   BURGLARY- MOTOR VEHICLE                                   RAY         CAROL        NOLENSVILLE PIKE
+
+1/18/2015 5:37   BURGLARY-ESPECIALLY AGGRAVATED                            GILMORE     KELLY        MARKET SQ
+
+1/18/2015 9:51   CONTRABAND IN PENAL INSTITUTION-POSSESSION                HUEY        BOBBY        S 13TH ST
+
+1/18/2015 15:48  CONTROLLED ACCESS- ENTER/EXIT VIOL.                       PUCKETT     AHRIEL       12TH AVE N
+
+1/18/2015 17:24  CRIMINAL IMPERSONATION                                    HOLLAND     CHARITY      WALLACE RD
+
+1/17/2015 22:52  CRIMINAL TRESPASS                                         REID        YVONNE       BROADWAY
+
+1/18/2015 3:08   CRIMINAL TRESPASS                                         ALSAEDI     SHEREEF      OPRYLAND DR
+
+1/18/2015 14:01  CRIMINAL TRESPASS                                         AMBROZ      GEORGE       7TH AVE S
+
+1/17/2015 22:49  DELIVERY -CONT.SUB.- HEROIN 15-149 GR.                    VELASCO     JOSE         MERCOMATIC DR
+
+1/17/2015 22:52  DISORDERLY CONDUCT                                        REID        YVONNE       BROADWAY
+
+1/16/2015 18:37  DISORDERLY CONDUCT                                        WASHINGTON  ERIK         2ND AVE N
+
+1/18/2015 0:30   DRIV. LIC. - COPY AND USE OF LIC. AS VALID                DOMINGUEZ   DIANA        LONG HOLLOW PIKE
+
+                                                                  Page  1  of 5
+                                                                 Arrestee           Arrestee
+
+Arrest Date       Charge Description                             Last Name          First Name  Street
+
+1/17/2015 22:25   DRIV. LIC. - NO D/L                            CARRIZALES         ALVARO      PARAGON MILLS RD
+
+1/17/2015 22:49   DRIV. LIC. - NO D/L                            VELASCO            JOSE        MERCOMATIC DR
+
+1/17/2015 22:16   DRIV. LIC. - NO D/L                            EVANS              ASHLEY      SHASTA DR
+
+1/18/2015 0:30    DRIV. LIC. - NO D/L                            DOMINGUEZ          DIANA       LONG HOLLOW PIKE
+
+1/18/2015 2:23    DRIV. LIC. - NO D/L                            GARFIAS            JOSE        ANTIOCH PIKE
+
+1/18/2015 3:42    DRIV. LIC. - NO D/L                            TOLBERT            FREDDIE     DICKERSON PIKE
+
+1/18/2015 16:15   DRIV. LIC. - NO D/L                            VILLALTA           JONATHAN    12TH AVE S
+
+1/18/2015 16:19   DRIV. LIC. - NO D/L                            RAMIREZ RODRIGUEZ  ANSELMO     HARDING PL
+
+10/15/2014 10:00  DRIVING- REVOKED LICENSE                       VALDES-VALDES      JORGE       GALLATIN PIKE
+
+11/13/2014 14:39  DRIVING- REVOKED LICENSE                       MCCLATCHER         CREASY      DONELSON PIKE
+
+11/23/2014 6:28   DRIVING- REVOKED LICENSE                       ANDERSON           JOHN        ALBION ST
+
+11/17/2014 0:04   DRIVING- REVOKED LICENSE                       COOK               DESTRY      RIVERGATE PKWY
+
+1/17/2015 22:06   DRIVING- REVOKED LICENSE                       STEELE             SERITA      I 24 W
+
+1/18/2015 10:30   DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT    BROOKS             JONATHAN    W TRINITY LN
+
+1/18/2015 0:35    DRIVING- SUSPENDED LICENSE                     RUSSELL            TODD        DISSPAYNE DR
+
+1/18/2015 2:25    DRIVING- SUSPENDED LICENSE                     HARRISON           QUANITA     21ST AVE N
+
+12/11/2014 23:03  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT  HENDERSON          SHAWN       LEBANON PIKE
+
+1/17/2015 22:10   DRIVING UNDER THE INFLUENCE                    BROOKS             DALLAS      5TH AVE S
+
+1/17/2015 22:25   DRIVING UNDER THE INFLUENCE                    CARRIZALES         ALVARO      PARAGON MILLS RD
+
+1/17/2015 22:49   DRIVING UNDER THE INFLUENCE                    VELASCO            JOSE        MERCOMATIC DR
+
+1/18/2015 0:35    DRIVING UNDER THE INFLUENCE                    RUSSELL            TODD        DISSPAYNE DR
+
+1/18/2015 1:12    DRIVING UNDER THE INFLUENCE                    HALE               MATTHEW     I 40 W
+
+1/18/2015 1:50    DRIVING UNDER THE INFLUENCE                    BUTLER             KATHERINE   I 40 W
+
+1/18/2015 2:25    DRIVING UNDER THE INFLUENCE                    HARRISON           QUANITA     21ST AVE N
+
+1/18/2015 2:23    DRIVING UNDER THE INFLUENCE                    GARFIAS            JOSE        ANTIOCH PIKE
+
+1/18/2015 3:25    DRIVING UNDER THE INFLUENCE                    BURNS              WILLIAM     MAIN ST
+
+1/18/2015 3:08    DRIVING UNDER THE INFLUENCE                    WHITEHOUSE         CRYSTAL     EVERGREEN TRL
+
+1/18/2015 9:28    DRIVING UNDER THE INFLUENCE                    PEDRO              JULIO       MURFREESBORO RD/  SEWELL  A
+
+1/18/2015 16:19   DRIVING UNDER THE INFLUENCE                    RAMIREZ RODRIGUEZ  ANSELMO     HARDING PL
+
+1/17/2015 22:10   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE      BURNS              BRANDI      I 24 W
+
+1/17/2015 22:06   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE      STEELE             SERITA      I 24 W
+
+1/17/2015 22:16   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE      EVANS              ASHLEY      SHASTA DR
+
+1/18/2015 3:26    DRIVING UNDER THE INFLUENCE - 2ND OFFENSE      MOSELY             MICHAEL     OLD HICKORY BLVD
+
+                                                                 Page 2 of 5
+                                                                      Arrestee           Arrestee
+
+Arrest Date       Charge Description                                  Last Name          First Name  Street
+
+1/18/2015 5:11    DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           FULLERTON          KATIE       DICKERSON PIKE
+
+1/17/2015 22:49   DRUG FREE SCH.ZONE-CONT.SUB.-HEROIN 15-149 GR.      VELASCO            JOSE        MERCOMATIC DR
+
+1/17/2015 22:49   DRUG PARAPHERNALIA- UNLAWFUL USE                    VELASCO            JOSE        MERCOMATIC DR
+
+1/18/2015 18:44   ESCAPE - PENAL INSTITUTION - FELONY                 ALLEY              CHRIS       HART ST
+
+1/17/2015 22:49   EVADING ARREST- MISDEMEANOR                         VELASCO            JOSE        MERCOMATIC DR
+
+1/18/2015 16:19   EVADING ARREST- MISDEMEANOR                         RAMIREZ RODRIGUEZ  ANSELMO     HARDING PL
+
+1/18/2015 1:23    EVADING ARREST- MOTOR VEHICLE                       GAY-BETTON         DANIEL      3RD AVE S
+
+1/17/2015 17:59   FAIL TO BE BOOKED (CRIMINAL SUMMONS)                DAVIS              SCOTTY      2ND AVE N
+
+1/17/2015 23:24   FAILURE TO APPEAR - FELONY OR CLASS A MISD.         DAVIS              RANDALL     2ND AVE N
+
+1/18/2015 11:29   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  MILES              MELISSA
+
+1/18/2015 13:24   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  CRAWFORD           KAWANDA     1ST AVE S
+
+1/18/2015 13:24   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  CRAWFORD           KAWANDA     1ST AVE S
+
+1/18/2015 14:31   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  WEBB               MAURICE     GARFIELD ST
+
+1/18/2015 14:31   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  WEBB               MAURICE     GARFIELD ST
+
+1/17/2015 23:30   FAILURE TO BE BOOKED                                FOXX               RONNIE      SHELBY AVE
+
+1/18/2015 1:04    FAILURE TO BE BOOKED                                VALDES-VALDES      JORGE       HARRINGTON AVE
+
+1/18/2015 9:52    FAILURE TO BE BOOKED                                HENDERSON          SHAWN       JAMES ROBERTSON PKWY
+
+1/18/2015 14:05   FAILURE TO BE BOOKED                                COOK               DESTRY      RIVERGATE PKWY
+
+1/18/2015 14:54   FAILURE TO BE BOOKED                                MCCLATCHER         CREASY      TAMPA DR
+
+1/18/2015 15:53   FAILURE TO BE BOOKED                                ANDERSON           JOHN        S 13TH ST
+
+1/18/2015 19:00   FALSE IMPRISONMENT                                  ALMAHMMODY         MOHAMED     ZERMAT
+
+1/18/2015 15:59   FALSE REPORT- TO OBSTRUCT OR HINDER                 MITCHELL           PATRICIA    HART LN
+
+1/18/2015 18:56   HARASSMENT REPETITIVE CALLS                         TIDWELL            BENJAMIN    MARCHANT DR
+
+12/17/2014 13:45  IMMEDIATE NOTICE OF ACCIDENT- FAILURE TO COMPLY     FOXX               RONNIE      MURFREESBORO PIKE
+
+1/18/2015 1:12    IMPLIED CONSENT - CIVIL                             HALE               MATTHEW     I 40 W
+
+1/18/2015 2:25    IMPLIED CONSENT - CIVIL                             HARRISON           QUANITA     21ST AVE N
+
+1/18/2015 2:23    IMPLIED CONSENT - CIVIL                             GARFIAS            JOSE        ANTIOCH PIKE
+
+1/17/2015 22:16   IMPLIED CONSENT - CRIMINAL                          EVANS              ASHLEY      SHASTA DR
+
+1/18/2015 9:28    IMPLIED CONSENT - CRIMINAL                          PEDRO              JULIO       MURFREESBORO RD/ SEWELL  A
+
+1/18/2015 11:44   INTERFERENCE W/EMERGENCY CALL                       MCQUISTON          JOHNNY      KAREN DR
+
+1/18/2015 19:00   INTERFERENCE W/EMERGENCY CALL                       ALMAHMMODY         MOHAMED     ZERMAT
+
+1/18/2015 16:19   LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE         RAMIREZ RODRIGUEZ  ANSELMO     HARDING PL
+
+1/17/2015 22:25   OPEN CONTAINER VIOL.                                CARRIZALES         ALVARO      PARAGON MILLS RD
+
+                                                                      Page 3 of 5
+                                                                    Arrestee           Arrestee
+
+Arrest Date       Charge Description                                Last Name          First Name  Street
+
+1/17/2015 22:49   OPEN CONTAINER VIOL.                              VELASCO            JOSE        MERCOMATIC DR
+
+1/18/2015 16:19   OPEN CONTAINER VIOL.                              RAMIREZ RODRIGUEZ  ANSELMO     HARDING PL
+
+1/18/2015 18:10   ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION   BROOKS             LOUIS       2ND AVE N
+
+1/17/2015 22:10   POSS. OR CASUAL EXCHANGE-CONT.SUB.                BROOKS             DALLAS      5TH AVE S
+
+1/18/2015 14:31   POSS. OR CASUAL EXCHANGE-CONT.SUB.                WEBB               MAURICE     GARFIELD ST
+
+1/18/2015 17:51   POSS.W/INT-CONT.SUB.- COCAINE LT .5 GR.           BRADLEY            CORNELL     2ND AVE N
+
+1/18/2015 9:51    POSS.W/INT-CONT.SUB.- COCAINE .5 GR. OR MORE      HUEY               BOBBY       S 13TH ST
+
+1/18/2015 9:51    POSS.W/INT-CONT.SUB.- SCH. I                      HUEY               BOBBY       S 13TH ST
+
+1/17/2015 23:24   PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  DAVIS              RANDALL     2ND AVE N
+
+1/17/2015 23:24   PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  DAVIS              RANDALL     2ND AVE N
+
+1/18/2015 8:14    PROBATION VIOLATION- FELONY                       EICHEL             ASHLEY      LAKESIDE PL
+
+1/18/2015 9:51    PROBATION VIOLATION- FELONY                       HUEY               BOBBY       S 13TH ST
+
+1/18/2015 1:51    PROBATION VIOLATION- MISDEMEANOR                  HENDERSON          TRACY       SHELBY AVE
+
+1/18/2015 3:31    PROBATION VIOLATION- MISDEMEANOR                  SULLIVAN           JACQUELINE  GRIZZARD AVE
+
+1/18/2015 17:24   PROBATION VIOLATION- MISDEMEANOR                  HOLLAND            CHARITY     WALLACE RD
+
+1/17/2015 22:52   PUBLIC INTOXICATION                               REID               YVONNE      BROADWAY
+
+1/18/2015 0:14    PUBLIC INTOXICATION                               CRUIT              ALEXANDER   CAPITOL BLVD
+
+1/18/2015 0:24    PUBLIC INTOXICATION                               GREER              NATHANIEL   16TH AVE N
+
+1/18/2015 2:34    PUBLIC INTOXICATION                               CORNELIA           VAUGHN      DEMONBREUN ST
+
+1/18/2015 2:55    PUBLIC INTOXICATION                               STANDARD           SCOTT       BROADWAY
+
+1/18/2015 10:27   PUBLIC INTOXICATION                               URBACH             KENNETH     GALLATIN AVE
+
+1/18/2015 11:07   PUBLIC INTOXICATION                               JOHNSON            DONALD      DICKERSON PIKE
+
+1/18/2015 19:00   RECKLESS ENDANGERMENT- MOTOR VEH. - WEAPON        ALMAHMMODY         MOHAMED     ZERMAT
+
+1/17/2015 22:49   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH    VELASCO            JOSE        MERCOMATIC DR
+
+1/16/2015 18:37   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH    WASHINGTON         ERIK        2ND AVE N
+
+1/18/2015 17:51   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH    BRADLEY            CORNELL     2ND AVE N
+
+12/13/2014 12:45  THEFT OF MERCHANDISE - $500 OR LESS               DAVIS              SCOTTY      2ND AVE N
+
+1/18/2015 3:08    THEFT OF MERCHANDISE - $500 OR LESS               ALSAEDI            SHEREEF     OPRYLAND DR
+
+1/18/2015 3:08    THEFT OF MERCHANDISE - $500 OR LESS               ALSAEDI            SHEREEF     OPRYLAND DR
+
+1/18/2015 3:08    THEFT OF MERCHANDISE- GT $500, LT $1,000          ALSAEDI            SHEREEF     OPRYLAND DR
+
+1/18/2015 18:36   THEFT OF MERCHANDISE- GT $500, LT $1,000          VOYLES             SARA        MERCER DR
+
+1/18/2015 18:38   THEFT OF MERCHANDISE- GT $500, LT $1,000          BARFIELD           SHAWN       MERCER DR
+
+1/18/2015 19:00   VANDALISM- $500 OR LESS                           ALMAHMMODY         MOHAMED     ZERMAT
+
+                                                                    Page 4 of 5
+                                                            Arrestee     Arrestee
+
+Arrest Date      Charge Description                         Last Name    First Name  Street
+
+1/18/2015 17:33  VANDALISM- $10,000 OR GT, LT $60,000       CLARKE       JOHN        MARTINGALE DR
+
+1/18/2015 17:51  WEAPON - FELON IN POSSESSION OF A HANDGUN  BRADLEY      CORNELL     2ND AVE N
+
+1/18/2015 3:08   WEAPON- POSSESSION WHILE UNDER INFLUENCE   WHITEHOUSE   CRYSTAL     EVERGREEN TRL
+
+                                                            Page 5 of 5

@@ -1,0 +1,331 @@
+                                                                  Arrestee            Arrestee
+
+Arrest Date      Charge Description                               Last Name           First Name   Street
+
+1/10/2015 1:25   ALCOHOL- UNDER 21, CONSUMPTION                   JONES               MOLLIE       8TH AVE S
+
+1/9/2015 23:15   ASSAULT- FEAR OF BODILY INJURY                   WURTZ               BRIAN        12TH AVE N
+
+1/10/2015 0:55   ASSAULT, AGG VIOLATION OF COURT ORDER            TAYLOR              WILLIE       PORTER RD
+
+1/9/2015 23:01   ASSAULT, DOMESTIC BODILY INJURY                  MCKINLEY            DELSON       51ST AVE N
+
+1/10/2015 4:04   ASSAULT, DOMESTIC BODILY INJURY                  GLOVER              WILLIAM      TRENTON DR
+
+1/10/2015 4:24   ASSAULT, DOMESTIC BODILY INJURY                  HOLT                RACHEAL      TRENTON DR
+
+1/10/2015 15:47  ASSAULT, DOMESTIC BODILY INJURY                  ALCANTAR            HIRAM        DONOHO DR
+
+1/9/2015 23:35   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  STRINGER            KASSIE       41ST AVE N
+
+1/9/2015 23:37   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  CORDOVA             ALEX         MAY DR
+
+1/9/2015 22:07   BURGLARY- AGGRAVATED                             TATE                SHAWN        HIGHLAND VIEW CT
+
+1/9/2015 23:57   BURGLARY- AGGRAVATED                             CURRY               ZACHARY      LEWIS ST
+
+1/9/2015 22:07   BURGLARY TOOLS- POSSESSION                       TATE                SHAWN        HIGHLAND VIEW CT
+
+1/9/2015 21:04   CONTRABAND IN PENAL INSTITUTION-POSSESSION       PAYNE               JOELRICO     6TH AVE S
+
+1/10/2015 15:34  CRIMINAL TRESPASS                                GEORGE              MICHAEL      LAFAYETTE ST
+
+1/10/2015 16:48  CRIMINAL TRESPASS                                JILES               LATASHA      NOLENSVILLE PIKE
+
+1/10/2015 20:22  CRIMINAL TRESPASS                                LAMB                JEFFREY      DICKERSON PIKE
+
+1/10/2015 0:33   DISORDERLY CONDUCT                               REYNOLDS            DAVI         18TH AVE N
+
+1/10/2015 2:30   DISORDERLY CONDUCT                               FERNANDEZ           JOHNATHAN    RIVERGATE PKWY
+
+1/10/2015 2:51   DISORDERLY CONDUCT                               RAYBURN             TREVOR       DEMONBREUN ST
+
+3/10/2014 9:16   DRIV. LIC. - NO D/L                              DIXON               ADAREUS      I 24 E
+
+1/10/2015 21:19  DRIV. LIC. - NO D/L                              VALDIVIESO-ANTONIO  MARCO        MCMURRAY DR
+
+7/8/2014 21:33   DRIVING- REVOKED LICENSE                         DOUGLAS             REASHA       S 7TH ST
+
+10/8/2014 13:48  DRIVING- REVOKED LICENSE                         NETHERTON           ANTONYO      I 40 W
+
+12/2/2014 8:38   DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT      WATKINS-DONEY       SHELBY       E TRINITY LN
+
+1/10/2015 3:51   DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT      HARRIS              TROY         HWY 70 S
+
+9/9/2013 21:16   DRIVING- SUSPENDED LICENSE                       FORTUNE             ALONZO       GREENWOOD AVE
+
+1/10/2015 0:42   DRIVING- SUSPENDED LICENSE                       TROTTER             WILLIAM      2ND AVE S
+
+1/10/2015 18:43  DRIVING- SUSPENDED LICENSE                       FORTUNE             ALONZO       ROSA L PARKS BLVD
+
+1/10/2015 18:06  DRIVING- SUSPENDED LICENSE                       JOHNSON             LAVAUGHN     NOLENSVILLE PIKE
+
+1/10/2015 17:33  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT    TAYLOR              CHRISTOPHER  POWELL AVE
+
+1/9/2015 22:43   DRIVING UNDER THE INFLUENCE                      CLARK               HEATHER      BELL RD
+
+1/9/2015 22:58   DRIVING UNDER THE INFLUENCE                      DUPES               MARK         RIVERGATE PKWY
+
+1/9/2015 23:40   DRIVING UNDER THE INFLUENCE                      DUGGANS             JIMMY        I 40 E
+
+                                                                  Page 1 of 5
+                                                                      Arrestee       Arrestee
+
+Arrest Date      Charge Description                                   Last Name      First Name   Street
+
+1/10/2015 0:03   DRIVING UNDER THE INFLUENCE                          BOEN           JOSEPH       8TH AVE S
+
+1/10/2015 0:06   DRIVING UNDER THE INFLUENCE                          FAKUNLE        SIMEON       MURFREESBORO PIKE
+
+1/10/2015 0:51   DRIVING UNDER THE INFLUENCE                          JOHNSON        LAUREN       VIETNAM VETERANS
+
+1/10/2015 2:04   DRIVING UNDER THE INFLUENCE                          ELLWANGER      ALLYE        S 14TH ST
+
+1/10/2015 1:25   DRIVING UNDER THE INFLUENCE                          JONES          MOLLIE       8TH AVE S
+
+1/10/2015 2:04   DRIVING UNDER THE INFLUENCE                          MIMBS          MARCIE       HARDING PL
+
+1/10/2015 6:15   DRIVING UNDER THE INFLUENCE                          WOODARD        CHRISTOPHER  2ND AVE N
+
+1/10/2015 7:56   DRIVING UNDER THE INFLUENCE                          FARMER         CODY         BLUE BERRY HILL RD
+
+1/10/2015 20:52  DRIVING UNDER THE INFLUENCE                          MARCHETTI      MARY         NOLENSVILLE PIKE
+
+1/9/2015 21:15   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE            LIFF           DARREN       HWY 100
+
+1/9/2015 23:40   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE            WILLIAMS       DARRYEL
+
+1/10/2015 3:51   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE            HARRIS         TROY         HWY 70 S
+
+1/10/2015 17:33  DRIVING UNDER THE INFLUENCE - 2ND OFFENSE            TAYLOR         CHRISTOPHER  POWELL AVE
+
+1/10/2015 19:08  DRUG PARAPHERNALIA- UNLAWFUL USE                     GILCHRIST      MEGAN        MURFREESBORO
+
+1/10/2015 19:50  DRUG PARAPHERNALIA- UNLAWFUL USE                     HENRY          JAY          OLD HICKORY
+
+1/9/2015 21:36   EVADING ARREST- MOTOR VEHICLE                        TAYLOR         JAMES        JOSEPH AVE
+
+1/10/2015 13:54  EVADING ARREST- MOTOR VEHICLE                        BYRD           KENNETH      JAMES ROBERTSON PKWY
+
+1/9/2015 21:54   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING  FOXX           VICTORIA     CARROLL ST
+
+1/9/2015 22:29   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING  ESPINAL-NUNEZ  YECSON       JASMIN DR
+
+1/9/2015 23:47   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING  JONES          MATTHEW      JAMES ROBERTSON PKWY
+
+1/10/2015 4:09   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING  HARDY          LOWELL       LEBANON ROAD
+
+1/10/2015 7:30   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING  DOUGLAS        REASHA       WILSON COUNTY
+
+1/10/2015 7:30   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING  DOUGLAS        REASHA       WILSON COUNTY
+
+1/10/2015 7:30   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING  DOUGLAS        REASHA       WILSON COUNTY
+
+1/10/2015 9:16   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING  POSEY          MICHAEL      2ND AVE
+
+1/10/2015 10:06  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING  LATIMER        WILLIAM      RUTHERFORD COUNTY WORK  HO
+
+1/10/2015 12:13  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING  MINYARD        TAYLOR       HARDING PL
+
+1/10/2015 16:55  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING  HOBSON         GLENWAN      BUCHANAN ST
+
+1/10/2015 19:27  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS  BOOKING  SADFIELD       RAKEEM       RIVERGATE PKWY
+
+1/9/2015 21:04   FAILURE TO BE BOOKED                                 PAYNE          JOELRICO     6TH AVE S
+
+1/9/2015 22:43   FAILURE TO BE BOOKED                                 DIXON          ADAREUS      NEW SALEM RD
+
+1/10/2015 0:45   FAILURE TO BE BOOKED                                 WATKINS-DONEY  SHELBY       KOREAN VETERANS BLVD
+
+1/10/2015 0:45   FAILURE TO BE BOOKED                                 WATKINS-DONEY  SHELBY       KOREAN VETERANS BLVD
+
+                                                                      Page 2 of 5
+                                                                   Arrestee       Arrestee
+
+Arrest Date      Charge Description                                Last Name      First Name  Street
+
+1/10/2015 4:44   FAILURE TO BE BOOKED                              HIX            BREIANNA    BANDYWOOD DR
+
+1/10/2015 7:30   FAILURE TO BE BOOKED                              DOUGLAS        REASHA      WILSON COUNTY
+
+1/10/2015 7:36   FAILURE TO BE BOOKED                              STEPHENS       KADEN       HIDDEN HILL DR
+
+1/10/2015 18:43  FAILURE TO BE BOOKED                              FORTUNE        ALONZO      ROSA L PARKS BLVD
+
+1/10/2015 19:27  FAILURE TO BE BOOKED                              SADFIELD       RAKEEM      RIVERGATE PKWY
+
+1/10/2015 20:43  FAILURE TO BE BOOKED                              NETHERTON      ANTONYO     WILSON CO. JAIL
+
+1/10/2015 19:19  FORFEITURE - VIOL BOND COND. OR BOND INCREASE     YOUNG          THOMAS      CRESTVIEW DR
+
+1/10/2015 19:14  FORGERY- $500 OR LESS                             BRISCOE        DEANNA      JAMES ROBERTSON PKWY
+
+1/9/2015 23:40   IMPLIED CONSENT - CIVIL                           DUGGANS        JIMMY       I 40 E
+
+1/10/2015 0:03   IMPLIED CONSENT - CIVIL                           BOEN           JOSEPH      8TH AVE S
+
+1/10/2015 0:51   IMPLIED CONSENT - CIVIL                           JOHNSON        LAUREN      VIETNAM VETERANS
+
+1/10/2015 2:04   IMPLIED CONSENT - CIVIL                           ELLWANGER      ALLYE       S 14TH ST
+
+1/9/2015 23:40   IMPLIED CONSENT - CIVIL                           WILLIAMS       DARRYEL
+
+1/10/2015 20:52  IMPLIED CONSENT - CIVIL                           MARCHETTI      MARY        NOLENSVILLE PIKE
+
+1/10/2015 3:51   IMPLIED CONSENT - CRIMINAL                        HARRIS         TROY        HWY 70 S
+
+12/2/2014 8:38   LEAVING THE SCENE OF AN ACC. W/PERS. INJURY       WATKINS-DONEY  SHELBY      E TRINITY LN
+
+1/10/2015 19:50  LEAVING THE SCENE OF AN ACC. W/PERS. INJURY       HENRY          JAY         OLD HICKORY
+
+1/9/2015 22:43   OPEN CONTAINER VIOL.                              CLARK          HEATHER     BELL RD
+
+1/10/2015 0:55   ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION   TAYLOR         WILLIE      PORTER RD
+
+1/9/2015 21:36   PAROLE VIOLATION                                  TAYLOR         JAMES       JOSEPH AVE
+
+1/9/2015 19:30   PAROLE VIOLATION                                  HOLDEN         THEODORE    2ND AVE N
+
+1/9/2015 19:28   PAROLE VIOLATION                                  CHUBB          TIMOTHY     2ND AVE N
+
+1/9/2015 19:25   PAROLE VIOLATION                                  WILLIAMS       CALVIN      2ND AVE N
+
+1/9/2015 21:59   POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.   HAMILTON       CARL        CARROLL ST
+
+1/9/2015 21:59   POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.   HAMILTON       CARL        CARROLL ST
+
+1/10/2015 18:06  POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.   JOHNSON        LAVAUGHN    NOLENSVILLE PIKE
+
+1/9/2015 22:09   PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  LEE            LATERRANCE  JONES AVE
+
+1/9/2015 22:09   PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  LEE            LATERRANCE  JONES AVE
+
+1/10/2015 10:41  PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  SPRINGER       NYKLAS      15TH AVE N
+
+1/9/2015 23:46   PROBATION VIOLATION- FELONY                       HAMLET         JODI        LEWIS ST
+
+1/10/2015 1:02   PROBATION VIOLATION- FELONY                       JOHNSON        TONY        2ND AVE N
+
+1/10/2015 7:36   PROBATION VIOLATION- FELONY                       STEPHENS       KADEN       HIDDEN HILL DR
+
+1/10/2015 9:08   PROBATION VIOLATION- FELONY                       MARCHBANKS     COREY       JAMES ROBERTSON    PKY
+
+                                                                   Page 3 of 5
+                                                                 Arrestee     Arrestee
+
+Arrest Date      Charge Description                              Last Name    First Name  Street
+
+1/10/2015 9:08   PROBATION VIOLATION- FELONY                     JONES        RONALD      2ND AVE N
+
+1/10/2015 16:02  PROBATION VIOLATION- FELONY                     THOMAS       CALEB       2ND AVE N
+
+1/10/2015 16:13  PROBATION VIOLATION- FELONY                     ALLEN        MARQUISE    AND AVE NORTH
+
+1/10/2015 16:24  PROBATION VIOLATION- FELONY                     WASHINGTON   MARILYN     AND AVE NORTH
+
+1/10/2015 16:48  PROBATION VIOLATION- FELONY                     JILES        LATASHA     NOLENSVILLE PIKE
+
+1/10/2015 19:17  PROBATION VIOLATION- FELONY                     CRUMPLER     MELINDA     2ND AVE N
+
+1/10/2015 20:52  PROBATION VIOLATION- FELONY                     SANGSTER     EDMOND      BELL RD
+
+1/10/2015 21:05  PROBATION VIOLATION- FELONY                     FRIERSON     ROBERT      MURFREESBORO PIKE
+
+1/10/2015 9:00   PROBATION VIOLATION- MISDEMEANOR                MASON        CHRYSTIAN   2ND AVE N
+
+1/10/2015 9:08   PROBATION VIOLATION- MISDEMEANOR                RILEY        FRANKIE     2ND AVE N
+
+1/10/2015 12:18  PROBATION VIOLATION- MISDEMEANOR                POINTER      LEZHERICK   2ND AVE N
+
+1/10/2015 15:26  PROBATION VIOLATION- MISDEMEANOR                HIGHTOWER    RANDALL     HARPETH VALLEY RD
+
+1/10/2015 16:31  PROBATION VIOLATION- MISDEMEANOR                SOLOMON      MUGISHA     2ND AVE N
+
+10/9/2014 18:00  PROSTITUTION                                    HIX          BREIANNA    ATA LOMA AV
+
+12/3/2014 22:10  PROSTITUTION                                    PAYNE        JOELRICO    5TH AVE S
+
+1/9/2015 23:15   PUBLIC INTOXICATION                             WURTZ        BRIAN       12TH AVE N
+
+1/9/2015 23:55   PUBLIC INTOXICATION                             MAYNARD      JOSEPH      RIVERGATE PKWY
+
+1/10/2015 0:40   PUBLIC INTOXICATION                             TAYLOR       JOHNNIE     EWING AVE
+
+1/10/2015 0:31   PUBLIC INTOXICATION                             MAXON        ELRICO      LAFAYETTE ST
+
+1/10/2015 0:33   PUBLIC INTOXICATION                             REYNOLDS     DAVI        18TH AVE N
+
+1/10/2015 2:04   PUBLIC INTOXICATION                             ROSE         TYLER       DEMONBREUN ST
+
+1/10/2015 2:30   PUBLIC INTOXICATION                             FERNANDEZ    JOHNATHAN   RIVERGATE PKWY
+
+1/10/2015 2:51   PUBLIC INTOXICATION                             RAYBURN      TREVOR      DEMONBREUN ST
+
+1/10/2015 15:38  PUBLIC INTOXICATION                             RAY          DANIEL      DIVISION ST
+
+1/10/2015 17:28  PUBLIC INTOXICATION                             ROSHELL      BYRON       MIDDLETON ST
+
+1/10/2015 17:59  PUBLIC INTOXICATION                             COSTELLO     DANNY       CHARLOTTE AVE
+
+1/10/2015 18:00  PUBLIC INTOXICATION                             RAGER        EARNEST     CHARLOTTE AVE
+
+1/10/2015 20:23  PUBLIC INTOXICATION                             BEARD        TROY        2ND AVE N
+
+1/10/2015 21:00  PUBLIC INTOXICATION                             LASSITER     JAMES       BROADWAY
+
+1/10/2015 19:50  RECKLESS ENDANGERMENT- MOTOR VEH. - WEAPON      HENRY        JAY         OLD HICKORY
+
+1/9/2015 23:37   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  CORDOVA      ALEX        MAY DR
+
+1/10/2015 15:42  RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  FITZGERALD   TONDRIQUE   S 9TH ST
+
+1/10/2015 20:52  RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  MARCHETTI    MARY        NOLENSVILLE PIKE
+
+                                                                 Page 4 of 5
+                                                              Arrestee     Arrestee
+
+Arrest Date      Charge Description                           Last Name    First Name  Street
+
+1/10/2015 0:29   ROBBERY                                      HECTOR       COREY       E TRINITY LN
+
+1/9/2015 21:36   ROBBERY- AGG.- WEAPON OR OBJECT              TAYLOR       JAMES       JOSEPH AVE
+
+1/9/2015 21:36   ROBBERY- AGG.- WEAPON OR OBJECT              TAYLOR       JAMES       JOSEPH AVE
+
+1/9/2015 21:36   ROBBERY- AGG.- WEAPON OR OBJECT              TAYLOR       JAMES       JOSEPH AVE
+
+1/9/2015 21:36   ROBBERY- AGG.- WEAPON OR OBJECT              TAYLOR       JAMES       JOSEPH AVE
+
+1/9/2015 21:36   ROBBERY- AGG.- WEAPON OR OBJECT              TAYLOR       JAMES       JOSEPH AVE
+
+1/24/2013 13:32  THEFT OF MERCHANDISE - $500 OR LESS          STEPHENS     KADEN       LEBANON PIKE
+
+1/10/2015 16:41  THEFT OF MERCHANDISE - $500 OR LESS          PRYOR        MANDY       WHITES CREEK PIKE
+
+1/10/2015 16:56  THEFT OF MERCHANDISE - $500 OR LESS          PRYOR        BOBBY       WHITES CREEK PIKE
+
+1/10/2015 19:27  THEFT OF MERCHANDISE - $500 OR LESS          SADFIELD     RAKEEM      RIVERGATE PKWY
+
+1/10/2015 7:54   THEFT OF PROPERTY- $1,000 OR GT, LT $10,000  HUNTER       STONEY      OLD HICKORY BLVD
+
+1/10/2015 7:36   THEFT OF PROPERTY- $500 OR LESS              STEPHENS     KADEN       HIDDEN HILL DR
+
+1/10/2015 16:48  THEFT OF PROPERTY- $500 OR LESS              JILES        LATASHA     NOLENSVILLE PIKE
+
+1/10/2015 19:14  THEFT OF PROPERTY- GT $500, LT $1,000        BRISCOE      DEANNA      JAMES ROBERTSON PKWY
+
+1/10/2015 20:22  THEFT OF PROPERTY- GT $500, LT $1,000        LAMB         JEFFREY     DICKERSON PIKE
+
+1/9/2015 23:37   VANDALISM- $500 OR LESS                      CORDOVA      ALEX        MAY DR
+
+1/10/2015 0:55   VANDALISM- $500 OR LESS                      TAYLOR       WILLIE      PORTER RD
+
+1/10/2015 7:36   VANDALISM- $500 OR LESS                      STEPHENS     KADEN       HIDDEN HILL DR
+
+1/9/2015 23:15   VANDALISM- $1,000 OR GT, LT $10,000          WURTZ        BRIAN       12TH AVE N
+
+1/10/2015 10:46  VANDALISM- $1,000 OR GT, LT $10,000          KRASNOW      THOMAS      FLORENCE AVE
+
+1/10/2015 14:18  VANDALISM- GT $500, LT $1,000                JONES        JOSHUA      MURPHY RD
+
+                                                              Page 5 of 5

@@ -1,7 +1,6 @@
 import unittest
 import requests
 import mock
-from StringIO import StringIO
 import getcrime
 
 # run via command line: python -m unittest discover
