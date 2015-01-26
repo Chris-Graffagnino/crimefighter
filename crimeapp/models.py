@@ -39,6 +39,6 @@ class TaskHistory(models.Model):
         return _("Task History of Task: %s") % self.name
 
 class Result(models.Model):
-    """ I deleted this model...REDO!!""" 
+    pass
    
     
