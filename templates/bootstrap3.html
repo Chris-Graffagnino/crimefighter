@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 {% load bootstrap3 %}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+
 <html{% if request.LANGUAGE_CODE %} lang="{{ request.LANGUAGE_CODE }}"{% endif %}>
 
 <head>
