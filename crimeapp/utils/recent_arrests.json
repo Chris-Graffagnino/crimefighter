@@ -1,109 +1,32 @@
 [
     {
         "fields": {
-            "first_name": "camry", 
-            "surname": "railey", 
-            "location": "s gallatin pike", 
-            "time": "19:23", 
-            "date": "2014-12-12", 
-            "offense": "alcohol-under 21,sale to minor"
+            "first_name": "daniel", 
+            "surname": "cornejo", 
+            "location": "alice ave", 
+            "time": "03:55", 
+            "date": "2015-01-04", 
+            "offense": "alcohol- under 21, consumption"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "thipphavong", 
-            "surname": "robert", 
-            "location": "n gallatin pike", 
-            "time": "18:57", 
-            "date": "2014-12-12", 
-            "offense": "alcohol-under 21,sale to minor"
+            "first_name": "tiffini", 
+            "surname": "snyder", 
+            "location": "yokley rd", 
+            "time": "00:51", 
+            "date": "2015-01-27", 
+            "offense": "alcohol- under 21, consumption"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "herman", 
-            "surname": "dale", 
-            "location": "rivergate pkwy", 
-            "time": "17:11", 
-            "date": "2014-12-12", 
-            "offense": "alcohol-under 21,sale to minor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "hallie", 
-            "surname": "sullivan", 
-            "location": "demonbreun st", 
-            "time": "17:25", 
-            "date": "2014-12-13", 
-            "offense": "alcohol-under 21,sale to minor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "alexis", 
-            "surname": "howard", 
-            "location": "25th ave n", 
-            "time": "09:00", 
-            "date": "2014-12-13", 
-            "offense": "alcohol-under 21,sale to minor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "alison", 
-            "surname": "kearns", 
-            "location": "demonbreun st", 
-            "time": "17:03", 
-            "date": "2014-12-13", 
-            "offense": "alcohol-under 21,sale to minor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "hoon", 
-            "surname": "chun", 
-            "location": "demonbreun st", 
-            "time": "17:27", 
-            "date": "2014-12-13", 
-            "offense": "alcohol-under 21,sale to minor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "brittany", 
-            "surname": "southard", 
-            "location": "division st", 
-            "time": "18:06", 
-            "date": "2014-12-13", 
-            "offense": "alcohol-under 21,sale to minor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "matthew", 
-            "surname": "sternlieb", 
-            "location": "division st", 
-            "time": "18:54", 
-            "date": "2014-12-13", 
-            "offense": "alcohol-under 21,sale to minor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "dena", 
-            "surname": "gaither", 
+            "first_name": "richard", 
+            "surname": "ferranti", 
             "location": "broadway", 
-            "time": "00:00", 
+            "time": "21:35", 
             "date": "2014-12-19", 
             "offense": "alcohol-under 21,sale to minor"
         }, 
@@ -111,583 +34,836 @@
     }, 
     {
         "fields": {
-            "first_name": "cara", 
-            "surname": "manka", 
-            "location": "2nd ave n", 
-            "time": "10:42", 
-            "date": "2015-01-22", 
+            "first_name": "travis", 
+            "surname": "roberts", 
+            "location": "broadway", 
+            "time": "20:15", 
+            "date": "2014-12-19", 
             "offense": "alcohol-under 21,sale to minor"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "pablo", 
-            "surname": "medina", 
-            "location": "lafayette st", 
-            "time": "16:49", 
-            "date": "2015-01-22", 
-            "offense": "alter title, registration, plate or permit"
+            "first_name": "timothy", 
+            "surname": "key", 
+            "location": "broadway", 
+            "time": "20:50", 
+            "date": "2014-12-19", 
+            "offense": "alcohol-under 21,sale to minor"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "sharmaine", 
-            "surname": "smith", 
-            "location": "2nd ave n", 
-            "time": "22:10", 
-            "date": "2014-12-1", 
+            "first_name": "william", 
+            "surname": "lee", 
+            "location": "john merritt blvd", 
+            "time": "11:50", 
+            "date": "2015-01-27", 
             "offense": "assault- fear of bodily injury"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "sharette", 
-            "surname": "lowe", 
-            "location": "2nd ave n", 
-            "time": "03:50", 
-            "date": "2015-01-01", 
-            "offense": "assault- fear of bodily injury"
+            "first_name": "james", 
+            "surname": "shane", 
+            "location": "richards rd", 
+            "time": "12:27", 
+            "date": "2015-01-26", 
+            "offense": "assault of officer - fear of bodily injury"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "kendrius", 
-            "surname": "smith", 
-            "location": "4th ave n", 
-            "time": "23:22", 
-            "date": "2015-01-21", 
-            "offense": "assault- fear of bodily injury"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "christopher", 
+            "first_name": "scott", 
             "surname": "lewis", 
-            "location": "2nd ave n", 
-            "time": "18:15", 
-            "date": "2015-01-20", 
-            "offense": "assault- offensive or provocative contact"
+            "location": "carl pl", 
+            "time": "00:20", 
+            "date": "2015-01-27", 
+            "offense": "assault of officer - fear of bodily injury"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "fitzroy", 
-            "surname": "baker", 
-            "location": "bell hollow", 
-            "time": "22:41", 
-            "date": "2015-01-21", 
+            "first_name": "scott", 
+            "surname": "lewis", 
+            "location": "carl pl", 
+            "time": "00:20", 
+            "date": "2015-01-27", 
+            "offense": "assault of officer - fear of bodily injury"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jeiel", 
+            "surname": "bond", 
+            "location": "rutherford co jail", 
+            "time": "20:50", 
+            "date": "2015-01-27", 
             "offense": "assault, agg serious bodily injury- int/kn"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "stephanie", 
-            "surname": "raymer", 
-            "location": "eagan cir", 
-            "time": "23:35", 
-            "date": "2015-01-21", 
-            "offense": "assault, agg serious bodily injury- int/kn"
+            "first_name": "wade", 
+            "surname": "barger", 
+            "location": "4th ave s", 
+            "time": "01:46", 
+            "date": "2015-01-27", 
+            "offense": "assault, aggravated - deadly weapon - int/kn"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "dewey", 
-            "surname": "adams", 
-            "location": "dickerson pike", 
-            "time": "04:16", 
-            "date": "2015-01-22", 
-            "offense": "assault, agg serious bodily injury- int/kn"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "allen", 
-            "surname": "kelly", 
+            "first_name": "justin", 
+            "surname": "reinhart", 
             "location": "w trinity ln", 
-            "time": "14:28", 
-            "date": "2015-01-22", 
+            "time": "17:34", 
+            "date": "2015-01-27", 
+            "offense": "assault, aggravated - deadly weapon - int/kn"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "scott", 
+            "surname": "lewis", 
+            "location": "carl pl", 
+            "time": "00:20", 
+            "date": "2015-01-27", 
+            "offense": "assault, aggravated - strangulation - int/kn"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "justin", 
+            "surname": "reinhart", 
+            "location": "w trinity ln", 
+            "time": "17:34", 
+            "date": "2015-01-27", 
+            "offense": "assault, aggravated - strangulation - int/kn"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "kquon", 
+            "surname": "fisher", 
+            "location": "pennington ave", 
+            "time": "07:40", 
+            "date": "2015-01-27", 
             "offense": "assault, aggravated - strangulation - int/kn - in"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "chelsea", 
-            "surname": "west", 
-            "location": "2nd ave n", 
-            "time": "22:02", 
-            "date": "2015-01-21", 
-            "offense": "assault, aggravated - strangulation - int/kn - in"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "dontae", 
-            "surname": "easley", 
-            "location": "dickerson pike", 
-            "time": "18:36", 
-            "date": "2015-01-21", 
-            "offense": "assault, domestic bodily injury"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "julius", 
-            "surname": "calhuon", 
-            "location": "jp hennessey", 
-            "time": "21:46", 
-            "date": "2015-01-21", 
-            "offense": "assault, domestic bodily injury"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "artez", 
-            "surname": "koon", 
-            "location": "james robertson pkwy", 
-            "time": "22:13", 
-            "date": "2015-01-21", 
-            "offense": "assault, domestic bodily injury"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "orlando", 
-            "surname": "elam", 
-            "location": "", 
-            "time": "23:51", 
-            "date": "2015-01-21", 
-            "offense": "assault, domestic bodily injury"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "dewey", 
-            "surname": "adams", 
-            "location": "dickerson pike", 
-            "time": "04:16", 
-            "date": "2015-01-22", 
-            "offense": "assault, domestic bodily injury"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "dewey", 
-            "surname": "adams", 
-            "location": "dickerson pike", 
-            "time": "04:16", 
-            "date": "2015-01-22", 
-            "offense": "assault, domestic bodily injury"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "trenton", 
-            "surname": "collier", 
-            "location": "2nd ave n", 
-            "time": "19:35", 
-            "date": "2015-01-22", 
-            "offense": "assault, domestic bodily injury"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "linda", 
-            "surname": "lasner-dreaden", 
-            "location": "2nd ave n", 
-            "time": "11:08", 
-            "date": "2015-01-13", 
-            "offense": "assault, domestic offensive/provocative conduct"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "phyllis", 
-            "surname": "grissom", 
-            "location": "louise dr", 
-            "time": "02:31", 
-            "date": "2015-01-22", 
-            "offense": "assault, domestic offensive/provocative conduct"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "yasmine", 
-            "surname": "mason", 
-            "location": "walton ln", 
-            "time": "10:44", 
-            "date": "2015-01-22", 
-            "offense": "assault, domestic offensive/provocative conduct"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "andrie", 
-            "surname": "glenn", 
-            "location": "7th ave n", 
-            "time": "12:09", 
-            "date": "2015-01-22", 
-            "offense": "assault, domestic offensive/provocative conduct"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "janice", 
-            "surname": "cossie", 
-            "location": "brink haven ave", 
-            "time": "17:56", 
-            "date": "2015-01-21", 
-            "offense": "assault, domestic, bodily injury 2nd offense"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "andrie", 
-            "surname": "glenn", 
-            "location": "7th ave n", 
-            "time": "12:09", 
-            "date": "2015-01-22", 
-            "offense": "assault-bodily injury"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "james", 
-            "surname": "holt", 
-            "location": "herman st", 
-            "time": "02:25", 
-            "date": "2015-01-22", 
-            "offense": "burglary"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "chelsea", 
-            "surname": "west", 
-            "location": "2nd ave n", 
-            "time": "22:02", 
-            "date": "2015-01-21", 
-            "offense": "burglary - aggravated - acting in concert"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "mack", 
-            "surname": "stone", 
-            "location": "owen st", 
-            "time": "15:22", 
-            "date": "2015-01-22", 
-            "offense": "child neglect - child 8 or less"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "mack", 
-            "surname": "stone", 
-            "location": "owen st", 
-            "time": "15:22", 
-            "date": "2015-01-22", 
-            "offense": "child neglect - child 8 or less"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jesus", 
-            "surname": "rodriguez", 
-            "location": "briley pkwy n", 
-            "time": "16:33", 
-            "date": "2014-12-21", 
-            "offense": "contributing - delinquency of a minor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jadarrius", 
-            "surname": "thomas", 
-            "location": "old hickory blvd", 
-            "time": "00:05", 
-            "date": "2014-12-30", 
-            "offense": "contributing - delinquency of a minor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "james", 
-            "surname": "fowler", 
-            "location": "old hickory blvd", 
+            "first_name": "jarrett", 
+            "surname": "mcmillan", 
+            "location": "longhunter ln", 
             "time": "00:15", 
-            "date": "2014-12-30", 
-            "offense": "contributing - delinquency of a minor"
+            "date": "2015-01-27", 
+            "offense": "assault, domestic bodily injury"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "noel", 
-            "surname": "palmer", 
-            "location": "i65 exit ramp", 
-            "time": "13:52", 
-            "date": "2015-01-22", 
-            "offense": "controlled access- use by non-mot. veh."
+            "first_name": "scott", 
+            "surname": "lewis", 
+            "location": "carl pl", 
+            "time": "00:20", 
+            "date": "2015-01-27", 
+            "offense": "assault, domestic bodily injury"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "janesha", 
-            "surname": "morgan", 
-            "location": "i65 n", 
-            "time": "02:06", 
-            "date": "2015-01-09", 
-            "offense": "criminal impersonation"
+            "first_name": "antonio", 
+            "surname": "thompson", 
+            "location": "doak ave", 
+            "time": "01:51", 
+            "date": "2015-01-27", 
+            "offense": "assault, domestic bodily injury"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "fitzroy", 
-            "surname": "baker", 
-            "location": "bell hollow", 
-            "time": "22:41", 
-            "date": "2015-01-21", 
-            "offense": "criminal impersonation"
+            "first_name": "candace", 
+            "surname": "wright", 
+            "location": "old hickory blvd", 
+            "time": "04:24", 
+            "date": "2015-01-27", 
+            "offense": "assault, domestic bodily injury"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "jennifer", 
-            "surname": "aker", 
-            "location": "due west ave e", 
-            "time": "22:47", 
-            "date": "2015-01-21", 
-            "offense": "criminal impersonation"
+            "first_name": "candace", 
+            "surname": "wright", 
+            "location": "old hickory blvd", 
+            "time": "04:24", 
+            "date": "2015-01-27", 
+            "offense": "assault, domestic bodily injury"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "andrie", 
-            "surname": "glenn", 
-            "location": "7th ave n", 
-            "time": "12:09", 
-            "date": "2015-01-22", 
-            "offense": "criminal impersonation"
+            "first_name": "casey", 
+            "surname": "alissha", 
+            "location": "hickory trace dr", 
+            "time": "04:58", 
+            "date": "2015-01-27", 
+            "offense": "assault, domestic bodily injury"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "benjamin", 
-            "surname": "townes", 
-            "location": "university ct", 
-            "time": "08:07", 
-            "date": "2014-10-17", 
-            "offense": "criminal trespass"
+            "first_name": "parriss", 
+            "surname": "jones", 
+            "location": "2nd ave n", 
+            "time": "09:38", 
+            "date": "2015-01-27", 
+            "offense": "assault, domestic bodily injury"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "shateka", 
+            "surname": "jackson", 
+            "location": "meridian st", 
+            "time": "19:29", 
+            "date": "2015-01-27", 
+            "offense": "assault, domestic bodily injury"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "diana", 
+            "surname": "morales", 
+            "location": "barclay square dr", 
+            "time": "22:54", 
+            "date": "2015-01-27", 
+            "offense": "assault, domestic bodily injury"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jarrett", 
+            "surname": "boone", 
+            "location": "arrington st", 
+            "time": "14:18", 
+            "date": "2015-01-26", 
+            "offense": "assault, domestic fear of bodily injury"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jarrett", 
+            "surname": "boone", 
+            "location": "arrington st", 
+            "time": "14:18", 
+            "date": "2015-01-26", 
+            "offense": "assault, domestic fear of bodily injury"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
             "first_name": "joe", 
-            "surname": "pharris", 
+            "surname": "cotham", 
+            "location": "woods st", 
+            "time": "21:50", 
+            "date": "2015-01-27", 
+            "offense": "assault, domestic offensive/provocative conduct"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "diana", 
+            "surname": "morales", 
+            "location": "barclay square dr", 
+            "time": "22:54", 
+            "date": "2015-01-27", 
+            "offense": "assault, domestic offensive/provocative conduct"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "james", 
+            "surname": "shane", 
+            "location": "richards rd", 
+            "time": "12:27", 
+            "date": "2015-01-26", 
+            "offense": "assault, domestic, bodily injury 3rd or more"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "john", 
+            "surname": "russell", 
+            "location": "8th ave s", 
+            "time": "00:24", 
+            "date": "2015-01-27", 
+            "offense": "burglary"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jordan", 
+            "surname": "manns", 
+            "location": "charlotte ave", 
+            "time": "17:23", 
+            "date": "2015-01-27", 
+            "offense": "burglary- motor vehicle"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jordan", 
+            "surname": "manns", 
+            "location": "charlotte ave", 
+            "time": "17:23", 
+            "date": "2015-01-27", 
+            "offense": "burglary- motor vehicle"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "bryan", 
+            "surname": "mcgowen", 
+            "location": "granada ave", 
+            "time": "14:15", 
+            "date": "2015-01-27", 
+            "offense": "contributing - delinquency of a minor"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "marqueta", 
+            "surname": "brooks", 
+            "location": "nashboro blvd", 
+            "time": "21:47", 
+            "date": "2015-01-27", 
+            "offense": "credit card, fraudulent use - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "brian", 
+            "surname": "harris", 
+            "location": "clarksville pike", 
+            "time": "16:14", 
+            "date": "2013-11-22", 
+            "offense": "criminal trespass"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "william", 
+            "surname": "sapp", 
+            "location": "fogg st", 
+            "time": "08:19", 
+            "date": "2014-12-18", 
+            "offense": "criminal trespass"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "juan", 
+            "surname": "santos-martinez", 
+            "location": "linbar dr", 
+            "time": "09:40", 
+            "date": "2015-01-05", 
+            "offense": "criminal trespass"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "raul", 
+            "surname": "calderon-catalan", 
+            "location": "linbar dr", 
+            "time": "10:13", 
+            "date": "2015-01-05", 
+            "offense": "criminal trespass"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "james", 
+            "surname": "pianga", 
+            "location": "driftwood st", 
+            "time": "19:30", 
+            "date": "2015-01-03", 
+            "offense": "criminal trespass"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "michael", 
+            "surname": "sparks", 
+            "location": "charlotte ave", 
+            "time": "18:31", 
+            "date": "2015-01-26", 
+            "offense": "criminal trespass"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "darrell", 
+            "surname": "king", 
+            "location": "deaderick st", 
+            "time": "10:40", 
+            "date": "2015-01-27", 
+            "offense": "criminal trespass"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "ronald", 
+            "surname": "bargo", 
+            "location": "edgehill ave", 
+            "time": "10:00", 
+            "date": "2015-01-27", 
+            "offense": "criminal trespass"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "lindsey", 
+            "surname": "young", 
+            "location": "dickerson pike", 
+            "time": "16:11", 
+            "date": "2015-01-27", 
+            "offense": "criminal trespass"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "shadeed", 
+            "surname": "kareem", 
             "location": "lafayette st", 
-            "time": "10:07", 
-            "date": "2014-12-1", 
+            "time": "17:59", 
+            "date": "2015-01-27", 
             "offense": "criminal trespass"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "dana", 
-            "surname": "holderfield", 
-            "location": "charlotte pike", 
-            "time": "18:54", 
-            "date": "2014-12-24", 
-            "offense": "criminal trespass"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "reginald", 
-            "surname": "collier", 
-            "location": "lafayette st", 
-            "time": "08:05", 
-            "date": "2014-12-3", 
-            "offense": "criminal trespass"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "alma", 
-            "surname": "freeman", 
-            "location": "", 
-            "time": "15:15", 
-            "date": "2014-12-27", 
-            "offense": "criminal trespass"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "montez", 
-            "surname": "parrish", 
-            "location": "lewis st", 
-            "time": "09:11", 
-            "date": "2015-01-22", 
-            "offense": "criminal trespass"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "robert", 
-            "surname": "powell", 
-            "location": "w trinity ln", 
-            "time": "11:23", 
-            "date": "2015-01-22", 
-            "offense": "criminal trespass"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "kenneth", 
-            "surname": "love", 
-            "location": "church st", 
-            "time": "15:27", 
-            "date": "2015-01-22", 
-            "offense": "criminal trespass"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "robert", 
-            "surname": "smith", 
-            "location": "middleton st", 
-            "time": "15:54", 
-            "date": "2015-01-22", 
-            "offense": "criminal trespass"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "brent", 
-            "surname": "bidwell", 
-            "location": "forrester dr", 
-            "time": "16:25", 
-            "date": "2015-01-22", 
-            "offense": "criminal trespass"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "daniel", 
-            "surname": "ray", 
-            "location": "forrester dr", 
-            "time": "16:35", 
-            "date": "2015-01-22", 
-            "offense": "criminal trespass"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "larry", 
-            "surname": "smith", 
-            "location": "6th ave s", 
-            "time": "20:00", 
-            "date": "2015-01-22", 
-            "offense": "criminal trespass"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "javon", 
-            "surname": "brown", 
-            "location": "hillside ave", 
-            "time": "21:33", 
-            "date": "2015-01-22", 
-            "offense": "criminal trespass"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "keith", 
-            "surname": "simmons", 
-            "location": "3rd ave n", 
-            "time": "00:30", 
-            "date": "2014-01-01", 
+            "first_name": "william", 
+            "surname": "lee", 
+            "location": "john merritt blvd", 
+            "time": "11:50", 
+            "date": "2015-01-27", 
             "offense": "disorderly conduct"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "derrick", 
-            "surname": "gilligan", 
-            "location": "andrew jackson pkwy", 
-            "time": "02:02", 
-            "date": "2014-11-1", 
+            "first_name": "marell", 
+            "surname": "lewis", 
+            "location": "rivergate pkwy", 
+            "time": "00:00", 
+            "date": "2014-09-04", 
             "offense": "driv. lic. - no d/l"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "ayid", 
-            "surname": "al", 
-            "location": "21st ave s", 
-            "time": "15:20", 
-            "date": "2014-11-23", 
+            "first_name": "tyquan", 
+            "surname": "briggs", 
+            "location": "edmondson pike", 
+            "time": "18:56", 
+            "date": "2014-12-22", 
             "offense": "driv. lic. - no d/l"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "patrick", 
-            "surname": "walker-reese", 
-            "location": "buchanan st", 
-            "time": "20:20", 
-            "date": "2014-12-16", 
+            "first_name": "clayton", 
+            "surname": "brown", 
+            "location": "simmons ave", 
+            "time": "08:51", 
+            "date": "2014-12-30", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "luis", 
+            "surname": "rodriguez", 
+            "location": "nolensville pike", 
+            "time": "08:37", 
+            "date": "2014-12-31", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "cruz", 
+            "surname": "castro", 
+            "location": "linbar dr", 
+            "time": "21:12", 
+            "date": "2014-12-31", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "moises", 
+            "surname": "rodriguez", 
+            "location": "mt. view", 
+            "time": "16:30", 
+            "date": "2015-01-01", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "eduardo", 
+            "surname": "martinez", 
+            "location": "harding pl", 
+            "time": "21:02", 
+            "date": "2015-01-01", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "elizabeth", 
+            "surname": "perez-zaragoza", 
+            "location": "edmondson pike", 
+            "time": "21:36", 
+            "date": "2015-01-01", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "rigoberto", 
+            "surname": "espinoza", 
+            "location": "creekside dr", 
+            "time": "23:03", 
+            "date": "2015-01-01", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "veonka", 
+            "surname": "manning", 
+            "location": "10th ave n", 
+            "time": "17:19", 
+            "date": "2015-01-02", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "javier", 
+            "surname": "flores", 
+            "location": "harding pl", 
+            "time": "22:52", 
+            "date": "2015-01-02", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "sergio", 
+            "surname": "ramirez-mejia", 
+            "location": "bell rd", 
+            "time": "08:04", 
+            "date": "2015-01-03", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jose", 
+            "surname": "amicar", 
+            "location": "mccall st", 
+            "time": "23:59", 
+            "date": "2015-01-03", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "carlos", 
+            "surname": "flores", 
+            "location": "haywood ln", 
+            "time": "08:52", 
+            "date": "2015-01-04", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "simon", 
+            "surname": "rangel", 
+            "location": "mciver st", 
+            "time": "11:10", 
+            "date": "2015-01-04", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "juan", 
+            "surname": "gonzalez-martinez", 
+            "location": "una antioch pike", 
+            "time": "00:08", 
+            "date": "2015-01-05", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "erandi", 
+            "surname": "garcia", 
+            "location": "richards rd", 
+            "time": "09:24", 
+            "date": "2015-01-05", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "rafael", 
+            "surname": "gonzalez-gonzalez", 
+            "location": "harding pl", 
+            "time": "20:47", 
+            "date": "2015-01-05", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "pedro", 
+            "surname": "mejia-venegas", 
+            "location": "elysian fields rd", 
+            "time": "20:45", 
+            "date": "2015-01-05", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jose", 
+            "surname": "blanco-sosa", 
+            "location": "nolensville pike", 
+            "time": "21:11", 
+            "date": "2015-01-05", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jose", 
+            "surname": "rodriguez", 
+            "location": "lori dr", 
+            "time": "06:00", 
+            "date": "2015-01-06", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "escobar", 
+            "surname": "matinez", 
+            "location": "harding pl", 
+            "time": "18:10", 
+            "date": "2015-01-06", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "juan", 
+            "surname": "vazquez-ibarra", 
+            "location": "harding pl", 
+            "time": "20:11", 
+            "date": "2015-01-06", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "filogonio", 
+            "surname": "cruz", 
+            "location": "j j watson ave", 
+            "time": "20:18", 
+            "date": "2015-01-06", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "juan", 
+            "surname": "gonzalez", 
+            "location": "harding pl", 
+            "time": "20:22", 
+            "date": "2015-01-06", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "carmona", 
+            "surname": "silvia", 
+            "location": "tampa dr", 
+            "time": "21:09", 
+            "date": "2015-01-06", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "tamara", 
+            "surname": "lowe", 
+            "location": "2nd ave n", 
+            "time": "22:28", 
+            "date": "2015-01-06", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "cruz", 
+            "surname": "castro", 
+            "location": "bell rd", 
+            "time": "10:26", 
+            "date": "2015-01-19", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "victor", 
+            "surname": "gonzalez-baez", 
+            "location": "gates rd", 
+            "time": "07:19", 
+            "date": "2015-01-05", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "martez", 
+            "surname": "cooksey", 
+            "location": "elysian fields rd", 
+            "time": "20:40", 
+            "date": "2015-01-06", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "shirley", 
+            "surname": "dambrosio", 
+            "location": "nolensville pike", 
+            "time": "23:00", 
+            "date": "2015-01-06", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "martinez", 
+            "surname": "hernandez", 
+            "location": "rivergate pkwy", 
+            "time": "00:00", 
+            "date": "2015-01-04", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "rosalva", 
+            "surname": "rojas", 
+            "location": "logan st", 
+            "time": "00:00", 
+            "date": "2015-01-05", 
+            "offense": "driv. lic. - no d/l"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "dee", 
+            "surname": "puckett", 
+            "location": "murfreesboro pike", 
+            "time": "00:00", 
+            "date": "2015-01-05", 
             "offense": "driv. lic. - no d/l"
         }, 
         "model": "crimeapp.crimes"
@@ -695,207 +871,20 @@
     {
         "fields": {
             "first_name": "manuel", 
-            "surname": "rivera", 
-            "location": "donelson pike", 
-            "time": "03:15", 
-            "date": "2014-12-21", 
+            "surname": "moreno", 
+            "location": "nolensville pike", 
+            "time": "05:18", 
+            "date": "2013-01-07", 
             "offense": "driv. lic. - no d/l"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "rosalba", 
-            "surname": "zavala-plaza", 
-            "location": "lebanon pike", 
-            "time": "12:35", 
-            "date": "2014-12-26", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "francisco", 
-            "surname": "figueroa", 
-            "location": "millwood dr", 
-            "time": "17:40", 
-            "date": "2014-12-26", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "ebony", 
-            "surname": "northern", 
-            "location": "murfreesboro pike", 
-            "time": "19:12", 
-            "date": "2014-12-26", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "emily", 
-            "surname": "sharfner", 
-            "location": "s 20th st & shelby a", 
-            "time": "00:20", 
-            "date": "2014-12-27", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "christophe", 
-            "surname": "brizuela", 
-            "location": "patricia dr", 
-            "time": "01:59", 
-            "date": "2014-12-27", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "ronnie", 
-            "surname": "foxx", 
-            "location": "fatherland st", 
-            "time": "17:47", 
-            "date": "2014-12-27", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "miguel", 
-            "surname": "soreque-moreno", 
-            "location": "exit 11 briley s", 
-            "time": "17:52", 
-            "date": "2014-12-27", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jesus", 
-            "surname": "manjarrez", 
-            "location": "20th ave n", 
-            "time": "22:43", 
-            "date": "2014-12-28", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "diogenez", 
-            "surname": "villatoro-umanzor", 
-            "location": "28th ave s", 
-            "time": "00:07", 
-            "date": "2014-12-29", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "donald", 
-            "surname": "jasmine", 
-            "location": "old hickory blvd", 
-            "time": "03:48", 
-            "date": "2014-12-29", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "susana", 
-            "surname": "flores-vera", 
-            "location": "briley pkwy n", 
-            "time": "00:40", 
-            "date": "2014-12-30", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "serafin", 
-            "surname": "pena", 
-            "location": "lewis st", 
-            "time": "17:21", 
-            "date": "2014-12-30", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jaimes", 
-            "surname": "carlos", 
-            "location": "mm 215 4 i40 w", 
-            "time": "20:55", 
-            "date": "2014-12-30", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "erika", 
-            "surname": "ramirez", 
-            "location": "briley pkwy n", 
-            "time": "15:45", 
-            "date": "2014-12-31", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "edith", 
-            "surname": "valle-morales", 
-            "location": "murfreesboro pike", 
-            "time": "16:31", 
-            "date": "2014-12-31", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "david", 
-            "surname": "santiago-garcia", 
-            "location": "murfreesboro pike", 
-            "time": "14:13", 
-            "date": "2015-01-01", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jose", 
-            "surname": "vasquez", 
-            "location": "briley pkwy w", 
-            "time": "14:59", 
-            "date": "2015-01-01", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "carolina", 
-            "surname": "zaladana", 
-            "location": "foothill dr", 
-            "time": "16:59", 
+            "first_name": "miriam", 
+            "surname": "orozco", 
+            "location": "2nd ave n", 
+            "time": "21:32", 
             "date": "2015-01-02", 
             "offense": "driv. lic. - no d/l"
         }, 
@@ -903,230 +892,76 @@
     }, 
     {
         "fields": {
-            "first_name": "jose", 
-            "surname": "romero", 
-            "location": "old hickory blvd", 
-            "time": "18:15", 
-            "date": "2015-01-03", 
-            "offense": "driv. lic. - no d/l"
+            "first_name": "christopher", 
+            "surname": "taylor", 
+            "location": "elysian fields rd", 
+            "time": "11:00", 
+            "date": "2014-12-26", 
+            "offense": "driv. lic. - poss. of revoked, susp. or altered"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "lorenzo", 
-            "surname": "augustine", 
-            "location": "murfreesboro pike", 
-            "time": "17:23", 
-            "date": "2015-01-05", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "michael", 
-            "surname": "bolden", 
-            "location": "claiborne st", 
-            "time": "20:15", 
-            "date": "2015-01-05", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "latoya", 
-            "surname": "heger", 
-            "location": "murfreesboro pike", 
-            "time": "17:53", 
-            "date": "2015-01-06", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "timothy", 
-            "surname": "moore", 
-            "location": "charles e davis blvd", 
-            "time": "00:00", 
-            "date": "2014-12-31", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "samuel", 
-            "surname": "orr", 
-            "location": "briley pkwy n", 
-            "time": "16:00", 
-            "date": "2014-12-29", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "david", 
-            "surname": "santiago-garcia", 
-            "location": "charles e davis blvd", 
-            "time": "20:10", 
+            "first_name": "adrian", 
+            "surname": "freeman", 
+            "location": "2nd ave n", 
+            "time": "09:42", 
             "date": "2015-01-14", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jose", 
-            "surname": "gomes", 
-            "location": "nolensville pike", 
-            "time": "21:36", 
-            "date": "2015-01-22", 
-            "offense": "driv. lic. - no d/l"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "caleb", 
-            "surname": "jones", 
-            "location": "jacksonian dr", 
-            "time": "10:02", 
-            "date": "2014-12-30", 
             "offense": "driv. lic. - poss. of revoked, susp. or altered"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "marion", 
-            "surname": "douglas", 
-            "location": "murfreesboro pike", 
-            "time": "19:48", 
-            "date": "2015-01-08", 
-            "offense": "driv. lic. - poss. of revoked, susp. or altered"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "suzanah", 
-            "surname": "oravec", 
-            "location": "hillsboro pike", 
-            "time": "00:03", 
-            "date": "2014-12-4", 
+            "first_name": "mayolo", 
+            "surname": "rodriguez", 
+            "location": "bakertown rd", 
+            "time": "08:39", 
+            "date": "2014-12-31", 
             "offense": "driving- cancelled license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "jennifer", 
-            "surname": "aker", 
-            "location": "fain st", 
-            "time": "17:30", 
-            "date": "2014-11-5", 
+            "first_name": "joe", 
+            "surname": "cotham", 
+            "location": "wade cir", 
+            "time": "20:43", 
+            "date": "2014-11-4", 
             "offense": "driving- revoked license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "josephine", 
-            "surname": "vasquez", 
-            "location": "dr d b todd jr blvd", 
-            "time": "19:15", 
-            "date": "2014-12-16", 
+            "first_name": "joseph", 
+            "surname": "keyes", 
+            "location": "46th ave n", 
+            "time": "02:41", 
+            "date": "2014-12-10", 
             "offense": "driving- revoked license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "asia", 
-            "surname": "crawley", 
-            "location": "22nd ave n", 
-            "time": "16:16", 
-            "date": "2014-12-22", 
+            "first_name": "timothy", 
+            "surname": "burns", 
+            "location": "11th ave s", 
+            "time": "21:30", 
+            "date": "2014-12-15", 
             "offense": "driving- revoked license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "daniel", 
-            "surname": "peltigrew", 
-            "location": "briley pkwy n", 
-            "time": "18:31", 
-            "date": "2014-12-25", 
-            "offense": "driving- revoked license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "alissa", 
-            "surname": "merritt", 
-            "location": "lakeshore dr", 
-            "time": "03:29", 
-            "date": "2014-12-26", 
-            "offense": "driving- revoked license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "alvaro", 
-            "surname": "hernandez", 
-            "location": "bonnaspring dr", 
-            "time": "05:47", 
-            "date": "2014-12-27", 
-            "offense": "driving- revoked license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jeremy", 
-            "surname": "campbell", 
-            "location": "central pike", 
-            "time": "23:48", 
-            "date": "2014-12-28", 
-            "offense": "driving- revoked license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "caleb", 
-            "surname": "jones", 
-            "location": "jacksonian dr", 
-            "time": "10:02", 
-            "date": "2014-12-30", 
-            "offense": "driving- revoked license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "daniel", 
-            "surname": "rangel", 
-            "location": "briley pkwy s", 
-            "time": "16:44", 
-            "date": "2014-12-30", 
-            "offense": "driving- revoked license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "calvin", 
-            "surname": "caruthers", 
-            "location": "old hickory blvd", 
-            "time": "18:06", 
+            "first_name": "james", 
+            "surname": "dowdy", 
+            "location": "5th ave s", 
+            "time": "08:34", 
             "date": "2014-12-31", 
             "offense": "driving- revoked license"
         }, 
@@ -1134,10 +969,21 @@
     }, 
     {
         "fields": {
-            "first_name": "laura", 
-            "surname": "mason", 
-            "location": "old hickory blvd", 
-            "time": "07:03", 
+            "first_name": "jose", 
+            "surname": "bravo", 
+            "location": "brenda ln", 
+            "time": "19:12", 
+            "date": "2014-12-31", 
+            "offense": "driving- revoked license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "richy", 
+            "surname": "hackett", 
+            "location": "bellshire dr", 
+            "time": "02:41", 
             "date": "2015-01-02", 
             "offense": "driving- revoked license"
         }, 
@@ -1145,10 +991,43 @@
     }, 
     {
         "fields": {
-            "first_name": "damarco", 
-            "surname": "bracey", 
-            "location": "carroll st", 
-            "time": "22:28", 
+            "first_name": "noe", 
+            "surname": "rodriguez", 
+            "location": "murfreesboro pike", 
+            "time": "08:22", 
+            "date": "2015-01-02", 
+            "offense": "driving- revoked license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "victor", 
+            "surname": "gonzalez", 
+            "location": "harding pl", 
+            "time": "23:25", 
+            "date": "2015-01-02", 
+            "offense": "driving- revoked license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "george", 
+            "surname": "hampton", 
+            "location": "richards rd", 
+            "time": "21:17", 
+            "date": "2015-01-05", 
+            "offense": "driving- revoked license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "roy", 
+            "surname": "person", 
+            "location": "2nd ave n", 
+            "time": "02:08", 
             "date": "2015-01-06", 
             "offense": "driving- revoked license"
         }, 
@@ -1156,21 +1035,65 @@
     }, 
     {
         "fields": {
-            "first_name": "marion", 
-            "surname": "douglas", 
-            "location": "murfreesboro pike", 
-            "time": "19:48", 
-            "date": "2015-01-08", 
+            "first_name": "arnold", 
+            "surname": "gary", 
+            "location": "hopedale dr", 
+            "time": "20:52", 
+            "date": "2015-01-06", 
             "offense": "driving- revoked license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "arturo", 
-            "surname": "ramirez", 
-            "location": "gallatin", 
-            "time": "14:50", 
+            "first_name": "kathy", 
+            "surname": "duncan", 
+            "location": "ironwood dr", 
+            "time": "08:25", 
+            "date": "2015-01-09", 
+            "offense": "driving- revoked license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "hosea", 
+            "surname": "palmore", 
+            "location": "murfreesboro pike", 
+            "time": "19:10", 
+            "date": "2015-01-09", 
+            "offense": "driving- revoked license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "carnell", 
+            "surname": "thompson", 
+            "location": "blairfield dr", 
+            "time": "18:19", 
+            "date": "2015-01-10", 
+            "offense": "driving- revoked license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "james", 
+            "surname": "payne", 
+            "location": "highland dr", 
+            "time": "17:40", 
+            "date": "2015-01-06", 
+            "offense": "driving- revoked license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "shannon", 
+            "surname": "bugg", 
+            "location": "2nd ave n", 
+            "time": "12:52", 
             "date": "2014-12-31", 
             "offense": "driving- revoked license"
         }, 
@@ -1178,373 +1101,219 @@
     }, 
     {
         "fields": {
-            "first_name": "andrew", 
-            "surname": "behe", 
-            "location": "glen echo rd", 
-            "time": "20:05", 
-            "date": "2014-12-22", 
+            "first_name": "robert", 
+            "surname": "darden", 
+            "location": "allied dr", 
+            "time": "23:32", 
+            "date": "2015-01-07", 
             "offense": "driving- revoked license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "brent", 
-            "surname": "burns", 
-            "location": "i 40 e", 
-            "time": "00:52", 
-            "date": "2015-01-22", 
+            "first_name": "james", 
+            "surname": "frederick", 
+            "location": "dickerson pike s", 
+            "time": "11:45", 
+            "date": "2015-01-09", 
             "offense": "driving- revoked license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "mario", 
-            "surname": "gray", 
+            "first_name": "lori", 
+            "surname": "gill", 
+            "location": "n main st", 
+            "time": "19:00", 
+            "date": "2014-12-29", 
+            "offense": "driving- revoked license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "richy", 
+            "surname": "hackett", 
+            "location": "i 65 n", 
+            "time": "00:00", 
+            "date": "2014-01-06", 
+            "offense": "driving- revoked license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "joshua", 
+            "surname": "white", 
+            "location": "s main st", 
+            "time": "00:00", 
+            "date": "2015-01-10", 
+            "offense": "driving- revoked license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "samuel", 
+            "surname": "gonzales", 
+            "location": "university ct", 
+            "time": "21:45", 
+            "date": "2015-01-26", 
+            "offense": "driving- revoked license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "alejandro", 
+            "surname": "delaherron", 
             "location": "antioch pike", 
-            "time": "11:24", 
-            "date": "2015-01-22", 
+            "time": "02:44", 
+            "date": "2015-01-27", 
             "offense": "driving- revoked license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "stephen", 
-            "surname": "shell", 
-            "location": "62nd ave n", 
-            "time": "17:58", 
-            "date": "2015-01-22", 
+            "first_name": "elvin", 
+            "surname": "mejia", 
+            "location": "i 64 n", 
+            "time": "11:45", 
+            "date": "2014-12-30", 
             "offense": "driving- revoked license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "nicole", 
-            "surname": "ammon", 
-            "location": "james robertson pkwy", 
-            "time": "20:48", 
-            "date": "2015-01-22", 
-            "offense": "driving- revoked license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "frank", 
-            "surname": "swinger", 
-            "location": "grace st", 
-            "time": "22:24", 
-            "date": "2015-01-22", 
-            "offense": "driving- revoked license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "donny", 
-            "surname": "romines", 
-            "location": "gleaves st", 
-            "time": "22:46", 
-            "date": "2015-01-22", 
-            "offense": "driving- revoked license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "savanah", 
-            "surname": "potts", 
-            "location": "foster ave", 
-            "time": "08:32", 
-            "date": "2014-12-15", 
-            "offense": "driving- revoked license, 2nd offense or gt"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jason", 
-            "surname": "johnson", 
-            "location": "2nd ave n", 
-            "time": "23:38", 
-            "date": "2014-12-16", 
-            "offense": "driving- revoked license, 2nd offense or gt"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "cortney", 
-            "surname": "bryant", 
-            "location": "i 40 e", 
-            "time": "08:59", 
-            "date": "2014-12-29", 
-            "offense": "driving- revoked license, 2nd offense or gt"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "steven", 
-            "surname": "schilling", 
-            "location": "bell rd", 
-            "time": "20:17", 
-            "date": "2014-12-29", 
-            "offense": "driving- revoked license, 2nd offense or gt"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "houston", 
-            "surname": "smith", 
-            "location": "i 24 w", 
-            "time": "14:20", 
-            "date": "2015-01-06", 
-            "offense": "driving- revoked license, 2nd offense or gt"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jerral", 
-            "surname": "davis", 
-            "location": "brick church pike", 
-            "time": "14:50", 
-            "date": "2015-01-22", 
-            "offense": "driving- revoked license, 2nd offense or gt"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "terrance", 
-            "surname": "ward", 
-            "location": "4th ave s", 
-            "time": "21:48", 
-            "date": "2015-01-22", 
-            "offense": "driving- revoked license, 2nd offense or gt"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "neely", 
-            "surname": "collier", 
-            "location": "", 
-            "time": "16:29", 
-            "date": "2014-12-13", 
-            "offense": "driving- suspended license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jazmen", 
-            "surname": "steele", 
-            "location": "bell rd", 
-            "time": "21:07", 
-            "date": "2014-12-18", 
-            "offense": "driving- suspended license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
             "first_name": "david", 
-            "surname": "andrew", 
-            "location": "old hickory blvd", 
-            "time": "09:00", 
-            "date": "2014-12-26", 
-            "offense": "driving- suspended license"
+            "surname": "summer", 
+            "location": "jones ave", 
+            "time": "09:07", 
+            "date": "2015-01-27", 
+            "offense": "driving- revoked license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "comaneci", 
-            "surname": "graham", 
-            "location": "dickerson pike", 
-            "time": "09:16", 
-            "date": "2014-12-26", 
-            "offense": "driving- suspended license"
+            "first_name": "christopher", 
+            "surname": "buford", 
+            "location": "main st", 
+            "time": "16:16", 
+            "date": "2015-01-27", 
+            "offense": "driving- revoked license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "kalia", 
-            "surname": "johannes", 
-            "location": "briley pkwy", 
-            "time": "10:59", 
-            "date": "2014-12-26", 
-            "offense": "driving- suspended license"
+            "first_name": "james", 
+            "surname": "pippin", 
+            "location": "clarksville pike", 
+            "time": "21:02", 
+            "date": "2015-01-27", 
+            "offense": "driving- revoked license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "phyllis", 
-            "surname": "gragg", 
-            "location": "acklen ave", 
-            "time": "17:44", 
-            "date": "2014-12-26", 
-            "offense": "driving- suspended license"
+            "first_name": "christopher", 
+            "surname": "baker", 
+            "location": "s 5th st", 
+            "time": "22:16", 
+            "date": "2015-01-27", 
+            "offense": "driving- revoked license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "janesha", 
-            "surname": "morgan", 
-            "location": "murfreesboro pike", 
-            "time": "01:09", 
-            "date": "2014-12-27", 
-            "offense": "driving- suspended license"
+            "first_name": "christopher", 
+            "surname": "clare", 
+            "location": "cunniff pkwy", 
+            "time": "01:57", 
+            "date": "2014-12-3", 
+            "offense": "driving- revoked license, 2nd offense or gt"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "richard", 
-            "surname": "beckwith", 
-            "location": "mcgavock pike", 
-            "time": "15:20", 
-            "date": "2014-12-27", 
-            "offense": "driving- suspended license"
+            "first_name": "alan", 
+            "surname": "thompson", 
+            "location": "clarksville pike", 
+            "time": "09:37", 
+            "date": "2015-01-01", 
+            "offense": "driving- revoked license, 2nd offense or gt"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "cody", 
-            "surname": "sartain", 
-            "location": "exit 11 briley s", 
-            "time": "17:38", 
-            "date": "2014-12-27", 
-            "offense": "driving- suspended license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "thomas", 
-            "surname": "mandicino", 
-            "location": "saundersville rd", 
-            "time": "22:34", 
-            "date": "2014-12-27", 
-            "offense": "driving- suspended license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "aaron", 
-            "surname": "davis", 
-            "location": "old murfreesboro pike", 
-            "time": "00:40", 
-            "date": "2014-12-29", 
-            "offense": "driving- suspended license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "luis", 
-            "surname": "obando", 
-            "location": "i 40 e", 
-            "time": "08:11", 
-            "date": "2014-12-29", 
-            "offense": "driving- suspended license"
+            "first_name": "norman", 
+            "surname": "hines", 
+            "location": "harding pl", 
+            "time": "21:08", 
+            "date": "2015-01-05", 
+            "offense": "driving- revoked license, 2nd offense or gt"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
             "first_name": "michael", 
-            "surname": "furlow", 
-            "location": "", 
-            "time": "07:32", 
-            "date": "2014-12-30", 
+            "surname": "young", 
+            "location": "brick church pike", 
+            "time": "04:31", 
+            "date": "2015-01-27", 
+            "offense": "driving- revoked license, 2nd offense or gt"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "linda", 
+            "surname": "travis", 
+            "location": "harding pl", 
+            "time": "06:15", 
+            "date": "2015-01-27", 
+            "offense": "driving- revoked license, 2nd offense or gt"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "michael", 
+            "surname": "stafford", 
+            "location": "donelson pke", 
+            "time": "20:14", 
+            "date": "2014-05-20", 
             "offense": "driving- suspended license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "zachery", 
-            "surname": "vickers", 
-            "location": "central pike", 
-            "time": "13:29", 
-            "date": "2014-12-31", 
+            "first_name": "antoine", 
+            "surname": "clayton", 
+            "location": "fairfield ave", 
+            "time": "22:45", 
+            "date": "2014-08-27", 
             "offense": "driving- suspended license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "kristy", 
-            "surname": "brown", 
-            "location": "charles e davis blvd", 
-            "time": "15:09", 
-            "date": "2014-12-31", 
-            "offense": "driving- suspended license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "june", 
-            "surname": "bell", 
-            "location": "andrew jackson way", 
-            "time": "01:49", 
-            "date": "2015-01-02", 
-            "offense": "driving- suspended license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "tameka", 
-            "surname": "granger", 
-            "location": "fairway dr", 
-            "time": "18:09", 
-            "date": "2015-01-04", 
-            "offense": "driving- suspended license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "tyrell", 
-            "surname": "buckley", 
-            "location": "i 65 s", 
-            "time": "13:32", 
-            "date": "2015-01-05", 
-            "offense": "driving- suspended license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "raxcaco", 
-            "surname": "garrido", 
-            "location": "i 40 entry e", 
-            "time": "17:09", 
-            "date": "2015-01-05", 
-            "offense": "driving- suspended license"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jolita", 
-            "surname": "charette", 
-            "location": "i 65 n", 
-            "time": "00:00", 
+            "first_name": "carlos", 
+            "surname": "torres", 
+            "location": "briley pkwy s", 
+            "time": "01:53", 
             "date": "2014-12-20", 
             "offense": "driving- suspended license"
         }, 
@@ -1552,32 +1321,186 @@
     }, 
     {
         "fields": {
-            "first_name": "andrea", 
-            "surname": "webster", 
-            "location": "garfield st", 
-            "time": "01:33", 
-            "date": "2014-12-19", 
+            "first_name": "aubrey", 
+            "surname": "montgomery", 
+            "location": "bell rd", 
+            "time": "03:15", 
+            "date": "2014-12-20", 
             "offense": "driving- suspended license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "terrance", 
-            "surname": "mason", 
-            "location": "central pike", 
+            "first_name": "keesha", 
+            "surname": "mitchell", 
+            "location": "armory dr", 
+            "time": "07:52", 
+            "date": "2014-12-26", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "christopher", 
+            "surname": "taylor", 
+            "location": "elysian fields rd", 
+            "time": "11:00", 
+            "date": "2014-12-26", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "sarah", 
+            "surname": "johnson", 
+            "location": "harding pl", 
+            "time": "14:02", 
+            "date": "2014-12-26", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "trisha", 
+            "surname": "selby", 
+            "location": "wallace rd", 
+            "time": "14:07", 
+            "date": "2014-12-29", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "michael", 
+            "surname": "price", 
+            "location": "nolensville pike", 
+            "time": "21:08", 
+            "date": "2015-01-01", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "roger", 
+            "surname": "holmes", 
+            "location": "bell rd", 
+            "time": "23:33", 
+            "date": "2015-01-01", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "tiakeia", 
+            "surname": "whiteside", 
+            "location": "murfreesboro pike", 
+            "time": "07:55", 
+            "date": "2015-01-02", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "richard", 
+            "surname": "tidwell", 
+            "location": "linbar dr", 
+            "time": "08:17", 
+            "date": "2015-01-02", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "kristi", 
+            "surname": "moses", 
+            "location": "linbar dr", 
+            "time": "08:45", 
+            "date": "2015-01-02", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "eddie", 
+            "surname": "thomas", 
+            "location": "linbar dr", 
+            "time": "09:19", 
+            "date": "2015-01-02", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "latoshia", 
+            "surname": "vanpelt", 
+            "location": "n gallatin pike", 
+            "time": "19:12", 
+            "date": "2015-01-02", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jamell", 
+            "surname": "matthews", 
+            "location": "bell rd", 
             "time": "00:00", 
-            "date": "2014-12-31", 
+            "date": "2015-01-03", 
             "offense": "driving- suspended license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "janesha", 
-            "surname": "morgan", 
-            "location": "i65 n", 
-            "time": "02:06", 
+            "first_name": "james", 
+            "surname": "bard", 
+            "location": "bell rd", 
+            "time": "08:33", 
+            "date": "2015-01-05", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "eric", 
+            "surname": "hale", 
+            "location": "s gallatin pike", 
+            "time": "23:12", 
+            "date": "2015-01-07", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "matthew", 
+            "surname": "button", 
+            "location": "54th ave n", 
+            "time": "03:15", 
+            "date": "2015-01-08", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "kathryn", 
+            "surname": "hollon", 
+            "location": "cedarmont dr", 
+            "time": "17:48", 
             "date": "2015-01-09", 
             "offense": "driving- suspended license"
         }, 
@@ -1585,65 +1508,98 @@
     }, 
     {
         "fields": {
-            "first_name": "tommie", 
-            "surname": "griffin", 
-            "location": "herman st", 
-            "time": "14:42", 
-            "date": "2015-01-22", 
+            "first_name": "christian", 
+            "surname": "alvarez", 
+            "location": "nolensville pike", 
+            "time": "23:08", 
+            "date": "2015-01-03", 
             "offense": "driving- suspended license"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "patrick", 
-            "surname": "walker-reese", 
-            "location": "hwy 70 s", 
-            "time": "23:32", 
-            "date": "2014-12-21", 
+            "first_name": "jafarius", 
+            "surname": "chambers-taylor", 
+            "location": "harding pl", 
+            "time": "21:09", 
+            "date": "2015-01-05", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "ryan", 
+            "surname": "lessnau", 
+            "location": "7th ave n", 
+            "time": "18:00", 
+            "date": "2015-01-08", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "china", 
+            "surname": "dowell", 
+            "location": "i 65 n", 
+            "time": "12:38", 
+            "date": "2015-01-04", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "christopher", 
+            "surname": "mendoza", 
+            "location": "davidson st", 
+            "time": "00:00", 
+            "date": "2015-01-05", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "stephen", 
+            "surname": "sandlin", 
+            "location": "i 65 n", 
+            "time": "00:00", 
+            "date": "2015-01-04", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "julian", 
+            "surname": "morgan", 
+            "location": "2nd ave s", 
+            "time": "22:15", 
+            "date": "2015-01-27", 
+            "offense": "driving- suspended license"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "charlie", 
+            "surname": "bandy", 
+            "location": "harding pl", 
+            "time": "19:04", 
+            "date": "2014-12-18", 
             "offense": "driving- suspended license, 2nd offense or gt"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "santos", 
-            "surname": "rosales", 
-            "location": "mcgavock pike", 
-            "time": "23:49", 
-            "date": "2014-12-30", 
-            "offense": "driving- suspended license, 2nd offense or gt"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "heather", 
-            "surname": "alexander", 
+            "first_name": "antwan", 
+            "surname": "robinson", 
             "location": "bell rd", 
-            "time": "23:48", 
-            "date": "2014-12-30", 
-            "offense": "driving- suspended license, 2nd offense or gt"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jasma", 
-            "surname": "hall", 
-            "location": "briley pkwy n", 
-            "time": "08:26", 
-            "date": "2015-01-01", 
-            "offense": "driving- suspended license, 2nd offense or gt"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "brandy", 
-            "surname": "glenn", 
-            "location": "i 40 e", 
-            "time": "07:12", 
+            "time": "23:53", 
             "date": "2015-01-02", 
             "offense": "driving- suspended license, 2nd offense or gt"
         }, 
@@ -1651,682 +1607,429 @@
     }, 
     {
         "fields": {
-            "first_name": "andrea", 
-            "surname": "webster", 
-            "location": "n 1st st", 
-            "time": "23:54", 
+            "first_name": "samuel", 
+            "surname": "gonzales", 
+            "location": "university ct", 
+            "time": "21:45", 
+            "date": "2015-01-26", 
+            "offense": "driving under the influence"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "aaron", 
+            "surname": "stoner", 
+            "location": "gallatin ave", 
+            "time": "03:15", 
+            "date": "2015-01-27", 
+            "offense": "driving under the influence"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "julian", 
+            "surname": "morgan", 
+            "location": "2nd ave s", 
+            "time": "22:15", 
+            "date": "2015-01-27", 
+            "offense": "drug free sch.zone-cont.sub.-cocaine .5 gr. or mor"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "julian", 
+            "surname": "morgan", 
+            "location": "2nd ave s", 
+            "time": "22:15", 
+            "date": "2015-01-27", 
+            "offense": "drug paraphernalia- deliver or manufacture"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "chas", 
+            "surname": "goodman", 
+            "location": "bell rd", 
+            "time": "01:51", 
+            "date": "2014-12-31", 
+            "offense": "drug paraphernalia- unlawful use"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "brantley", 
+            "surname": "knight", 
+            "location": "9th ave n", 
+            "time": "02:11", 
+            "date": "2014-12-31", 
+            "offense": "drug paraphernalia- unlawful use"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "antonio", 
+            "surname": "pitts", 
+            "location": "briley pkwy w", 
+            "time": "01:51", 
             "date": "2015-01-13", 
-            "offense": "driving- suspended license, 2nd offense or gt"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "timothy", 
-            "surname": "crutcher", 
-            "location": "5th ave n", 
-            "time": "17:37", 
-            "date": "2015-01-22", 
-            "offense": "driving- suspended license, 2nd offense or gt"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "matthew", 
-            "surname": "thompson", 
-            "location": "douglas ave", 
-            "time": "00:05", 
-            "date": "2015-01-22", 
-            "offense": "driving under the influence"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "gordon", 
-            "surname": "buttrey", 
-            "location": "harding pl", 
-            "time": "00:55", 
-            "date": "2015-01-22", 
-            "offense": "driving under the influence"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jennifer", 
-            "surname": "miller", 
-            "location": "i 40 e", 
-            "time": "03:56", 
-            "date": "2015-01-22", 
-            "offense": "driving under the influence"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "linda", 
-            "surname": "rhudy", 
-            "location": "west end ave", 
-            "time": "06:01", 
-            "date": "2015-01-22", 
-            "offense": "driving under the influence"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "wilson", 
-            "surname": "pruitt", 
-            "location": "west end ave", 
-            "time": "12:23", 
-            "date": "2015-01-22", 
-            "offense": "driving under the influence"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jose", 
-            "surname": "gomes", 
-            "location": "nolensville pike", 
-            "time": "21:36", 
-            "date": "2015-01-22", 
-            "offense": "driving under the influence"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "nicole", 
-            "surname": "ammon", 
-            "location": "james robertson pkwy", 
-            "time": "20:48", 
-            "date": "2015-01-22", 
-            "offense": "driving under the influence"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "paul", 
-            "surname": "mercer", 
-            "location": "21st ave s", 
-            "time": "00:34", 
-            "date": "2015-01-22", 
-            "offense": "driving under the influence - 2nd offense"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "brent", 
-            "surname": "burns", 
-            "location": "i 40 e", 
-            "time": "00:52", 
-            "date": "2015-01-22", 
-            "offense": "driving under the influence - 4th offense or more"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "frank", 
-            "surname": "swinger", 
-            "location": "grace st", 
-            "time": "22:24", 
-            "date": "2015-01-22", 
-            "offense": "drug free nonsch.zone-cont.sub.-cocaine .5 gr. or"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "sharonita", 
-            "surname": "davis", 
-            "location": "clarksville pike", 
-            "time": "00:30", 
-            "date": "2015-01-22", 
-            "offense": "drug free sch.zone-cont.sub.-marijuana 14.175-4,53"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "sharonita", 
-            "surname": "davis", 
-            "location": "clarksville pike", 
-            "time": "00:30", 
-            "date": "2015-01-22", 
-            "offense": "drug free sch.zone-cont.sub.-sch. ii"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "billy", 
-            "surname": "hudler", 
-            "location": "clarksville pike", 
-            "time": "19:25", 
-            "date": "2014-12-3", 
             "offense": "drug paraphernalia- unlawful use"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "jonathon", 
-            "surname": "mayberry", 
-            "location": "i 40 w", 
-            "time": "23:32", 
-            "date": "2014-12-26", 
+            "first_name": "ronnie", 
+            "surname": "cole", 
+            "location": "lafayette st", 
+            "time": "21:07", 
+            "date": "2015-01-15", 
             "offense": "drug paraphernalia- unlawful use"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "fred", 
+            "surname": "hawkins", 
+            "location": "w trinity ln", 
+            "time": "19:45", 
+            "date": "2014-12-31", 
+            "offense": "drug paraphernalia- unlawful use"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "erika", 
+            "surname": "applin", 
+            "location": "bell forge ln e", 
+            "time": "19:45", 
+            "date": "2015-01-01", 
+            "offense": "drug paraphernalia- unlawful use"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "tommie", 
+            "surname": "brown", 
+            "location": "1st ave s", 
+            "time": "15:45", 
+            "date": "2014-12-31", 
+            "offense": "drug paraphernalia- unlawful use"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "christy", 
+            "surname": "brown", 
+            "location": "fieldstone dr", 
+            "time": "16:00", 
+            "date": "2015-01-02", 
+            "offense": "drug paraphernalia- unlawful use"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "michael", 
+            "surname": "bogan", 
+            "location": "claridge dr", 
+            "time": "00:06", 
+            "date": "2015-01-27", 
+            "offense": "drug paraphernalia- unlawful use"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "clarence", 
+            "surname": "brown", 
+            "location": "i 24 w", 
+            "time": "01:45", 
+            "date": "2015-01-27", 
+            "offense": "drug paraphernalia- unlawful use"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "orlando", 
+            "surname": "cartwright", 
+            "location": "cumberland ave", 
+            "time": "02:00", 
+            "date": "2015-01-27", 
+            "offense": "drug paraphernalia- unlawful use"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "dejuan", 
+            "surname": "williams", 
+            "location": "cumberland ave", 
+            "time": "02:07", 
+            "date": "2015-01-27", 
+            "offense": "drug paraphernalia- unlawful use"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "daniel", 
+            "surname": "tillman", 
+            "location": "8th ave s", 
+            "time": "11:08", 
+            "date": "2015-01-27", 
+            "offense": "evading arrest- misdemeanor"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
             "first_name": "anthony", 
-            "surname": "carter", 
-            "location": "hermitage ave", 
-            "time": "21:45", 
-            "date": "2014-12-30", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "cassilina", 
-            "surname": "williams", 
-            "location": "s 6th st", 
-            "time": "02:24", 
-            "date": "2014-12-31", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "stacey", 
-            "surname": "davis", 
-            "location": "charles e davis blvd", 
-            "time": "17:59", 
-            "date": "2015-01-01", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "anassadi", 
-            "surname": "henderson", 
-            "location": "charles e davis blvd", 
-            "time": "18:00", 
-            "date": "2015-01-01", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "willie", 
-            "surname": "windom", 
-            "location": "mufreesboro pke", 
-            "time": "13:15", 
-            "date": "2014-12-8", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "steven", 
-            "surname": "blair", 
-            "location": "n gallatin pike", 
-            "time": "16:40", 
-            "date": "2015-01-05", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "james", 
-            "surname": "fowler", 
-            "location": "old hickory blvd", 
-            "time": "00:15", 
-            "date": "2014-12-30", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "tarrie", 
-            "surname": "cantey", 
-            "location": "bell rd", 
-            "time": "00:00", 
-            "date": "2014-12-31", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "martel", 
-            "surname": "massey", 
-            "location": "bell rd", 
-            "time": "00:00", 
-            "date": "2014-12-31", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jaquece", 
-            "surname": "fitzgerald", 
-            "location": "elm hill pike", 
-            "time": "21:40", 
-            "date": "2015-01-21", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "amy", 
-            "surname": "dejarnette", 
-            "location": "murfreesboro pike", 
-            "time": "00:08", 
-            "date": "2015-01-22", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "matthew", 
-            "surname": "hedges", 
-            "location": "s cartwright st", 
-            "time": "00:05", 
-            "date": "2015-01-22", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "gordon", 
-            "surname": "buttrey", 
-            "location": "harding pl", 
-            "time": "00:55", 
-            "date": "2015-01-22", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "ronald", 
-            "surname": "rogers", 
-            "location": "e old hickory blvd", 
-            "time": "02:11", 
-            "date": "2015-01-22", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "antrelle", 
-            "surname": "mccone", 
-            "location": "lebanon pike", 
-            "time": "03:55", 
-            "date": "2015-01-22", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "brandon", 
-            "surname": "sawyer", 
-            "location": "3325 love cir", 
-            "time": "00:00", 
-            "date": "2015-01-05", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "ronald", 
-            "surname": "cook", 
-            "location": "douglas ave", 
-            "time": "12:24", 
-            "date": "2015-01-22", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "eric", 
-            "surname": "chastain", 
-            "location": "james robertson pkwy", 
-            "time": "12:46", 
-            "date": "2015-01-22", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "ellis", 
-            "surname": "hughes", 
-            "location": "16th ave n", 
-            "time": "13:36", 
-            "date": "2015-01-22", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "robert", 
-            "surname": "smith", 
-            "location": "middleton st", 
-            "time": "15:54", 
-            "date": "2015-01-22", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "megan", 
-            "surname": "sircy", 
+            "surname": "utley", 
             "location": "2nd ave n", 
-            "time": "18:19", 
-            "date": "2015-01-20", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "stephen", 
-            "surname": "shell", 
-            "location": "62nd ave n", 
-            "time": "17:58", 
-            "date": "2015-01-22", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jacob", 
-            "surname": "weston", 
-            "location": "galesburg dr", 
-            "time": "19:00", 
-            "date": "2015-01-22", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "brenda", 
-            "surname": "macklin", 
-            "location": "lewis st", 
-            "time": "20:31", 
-            "date": "2015-01-22", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "javon", 
-            "surname": "brown", 
-            "location": "hillside ave", 
-            "time": "21:33", 
-            "date": "2015-01-22", 
-            "offense": "drug paraphernalia- unlawful use"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "brenda", 
-            "surname": "macklin", 
-            "location": "lewis st", 
-            "time": "20:31", 
-            "date": "2015-01-22", 
-            "offense": "evading arrest- motor vehicle"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jennifer", 
-            "surname": "aker", 
-            "location": "due west ave e", 
-            "time": "22:47", 
-            "date": "2015-01-21", 
-            "offense": "evidence- tampering"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "christina", 
-            "surname": "pohl", 
-            "location": "fesslers ln", 
-            "time": "19:34", 
-            "date": "2015-01-22", 
-            "offense": "evidence- tampering"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jacob", 
-            "surname": "weston", 
-            "location": "galesburg dr", 
-            "time": "19:00", 
-            "date": "2015-01-22", 
-            "offense": "evidence- tampering"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "latorya", 
-            "surname": "mcgill", 
-            "location": "greens cir", 
-            "time": "21:35", 
-            "date": "2015-01-22", 
+            "time": "14:14", 
+            "date": "2015-01-27", 
             "offense": "failure to appear - felony or class a misd."
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "dwayne", 
-            "surname": "woodson", 
-            "location": "sumner co jail", 
-            "time": "20:00", 
-            "date": "2015-01-21", 
-            "offense": "failure to appear- b or c misd. or summons booking"
+            "first_name": "andrew", 
+            "surname": "hawkins", 
+            "location": "murfreesboro pike", 
+            "time": "16:13", 
+            "date": "2015-01-27", 
+            "offense": "failure to appear - felony or class a misd."
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "dwayne", 
-            "surname": "woodson", 
-            "location": "sumner co jail", 
-            "time": "20:00", 
-            "date": "2015-01-21", 
-            "offense": "failure to appear- b or c misd. or summons booking"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "dante", 
-            "surname": "reed", 
+            "first_name": "terris", 
+            "surname": "smith", 
             "location": "james robertson pkwy", 
-            "time": "18:09", 
-            "date": "2015-01-21", 
+            "time": "17:33", 
+            "date": "2015-01-27", 
+            "offense": "failure to appear - felony or class a misd."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "anthony", 
+            "surname": "sweeney", 
+            "location": "benita dr", 
+            "time": "02:53", 
+            "date": "2015-01-27", 
             "offense": "failure to appear- b or c misd. or summons booking"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "dante", 
-            "surname": "reed", 
+            "first_name": "edgardo", 
+            "surname": "figueroa", 
+            "location": "blackpool dr", 
+            "time": "09:50", 
+            "date": "2015-01-27", 
+            "offense": "failure to appear- b or c misd. or summons booking"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "chantelle", 
+            "surname": "meadows", 
+            "location": "2nd ave n", 
+            "time": "10:07", 
+            "date": "2015-01-27", 
+            "offense": "failure to appear- b or c misd. or summons booking"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jordon", 
+            "surname": "maggart", 
+            "location": "2nd ave n", 
+            "time": "11:14", 
+            "date": "2015-01-27", 
+            "offense": "failure to appear- b or c misd. or summons booking"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "david", 
+            "surname": "noland", 
+            "location": "haywood ln", 
+            "time": "14:57", 
+            "date": "2015-01-27", 
+            "offense": "failure to appear- b or c misd. or summons booking"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "james", 
+            "surname": "haughton", 
+            "location": "wilson co. jail", 
+            "time": "16:27", 
+            "date": "2015-01-27", 
+            "offense": "failure to appear- b or c misd. or summons booking"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "charlie", 
+            "surname": "bandy", 
             "location": "james robertson pkwy", 
-            "time": "18:09", 
-            "date": "2015-01-21", 
+            "time": "19:01", 
+            "date": "2015-01-27", 
             "offense": "failure to appear- b or c misd. or summons booking"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "eric", 
-            "surname": "reese", 
-            "location": "premier dr", 
-            "time": "21:35", 
-            "date": "2015-01-21", 
+            "first_name": "bobby", 
+            "surname": "matherly", 
+            "location": "2nd ave n", 
+            "time": "19:32", 
+            "date": "2015-01-27", 
             "offense": "failure to appear- b or c misd. or summons booking"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "michael", 
+            "surname": "stafford", 
+            "location": "lewis st", 
+            "time": "23:28", 
+            "date": "2015-01-26", 
+            "offense": "failure to be booked"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
             "first_name": "joseph", 
-            "surname": "cranshaw", 
-            "location": "moss spring dr", 
-            "time": "01:06", 
-            "date": "2015-01-22", 
-            "offense": "failure to appear- b or c misd. or summons booking"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "robert", 
-            "surname": "waddey", 
-            "location": "skyline", 
-            "time": "02:37", 
-            "date": "2015-01-22", 
-            "offense": "failure to appear- b or c misd. or summons booking"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "robert", 
-            "surname": "waddey", 
-            "location": "skyline", 
-            "time": "02:37", 
-            "date": "2015-01-22", 
-            "offense": "failure to appear- b or c misd. or summons booking"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "kenneth", 
-            "surname": "phillips", 
-            "location": "detention rd", 
-            "time": "07:07", 
-            "date": "2015-01-22", 
-            "offense": "failure to appear- b or c misd. or summons booking"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "andrie", 
-            "surname": "glenn", 
-            "location": "7th ave n", 
-            "time": "12:09", 
-            "date": "2015-01-22", 
-            "offense": "failure to appear- b or c misd. or summons booking"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "ronesha", 
-            "surname": "pinkerton", 
-            "location": "2nd ave n", 
-            "time": "16:27", 
-            "date": "2015-01-22", 
-            "offense": "failure to appear- b or c misd. or summons booking"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "enemias", 
-            "surname": "levia", 
-            "location": "annex ave", 
-            "time": "18:37", 
-            "date": "2015-01-22", 
-            "offense": "failure to appear- b or c misd. or summons booking"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "donny", 
-            "surname": "romines", 
-            "location": "gleaves st", 
-            "time": "22:46", 
-            "date": "2015-01-22", 
-            "offense": "failure to appear- b or c misd. or summons booking"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "willie", 
-            "surname": "windom", 
-            "location": "2nd ave n", 
-            "time": "15:47", 
-            "date": "2015-01-21", 
+            "surname": "keyes", 
+            "location": "acklen park dr", 
+            "time": "05:49", 
+            "date": "2015-01-27", 
             "offense": "failure to be booked"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "jennifer", 
-            "surname": "aker", 
-            "location": "due west ave e", 
-            "time": "22:47", 
-            "date": "2015-01-21", 
+            "first_name": "william", 
+            "surname": "sapp", 
+            "location": "lafayette st", 
+            "time": "07:53", 
+            "date": "2015-01-27", 
             "offense": "failure to be booked"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "savanah", 
-            "surname": "potts", 
-            "location": "mciver st", 
-            "time": "02:07", 
-            "date": "2015-01-22", 
+            "first_name": "brian", 
+            "surname": "harris", 
+            "location": "8th ave s", 
+            "time": "09:51", 
+            "date": "2015-01-27", 
+            "offense": "failure to be booked"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "aubrey", 
+            "surname": "montgomery", 
+            "location": "2nd ave n", 
+            "time": "12:04", 
+            "date": "2015-01-27", 
+            "offense": "failure to be booked"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "marell", 
+            "surname": "lewis", 
+            "location": "s 7th st", 
+            "time": "16:24", 
+            "date": "2015-01-27", 
+            "offense": "failure to be booked"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jordan", 
+            "surname": "manns", 
+            "location": "charlotte ave", 
+            "time": "17:23", 
+            "date": "2015-01-27", 
+            "offense": "failure to be booked"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jordan", 
+            "surname": "manns", 
+            "location": "charlotte ave", 
+            "time": "17:23", 
+            "date": "2015-01-27", 
+            "offense": "failure to be booked"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "charlie", 
+            "surname": "bandy", 
+            "location": "james robertson pkwy", 
+            "time": "19:01", 
+            "date": "2015-01-27", 
+            "offense": "failure to be booked"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "antoine", 
+            "surname": "clayton", 
+            "location": "charlotte ave", 
+            "time": "20:48", 
+            "date": "2015-01-27", 
+            "offense": "failure to be booked"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "antoine", 
+            "surname": "clayton", 
+            "location": "charlotte ave", 
+            "time": "20:48", 
+            "date": "2015-01-27", 
             "offense": "failure to be booked"
         }, 
         "model": "crimeapp.crimes"
@@ -2334,394 +2037,130 @@
     {
         "fields": {
             "first_name": "joe", 
-            "surname": "pharris", 
+            "surname": "cotham", 
+            "location": "woods st", 
+            "time": "21:50", 
+            "date": "2015-01-27", 
+            "offense": "failure to be booked"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "alja", 
+            "surname": "williams", 
+            "location": "gallatin ave", 
+            "time": "14:34", 
+            "date": "2015-01-27", 
+            "offense": "forgery- $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "samuel", 
+            "surname": "gonzales", 
+            "location": "university ct", 
+            "time": "21:45", 
+            "date": "2015-01-26", 
+            "offense": "fugitive from justice- without warrant"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jordan", 
+            "surname": "manns", 
+            "location": "charlotte ave", 
+            "time": "17:23", 
+            "date": "2015-01-27", 
+            "offense": "fugitive from justice- without warrant"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "ronnie", 
+            "surname": "cole", 
+            "location": "lafayette st", 
+            "time": "15:46", 
+            "date": "2015-01-03", 
+            "offense": "gambling"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "ronnie", 
+            "surname": "cole", 
+            "location": "lafayette st", 
+            "time": "15:46", 
+            "date": "2015-01-03", 
+            "offense": "gambling device or record- possession"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "kemur", 
+            "surname": "bryant", 
             "location": "2nd ave n", 
-            "time": "15:54", 
-            "date": "2015-01-21", 
-            "offense": "failure to be booked"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "patrick", 
-            "surname": "walker-reese", 
-            "location": "osage st", 
-            "time": "11:18", 
-            "date": "2015-01-22", 
-            "offense": "failure to be booked"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "patrick", 
-            "surname": "walker-reese", 
-            "location": "osage st", 
-            "time": "11:18", 
-            "date": "2015-01-22", 
-            "offense": "failure to be booked"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "neely", 
-            "surname": "collier", 
-            "location": "murfreesboro pike", 
-            "time": "13:41", 
-            "date": "2015-01-22", 
-            "offense": "failure to be booked"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "adonis", 
-            "surname": "anderson", 
-            "location": "mcgavock pike", 
-            "time": "14:05", 
-            "date": "2015-01-22", 
-            "offense": "failure to be booked"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "benjamin", 
-            "surname": "townes", 
-            "location": "28th ave n", 
-            "time": "16:33", 
-            "date": "2015-01-22", 
-            "offense": "failure to be booked"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "daniel", 
-            "surname": "ray", 
-            "location": "forrester dr", 
-            "time": "16:35", 
-            "date": "2015-01-22", 
-            "offense": "failure to be booked"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "billy", 
-            "surname": "hudler", 
-            "location": "2nd ave n", 
-            "time": "16:45", 
-            "date": "2015-01-22", 
-            "offense": "failure to be booked"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "reginald", 
-            "surname": "collier", 
-            "location": "2nd ave n", 
-            "time": "15:49", 
-            "date": "2015-01-21", 
-            "offense": "failure to be booked"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "karen", 
-            "surname": "morton", 
-            "location": "james robertson pkwy", 
-            "time": "15:48", 
-            "date": "2015-01-22", 
-            "offense": "forfeiture - viol bond cond. or bond increase"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "ronesha", 
-            "surname": "pinkerton", 
-            "location": "2nd ave n", 
-            "time": "16:27", 
-            "date": "2015-01-22", 
-            "offense": "forfeiture - viol bond cond. or bond increase"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "pierre", 
-            "surname": "armstrong", 
-            "location": "cleveland st", 
-            "time": "19:33", 
-            "date": "2015-01-22", 
-            "offense": "habitual motor veh. offender"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "stephanie", 
-            "surname": "raymer", 
-            "location": "eagan cir", 
-            "time": "23:35", 
-            "date": "2015-01-21", 
+            "time": "06:00", 
+            "date": "2015-01-27", 
             "offense": "harassment - cause emotional distress, intimidate,"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "gordon", 
-            "surname": "buttrey", 
-            "location": "harding pl", 
-            "time": "00:55", 
-            "date": "2015-01-22", 
+            "first_name": "samuel", 
+            "surname": "gonzales", 
+            "location": "university ct", 
+            "time": "21:45", 
+            "date": "2015-01-26", 
             "offense": "implied consent - civil"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "paul", 
-            "surname": "mercer", 
-            "location": "21st ave s", 
-            "time": "00:34", 
-            "date": "2015-01-22", 
+            "first_name": "aaron", 
+            "surname": "stoner", 
+            "location": "gallatin ave", 
+            "time": "03:15", 
+            "date": "2015-01-27", 
             "offense": "implied consent - civil"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "jennifer", 
-            "surname": "miller", 
-            "location": "i 40 e", 
-            "time": "03:56", 
-            "date": "2015-01-22", 
-            "offense": "implied consent - civil"
+            "first_name": "maldonado", 
+            "surname": "enrique", 
+            "location": "coleridge dr", 
+            "time": "08:50", 
+            "date": "2015-01-01", 
+            "offense": "leaving the scene of an acc. w/prop. damage"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "jose", 
-            "surname": "gomes", 
-            "location": "nolensville pike", 
-            "time": "21:36", 
-            "date": "2015-01-22", 
-            "offense": "implied consent - civil"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "brent", 
-            "surname": "burns", 
-            "location": "i 40 e", 
-            "time": "00:52", 
-            "date": "2015-01-22", 
-            "offense": "implied consent - criminal"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "dewey", 
-            "surname": "adams", 
-            "location": "dickerson pike", 
-            "time": "04:16", 
-            "date": "2015-01-22", 
-            "offense": "interference w/emergency call"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "dewey", 
-            "surname": "adams", 
-            "location": "dickerson pike", 
-            "time": "04:16", 
-            "date": "2015-01-22", 
-            "offense": "interference w/emergency call"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "andrie", 
-            "surname": "glenn", 
-            "location": "7th ave n", 
-            "time": "12:09", 
-            "date": "2015-01-22", 
-            "offense": "interference w/emergency call"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "tadarius", 
-            "surname": "clift", 
-            "location": "clarksville pike", 
-            "time": "23:24", 
-            "date": "2015-01-21", 
-            "offense": "murder-1st degree-premed./intentional"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "william", 
-            "surname": "payne", 
-            "location": "7th ave n", 
-            "time": "01:19", 
-            "date": "2015-01-22", 
-            "offense": "obstructing a passageway"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "roger", 
-            "surname": "rice", 
-            "location": "harding pl", 
-            "time": "11:15", 
-            "date": "2015-01-22", 
-            "offense": "obstructing a passageway"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jose", 
-            "surname": "gomes", 
-            "location": "nolensville pike", 
-            "time": "21:36", 
-            "date": "2015-01-22", 
+            "first_name": "antoine", 
+            "surname": "clayton", 
+            "location": "fairfield ave", 
+            "time": "22:45", 
+            "date": "2014-08-27", 
             "offense": "open container viol."
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "shawn", 
-            "surname": "anglin", 
-            "location": "2nd ave n", 
-            "time": "17:18", 
-            "date": "2015-01-22", 
-            "offense": "parole violation"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "david", 
-            "surname": "shutler", 
-            "location": "i 40 e", 
-            "time": "21:24", 
-            "date": "2014-12-26", 
-            "offense": "pedestrian sol. ride or business"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "noel", 
-            "surname": "palmer", 
-            "location": "i65 exit ramp", 
-            "time": "13:52", 
-            "date": "2015-01-22", 
-            "offense": "pedestrian sol. ride or business"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "adonis", 
-            "surname": "anderson", 
-            "location": "elm hill pike", 
-            "time": "14:00", 
-            "date": "2014-04-21", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "daniel", 
-            "surname": "ray", 
-            "location": "5th ave s", 
-            "time": "15:40", 
-            "date": "2014-10-24", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jonathon", 
-            "surname": "mayberry", 
-            "location": "i 40 w", 
-            "time": "23:32", 
-            "date": "2014-12-26", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "yoan", 
-            "surname": "konkobo", 
-            "location": "patricia dr", 
-            "time": "04:24", 
-            "date": "2014-12-27", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "matthew", 
-            "surname": "jones", 
-            "location": "jacksons valley rd", 
-            "time": "01:32", 
-            "date": "2014-12-28", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jadarrius", 
-            "surname": "thomas", 
-            "location": "old hickory blvd", 
-            "time": "00:23", 
-            "date": "2014-12-30", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "anthony", 
-            "surname": "carter", 
-            "location": "hermitage ave", 
-            "time": "21:45", 
-            "date": "2014-12-30", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "cassilina", 
-            "surname": "williams", 
-            "location": "s 6th st", 
-            "time": "02:24", 
+            "first_name": "chas", 
+            "surname": "goodman", 
+            "location": "bell rd", 
+            "time": "01:51", 
             "date": "2014-12-31", 
             "offense": "poss. or casual exchange-cont.sub."
         }, 
@@ -2729,10 +2168,21 @@
     }, 
     {
         "fields": {
-            "first_name": "phillip", 
-            "surname": "jackson", 
-            "location": "9th ave n", 
-            "time": "01:06", 
+            "first_name": "amber", 
+            "surname": "browder", 
+            "location": "cedarcroft dr", 
+            "time": "16:07", 
+            "date": "2015-01-02", 
+            "offense": "poss. or casual exchange-cont.sub."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "antjuan", 
+            "surname": "adams", 
+            "location": "harding pl", 
+            "time": "23:23", 
             "date": "2015-01-03", 
             "offense": "poss. or casual exchange-cont.sub."
         }, 
@@ -2740,1055 +2190,758 @@
     }, 
     {
         "fields": {
-            "first_name": "major", 
-            "surname": "reynolds", 
-            "location": "fairfield ave", 
-            "time": "21:42", 
-            "date": "2015-01-05", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "wayne", 
-            "surname": "geisert", 
-            "location": "fesslers ln", 
-            "time": "21:11", 
-            "date": "2015-01-07", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "charles", 
-            "surname": "marr", 
-            "location": "gallatin pike", 
-            "time": "16:00", 
-            "date": "2014-12-31", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "david", 
-            "surname": "allen", 
-            "location": "donelson pike", 
-            "time": "16:00", 
-            "date": "2014-12-31", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jarrod", 
-            "surname": "stafford", 
-            "location": "opry mills dr", 
-            "time": "00:00", 
-            "date": "2015-01-02", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "abdulaziz", 
-            "surname": "alanazi", 
-            "location": "nolensville pike", 
-            "time": "00:00", 
-            "date": "2015-01-02", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "melinda", 
-            "surname": "hunnicutt", 
-            "location": "lebanon pike", 
-            "time": "00:00", 
-            "date": "2014-12-31", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "martel", 
-            "surname": "massey", 
-            "location": "bell rd", 
-            "time": "00:00", 
-            "date": "2014-12-31", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "james", 
-            "surname": "fowler", 
-            "location": "old hickory blvd", 
-            "time": "00:15", 
-            "date": "2014-12-30", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "tarrie", 
-            "surname": "cantey", 
-            "location": "bell rd", 
-            "time": "00:00", 
-            "date": "2014-12-31", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jennifer", 
-            "surname": "aker", 
-            "location": "due west ave e", 
-            "time": "22:47", 
-            "date": "2015-01-21", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "gordon", 
-            "surname": "buttrey", 
-            "location": "harding pl", 
-            "time": "00:55", 
-            "date": "2015-01-22", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "paul", 
-            "surname": "mercer", 
-            "location": "21st ave s", 
-            "time": "00:34", 
-            "date": "2015-01-22", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "ronald", 
-            "surname": "cook", 
-            "location": "douglas ave", 
-            "time": "12:24", 
-            "date": "2015-01-22", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "eric", 
-            "surname": "chastain", 
-            "location": "james robertson pkwy", 
-            "time": "12:46", 
-            "date": "2015-01-22", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "robert", 
-            "surname": "smith", 
-            "location": "middleton st", 
-            "time": "15:54", 
-            "date": "2015-01-22", 
-            "offense": "poss. or casual exchange-cont.sub."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jaquece", 
-            "surname": "fitzgerald", 
-            "location": "elm hill pike", 
-            "time": "21:40", 
-            "date": "2015-01-21", 
-            "offense": "poss. or casual exchange-cont.sub.- prior conv."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "matthew", 
-            "surname": "hedges", 
-            "location": "s cartwright st", 
-            "time": "00:05", 
-            "date": "2015-01-22", 
-            "offense": "poss. or casual exchange-cont.sub.- prior conv."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "katherine", 
-            "surname": "root", 
-            "location": "62nd ave n", 
-            "time": "17:29", 
-            "date": "2015-01-22", 
-            "offense": "poss. or casual exchange-cont.sub.- prior conv."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "katherine", 
-            "surname": "root", 
-            "location": "62nd ave n", 
-            "time": "17:29", 
-            "date": "2015-01-22", 
-            "offense": "poss. or casual exchange-cont.sub.- prior conv."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "frank", 
-            "surname": "swinger", 
-            "location": "grace st", 
-            "time": "22:24", 
-            "date": "2015-01-22", 
-            "offense": "poss. or casual exchange-cont.sub.- prior conv."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "linda", 
-            "surname": "rhudy", 
-            "location": "west end ave", 
-            "time": "06:01", 
-            "date": "2015-01-22", 
-            "offense": "poss. w/o prescription, legend drugs"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jaquece", 
-            "surname": "fitzgerald", 
-            "location": "elm hill pike", 
-            "time": "21:40", 
-            "date": "2015-01-21", 
-            "offense": "poss.w/int-cont.sub.- cocaine .5 gr. or more"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "darrin", 
-            "surname": "jones", 
-            "location": "", 
-            "time": "00:30", 
-            "date": "2015-01-22", 
-            "offense": "poss.w/int-cont.sub.- cocaine .5 gr. or more"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "christina", 
-            "surname": "pohl", 
-            "location": "fesslers ln", 
-            "time": "19:34", 
-            "date": "2015-01-22", 
-            "offense": "poss.w/int-cont.sub.- cocaine .5 gr. or more"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "antrelle", 
-            "surname": "mccone", 
-            "location": "lebanon pike", 
-            "time": "03:55", 
-            "date": "2015-01-22", 
-            "offense": "poss.w/int-cont.sub.- marijuana 14.175-4,535 gr."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "stephen", 
-            "surname": "shell", 
-            "location": "62nd ave n", 
-            "time": "17:58", 
-            "date": "2015-01-22", 
-            "offense": "poss.w/int-cont.sub.- marijuana 14.175-4,535 gr."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jamar", 
-            "surname": "stewart", 
-            "location": "murfreesboro pike", 
-            "time": "19:03", 
-            "date": "2015-01-22", 
-            "offense": "poss.w/int-cont.sub.- marijuana 14.175-4,535 gr."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jacob", 
-            "surname": "weston", 
-            "location": "galesburg dr", 
-            "time": "19:00", 
-            "date": "2015-01-22", 
-            "offense": "poss.w/int-cont.sub.- marijuana 14.175-4,535 gr."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "darrin", 
-            "surname": "jones", 
-            "location": "", 
-            "time": "00:30", 
-            "date": "2015-01-22", 
-            "offense": "poss.w/int-cont.sub.- sch. i"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jaquece", 
-            "surname": "fitzgerald", 
-            "location": "elm hill pike", 
-            "time": "21:40", 
-            "date": "2015-01-21", 
-            "offense": "poss.w/int-cont.sub.- sch. ii"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jaquece", 
-            "surname": "fitzgerald", 
-            "location": "elm hill pike", 
-            "time": "21:40", 
-            "date": "2015-01-21", 
-            "offense": "poss.w/int-cont.sub.- sch. ii"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jaquece", 
-            "surname": "fitzgerald", 
-            "location": "elm hill pike", 
-            "time": "21:40", 
-            "date": "2015-01-21", 
-            "offense": "poss.w/int-cont.sub.- sch. iii"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jaquece", 
-            "surname": "fitzgerald", 
-            "location": "elm hill pike", 
-            "time": "21:40", 
-            "date": "2015-01-21", 
-            "offense": "poss.w/int-cont.sub.-meth.5 gr or more"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "elliot", 
-            "surname": "segroves", 
+            "first_name": "antonio", 
+            "surname": "pitts", 
             "location": "2nd ave n", 
-            "time": "09:28", 
-            "date": "2015-01-22", 
-            "offense": "prob violation see mis"
+            "time": "22:27", 
+            "date": "2015-01-13", 
+            "offense": "poss. or casual exchange-cont.sub."
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "courtney", 
-            "surname": "gladney", 
-            "location": "2nd ave n", 
-            "time": "21:59", 
-            "date": "2015-01-21", 
-            "offense": "probation violation- community corrections viol."
+            "first_name": "toni", 
+            "surname": "williams", 
+            "location": "cockrill bend blvd", 
+            "time": "11:55", 
+            "date": "2014-12-7", 
+            "offense": "poss. or casual exchange-cont.sub."
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
             "first_name": "michael", 
-            "surname": "lennox", 
+            "surname": "bogan", 
+            "location": "claridge dr", 
+            "time": "00:06", 
+            "date": "2015-01-27", 
+            "offense": "poss. or casual exchange-cont.sub."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "orlando", 
+            "surname": "cartwright", 
+            "location": "cumberland ave", 
+            "time": "02:00", 
+            "date": "2015-01-27", 
+            "offense": "poss. or casual exchange-cont.sub."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "dejuan", 
+            "surname": "williams", 
+            "location": "cumberland ave", 
+            "time": "02:07", 
+            "date": "2015-01-27", 
+            "offense": "poss. or casual exchange-cont.sub."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "billy", 
+            "surname": "shaw", 
+            "location": "welch rd", 
+            "time": "23:30", 
+            "date": "2014-12-22", 
+            "offense": "poss. or casual exchange-cont.sub."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "crystal", 
+            "surname": "cruz", 
             "location": "2nd ave n", 
-            "time": "15:57", 
-            "date": "2015-01-21", 
-            "offense": "probation violation- community corrections viol."
+            "time": "09:25", 
+            "date": "2015-01-27", 
+            "offense": "poss. or casual exchange-cont.sub."
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "brandon", 
-            "surname": "forbes", 
-            "location": "2nd ave n", 
-            "time": "17:31", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- community corrections viol."
+            "first_name": "alja", 
+            "surname": "williams", 
+            "location": "gallatin ave", 
+            "time": "14:34", 
+            "date": "2015-01-27", 
+            "offense": "poss. or casual exchange-cont.sub."
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "jarmarlon", 
-            "surname": "hailey", 
-            "location": "hillside ave", 
-            "time": "17:56", 
-            "date": "2015-01-21", 
-            "offense": "probation violation- felony"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "clayton", 
-            "surname": "hooberry", 
-            "location": "dickerson pike", 
-            "time": "19:57", 
-            "date": "2015-01-21", 
-            "offense": "probation violation- felony"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "rosson", 
-            "surname": "pickett", 
-            "location": "gallatin pike", 
-            "time": "20:27", 
-            "date": "2015-01-21", 
-            "offense": "probation violation- felony"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "tadarius", 
-            "surname": "clift", 
-            "location": "clarksville pike", 
-            "time": "23:24", 
-            "date": "2015-01-21", 
-            "offense": "probation violation- felony"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "troy", 
-            "surname": "claiborne", 
-            "location": "7th ave n", 
-            "time": "00:10", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- felony"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jay", 
-            "surname": "foster", 
-            "location": "2nd ave n", 
-            "time": "10:32", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- felony"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "james", 
-            "surname": "ward", 
-            "location": "2nd ave n", 
-            "time": "10:41", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- felony"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "brent", 
-            "surname": "bidwell", 
-            "location": "forrester dr", 
-            "time": "16:25", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- felony"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "amanda", 
-            "surname": "ruegge", 
-            "location": "james robertson pkwy", 
-            "time": "21:41", 
-            "date": "2015-01-21", 
-            "offense": "probation violation- misdemeanor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "george", 
-            "surname": "foxx", 
-            "location": "james robertson pkwy", 
-            "time": "22:06", 
-            "date": "2015-01-21", 
-            "offense": "probation violation- misdemeanor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "sarah", 
-            "surname": "cervantes", 
-            "location": "2nd ave n", 
-            "time": "04:45", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- misdemeanor"
+            "first_name": "jordan", 
+            "surname": "manns", 
+            "location": "charlotte ave", 
+            "time": "17:23", 
+            "date": "2015-01-27", 
+            "offense": "poss. or casual exchange-cont.sub."
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
             "first_name": "david", 
-            "surname": "aldridge", 
-            "location": "couch dr", 
-            "time": "12:08", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- misdemeanor"
+            "surname": "johnson", 
+            "location": "", 
+            "time": "21:31", 
+            "date": "2015-01-27", 
+            "offense": "poss. or casual exchange-cont.sub."
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "danita", 
-            "surname": "cox", 
+            "first_name": "clarence", 
+            "surname": "brown", 
+            "location": "i 24 w", 
+            "time": "01:45", 
+            "date": "2015-01-27", 
+            "offense": "poss. or casual exchange-cont.sub.- prior conv."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "daniel", 
+            "surname": "tillman", 
+            "location": "8th ave s", 
+            "time": "11:08", 
+            "date": "2015-01-27", 
+            "offense": "poss.w/int-cont.sub.- cocaine .5 gr. or more"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "daniel", 
+            "surname": "tillman", 
+            "location": "8th ave s", 
+            "time": "11:08", 
+            "date": "2015-01-27", 
+            "offense": "poss.w/int-cont.sub.- marijuana 14.175-4,535 gr."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "arkaylus", 
+            "surname": "thomas", 
+            "location": "16th ave n", 
+            "time": "17:01", 
+            "date": "2015-01-27", 
+            "offense": "poss.w/int-cont.sub.- marijuana 14.175-4,535 gr."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "michael", 
+            "surname": "bogan", 
+            "location": "claridge dr", 
+            "time": "00:06", 
+            "date": "2015-01-27", 
+            "offense": "poss.w/int-cont.sub.- sch. i"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "daniel", 
+            "surname": "tillman", 
+            "location": "8th ave s", 
+            "time": "11:08", 
+            "date": "2015-01-27", 
+            "offense": "poss.w/int-cont.sub.- sch. iv"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "floyd", 
+            "surname": "hughes", 
+            "location": "south douglas", 
+            "time": "18:49", 
+            "date": "2015-01-27", 
+            "offense": "prob violation see mis"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jeffery", 
+            "surname": "peterkin", 
+            "location": "knox county jail", 
+            "time": "06:59", 
+            "date": "2015-01-27", 
+            "offense": "probation violation- community corrections viol."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "jeffery", 
+            "surname": "peterkin", 
+            "location": "knox county jail", 
+            "time": "06:59", 
+            "date": "2015-01-27", 
+            "offense": "probation violation- community corrections viol."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "darrell", 
+            "surname": "reed", 
+            "location": "2nd ave n", 
+            "time": "10:42", 
+            "date": "2015-01-27", 
+            "offense": "probation violation- community corrections viol."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "clarence", 
+            "surname": "norris", 
             "location": "james robertson pkwy", 
-            "time": "14:46", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- misdemeanor"
+            "time": "16:18", 
+            "date": "2015-01-27", 
+            "offense": "probation violation- community corrections viol."
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "devonta", 
-            "surname": "hall", 
-            "location": "susannah ct", 
-            "time": "14:30", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- misdemeanor"
+            "first_name": "daniel", 
+            "surname": "mccoy", 
+            "location": "old hickory blvd", 
+            "time": "20:39", 
+            "date": "2015-01-27", 
+            "offense": "probation violation- community corrections viol."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "daniel", 
+            "surname": "mccoy", 
+            "location": "old hickory blvd", 
+            "time": "20:39", 
+            "date": "2015-01-27", 
+            "offense": "probation violation- community corrections viol."
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "antonio", 
+            "surname": "anthony", 
+            "location": "2nd ave n", 
+            "time": "10:27", 
+            "date": "2015-01-27", 
+            "offense": "probation violation- felony"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "rodney", 
+            "surname": "clark", 
+            "location": "hwy 641 s", 
+            "time": "15:35", 
+            "date": "2015-01-27", 
+            "offense": "probation violation- felony"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
             "first_name": "jordan", 
-            "surname": "bowman", 
-            "location": "cooper ln", 
-            "time": "16:16", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- misdemeanor"
+            "surname": "manns", 
+            "location": "charlotte ave", 
+            "time": "17:23", 
+            "date": "2015-01-27", 
+            "offense": "probation violation- felony"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "jordan", 
-            "surname": "bowman", 
-            "location": "cooper ln", 
-            "time": "16:16", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- misdemeanor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "ronesha", 
-            "surname": "pinkerton", 
+            "first_name": "luis", 
+            "surname": "sanchez", 
             "location": "2nd ave n", 
-            "time": "16:27", 
-            "date": "2015-01-22", 
+            "time": "09:17", 
+            "date": "2015-01-27", 
             "offense": "probation violation- misdemeanor"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "shamso", 
-            "surname": "gedi-abdi", 
+            "first_name": "kevin", 
+            "surname": "jackson", 
             "location": "2nd ave n", 
-            "time": "17:08", 
-            "date": "2015-01-22", 
+            "time": "10:18", 
+            "date": "2015-01-27", 
             "offense": "probation violation- misdemeanor"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "shamso", 
-            "surname": "gedi-abdi", 
-            "location": "2nd ave n", 
-            "time": "17:08", 
-            "date": "2015-01-22", 
+            "first_name": "rogelio", 
+            "surname": "alfonso", 
+            "location": "opry mills dr", 
+            "time": "18:25", 
+            "date": "2015-01-27", 
             "offense": "probation violation- misdemeanor"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "erica", 
-            "surname": "gray", 
-            "location": "2nd ave n", 
-            "time": "00:00", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- misdemeanor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "erica", 
-            "surname": "gray", 
-            "location": "2nd ave n", 
-            "time": "00:00", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- misdemeanor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "erica", 
-            "surname": "gray", 
-            "location": "2nd ave n", 
-            "time": "00:00", 
-            "date": "2015-01-22", 
-            "offense": "probation violation- misdemeanor"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "adam", 
-            "surname": "noe", 
-            "location": "murfreesboro pike", 
-            "time": "09:48", 
-            "date": "2015-01-22", 
+            "first_name": "ronnie", 
+            "surname": "cole", 
+            "location": "", 
+            "time": "19:24", 
+            "date": "2015-01-09", 
             "offense": "public indecency"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "ernest", 
-            "surname": "shoemake", 
-            "location": "nolensville pike", 
-            "time": "23:24", 
-            "date": "2015-01-21", 
+            "first_name": "james", 
+            "surname": "shane", 
+            "location": "richards rd", 
+            "time": "12:27", 
+            "date": "2015-01-26", 
             "offense": "public intoxication"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "dragan", 
-            "surname": "cvetkovic", 
-            "location": "21st ave s", 
-            "time": "00:45", 
-            "date": "2015-01-22", 
+            "first_name": "michael", 
+            "surname": "sparks", 
+            "location": "charlotte ave", 
+            "time": "18:31", 
+            "date": "2015-01-26", 
             "offense": "public intoxication"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "reginald", 
-            "surname": "stratton", 
-            "location": "jefferson st", 
-            "time": "15:17", 
-            "date": "2015-01-22", 
+            "first_name": "victorino", 
+            "surname": "gonzalez", 
+            "location": "taylor rd", 
+            "time": "02:00", 
+            "date": "2015-01-27", 
             "offense": "public intoxication"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "robert", 
-            "surname": "smith", 
-            "location": "middleton st", 
-            "time": "15:54", 
-            "date": "2015-01-22", 
+            "first_name": "wade", 
+            "surname": "barger", 
+            "location": "4th ave s", 
+            "time": "01:46", 
+            "date": "2015-01-27", 
             "offense": "public intoxication"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "charles", 
-            "surname": "hall", 
-            "location": "patterson st", 
-            "time": "16:49", 
-            "date": "2015-01-22", 
+            "first_name": "michael", 
+            "surname": "storey", 
+            "location": "5th ave n", 
+            "time": "09:58", 
+            "date": "2015-01-27", 
             "offense": "public intoxication"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "tyrone", 
-            "surname": "fisher", 
-            "location": "6th ave s", 
-            "time": "21:21", 
-            "date": "2015-01-22", 
-            "offense": "public intoxication"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "tadarius", 
-            "surname": "clift", 
-            "location": "clarksville pike", 
-            "time": "23:24", 
-            "date": "2015-01-21", 
-            "offense": "reckless endangerment- weapon"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "tadarius", 
-            "surname": "clift", 
-            "location": "clarksville pike", 
-            "time": "23:24", 
-            "date": "2015-01-21", 
-            "offense": "reckless endangerment- weapon"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "tadarius", 
-            "surname": "clift", 
-            "location": "clarksville pike", 
-            "time": "23:24", 
-            "date": "2015-01-21", 
-            "offense": "reckless endangerment- weapon"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jennifer", 
-            "surname": "miller", 
-            "location": "i 40 e", 
-            "time": "03:56", 
-            "date": "2015-01-22", 
-            "offense": "resisting stop, frisk, halt, arrest, or search"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "robert", 
-            "surname": "smith", 
-            "location": "middleton st", 
-            "time": "15:54", 
-            "date": "2015-01-22", 
-            "offense": "resisting stop, frisk, halt, arrest, or search"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "kendrius", 
-            "surname": "smith", 
-            "location": "4th ave n", 
-            "time": "23:22", 
-            "date": "2015-01-21", 
-            "offense": "robbery- agg.- weapon or object"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jaquece", 
-            "surname": "fitzgerald", 
-            "location": "elm hill pike", 
-            "time": "21:40", 
-            "date": "2015-01-21", 
-            "offense": "sale - cont.sub.- cocaine lt .5 gr."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jaquece", 
-            "surname": "fitzgerald", 
-            "location": "elm hill pike", 
-            "time": "21:40", 
-            "date": "2015-01-21", 
-            "offense": "sale - cont.sub.- cocaine lt .5 gr."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "purez", 
-            "surname": "winstead", 
-            "location": "james robertson pkwy", 
-            "time": "18:19", 
-            "date": "2015-01-22", 
-            "offense": "sale - cont.sub.- cocaine lt .5 gr."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "purez", 
-            "surname": "winstead", 
-            "location": "james robertson pkwy", 
-            "time": "18:19", 
-            "date": "2015-01-22", 
-            "offense": "sale - cont.sub.- cocaine lt .5 gr."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jamar", 
-            "surname": "stewart", 
-            "location": "murfreesboro pike", 
-            "time": "19:03", 
-            "date": "2015-01-22", 
-            "offense": "sale - cont.sub.- marijuana 14.175-4,535 gr."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jamar", 
-            "surname": "stewart", 
-            "location": "murfreesboro pike", 
-            "time": "19:03", 
-            "date": "2015-01-22", 
-            "offense": "sale - cont.sub.- marijuana 14.175-4,535 gr."
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "rachel", 
-            "surname": "hall", 
-            "location": "elm hill pike", 
-            "time": "21:38", 
-            "date": "2015-01-21", 
-            "offense": "sale - cont.sub.- sch. ii"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
             "first_name": "david", 
-            "surname": "hudson", 
-            "location": "south trace blvd", 
-            "time": "03:57", 
-            "date": "2015-01-22", 
-            "offense": "sex offender registration viol.-2nd offense"
+            "surname": "vaughn", 
+            "location": "5th ave n", 
+            "time": "09:57", 
+            "date": "2015-01-27", 
+            "offense": "public intoxication"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "dorothea", 
-            "surname": "driver", 
-            "location": "charlotte pike", 
-            "time": "01:02", 
-            "date": "2014-12-23", 
-            "offense": "theft of merchandise - $500 or less"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jennifer", 
-            "surname": "mayes", 
-            "location": "charlotte pike", 
-            "time": "02:01", 
-            "date": "2014-12-23", 
-            "offense": "theft of merchandise - $500 or less"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "dana", 
-            "surname": "holderfield", 
-            "location": "charlotte pike", 
-            "time": "18:54", 
-            "date": "2014-12-24", 
-            "offense": "theft of merchandise - $500 or less"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "hannah", 
-            "surname": "ward", 
-            "location": "murfreesboro pike", 
-            "time": "18:26", 
-            "date": "2014-12-28", 
-            "offense": "theft of merchandise - $500 or less"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "laura", 
-            "surname": "carter", 
+            "first_name": "daniel", 
+            "surname": "tolan", 
             "location": "rivergate pkwy", 
-            "time": "00:00", 
-            "date": "2014-12-22", 
-            "offense": "theft of merchandise - $500 or less"
+            "time": "14:08", 
+            "date": "2015-01-27", 
+            "offense": "public intoxication"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "bobby", 
-            "surname": "taylor", 
-            "location": "jackson downs blvd", 
-            "time": "00:00", 
-            "date": "2015-01-03", 
-            "offense": "theft of merchandise - $500 or less"
+            "first_name": "michael", 
+            "surname": "underwood", 
+            "location": "charlotte ave", 
+            "time": "15:30", 
+            "date": "2015-01-27", 
+            "offense": "public intoxication"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "bobby", 
-            "surname": "taylor", 
-            "location": "jackson downs blvd", 
-            "time": "00:00", 
-            "date": "2015-01-03", 
-            "offense": "theft of merchandise - $500 or less"
+            "first_name": "alonzo", 
+            "surname": "neeley", 
+            "location": "harrison st", 
+            "time": "16:43", 
+            "date": "2015-01-27", 
+            "offense": "public intoxication"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "bobby", 
-            "surname": "taylor", 
-            "location": "jackson downs blvd", 
-            "time": "00:00", 
-            "date": "2015-01-03", 
-            "offense": "theft of merchandise - $500 or less"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "alma", 
-            "surname": "freeman", 
-            "location": "", 
-            "time": "15:15", 
-            "date": "2014-12-27", 
-            "offense": "theft of merchandise - $500 or less"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "sharonita", 
-            "surname": "davis", 
-            "location": "clarksville pike", 
-            "time": "00:30", 
-            "date": "2015-01-22", 
-            "offense": "theft of merchandise - $500 or less"
+            "first_name": "yancey", 
+            "surname": "doss", 
+            "location": "division st", 
+            "time": "19:05", 
+            "date": "2015-01-27", 
+            "offense": "public intoxication"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
             "first_name": "john", 
-            "surname": "smith", 
+            "surname": "westfall", 
+            "location": "hickory hollow ln", 
+            "time": "20:02", 
+            "date": "2015-01-27", 
+            "offense": "public intoxication"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "elizabeth", 
+            "surname": "perez-zaragoza", 
+            "location": "edmondson pike", 
+            "time": "21:36", 
+            "date": "2015-01-01", 
+            "offense": "reckless driving"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "james", 
+            "surname": "shane", 
+            "location": "richards rd", 
+            "time": "12:27", 
+            "date": "2015-01-26", 
+            "offense": "resisting stop, frisk, halt, arrest, or search"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "scott", 
+            "surname": "lewis", 
+            "location": "carl pl", 
+            "time": "00:20", 
+            "date": "2015-01-27", 
+            "offense": "resisting stop, frisk, halt, arrest, or search"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "james", 
+            "surname": "pippin", 
+            "location": "clarksville pike", 
+            "time": "21:02", 
+            "date": "2015-01-27", 
+            "offense": "resisting stop, frisk, halt, arrest, or search"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "joe", 
+            "surname": "cotham", 
+            "location": "woods st", 
+            "time": "21:50", 
+            "date": "2015-01-27", 
+            "offense": "resisting stop, frisk, halt, arrest, or search"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "orlando", 
+            "surname": "cartwright", 
+            "location": "cumberland ave", 
+            "time": "02:00", 
+            "date": "2015-01-27", 
+            "offense": "robbery- agg.- weapon or object"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "orlando", 
+            "surname": "cartwright", 
+            "location": "cumberland ave", 
+            "time": "02:00", 
+            "date": "2015-01-27", 
+            "offense": "robbery- agg.- weapon or object"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "dejuan", 
+            "surname": "williams", 
+            "location": "cumberland ave", 
+            "time": "02:07", 
+            "date": "2015-01-27", 
+            "offense": "robbery- agg.- weapon or object"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "dejuan", 
+            "surname": "williams", 
+            "location": "cumberland ave", 
+            "time": "02:07", 
+            "date": "2015-01-27", 
+            "offense": "robbery- agg.- weapon or object"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "rodney", 
+            "surname": "clark", 
+            "location": "hwy 641 s", 
+            "time": "15:35", 
+            "date": "2015-01-27", 
+            "offense": "sex offender registration viol.-2nd offense"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "rodney", 
+            "surname": "clark", 
+            "location": "hwy 641 s", 
+            "time": "15:35", 
+            "date": "2015-01-27", 
+            "offense": "sex offender registration viol.-2nd offense"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "kemur", 
+            "surname": "bryant", 
             "location": "2nd ave n", 
-            "time": "15:51", 
-            "date": "2015-01-21", 
+            "time": "06:00", 
+            "date": "2015-01-27", 
+            "offense": "stalking- no prior conviction"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "hassler", 
+            "surname": "aguilar", 
+            "location": "hamilton church rd", 
+            "time": "02:34", 
+            "date": "2014-12-31", 
             "offense": "theft of merchandise - $500 or less"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "tracy", 
-            "surname": "compton", 
-            "location": "hwy 70 s", 
-            "time": "20:31", 
-            "date": "2015-01-22", 
-            "offense": "theft of merchandise- gt $500, lt $1,000"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "darcy", 
-            "surname": "hawkins", 
-            "location": "lafayette st", 
-            "time": "01:47", 
-            "date": "2015-01-22", 
-            "offense": "theft of property- $1,000 or gt, lt $10,000"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "charles", 
-            "surname": "horton", 
-            "location": "larmon ave", 
-            "time": "10:41", 
-            "date": "2015-01-22", 
-            "offense": "theft of property- $1,000 or gt, lt $10,000"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "marvin", 
+            "first_name": "britteney", 
             "surname": "davis", 
-            "location": "i 24 e", 
-            "time": "16:44", 
+            "location": "opry mills dr", 
+            "time": "19:44", 
+            "date": "2015-01-03", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "kristy", 
+            "surname": "armstrong", 
+            "location": "nolensville pike", 
+            "time": "18:35", 
+            "date": "2014-12-31", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "sarah", 
+            "surname": "dunback", 
+            "location": "nolensville pike", 
+            "time": "20:30", 
+            "date": "2015-01-04", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "archie", 
+            "surname": "griffin", 
+            "location": "nolensville pike", 
+            "time": "18:45", 
+            "date": "2015-01-04", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "isaac", 
+            "surname": "valentine", 
+            "location": "powell ave", 
+            "time": "00:00", 
+            "date": "2015-01-12", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "shaima", 
+            "surname": "jangir", 
+            "location": "thompson ln", 
+            "time": "00:00", 
+            "date": "2015-01-06", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "shaima", 
+            "surname": "jangir", 
+            "location": "thompson ln", 
+            "time": "00:00", 
+            "date": "2015-01-06", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "peter", 
+            "surname": "schulert", 
+            "location": "cabot dr", 
+            "time": "23:39", 
+            "date": "2015-01-26", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "james", 
+            "surname": "whitson", 
+            "location": "nolensville pike", 
+            "time": "07:23", 
+            "date": "2015-01-27", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "antonio", 
+            "surname": "pitts", 
+            "location": "rivergate pkwy", 
+            "time": "19:53", 
+            "date": "2014-12-29", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "rodriquez", 
+            "surname": "wallace", 
+            "location": "nolensville pike", 
+            "time": "16:00", 
+            "date": "2015-01-01", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "lindsey", 
+            "surname": "young", 
+            "location": "dickerson pike", 
+            "time": "16:11", 
+            "date": "2015-01-27", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "charlie", 
+            "surname": "bandy", 
+            "location": "james robertson pkwy", 
+            "time": "19:01", 
+            "date": "2015-01-27", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "james", 
+            "surname": "woodard", 
+            "location": "powell ave", 
+            "time": "20:08", 
+            "date": "2015-01-27", 
+            "offense": "theft of merchandise - $500 or less"
+        }, 
+        "model": "crimeapp.crimes"
+    }, 
+    {
+        "fields": {
+            "first_name": "erik", 
+            "surname": "giron", 
+            "location": "w hamilton ave", 
+            "time": "02:32", 
             "date": "2014-12-31", 
             "offense": "theft of property- $500 or less"
         }, 
@@ -3796,133 +2949,89 @@
     }, 
     {
         "fields": {
-            "first_name": "dontae", 
-            "surname": "easley", 
-            "location": "dickerson pike", 
-            "time": "18:36", 
-            "date": "2015-01-21", 
+            "first_name": "bryan", 
+            "surname": "mcgowen", 
+            "location": "granada ave", 
+            "time": "14:15", 
+            "date": "2015-01-27", 
             "offense": "theft of property- $500 or less"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "darrin", 
-            "surname": "jones", 
-            "location": "", 
-            "time": "00:30", 
-            "date": "2015-01-22", 
+            "first_name": "jordan", 
+            "surname": "manns", 
+            "location": "charlotte ave", 
+            "time": "17:23", 
+            "date": "2015-01-27", 
             "offense": "theft of property- $500 or less"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "charles", 
-            "surname": "thaxton", 
-            "location": "6th ave s", 
-            "time": "19:43", 
-            "date": "2015-01-22", 
+            "first_name": "jordan", 
+            "surname": "manns", 
+            "location": "charlotte ave", 
+            "time": "17:23", 
+            "date": "2015-01-27", 
             "offense": "theft of property- $500 or less"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "earnest", 
-            "surname": "cook", 
-            "location": "lafayette st", 
-            "time": "13:41", 
-            "date": "2015-01-22", 
-            "offense": "theft of property- gt $500, lt $1,000"
+            "first_name": "marqueta", 
+            "surname": "brooks", 
+            "location": "nashboro blvd", 
+            "time": "21:47", 
+            "date": "2015-01-27", 
+            "offense": "theft of property- $500 or less"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "brady", 
-            "surname": "grant", 
-            "location": "s main st", 
-            "time": "14:45", 
-            "date": "2015-01-22", 
-            "offense": "theft of property- gt $500, lt $1,000"
+            "first_name": "denise", 
+            "surname": "woodard", 
+            "location": "lakeford dr", 
+            "time": "15:58", 
+            "date": "2015-01-27", 
+            "offense": "theft of services- $1,000 or gt, lt $10,000"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "larry", 
-            "surname": "mcconnell", 
-            "location": "bonnameade dr", 
-            "time": "00:00", 
-            "date": "2015-01-05", 
+            "first_name": "joe", 
+            "surname": "cotham", 
+            "location": "woods st", 
+            "time": "21:50", 
+            "date": "2015-01-27", 
             "offense": "vandalism- $500 or less"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "artez", 
-            "surname": "koon", 
-            "location": "james robertson pkwy", 
-            "time": "22:13", 
-            "date": "2015-01-21", 
-            "offense": "vandalism- $500 or less"
+            "first_name": "james", 
+            "surname": "shane", 
+            "location": "richards rd", 
+            "time": "12:27", 
+            "date": "2015-01-26", 
+            "offense": "vandalism- gt $500, lt $1,000"
         }, 
         "model": "crimeapp.crimes"
     }, 
     {
         "fields": {
-            "first_name": "dewey", 
-            "surname": "adams", 
-            "location": "dickerson pike", 
-            "time": "04:16", 
-            "date": "2015-01-22", 
-            "offense": "vandalism- $500 or less"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "dewey", 
-            "surname": "adams", 
-            "location": "dickerson pike", 
-            "time": "04:16", 
-            "date": "2015-01-22", 
-            "offense": "vandalism- $500 or less"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "allen", 
-            "surname": "kelly", 
-            "location": "w trinity ln", 
-            "time": "14:28", 
-            "date": "2015-01-22", 
-            "offense": "vandalism- $500 or less"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "darrin", 
-            "surname": "jones", 
-            "location": "", 
-            "time": "00:30", 
-            "date": "2015-01-22", 
-            "offense": "weapon - dangerous felony - poss. of firearm w/int"
-        }, 
-        "model": "crimeapp.crimes"
-    }, 
-    {
-        "fields": {
-            "first_name": "jacob", 
-            "surname": "weston", 
-            "location": "galesburg dr", 
-            "time": "19:00", 
-            "date": "2015-01-22", 
-            "offense": "weapon - dangerous felony - poss. of firearm w/int"
+            "first_name": "pamela", 
+            "surname": "frontera", 
+            "location": "2nd ave n", 
+            "time": "11:30", 
+            "date": "2015-01-03", 
+            "offense": "weapon - poss firearm under prohibition"
         }, 
         "model": "crimeapp.crimes"
     }
