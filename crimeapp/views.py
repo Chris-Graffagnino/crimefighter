@@ -5,9 +5,9 @@ from django.http import HttpResponse
 from .models import Crimes
 
 def recent(request):
-    crimes = Crimes.objects.filter(date__gte='2015-01-26')[:8]
+    crimes = Crimes.objects.filter(date__range=["2015-1-25", "2015-1-25"])
     t = loader.get_template('recent.html')
-    c = Context()
+    c = Context({'crimes': crimes})
     return HttpResponse(t.render(c))
 	
 def index(request):

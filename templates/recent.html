@@ -1,7 +1,13 @@
 {% extends 'base.html' %}
 
 {% block content %}
-  <h3>Hey there!</h3>
+{% if crimes %}
+<ul>
+{% for crime in crimes %}
+  <li>{{crime.date }} | {{crime.time}} | {{ crime.offense }} | {{ crime.surname }} | {{ crime.first_name }} | {{ crime.location }}</li>
+{% endfor %}
+</ul>
+{% endif %}
 {% endblock %}
 
 
