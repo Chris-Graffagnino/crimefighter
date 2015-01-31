@@ -1,9 +1,24 @@
+"""
+getcrime.py: wget arrest report from nashville.gov, convert/save as .txt, reformat data, saveas recent_arrests.json.
+
+Nashville, Tennessee police publishes daily PDF arrest reports, six days a week - (two reports on Monday):
+http://www.nashville.gov/Police-Department/News-and-Reports/Daily-Booking-List.aspx
+
+One report is pulled per invocation, determined by the variable most_recent_arrests, in get_first_pdf_link()
+
+create_daily_booking_list() - wget report from nashville.gov, convert to .txt, reformat and return a list of lists.
+booking_list_from_text_file(text_file) - similar to create_daily_booking_list(), but starts with an existing file.
+json_from_daily_booking(booking_list) - Makes json from create_daily_booking_list() or booking_list_from_text_file()
+
+json_from_daily_booking() saves recent_arrests.json, which is to be manually loaded to db:
+./manage.py loaddata crimeapp/utils/recent_arrests.json
+"""
+
 import sys
 import string
 import re
 import requests
 import subprocess
-import logging
 import json
 
 
@@ -47,8 +62,7 @@ def pdf_to_text(pdf):
     Return value is a string (filename.txt).
     """
     # TODO try pdftotext writing to stdout instead of writing file: http://linux.die.net/man/1/pdftotext
-    subprocess.check_output(['pdftotext', '-table', '-nopgbrk', pdf])
-    
+    subprocess.check_output(['pdftotext', '-table', '-nopgbrk', pdf])    
     subprocess.call(['rm', pdf])
     return pdf[:-3] + 'txt'
 
