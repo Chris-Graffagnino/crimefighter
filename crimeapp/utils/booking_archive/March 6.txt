@@ -1,0 +1,374 @@
+                                                                    Arrestee     Arrestee
+
+Arrest Date     Charge Description                                  Last Name    First Name  Street
+
+3/6/2015 1:48   Assault, Aggravated - Deadly Weapon - Int/Kn        HUSTON       TYLER       DICKERSON PIKE S
+
+3/6/2015 1:48   Assault, Aggravated - Deadly Weapon - Int/Kn        HUSTON       TYLER       DICKERSON PIKE S
+
+3/6/2015 11:57  Assault, Aggravated - Deadly Weapon - Int/Kn        LAWRENCE     KHALIL      RUTHERFORD COUNTY JAIL
+
+3/6/2015 16:55  Assault, Aggravated - Deadly Weapon - Reckless      ALIDANI      FARIS       LOUISIANA AVE
+
+3/6/2015 13:34  Assault, Aggravated - Strangulation - Int/Kn        PRIME        KEVIN       JAMES ROBERTSON PKWY
+
+3/5/2015 23:30  ASSAULT, DOMESTIC BODILY INJURY                     GURUNG       RAM         HICKORY TRACE DR
+
+3/6/2015 1:01   ASSAULT, DOMESTIC BODILY INJURY                     BURES        RICKEY
+
+3/6/2015 2:45   ASSAULT, DOMESTIC BODILY INJURY                     GLEAVES      NATHANIEL   BONNAVUE DR
+
+3/6/2015 2:45   ASSAULT, DOMESTIC BODILY INJURY                     HUGHES       RUFUS       PREMIER DR
+
+3/6/2015 2:52   ASSAULT, DOMESTIC BODILY INJURY                     SWINK        LIBBY       PACKARD DR
+
+3/6/2015 11:53  ASSAULT, DOMESTIC BODILY INJURY                     SCRUGGS      LEWIS       DELLWAY VILLA RD
+
+3/6/2015 12:16  ASSAULT, DOMESTIC BODILY INJURY                     THAXTON      CHARLES     2ND AVE N
+
+3/6/2015 11:54  ASSAULT, DOMESTIC BODILY INJURY                     JONES        ASHLEY      DELLWAY VILLA RD
+
+3/6/2015 18:17  ASSAULT, DOMESTIC BODILY INJURY                     PEDRONCELLI  ANTHONY     ALAMEDA ST
+
+3/6/2015 18:15  ASSAULT, DOMESTIC BODILY INJURY                     PALMER       BILLY       HIDDEN HILL DR
+
+3/6/2015 18:33  ASSAULT, DOMESTIC BODILY INJURY                     HUGHES       CARRIE      LARGO DR
+
+3/6/2015 19:36  ASSAULT, DOMESTIC BODILY INJURY                     JIMENEZ      SAMUEL      2ND AVE N
+
+3/6/2015 19:58  ASSAULT, DOMESTIC BODILY INJURY                     MCLEOD       KHRISTA     GLENGARRY DR
+
+3/6/2015 20:40  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             QUINN        JEFFERY     MERIDIAN ST
+
+3/6/2015 1:48   BURGLARY- AGGRAVATED                                HUSTON       TYLER       DICKERSON PIKE S
+
+3/6/2015 17:03  BURGLARY- AGGRAVATED                                TUT          DENG        EDGE O LAKE DR
+
+3/6/2015 17:34  BURGLARY- AGGRAVATED                                WAL          BAN         EDGE O LAKE DR
+
+3/6/2015 17:47  BURGLARY- AGGRAVATED                                WILKES       THADDEUS    EDGE O LAKE DR
+
+3/6/2015 12:32  COMMUNITY SUPERV. VIOL. BY MISD. OFFENSE            TALLEY       DARRYL      NOLENSVILLE PIKE
+
+3/6/2015 14:50  CONTRABAND IN PENAL INSTITUTION-POSSESSION          PASTOR       GERARDO
+
+3/6/2015 17:03  CONTRIBUTING - DELINQUENCY OF A MINOR               TUT          DENG        EDGE O LAKE DR
+
+3/6/2015 17:34  CONTRIBUTING - DELINQUENCY OF A MINOR               WAL          BAN         EDGE O LAKE DR
+
+3/6/2015 17:47  CONTRIBUTING - DELINQUENCY OF A MINOR               WILKES       THADDEUS    EDGE O LAKE DR
+
+3/6/2015 17:07  CONTROLLED SUB. ANALOGUE - POSS W/INTENT - 1ST OFF  LIGON        CHARLES     DUPONT AVE
+
+3/6/2015 15:00  CONTROLLED SUB. ANALOGUE - POSS W/INTENT - 1ST OFF  BAKER        JOSHUA      DUPONT AVE
+
+3/6/2015 1:01   CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION  BURES        RICKEY
+
+3/6/2015 8:33   CRIMINAL IMPERSONATION                              MCBRIDE      JESSE       DUE WEST AVE N
+
+3/6/2015 14:20  CRIMINAL IMPERSONATION                              RAMIREZ      ROGER
+
+                                                                    Page 1 of 6
+                                                                    Arrestee           Arrestee
+
+Arrest Date      Charge Description                                 Last Name          First Name  Street
+
+10/25/2014 4:50  CRIMINAL TRESPASS                                  KELLY              KARON       LAFAYETTE ST
+
+1/13/2015 23:34  CRIMINAL TRESPASS                                  SPEARS             ANTHONY     5TH AVE S
+
+1/14/2015 9:21   CRIMINAL TRESPASS                                  WHITE              GEORGE      MURFREESBORO PIKE
+
+3/6/2015 15:40   CRIMINAL TRESPASS                                  FRANCIS            RICHARD     CHARLOTTE AVE
+
+3/6/2015 18:52   CRIMINAL TRESPASS                                  KENDELL            EDWARD      DICKERSON PIKE
+
+3/6/2015 22:02   CRIMINAL TRESPASS                                  SMITH              WILLIAM     JEFFERSON ST
+
+3/6/2015 14:00   CRIMINAL TRESPASS-AGGRAVATED                       WEAVER             RYAN        MEDICAL CENTER DR
+
+3/6/2015 3:01    DISORDERLY CONDUCT                                 RATCLIFFE          CALVIT      OPRY PL
+
+3/6/2015 12:50   DISORDERLY CONDUCT                                 COBB               ALAN        2ND AVE N
+
+3/6/2015 15:29   DISORDERLY CONDUCT                                 MCCOULD            BILL        IVERSON AVE
+
+1/31/2015 10:28  DRIV. LIC. - NO D/L                                MARSH              LEE         GALLATIN PIKE
+
+3/6/2015 12:52   DRIV. LIC. - NO D/L                                GONZALEZ-WILLIAMS  FERNANDO    I 440 W
+
+3/6/2015 14:20   DRIV. LIC. - NO D/L                                RAMIREZ            ROGER
+
+3/6/2015 5:33    DRIVING- REVOKED LICENSE                           BLACK              HERMAN      JAMES ROBERTSON    PKWY
+
+3/6/2015 20:06   DRIVING- REVOKED LICENSE                           MASSEY             EMMITT      3RD AVE S
+
+3/5/2015 22:00   DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT        EVETTS             ROSS        DONELSON PIKE
+
+1/20/2015 23:50  DRIVING- SUSPENDED LICENSE                         SURBAUGH           THOMAS      12H AVE S
+
+1/28/2015 7:30   DRIVING- SUSPENDED LICENSE                         JOHNSON            CEDAYLE     SAFE HARBOR DR
+
+3/6/2015 20:59   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT      GRIFFIN            TOMMIE      0 140 E
+
+3/6/2015 0:56    DRIVING UNDER THE INFLUENCE                        SALTONSTALL        KATHERINE   N 1ST ST
+
+3/6/2015 0:36    DRIVING UNDER THE INFLUENCE                        HISHIDA            KAZU        N 1ST ST
+
+3/6/2015 3:02    DRIVING UNDER THE INFLUENCE                        WEIR               HANNAH      BROADWAY
+
+3/6/2015 4:37    DRIVING UNDER THE INFLUENCE                        BONEE              JOSHUA      4TH AVE S
+
+3/6/2015 5:33    DRIVING UNDER THE INFLUENCE - 2ND OFFENSE          BLACK              HERMAN      JAMES ROBERTSON    PKWY
+
+3/5/2015 22:00   DRIVING UNDER THE INFLUENCE - 4TH OFFENSE OR MORE  EVETTS             ROSS        DONELSON PIKE
+
+3/6/2015 21:37   DRUG FREE SCH.ZONE-CONT.SUB.-COCAINE LT .5 GR.     ODOM               LAVAUGHN    CLIFTON AVE
+
+3/6/2015 14:39   DRUG FREE SCH.ZONE-CONT.SUB.-SCH. IV               MUSE               SHEDRICK    17TH AVE N
+
+3/6/2015 14:51   DRUG FREE SCH.ZONE-CONT.SUB.-SCH. IV               GORDON             KAHLIL      17TH AVE N
+
+1/13/2015 23:34  DRUG PARAPHERNALIA- UNLAWFUL USE                   SPEARS             ANTHONY     5TH AVE S
+
+1/23/2015        DRUG PARAPHERNALIA- UNLAWFUL USE                   DEAL               MIRANDA     S MAIN ST
+
+1/24/2015 17:30  DRUG PARAPHERNALIA- UNLAWFUL USE                   CARROLL            CHARLES     LAFAYETTTE ST
+
+3/6/2015 15:00   DRUG PARAPHERNALIA- UNLAWFUL USE                   BAKER              JOSHUA      DUPONT AVE
+
+3/6/2015 0:31    EVADING ARREST- MISDEMEANOR                        BERRY              GEORGE      12TH AVE S
+
+                                                                    Page 2 of 6
+                                                                      Arrestee     Arrestee
+
+Arrest Date     Charge Description                                    Last Name    First Name  Street
+
+3/6/2015 14:51  EVADING ARREST- MISDEMEANOR                           GORDON       KAHLIL      17TH AVE N
+
+3/6/2015 17:03  EVADING ARREST- MISDEMEANOR                           TUT          DENG        EDGE O LAKE DR
+
+3/6/2015 17:47  EVADING ARREST- MISDEMEANOR                           WILKES       THADDEUS    EDGE O LAKE DR
+
+3/6/2015 14:00  EVADING ARREST- MOTOR VEHICLE                         WEAVER       RYAN        MEDICAL CENTER DR
+
+3/6/2015 8:33   FAILURE TO APPEAR - FELONY OR CLASS A MISD.           MCBRIDE      JESSE       DUE WEST AVE N
+
+3/6/2015 8:33   FAILURE TO APPEAR - FELONY OR CLASS A MISD.           MCBRIDE      JESSE       DUE WEST AVE N
+
+3/5/2015 22:30  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  HARRIS       DOMINIQUE   JAMES ROBERTSON PKWY
+
+3/6/2015 0:29   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  BECK         GLADYS      ALGONQUIN TRL
+
+3/6/2015 1:09   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  WILLIAMS     AISHA       SYLVAN ST
+
+3/6/2015 2:51   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  OHARA        YANCIE      SENNADALE LN
+
+3/6/2015 2:51   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  OHARA        YANCIE      SENNADALE LN
+
+3/6/2015 3:44   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  TAYLOR       ARTHUR      S 7TH ST
+
+3/6/2015 4:22   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  LESLIE       TODD        SCOTT AVE
+
+3/6/2015 9:05   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  BRANCH       SASHA       CLAIBORNE ST
+
+3/6/2015 11:54  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  HORNE        CIMIAN      1ST AVE S
+
+3/6/2015 16:02  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  DEAL         MIRANDA     WADE CIR
+
+3/6/2015 16:02  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  DEAL         MIRANDA     WADE CIR
+
+3/6/2015 16:02  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  DEAL         MIRANDA     WADE CIR
+
+3/6/2015 15:58  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  HARLESTON    FELICIA     HILLSIDE AVE
+
+3/6/2015 15:53  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  MCCOY        ANDY        CHARLOTTE PIKE
+
+3/6/2015 16:35  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  BLINN        RICHARD     MURFREESBORO PIKE
+
+3/6/2015 17:04  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  SEMMONS      SEBASTIAN   MURFREESBORO PIKE
+
+3/6/2015 17:20  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  WIGGINS      TIMOTHY     DREXEL ST
+
+3/6/2015 17:20  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  WIGGINS      TIMOTHY     DREXEL ST
+
+3/6/2015 19:51  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  GLASS        ROBERT      FERN AVE
+
+3/6/2015 21:22  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  PINSON       ELIZABETH   DENNYWOOD DR
+
+3/5/2015 22:26  FAILURE TO BE BOOKED                                  SPEARS       ANTHONY     WALLACE RD
+
+3/5/2015 22:26  FAILURE TO BE BOOKED                                  SPEARS       ANTHONY     WALLACE RD
+
+3/5/2015 22:26  FAILURE TO BE BOOKED                                  SPEARS       ANTHONY     WALLACE RD
+
+3/5/2015 22:26  FAILURE TO BE BOOKED                                  SPEARS       ANTHONY     WALLACE RD
+
+3/5/2015 23:10  FAILURE TO BE BOOKED                                  SURBAUGH     THOMAS      FRANKLIN PIKE
+
+3/6/2015 0:47   FAILURE TO BE BOOKED                                  WHITE        GEORGE      LAFAYETTE ST
+
+3/6/2015 2:01   FAILURE TO BE BOOKED                                  WILLIS       MICHAEL     CHARLOTTE PIKE
+
+                                                                      Page 3 of 6
+                                                                     Arrestee           Arrestee
+
+Arrest Date      Charge Description                                  Last Name          First Name  Street
+
+3/6/2015 2:01    FAILURE TO BE BOOKED                                WILLIS             MICHAEL     CHARLOTTE PIKE
+
+3/6/2015 6:25    FAILURE TO BE BOOKED                                JOHNSON            CEDAYLE     SHEPHERD HILLS  DR
+
+3/6/2015 11:01   FAILURE TO BE BOOKED                                MARSH              LEE         GALLATIN PIKE
+
+3/6/2015 11:37   FAILURE TO BE BOOKED                                KELLY              KARON       LAFAYETTE ST
+
+3/6/2015 16:02   FAILURE TO BE BOOKED                                DEAL               MIRANDA     WADE CIR
+
+3/3/2015 17:53   FAILURE TO BE BOOKED                                CARROLL            CHARLES     2ND AVE N
+
+3/5/2015 18:18   FAILURE TO BE BOOKED                                LANDAVERSE         JOHN        2ND AVE N
+
+3/6/2015 8:33    FUGITIVE FROM JUSTICE- WITH WARRANT                 MCBRIDE            JESSE       DUE WEST AVE N
+
+3/6/2015 20:07   HARASSMENT - CAUSE EMOTIONAL DISTRESS, INTIMIDATE,  WILSON             KEITH       HILLSIDE AVE
+
+3/6/2015 4:37    IMPLIED CONSENT - CIVIL                             BONEE              JOSHUA      4TH AVE S
+
+3/5/2015 22:00   IMPLIED CONSENT - CRIMINAL                          EVETTS             ROSS        DONELSON PIKE
+
+3/6/2015 13:38   ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION     SENSING            KIMBERLY    2ND AVE N
+
+11/30/2013 1:28  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  WILLIS             MICHAEL     1ST AVE S
+
+1/13/2015 23:34  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  SPEARS             ANTHONY     5TH AVE S
+
+1/30/2015 22:32  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  LANDAVERSE         JOHN        BLUEBIRD DR
+
+3/6/2015 14:50   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  PASTOR             GERARDO
+
+3/6/2015 14:39   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  MUSE               SHEDRICK    17TH AVE N
+
+3/6/2015 14:51   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  GORDON             KAHLIL      17TH AVE N
+
+3/6/2015 17:03   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  TUT                DENG        EDGE O LAKE DR
+
+3/6/2015 20:59   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  GRIFFIN            TOMMIE      0 140 E
+
+3/6/2015 14:50   POSS.W/INT-CONT.SUB.- COCAINE .5 GR. OR MORE        PASTOR             GERARDO
+
+3/6/2015 12:52   POSS.W/INT-CONT.SUB.- HEROIN 15-149 GR.             GONZALEZ-WILLIAMS  FERNANDO    I 440 W
+
+3/6/2015 15:00   POSS.W/INT-CONT.SUB.- SCH. I                        BAKER              JOSHUA      DUPONT AVE
+
+3/6/2015 14:52   PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.    CATO               KELANDO     JAMES ROBERTSON PKWY
+
+3/4/2015 22:08   PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.    TATE               DEANTE      2ND AVE N
+
+3/3/2015 17:36   PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.    BIGGS              RYAN        2ND AVE N
+
+3/6/2015 0:31    PROBATION VIOLATION- FELONY                         BERRY              GEORGE      12TH AVE S
+
+3/6/2015 0:47    PROBATION VIOLATION- FELONY                         WHITE              GEORGE      LAFAYETTE ST
+
+3/6/2015 7:49    PROBATION VIOLATION- FELONY                         HUDSON             QUINTEL
+
+3/6/2015 15:39   PROBATION VIOLATION- FELONY                         GIBBS              ERIC        I 40 W
+
+3/6/2015 16:19   PROBATION VIOLATION- FELONY                         FRIERSON           RALPH       HILLSIDE AVE
+
+3/4/2015 22:33   PROBATION VIOLATION- FELONY                         TILLMON            JOCQUARIUS  2ND AVE N
+
+3/4/2015 22:29   PROBATION VIOLATION- FELONY                         HUEY               BOBBY       2ND AVE N
+
+                                                                     Page 4 of 6
+                                                                  Arrestee     Arrestee
+
+Arrest Date      Charge Description                               Last Name    First Name  Street
+
+3/4/2015 22:24   PROBATION VIOLATION- FELONY                      HANNAH       SHAWN       2ND AVE N
+
+3/6/2015 19:39   PROBATION VIOLATION- FELONY                      LEWIS        BRYAN       NOLENSVILLE PIKE
+
+3/6/2015 0:28    PROBATION VIOLATION- MISDEMEANOR                 CLOUSE       BRIAN       CLEARWATER DR
+
+3/6/2015 14:29   PROBATION VIOLATION- MISDEMEANOR                 WILLEBY      JAMES       2ND AVE N
+
+3/6/2015 14:48   PROBATION VIOLATION- MISDEMEANOR                 KING         BRYAN       OLD HICKORY BLVD
+
+3/6/2015 15:20   PROBATION VIOLATION- MISDEMEANOR                 RUCKER       TRAVIS      ANDERSON RD
+
+3/5/2015 18:22   PROBATION VIOLATION- MISDEMEANOR                 CARTER       DAMON       2ND AVE N
+
+3/6/2015 19:07   PROBATION VIOLATION- MISDEMEANOR                 MOORE        ALFRED      LONGHUNTER CT
+
+3/6/2015 19:07   PROBATION VIOLATION- MISDEMEANOR                 MOORE        ALFRED      LONGHUNTER CT
+
+3/6/2015 19:41   PROBATION VIOLATION- MISDEMEANOR                 BRAUD        DWAYNE      2ND AVE N
+
+3/6/2015 22:07   PROBATION VIOLATION- MISDEMEANOR                 KEMPER       STACI       DENNYWOOD DR
+
+1/14/2015 14:40  PROSTITUTION                                     SPEARS       ANTHONY     6TH AVE S
+
+3/5/2015 23:04   PUBLIC INTOXICATION                              EIDSMOE      MICHEAL     NATCHEZ TRCE
+
+3/5/2015 23:32   PUBLIC INTOXICATION                              MCDERMOTT    BRADLEY     I 40 W
+
+3/5/2015 23:59   PUBLIC INTOXICATION                              HANCOCK      RICKY       DEADERICK ST
+
+3/6/2015 0:08    PUBLIC INTOXICATION                              POPE         SUSAN       DEADERICK ST
+
+3/6/2015 1:17    PUBLIC INTOXICATION                              WALKER       NATHAN      3RD AVE N
+
+3/6/2015 3:01    PUBLIC INTOXICATION                              RATCLIFFE    CALVIT      OPRY PL
+
+3/6/2015 12:50   PUBLIC INTOXICATION                              COBB         ALAN        2ND AVE N
+
+3/6/2015 15:24   PUBLIC INTOXICATION                              POPE         SUSAN       1ST AVE N
+
+3/6/2015 15:30   PUBLIC INTOXICATION                              HANCOCK      RICKY       1ST AVE N
+
+3/6/2015 16:59   PUBLIC INTOXICATION                              LANGLEY      TIMOTHY     CHARLOTTE AVE
+
+3/6/2015 17:20   PUBLIC INTOXICATION                              WIGGINS      TIMOTHY     DREXEL ST
+
+3/6/2015 18:52   PUBLIC INTOXICATION                              KENDELL      EDWARD      DICKERSON PIKE
+
+3/6/2015 19:33   PUBLIC INTOXICATION                              KOKO         SLAMA       MURFREESBORO PIKE
+
+3/6/2015 20:19   PUBLIC INTOXICATION                              MOORE        DENNIS      2ND AVE N
+
+3/6/2015 22:26   PUBLIC INTOXICATION                              SIMPSON      TERRY       13TH AVE N
+
+3/6/2015 2:52    RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH  SWINK        LIBBY       PACKARD DR
+
+3/6/2015 8:33    RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH  MCBRIDE      JESSE       DUE WEST AVE N
+
+3/6/2015 20:40   RESISTING STOP, FRISK, HALT, ARREST, OR  SEARCH  QUINN        JEFFERY     MERIDIAN ST
+
+3/6/2015 14:00   ROBBERY- AGG.- WEAPON OR OBJECT                  WEAVER       RYAN        MEDICAL CENTER DR
+
+3/6/2015 22:20   SALE - CONT.SUB.- SCH. II                        THOMAS       MICHAEL     ANTIOCH PIKE
+
+3/6/2015 18:37   SEX OFFENDER RESIDENTIAL/VICTIM VIOL.            PACKER       WENDY       WHITE BRIDGE PL
+
+                                                                  Page 5 of 6
+                                                            Arrestee     Arrestee
+
+Arrest Date      Charge Description                         Last Name    First Name  Street
+
+3/5/2015 23:38   THEFT OF MERCHANDISE - $500 OR LESS        HARKLESS     EVERETT     DICKERSON PIKE
+
+3/6/2015 15:53   THEFT OF MERCHANDISE - $500 OR LESS        MCCOY        ANDY        CHARLOTTE PIKE
+
+3/6/2015 17:03   WEAPON - FELON IN POSSESSION OF A HANDGUN  TUT          DENG        EDGE O LAKE DR
+
+3/6/2015 17:34   WEAPON - HANDGUN                           WAL          BAN         EDGE O LAKE DR
+
+3/6/2015 17:47   WEAPON - HANDGUN                           WILKES       THADDEUS    EDGE O LAKE DR
+
+11/30/2013 1:28  WEAPON - PROHIBITED - MISDEMEANOR          WILLIS       MICHAEL     1ST AVE S
+
+3/6/2015 1:48    WEAPON - PROHIBITED - MISDEMEANOR          HUSTON       TYLER       DICKERSON PIKE S
+
+                                                            Page 6 of 6

@@ -1,0 +1,337 @@
+                                                                     Arrestee     Arrestee
+
+Arrest Date       Charge Description                                 Last Name    First Name  Street
+
+2/8/2015 9:29     AIRPORT AND AIRCRAFT SECURITY - ENTRY TO COMMIT A  SCOTT        STEVEN      AIRFIELD OF NASHVILLE  INT
+
+2/8/2015 5:10     ALCOHOL- UNDER 21, CONSUMPTION                     MORETTI      AIDAN       WEST END AVE
+
+2/8/2015 16:35    ASSAULT, AGG SERIOUS BODILY INJURY- INT/KN         ARMSTRONG    BETTYE      EDEN ST
+
+2/8/2015 8:54     Assault, Aggravated - Deadly Weapon - Int/Kn       CAMPOS       INMAR       NOLENSVILLE PIKE
+
+2/8/2015 17:44    Assault, Aggravated - Deadly Weapon - Reckless     GARDNER      AIREION     LEWIS ST
+
+2/8/2015 5:26     Assault, Aggravated - Strangulation - Int/Kn       SULLIVAN     CHARLES     DIVISION ST
+
+2/8/2015 8:54     Assault, Aggravated - Strangulation - Int/Kn       CAMPOS       INMAR       NOLENSVILLE PIKE
+
+2/8/2015 2:16     ASSAULT, DOMESTIC BODILY INJURY                    DRIVER       DOROTHEA    26TH AVE N
+
+2/8/2015 2:47     ASSAULT, DOMESTIC BODILY INJURY                    REYES        RANDI       ERIN LN
+
+2/8/2015 4:42     ASSAULT, DOMESTIC BODILY INJURY                    HECTOR       JOSE        WALLACE RD
+
+2/8/2015 8:54     ASSAULT, DOMESTIC FEAR OF BODILY INJURY            CAMPOS       INMAR       NOLENSVILLE PIKE
+
+2/8/2015 4:41     ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT    STUPKA       ERICA       CREEKSTONE CIR
+
+2/7/2015 23:15    ASSAULT, DOMESTIC, BODILY INJURY 3RD OR MORE       ELLIOT       MICHAEL     CLAY ST
+
+2/8/2015 0:34     ASSAULT-BODILY INJURY                              CARTER       CHRISTINA   COMMERCE ST
+
+2/8/2015 2:16     BURGLARY                                           DRIVER       DOROTHEA    26TH AVE N
+
+2/8/2015 4:38     CONTRABAND IN PENAL INSTITUTION-POSSESSION         VALDEZ       RAFAEL      N GALLATIN PIKE
+
+2/8/2015 10:39    CONTRABAND IN PENAL INSTITUTION-POSSESSION         HARPER       WILLIAM     N GALLATIN PIKE
+
+2/8/2015 0:29     CRIMINAL TRESPASS                                  NEELEY       ALONZO      N GALLATIN PIKE
+
+2/8/2015 8:48     CRIMINAL TRESPASS                                  BROWN        SETH        HAGER LN
+
+2/8/2015 20:10    CRIMINAL TRESPASS                                  PALENCIA     DONALD      SUMNER CO JAIL
+
+2/8/2015 0:26     DISORDERLY CONDUCT                                 DICKEY       SCOTT       DEMONBREUN ST
+
+2/8/2015 0:38     DISORDERLY CONDUCT                                 CARTER       JEREMIAH    COMMERCE ST
+
+2/8/2015 10:00    DISORDERLY CONDUCT                                 GORDON       CARLTON     DICKERSON PIKE
+
+2/8/2015 2:39     DRIV. LIC. - NO D/L                                ALVARADO     ALFREDO     S GALLATIN PIKE
+
+2/8/2015 4:38     DRIV. LIC. - NO D/L                                VALDEZ       RAFAEL      N GALLATIN PIKE
+
+10/31/2014 23:39  DRIVING- REVOKED LICENSE                           TILLMAN      SHAWN       ROSA L PARKS BLVD
+
+2/8/2015 0:24     DRIVING- REVOKED LICENSE                           ADAMS        MISTY       GALLATIN AVE
+
+2/7/2015 22:32    DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT        TILLMAN      SHAWN       DONELSON PIKE
+
+2/7/2015 22:09    DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT        HARPER       JOHN        ASHLAWN PL
+
+2/8/2015 0:28     DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT        CASTRO       LESETTE     11TH AVE S
+
+2/8/2015 4:27     DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT        DAVIS        ANTONIO     BRICK CHURCH PIKE
+
+1/13/2014 19:44   DRIVING- SUSPENDED LICENSE                         CLAY         DANTE       MURFREESBORO PIKE
+
+1/19/2014 9:16    DRIVING- SUSPENDED LICENSE                         CLAY         DANTE       15TH AVE N
+
+                                                                     Page 1 of 5
+                                                                   Arrestee      Arrestee
+
+Arrest Date       Charge Description                               Last Name     First Name  Street
+
+12/9/2014 1:53    DRIVING- SUSPENDED LICENSE                       WILLIAMS      RONALD      CLOVERNOOK DR
+
+12/31/2014 17:47  DRIVING- SUSPENDED LICENSE                       WILLIAMS      MARVIN      MERIDIAN
+
+2/7/2015 23:25    DRIVING- SUSPENDED LICENSE                       CROCKETT      MYRON       7TH AVE S
+
+2/8/2015 2:52     DRIVING- SUSPENDED LICENSE                       GRAHAM        LASHONDA    GARFIELD ST
+
+2/8/2015 20:01    DRIVING- SUSPENDED LICENSE                       SHAW          MICHAEL     12TH AVE S
+
+2/8/2015 17:44    DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR   GT  DILLEHAY      MERICEA     2ND AVE S
+
+2/7/2015 23:21    DRIVING UNDER THE INFLUENCE                      KELLEY        LINDA       DELMAS AVE
+
+2/8/2015 0:55     DRIVING UNDER THE INFLUENCE                      PROCELL       JACK        2ND AVE N
+
+2/8/2015 1:32     DRIVING UNDER THE INFLUENCE                      ESPINOZA      SINQE       HUMBER DR
+
+2/8/2015 1:46     DRIVING UNDER THE INFLUENCE                      WALDEN        ALBERT      W TRINITY LN
+
+2/8/2015 2:39     DRIVING UNDER THE INFLUENCE                      ALVARADO      ALFREDO     S GALLATIN PIKE
+
+2/8/2015 2:56     DRIVING UNDER THE INFLUENCE                      DUNHAM        COREY       9TH AVE N
+
+2/8/2015 2:55     DRIVING UNDER THE INFLUENCE                      ABSTON        STACY       RECOVERY RD
+
+2/8/2015 2:34     DRIVING UNDER THE INFLUENCE                      MCINTIRE      RYAN        OLD HICKORY BLVD
+
+2/8/2015 4:38     DRIVING UNDER THE INFLUENCE                      VALDEZ        RAFAEL      N GALLATIN PIKE
+
+2/8/2015 2:36     DRIVING UNDER THE INFLUENCE                      HURST         BRELAN      9TH AVE N
+
+2/8/2015 1:22     DRIVING UNDER THE INFLUENCE                      AMPHONEPHONG  SOAY        I65 MM95
+
+2/8/2015 6:06     DRIVING UNDER THE INFLUENCE                      MUHAMMAD      MARLON      3RD AVE S
+
+2/8/2015 1:19     DRIVING UNDER THE INFLUENCE - 2ND OFFENSE        PERKINS       GRAHAM      HWY 100
+
+2/8/2015 4:27     DRIVING UNDER THE INFLUENCE - 2ND OFFENSE        DAVIS         ANTONIO     BRICK CHURCH PIKE
+
+2/8/2015 8:48     DRUG FREE NONSCH.ZONE-CONT.SUB.-SCH. I           BROWN         SETH        HAGER LN
+
+2/7/2015 22:07    DRUG PARAPHERNALIA- UNLAWFUL USE                 ALLISON       KATY        BELL RD
+
+2/7/2015 19:00    DRUG PARAPHERNALIA- UNLAWFUL USE                 MORALES       CARLOS      BELL RD
+
+2/7/2015 19:00    DRUG PARAPHERNALIA- UNLAWFUL USE                 AMBRIZ        EBARISTO    BELL RD
+
+2/8/2015 0:12     DRUG PARAPHERNALIA- UNLAWFUL USE                 SHIELDS       MICHAEL     GRACE ST
+
+2/8/2015 1:28     DRUG PARAPHERNALIA- UNLAWFUL USE                 PERRY         SANDRA      LAFAYETTE ST
+
+2/8/2015 6:06     DRUG PARAPHERNALIA- UNLAWFUL USE                 MUHAMMAD      MARLON      3RD AVE S
+
+2/8/2015 9:29     DRUG PARAPHERNALIA- UNLAWFUL USE                 SCOTT         STEVEN      AIRFIELD OF NASHVILLE INT
+
+2/8/2015 10:39    DRUG PARAPHERNALIA- UNLAWFUL USE                 HARPER        WILLIAM     N GALLATIN PIKE
+
+2/8/2015 17:12    EVADING ARREST- MISDEMEANOR                      BAUGH         JAVARIUS    GOODRICH AVE
+
+2/8/2015 18:43    FAILURE TO APPEAR - FELONY OR CLASS A MISD.      HUTTON        JENNIFER    JAMES ROBERTSON PKWY
+
+2/8/2015 18:43    FAILURE TO APPEAR - FELONY OR CLASS A MISD.      HUTTON        JENNIFER    JAMES ROBERTSON PKWY
+
+2/8/2015 18:43    FAILURE TO APPEAR - FELONY OR CLASS A MISD.      HUTTON        JENNIFER    JAMES ROBERTSON PKWY
+
+                                                                   Page 2 of 5
+                                                                     Arrestee     Arrestee
+
+Arrest Date     Charge Description                                   Last Name    First Name  Street
+
+2/7/2015 23:25  FAILURE TO APPEAR- B OR C MISD. OR  SUMMONS BOOKING  NICHOLSON    MARLIN      OPRY MILLS DR
+
+2/8/2015 1:09   FAILURE TO APPEAR- B OR C MISD. OR  SUMMONS BOOKING  EDMONDS      YAZZMIN     RIDGE TOP DR
+
+2/8/2015 1:28   FAILURE TO APPEAR- B OR C MISD. OR  SUMMONS BOOKING  PERRY        SANDRA      LAFAYETTE ST
+
+2/8/2015 4:21   FAILURE TO APPEAR- B OR C MISD. OR  SUMMONS BOOKING  SIMON        NIKKO       EASTMORELAND ST
+
+2/8/2015 5:21   FAILURE TO APPEAR- B OR C MISD. OR  SUMMONS BOOKING  WORDLAW      JAI QUITON  BRICK CHURCH PIKE
+
+2/8/2015 8:15   FAILURE TO APPEAR- B OR C MISD. OR  SUMMONS BOOKING  CASTRO       KEVIN       ATKINS DR
+
+2/8/2015 8:54   FAILURE TO APPEAR- B OR C MISD. OR  SUMMONS BOOKING  CAMPOS       INMAR       NOLENSVILLE PIKE
+
+2/8/2015 10:57  FAILURE TO APPEAR- B OR C MISD. OR  SUMMONS BOOKING  SIMS         RONNIE      23RD AVE N
+
+2/8/2015 21:37  FAILURE TO APPEAR- B OR C MISD. OR  SUMMONS BOOKING  CLAYTON      DESEAN      40TH AVE N
+
+2/7/2015 20:11  FAILURE TO BE BOOKED                                 CLAY         DANTE       WILLIAMSON COUNTY JAIL
+
+2/7/2015 20:11  FAILURE TO BE BOOKED                                 CLAY         DANTE       WILLIAMSON COUNTY JAIL
+
+2/7/2015 22:32  FAILURE TO BE BOOKED                                 TILLMAN      SHAWN       DONELSON PIKE
+
+2/8/2015 2:17   FAILURE TO BE BOOKED                                 WILLIAMS     MARVIN      JOSEPH AVE
+
+2/8/2015 9:35   FAILURE TO BE BOOKED                                 WILLIAMS     RONALD      LEBANON PIKE
+
+2/8/2015 5:10   FALSE IDENTIFICATION-USING                           MORETTI      AIDAN       WEST END AVE
+
+2/8/2015 8:54   FALSE IMPRISONMENT                                   CAMPOS       INMAR       NOLENSVILLE PIKE
+
+2/8/2015 9:29   FALSE REPORT- EMERGENCY                              CLARK        JASON       NASHVILLE INTERNATIONAL  A
+
+2/7/2015 22:09  HABITUAL MOTOR VEH. OFFENDER                         HARPER       JOHN        ASHLAWN PL
+
+2/8/2015 20:54  HABITUAL MOTOR VEH. OFFENDER                         SANDERS      MATTHEW     BANK ST
+
+2/8/2015 0:55   IMPLIED CONSENT - CIVIL                              PROCELL      JACK        2ND AVE N
+
+2/8/2015 1:32   IMPLIED CONSENT - CIVIL                              ESPINOZA     SINQE       HUMBER DR
+
+2/8/2015 1:19   IMPLIED CONSENT - CIVIL                              PERKINS      GRAHAM      HWY 100
+
+2/8/2015 2:39   IMPLIED CONSENT - CIVIL                              ALVARADO     ALFREDO     S GALLATIN PIKE
+
+2/8/2015 2:56   IMPLIED CONSENT - CIVIL                              DUNHAM       COREY       9TH AVE N
+
+2/8/2015 2:34   IMPLIED CONSENT - CIVIL                              MCINTIRE     RYAN        OLD HICKORY BLVD
+
+2/8/2015 4:38   IMPLIED CONSENT - CIVIL                              VALDEZ       RAFAEL      N GALLATIN PIKE
+
+2/8/2015 4:27   IMPLIED CONSENT - CIVIL                              DAVIS        ANTONIO     BRICK CHURCH PIKE
+
+2/8/2015 3:27   INDECENT EXPOSURE                                    CUCUL        MARCELINO   MURFREESBORO PIKE
+
+2/8/2015 2:47   INTERFERENCE W/EMERGENCY CALL                        REYES        RANDI       ERIN LN
+
+2/8/2015 1:30   NONEMERGENCY 911 CALL                                WOODARD      CHRISTIAN   S GALLATIN PIKE
+
+2/8/2015 4:38   OPEN CONTAINER VIOL.                                 VALDEZ       RAFAEL      N GALLATIN PIKE
+
+2/8/2015 0:12   ORDER OF PROTECTION/RESTRAINING     ORDER VIOLATION  SHIELDS      MICHAEL     GRACE ST
+
+2/8/2015 16:38  PAROLE VIOLATION                                     ILLINGWORTH  RICHARD     CHURCH ST
+
+                                                                     Page 3 of 5
+                                                                  Arrestee       Arrestee
+
+Arrest Date     Charge Description                                Last Name      First Name  Street
+
+2/7/2015 22:07  POSS. OR CASUAL EXCHANGE-CONT.SUB.                ALLISON        KATY        BELL RD
+
+2/7/2015 23:24  POSS. OR CASUAL EXCHANGE-CONT.SUB.                WARREN         JAMES       DELMAS AVE
+
+2/8/2015 6:06   POSS. OR CASUAL EXCHANGE-CONT.SUB.                MUHAMMAD       MARLON      3RD AVE S
+
+2/8/2015 9:29   POSS. OR CASUAL EXCHANGE-CONT.SUB.                SCOTT          STEVEN      AIRFIELD OF NASHVILLE INT
+
+2/8/2015 0:12   POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.   SHIELDS        MICHAEL     GRACE ST
+
+2/8/2015 3:27   POSS.W/INT-CONT.SUB.- COCAINE LT .5 GR.           CUCUL          MARCELINO   MURFREESBORO PIKE
+
+2/7/2015 19:00  POSS.W/INT-CONT.SUB.- HEROIN 15-149 GR.           MORALES        CARLOS      BELL RD
+
+2/7/2015 19:00  POSS.W/INT-CONT.SUB.- HEROIN 15-149 GR.           AMBRIZ         EBARISTO    BELL RD
+
+2/7/2015 20:32  PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  ROBERTSON      KENNETH     2ND AVE N
+
+2/8/2015 21:22  PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  WHITE          STACEY      JAMES ROBERTSON PKWY
+
+2/8/2015 21:22  PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.  WHITE          STACEY      JAMES ROBERTSON PKWY
+
+2/7/2015 20:27  PROBATION VIOLATION- FELONY                       NEIGHBORS      DONALD      2ND AVE N
+
+2/7/2015 20:24  PROBATION VIOLATION- FELONY                       EDWARDS        MARCUS      2ND AVE N
+
+2/8/2015 9:40   PROBATION VIOLATION- FELONY                       SHAW           JAVONTA     JAMES ROBERTSON PKWY
+
+2/7/2015 23:00  PROBATION VIOLATION- MISDEMEANOR                  SMITH          BRIAN       MARSHALL ST
+
+2/7/2015 23:25  PROBATION VIOLATION- MISDEMEANOR                  NICHOLSON      MARLIN      OPRY MILLS DR
+
+2/7/2015 20:29  PROBATION VIOLATION- MISDEMEANOR                  PAGAN          JOSE        2ND AVE N
+
+2/8/2015 10:28  PROBATION VIOLATION- MISDEMEANOR                  OCAMPO         RICARDO     NOLENSVILLE PIKE
+
+2/8/2015 13:20  PROBATION VIOLATION- MISDEMEANOR                  DITCHMAN       JOHN        AIRWAYS CIR
+
+2/8/2015 13:20  PROBATION VIOLATION- MISDEMEANOR                  DITCHMAN       JOHN        AIRWAYS CIR
+
+2/8/2015 17:12  PROBATION VIOLATION- MISDEMEANOR                  BAUGH          JAVARIUS    GOODRICH AVE
+
+2/8/2015 0:29   PUBLIC INTOXICATION                               NEELEY         ALONZO      N GALLATIN PIKE
+
+2/8/2015 0:26   PUBLIC INTOXICATION                               DICKEY         SCOTT       DEMONBREUN ST
+
+2/8/2015 0:38   PUBLIC INTOXICATION                               CARTER         JEREMIAH    COMMERCE ST
+
+2/8/2015 0:34   PUBLIC INTOXICATION                               CARTER         CHRISTINA   COMMERCE ST
+
+2/8/2015 1:08   PUBLIC INTOXICATION                               DAVIS          KADIN       BROADWAY
+
+2/8/2015 1:28   PUBLIC INTOXICATION                               PERRY          SANDRA      LAFAYETTE ST
+
+2/8/2015 1:54   PUBLIC INTOXICATION                               PETTIT         JEFFREY     GALLATIN AVE
+
+2/8/2015 1:57   PUBLIC INTOXICATION                               LIPSON         KEATON      BROADWAY
+
+2/8/2015 3:09   PUBLIC INTOXICATION                               HELLARD        JASON       5TH AVE N
+
+2/8/2015 3:13   PUBLIC INTOXICATION                               SOUKSANGOUANE  SISAMOUT    3RD AVE N
+
+2/8/2015 3:27   PUBLIC INTOXICATION                               CUCUL          MARCELINO   MURFREESBORO PIKE
+
+2/8/2015 4:30   PUBLIC INTOXICATION                               JOHNSON        JESSE       12TH AVE S
+
+                                                                  Page 4 of 5
+                                                                Arrestee     Arrestee
+
+Arrest Date     Charge Description                              Last Name    First Name  Street
+
+2/8/2015 4:34   PUBLIC INTOXICATION                             BAUGH        MICHAEL     12TH AVE S
+
+2/8/2015 5:26   PUBLIC INTOXICATION                             SMITH        WALTER      DICKERSON PIKE
+
+2/8/2015 5:10   PUBLIC INTOXICATION                             MORETTI      AIDAN       WEST END AVE
+
+2/8/2015 6:36   PUBLIC INTOXICATION                             HICKS        HOWARD      DEMONBREUN ST
+
+2/8/2015 10:00  PUBLIC INTOXICATION                             GORDON       CARLTON     DICKERSON PIKE
+
+2/8/2015 14:12  PUBLIC INTOXICATION                             COFELL       ROBERT      2ND AVE S
+
+2/8/2015 14:30  PUBLIC INTOXICATION                             ARNOLD       STEVEN      HERMITAGE AVE
+
+2/8/2015 14:31  PUBLIC INTOXICATION                             WOOTEN       CHARLES     HERMITAGE AVE
+
+2/8/2015 17:18  PUBLIC INTOXICATION                             BREWER       TIMOTHY     S 6TH ST
+
+2/8/2015 18:55  PUBLIC INTOXICATION                             SMITH        WILLIAM     NOLENSVILLE PIKE
+
+2/8/2015 20:50  PUBLIC INTOXICATION                             FRAZIER      JOSHUA      RIVERGATE PKWY
+
+2/8/2015 22:03  PUBLIC INTOXICATION                             SULLIVAN     BRIAN       SMITH SPRINGS RD
+
+2/7/2015 19:00  RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  MORALES      CARLOS      BELL RD
+
+2/8/2015 8:48   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  BROWN        SETH        HAGER LN
+
+2/8/2015 9:29   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  SCOTT        STEVEN      AIRFIELD OF NASHVILLE  INT
+
+2/8/2015 22:03  THEFT OF MERCHANDISE - $500 OR LESS             SULLIVAN     BRIAN       SMITH SPRINGS RD
+
+2/8/2015 10:39  THEFT OF PROPERTY- $1,000 OR GT, LT $10,000     HARPER       WILLIAM     N GALLATIN PIKE
+
+2/7/2015 22:55  THEFT OF PROPERTY- $500 OR LESS                 MINCHEY      BOBBY       NESBITT LN
+
+2/8/2015 10:45  THEFT OF PROPERTY- $500 OR LESS                 CIFRINO      REID        WARFIELD DR
+
+2/8/2015 10:45  THEFT OF PROPERTY- GT $500, LT $1,000           CIFRINO      REID        WARFIELD DR
+
+2/8/2015 2:16   VANDALISM- $500 OR LESS                         DRIVER       DOROTHEA    26TH AVE N
+
+2/8/2015 14:02  VANDALISM- $500 OR LESS                         MILLER       ANGELA      WALLACE RD
+
+2/7/2015 22:55  VANDALISM- $1,000 OR GT, LT $10,000             MINCHEY      BOBBY       NESBITT LN
+
+2/8/2015 17:12  VANDALISM- GT $500, LT $1,000                   BAUGH        JAVARIUS    GOODRICH AVE
+
+                                                                Page 5 of 5

@@ -1,0 +1,299 @@
+                                                                     Arrestee       Arrestee
+
+Arrest Date      Charge Description                                  Last Name      First Name   Street
+
+3/15/2015 19:27  ASSAULT- FEAR OF BODILY INJURY                      WRAY           JESSE        2ND AVE N
+
+3/15/2015 8:39   ASSAULT, ACCESSORY TO                               SEABURY        JARON        PATRICIA DR
+
+3/14/2015 23:56  Assault, Aggravated - Deadly Weapon - Int/Kn        LIVINGSTON     JEFFERY      OLD PARAGON MILLS RD
+
+3/15/2015 10:18  Assault, Aggravated - Deadly Weapon - Int/Kn        BUCHANAN       GARY         MURFREESBORO PIKE
+
+3/15/2015 15:27  Assault, Aggravated - Deadly Weapon - Int/Kn        EASON          LISA         HOPEDALE DR
+
+3/15/2015 18:01  Assault, Aggravated - Deadly Weapon - Int/Kn        BARNES         JERAMY       WALLACE RD
+
+3/15/2015 8:45   Assault, Aggravated - Strangulation - Int/Kn        DARKS          JERRY        ELAINE AVE
+
+2/9/2015 9:41    ASSAULT, DOMESTIC BODILY INJURY                     GARFIAS-LOPEZ  JOEL         JAMES ROBERTSON PKY
+
+3/15/2015 1:20   ASSAULT, DOMESTIC BODILY INJURY                     HOUSTON        STEVIN       5TH AVE S
+
+3/15/2015 2:40   ASSAULT, DOMESTIC BODILY INJURY                     GRINDLE        DAVIS        BOUNDARY RUN
+
+3/15/2015 2:24   ASSAULT, DOMESTIC BODILY INJURY                     HESSE          RACHEL       BOUNDARY RUN
+
+3/15/2015 3:50   ASSAULT, DOMESTIC BODILY INJURY                     TUT            JIOKA
+
+3/15/2015 11:39  ASSAULT, DOMESTIC BODILY INJURY                     VANCE          LAMAR        JONES PARK CT
+
+3/15/2015 12:57  ASSAULT, DOMESTIC BODILY INJURY                     MORAN          CHASITY      MADISON SQ
+
+3/15/2015 12:57  ASSAULT, DOMESTIC BODILY INJURY                     MORAN          CHASITY      MADISON SQ
+
+3/15/2015 18:00  ASSAULT, DOMESTIC BODILY INJURY                     MCGRATH        CHRISTOPHER  WARREN DR
+
+3/15/2015 19:19  ASSAULT, DOMESTIC BODILY INJURY                     ANDERSON       CRYSTAL      MCGAVOCK PIKE
+
+3/15/2015 19:37  ASSAULT, DOMESTIC BODILY INJURY                     NEDDO          GERALDINE    MCGAVOCK PIKE
+
+3/15/2015 6:16   ASSAULT, DOMESTIC FEAR OF BODILY INJURY             AYALA          GIOVANNI     RICE RD
+
+3/15/2015 3:46   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     ELLISON        DANIEL       ANTIOCH WOODS WAY
+
+3/15/2015 12:57  BURGLARY- AGGRAVATED                                MORAN          CHASITY      MADISON SQ
+
+3/15/2015 0:26   CONTRABAND IN PENAL INSTITUTION-POSSESSION          EDNEY          PHILLIP      MCCANN
+
+3/15/2015 20:26  CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION  FARLING        NICHOLAS     BROADWAY
+
+3/14/2015 21:26  CRIMINAL IMPERSONATION                              ELAM           DESHAE       HAMILTON CHURCH RD
+
+8/17/2013 20:37  CRIMINAL TRESPASS                                   BURWELL        VINCENT      LAFAYETTE ST
+
+3/15/2015 4:57   CRIMINAL TRESPASS                                   LABELLE        GERARD       BROADWAY
+
+3/15/2015 11:08  CRIMINAL TRESPASS                                   ALLEN          NATHANIEL    GALLATIN PIKE
+
+3/15/2015 3:07   DISORDERLY CONDUCT                                  SPALDING       DAVID        4TH AVE
+
+3/15/2015 3:15   DISORDERLY CONDUCT                                  OKAFOR         CHIMALUM     SYMPHONY PL
+
+3/15/2015 10:52  DISORDERLY CONDUCT                                  DREW           CHARLES      1ST AVE N
+
+3/15/2015 15:27  DISORDERLY CONDUCT                                  EASON          LISA         HOPEDALE DR
+
+3/15/2015 3:31   DRIV. LIC. - NO D/L                                 MCMURRAY       LAMAR        I 65 SOUTH
+
+3/15/2015 20:49  DRIV. LIC. - NO D/L                                 MARIANO        MANUEL       17TH AVE N
+
+                                                                     Page 1 of 5
+                                                                     Arrestee       Arrestee
+
+Arrest Date      Charge Description                                  Last Name      First Name   Street
+
+4/17/2013 15:35  DRIVING- REVOKED LICENSE                            HENDRICKS      SHAWN        TERMINAL DR
+
+3/15/2015 10:27  DRIVING- REVOKED LICENSE                            COSBY          YOLANDA
+
+3/15/2015 11:02  DRIVING- REVOKED LICENSE                            FELICIANO      JESUS        MURFREESBORO PIKE
+
+3/15/2015 12:52  DRIVING- REVOKED LICENSE                            PRINCE         REGINALD     CASS ST
+
+3/15/2015 18:36  DRIVING- REVOKED LICENSE                            EVANS          ANAESHIA     26TH AVE N
+
+3/15/2015 19:03  DRIVING- REVOKED LICENSE                            CLARK          QUINTON      S 5TH ST
+
+3/14/2015 22:21  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         WHITE          JODILEE      NOLENSVILLE PIKE
+
+3/15/2015 9:32   DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         OSBORNE        JAMES
+
+8/17/2012 15:38  DRIVING- SUSPENDED LICENSE                          TAYLOR         QUENTIN      BELL RD
+
+6/11/2014 3:43   DRIVING- SUSPENDED LICENSE                          JONES          GREGORY      4TH AVE S
+
+3/15/2015 4:11   DRIVING- SUSPENDED LICENSE                          HENDRICKS      SHAWN        19TH AVE N
+
+3/15/2015 14:28  DRIVING- SUSPENDED LICENSE                          BUTCHER        DUSTIE       LONG HOLLOW PIKE
+
+3/14/2015 22:17  DRIVING UNDER THE INFLUENCE                         KEETON         RODERICK     CAHAL AVE
+
+3/15/2015 0:01   DRIVING UNDER THE INFLUENCE                         PARKER         ELIZABETH    BELL RD
+
+3/15/2015 0:35   DRIVING UNDER THE INFLUENCE                         WARD           TERRY        DOWDY DR
+
+3/15/2015 0:34   DRIVING UNDER THE INFLUENCE                         FULKS          MEGAN        DOUGLAS AVE
+
+3/15/2015 1:14   DRIVING UNDER THE INFLUENCE                         RENDER         SARAH        MURFREESBORO PIKE
+
+3/15/2015 2:51   DRIVING UNDER THE INFLUENCE                         ANDERSON       LOGAN        TYNE BLVD
+
+3/15/2015 3:18   DRIVING UNDER THE INFLUENCE                         DAVIS          GARY         NATCHEZ TRCE
+
+3/15/2015 3:18   DRIVING UNDER THE INFLUENCE                         SHABAZZ        ANEESAH      17TH AVE N
+
+3/15/2015 3:31   DRIVING UNDER THE INFLUENCE                         MCMURRAY       LAMAR        I 65 SOUTH
+
+3/15/2015 4:17   DRIVING UNDER THE INFLUENCE                         GAMBLE         CEASAR       MURFREESBORO PIKE
+
+3/15/2015 21:32  DRIVING UNDER THE INFLUENCE                         ROTHSCHILD     CRAIG        I 65 N
+
+3/15/2015 1:55   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           REYNOLDS       JEFFERY      EWING DR
+
+3/14/2015 21:22  DRIVING UNDER THE INFLUENCE - 3RD OFFENSE           SAVICKAS       TAMARA       MURFREESBORO PIKE
+
+3/14/2015 22:21  DRIVING UNDER THE INFLUENCE - 3RD OFFENSE           WHITE          JODILEE      NOLENSVILLE PIKE
+
+3/15/2015 2:13   DRIVING UNDER THE INFLUENCE - 3RD OFFENSE           LESLIE         TODD         WEST END AVE
+
+3/14/2015 21:26  DRUG PARAPHERNALIA- UNLAWFUL USE                    ELAM           DESHAE       HAMILTON CHURCH RD
+
+3/15/2015 18:00  DRUG PARAPHERNALIA- UNLAWFUL USE                    MCGRATH        CHRISTOPHER  WARREN DR
+
+3/14/2015 23:27  FAIL TO BE BOOKED (CRIMINAL SUMMONS)                GARFIAS-LOPEZ  JOEL         COLEMONT DR
+
+3/14/2015 21:26  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  ELAM           DESHAE       HAMILTON CHURCH RD
+
+3/15/2015 0:52   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  JONES          GREGORY      I 40 E
+
+3/15/2015 2:49   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  PATTON         MANECCA      RUTHERFORD COUNTY
+
+                                                                     Page 2 of 5
+                                                                     Arrestee     Arrestee
+
+Arrest Date      Charge Description                                  Last Name    First Name   Street
+
+3/15/2015 3:13   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  SANDERS      RICHARD      JAMES ROBERTSON PKWY
+
+3/15/2015 3:54   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  WIGFALL      LENORA       32ND ST
+
+3/15/2015 3:54   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  WIGFALL      LENORA       32ND ST
+
+3/15/2015 3:54   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  WIGFALL      LENORA       32ND ST
+
+3/15/2015 10:55  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  MATTESON     KIRK         IRELAND ST
+
+3/15/2015 21:30  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  NELSON       ERIC         SUMNER CO JAIL
+
+3/15/2015 21:23  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  RUCKER       SHAUN        CHESTNUT ST
+
+3/14/2015 21:03  FAILURE TO BE BOOKED                                BURWELL      VINCENT      LAFAYETTE ST
+
+3/15/2015 0:52   FAILURE TO BE BOOKED                                JONES        GREGORY      I 40 E
+
+3/15/2015 14:27  FAILURE TO BE BOOKED                                COLLIER      MARSHEILA    WALLACE RD
+
+3/15/2015 17:42  FAILURE TO BE BOOKED                                TAYLOR       QUENTIN      BRANTLEY DR
+
+3/14/2015 22:36  FORGERY- $1,000 OR GT, LT $10,000                   HANN         MATTHEW      NOLENSVILLE PIKE
+
+3/15/2015 19:27  HARASSMENT - CAUSE EMOTIONAL DISTRESS, INTIMIDATE,  WRAY         JESSE        2ND AVE N
+
+3/14/2015 22:21  IMPLIED CONSENT - CIVIL                             WHITE        JODILEE      NOLENSVILLE PIKE
+
+3/15/2015 0:35   IMPLIED CONSENT - CIVIL                             WARD         TERRY        DOWDY DR
+
+3/15/2015 3:18   IMPLIED CONSENT - CIVIL                             SHABAZZ      ANEESAH      17TH AVE N
+
+3/15/2015 11:00  INTERFERENCE W/EMERGENCY CALL                       BINKLEY      JAMES        CLARKSVILLE PIKE
+
+3/14/2015 22:17  LEAVING THE SCENE OF AN ACC. W/PERS. INJURY         KEETON       RODERICK     CAHAL AVE
+
+3/15/2015 1:55   OPEN CONTAINER VIOL.                                REYNOLDS     JEFFERY      EWING DR
+
+3/15/2015 1:07   ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION     LANGE        WILLIAM      CHURCH ST
+
+3/15/2015 14:54  PAROLE VIOLATION                                    HOWSE        ANGEL        NOLENSVILLE PIKE
+
+3/15/2015 8:39   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  SEABURY      JARON        PATRICIA DR
+
+3/15/2015 8:45   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  DARKS        JERRY        ELAINE AVE
+
+3/15/2015 8:39   POSS. W/O PRESCRIPTION, LEGEND DRUGS                SEABURY      JARON        PATRICIA DR
+
+3/15/2015 2:30   POSS.W/INT-CONT.SUB.- MARIJUANA 14.175-4,535 GR.    DANSBY       ROBERT       MURFREESBORO PIKE
+
+3/15/2015 18:00  POSS.W/INT-CONT.SUB.- MARIJUANA 14.175-4,535 GR.    MCGRATH      CHRISTOPHER  WARREN DR
+
+3/15/2015 9:00   PROBATION VIOLATION- COMMUNITY CORRECTIONS VIOL.    WALLER       STACEY       CLIFF DR
+
+3/14/2015 22:36  PROBATION VIOLATION- FELONY                         HILL         AUDREY       N 9TH @ NEAL
+
+3/15/2015 12:20  PROBATION VIOLATION- FELONY                         PEREDA       SANDRINE     JAMES ROBERTSON PKWY
+
+3/14/2015 22:21  PROBATION VIOLATION- MISDEMEANOR                    WHITE        JODILEE      NOLENSVILLE PIKE
+
+3/14/2015 16:48  PROBATION VIOLATION- MISDEMEANOR                    MASSEY       ANTHONY      2ND AVE N
+
+3/14/2015 16:48  PROBATION VIOLATION- MISDEMEANOR                    MASSEY       ANTHONY      2ND AVE N
+
+3/15/2015 5:00   PROBATION VIOLATION- MISDEMEANOR                    COX          CORY         OAK CLIFF DR
+
+                                                                     Page 3 of 5
+                                                                  Arrestee     Arrestee
+
+Arrest Date       Charge Description                              Last Name    First Name   Street
+
+3/15/2015 8:10    PROBATION VIOLATION- MISDEMEANOR                REED         WAYNE
+
+3/15/2015 9:22    PROBATION VIOLATION- MISDEMEANOR                STARNES      BOBBIE       MURFREESBORO PIKE
+
+3/15/2015 10:07   PROBATION VIOLATION- MISDEMEANOR                SKINNER      CRAIG        FESSLERS LN
+
+3/15/2015 20:23   PROBATION VIOLATION- MISDEMEANOR                WINTERS      ANTONIO      JAMES ROBERTSON PKWY
+
+3/14/2015 23:42   PUBLIC INTOXICATION                             ROGERS       ADAM         BROADWAY
+
+3/15/2015 0:22    PUBLIC INTOXICATION                             BENFORD      RONALD       MCCANN
+
+3/15/2015 0:26    PUBLIC INTOXICATION                             EDNEY        PHILLIP      MCCANN
+
+3/15/2015 0:50    PUBLIC INTOXICATION                             RAMO         MEIJA        NOLENSVILLE PIKE
+
+3/15/2015 1:14    PUBLIC INTOXICATION                             MOSLEY       DAVID        BROADWAY
+
+3/15/2015 1:12    PUBLIC INTOXICATION                             PENROD       BRANDON      3RD AVE N
+
+3/15/2015 1:25    PUBLIC INTOXICATION                             FREEMAN      PETER        3RD AVE N
+
+3/15/2015 1:57    PUBLIC INTOXICATION                             KIM          CHEOL        OAK BROOK TER
+
+3/15/2015 2:11    PUBLIC INTOXICATION                             DIXON        SEAN         3RD AVE N
+
+3/15/2015 2:23    PUBLIC INTOXICATION                             ADAMS        AARON        BROADWAY
+
+3/15/2015 1:15    PUBLIC INTOXICATION                             HODGSON      MATTHEW      WEST END AVE
+
+3/15/2015 2:18    PUBLIC INTOXICATION                             ARSDALE      MATTHEW      21ST AVE S
+
+3/15/2015 2:29    PUBLIC INTOXICATION                             MAYES        CLARENCE     16TH AVE N
+
+3/15/2015 3:00    PUBLIC INTOXICATION                             VAN LITH     DYLAN        HILLSBORO PIKE
+
+3/15/2015 3:01    PUBLIC INTOXICATION                             AROUCA       CHRISTOPHER  3RD AVE N
+
+3/15/2015 3:07    PUBLIC INTOXICATION                             SPALDING     DAVID        4TH AVE
+
+3/15/2015 3:55    PUBLIC INTOXICATION                             PIRTLE       JAKE         BROADWAY
+
+3/15/2015 4:14    PUBLIC INTOXICATION                             BRYSE        MICHAEL      BROADWAY
+
+3/15/2015 4:46    PUBLIC INTOXICATION                             AARON        JEFFREY      DEMONBREUN ST
+
+3/15/2015 6:16    PUBLIC INTOXICATION                             AYALA        GIOVANNI     RICE RD
+
+3/15/2015 10:52   PUBLIC INTOXICATION                             DREW         CHARLES      1ST AVE N
+
+3/15/2015 11:08   PUBLIC INTOXICATION                             ALLEN        NATHANIEL    GALLATIN PIKE
+
+3/15/2015 12:56   PUBLIC INTOXICATION                             FRANCIS      RICHARD      BROADWAY
+
+3/15/2015 20:39   PUBLIC INTOXICATION                             DIMA         LUKA         JAMES ROBERTSON PKWY
+
+3/14/2015 22:36   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  WRAY         JESSE        CHARLOTTE PIKE
+
+3/15/2015 1:10    RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  MILLNER      WILLIE       LINBAR DR
+
+3/15/2015 1:10    ROBBERY- CARJACKING                             MILLNER      WILLIE       LINBAR DR
+
+12/16/2014 14:37  THEFT OF MERCHANDISE - $500 OR LESS             COLLIER      MARSHEILA    DICKERSON PIKE
+
+3/14/2015 21:05   THEFT OF MERCHANDISE- $1,000 OR GT, LT $10,000  COLLINS      ASHTON       MAURY COUNTY JAIL
+
+                                                                  Page 4 of 5
+                                                                 Arrestee     Arrestee
+
+Arrest Date      Charge Description                              Last Name    First Name  Street
+
+3/14/2015 21:05  THEFT OF MERCHANDISE- $1,000 OR GT, LT $10,000  COLLINS      ASHTON      MAURY COUNTY JAIL
+
+3/14/2015 21:05  THEFT OF MERCHANDISE- $1,000 OR GT, LT $10,000  COLLINS      ASHTON      MAURY COUNTY JAIL
+
+3/15/2015 10:52  THEFT OF PROPERTY- $500 OR LESS                 DREW         CHARLES     1ST AVE N
+
+3/15/2015 19:41  VANDALISM- $500 OR LESS                         BEARD        TAMULA      MARLIN CT
+
+3/14/2015 21:09  VANDALISM- GT $500, LT $1,000                   WEBB         JERRY       MURFREESBORO PIKE
+
+                                                                 Page 5 of 5

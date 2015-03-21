@@ -1,0 +1,830 @@
+                                                                     Arrestee           Arrestee
+
+Arrest Date      Charge Description                                  Last Name          First Name  Street
+
+3/12/2015 14:49  ALCOHOL- UNDER 21, CONSUMPTION                      RIVERA-TORRES      GIOVANI     CANE RIDGE RD
+
+3/12/2015 14:49  ALCOHOL- UNDER 21, POSSESSION                       RIVERA-TORRES      GIOVANI     CANE RIDGE RD
+
+3/12/2015 15:29  ALCOHOL- UNDER 21, POSSESSION                       MALDONADO-COLUNGA  FERNANDO    CANE RIDGE RD
+
+3/12/2015 21:30  ASSAULT- FEAR OF BODILY INJURY                      DAVIS              THADDEUS    PRINCE AVE
+
+3/12/2015 21:31  ASSAULT- FEAR OF BODILY INJURY                      DUNLAP             DOMINICK    PRINCE AVE
+
+3/12/2015 1:01   ASSAULT OF OFFICER - FEAR OF BODILY INJURY          HOWELL             MARK        BERRY ST
+
+3/12/2015 8:48   ASSAULT- OFFENSIVE OR PROVOCATIVE CONTACT           DRAKE              MONTEZ      WALTON LN
+
+3/12/2015 0:21   Assault, Aggravated - Deadly Weapon - Int/Kn        TEAGUE             THOMAS      BUENA VISTA PIKE
+
+3/12/2015 15:41  Assault, Aggravated - Deadly Weapon - Int/Kn        HUSSEIN            AZEZA       RICE RD
+
+3/11/2015 23:41  ASSAULT, DOMESTIC BODILY INJURY                     CRAZY-BULL         ARIS        THOMPSON LN
+
+3/12/2015 2:51   ASSAULT, DOMESTIC BODILY INJURY                     TIDWELL            STEVIE      WEDGEWOOD AVE
+
+3/12/2015 10:20  ASSAULT, DOMESTIC BODILY INJURY                     MUNDY              THOMAS      2ND AVE N
+
+3/12/2015 15:30  ASSAULT, DOMESTIC BODILY INJURY                     STITH              JOHN        ARBOR RIDGE DR
+
+1/21/2015 23:43  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             BIRDSONG           MICHAEL     2ND AVE N
+
+3/3/2015 12:48   ASSAULT, DOMESTIC FEAR OF BODILY INJURY             ORRICK             TIMOTHY     2ND AVE N
+
+3/12/2015 1:01   ASSAULT, DOMESTIC FEAR OF BODILY INJURY             HOWELL             MARK        BERRY ST
+
+3/12/2015 9:36   ASSAULT, DOMESTIC FEAR OF BODILY INJURY             TODD               JALISSIA    BETHWOOD DR
+
+3/12/2015 10:04  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             CAMACHO            MARIO       2ND AVE
+
+3/12/2015 12:32  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             TURNER             DE JAH
+
+3/12/2015 1:39   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     WOODRUFF           ERIC        STRAIGHTWAY AVE
+
+3/12/2015 2:41   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     RAY                MICHELLE    4TH AVE S
+
+3/12/2015 7:39   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     BRIGGS             BILLY       FAIRWIN AVE
+
+3/12/2015 7:39   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     BRIGGS             BILLY       FAIRWIN AVE
+
+3/12/2015 0:21   ASSAULT, DOMESTIC, BODILY INJURY 3RD OR MORE        HOWARD             DEANDRE     CREEKWOOD DR
+
+3/12/2015 10:00  ASSAULT, DOMESTIC, BODILY INJURY 3RD OR MORE        CALLEN             RICO        2ND AVE N
+
+3/11/2015 22:03  CONTRABAND IN PENAL INSTITUTION-POSSESSION          HAYES              BARRY       SCOVEL ST
+
+3/12/2015 0:21   CONTRABAND IN PENAL INSTITUTION-POSSESSION          TEAGUE             THOMAS      BUENA VISTA PIKE
+
+3/11/2015 17:39  CONTRABAND IN PENAL INSTITUTION-POSSESSION          LEWIS              BRYAN       2ND AVE N
+
+2/10/2015 23:40  CONTRIBUTING - DELINQUENCY OF A MINOR               BRYANT             TIARA
+
+2/13/2015 23:32  CONTRIBUTING - DELINQUENCY OF A MINOR               TEASLEY            DESMOND     MYATT DR
+
+3/12/2015 4:43   CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION  MARR               CHRISTY     NEELYS BEND RD
+
+3/12/2015 14:55  CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION  WILSON             KEITH       ED TEMPLE BLVD
+
+3/12/2015 16:58  CRIMINAL CONTEMPT-VIOLATION OF ORDER OF PROTECTION  HENDERSON          CHARLIE     SHELBY AVE
+
+                                                                     Page 1 of 12
+                                                                            Arrestee           Arrestee
+
+Arrest Date      Charge Description                                         Last Name          First Name    Street
+
+3/12/2015 17:29  CRIMINAL CONTEMPT-VIOLATION  OF  ORDER  OF  PROTECTION     JONES              DAMEON        MACFIE CT
+
+3/12/2015 2:51   CRIMINAL IMPERSONATION                                     TIDWELL            STEVIE        WEDGEWOOD AVE
+
+3/12/2015 21:09  CRIMINAL IMPERSONATION                                     JONES              HEATHER       DICKERSON PIKE
+
+2/4/2015 8:29    CRIMINAL TRESPASS                                          CLINTON            MONDRE        4TH AVE S
+
+2/19/2015 9:17   CRIMINAL TRESPASS                                          FANNING            MICHAEL       INDIANA AVE
+
+2/19/2015        CRIMINAL TRESPASS                                          BONO               DEZARN        INDIANA AVE
+
+2/14/2015        CRIMINAL TRESPASS                                          LUCKY              ROBERT        LEWIS ST
+
+3/11/2015 23:30  CRIMINAL TRESPASS                                          KENDELL            EDWARD        DICKERSON PIKE
+
+2/24/2015        CRIMINAL TRESPASS                                          LUCKY              ROBERT        FAIRFIELD AVE
+
+3/12/2015 10:23  CRIMINAL TRESPASS                                          WOODS              CHARLES       CLAIBORNE ST
+
+3/12/2015 12:59  CRIMINAL TRESPASS                                          TURNER             JASON         19TH AVE S
+
+3/12/2015 14:15  CRIMINAL TRESPASS                                          HATCHER            JENNIFER      N GALLATIN PIKE
+
+3/12/2015 18:38  CRIMINAL TRESPASS                                          WINFIELD           BRIAN         NOLENSVILLE PIKE
+
+3/12/2015 20:13  CRIMINAL TRESPASS                                          HILL               NITCHELLE     DICKERSON PIKE
+
+3/12/2015 20:06  CRIMINAL TRESPASS                                          MIDDLEBROOK        MICHEALANGLO  2ND AVE N
+
+3/12/2015 0:21   DISORDERLY CONDUCT                                         HOWARD             DEANDRE       CREEKWOOD DR
+
+3/12/2015 1:48   DISORDERLY CONDUCT                                         RAMSEY             NICHOLAS      BROADWAY
+
+3/12/2015 16:01  DISORDERLY CONDUCT                                         DOE                JOHN          S 2ND ST
+
+1/29/2015 1:12   DRIV. LIC. - NO D/L                                        LEE                MARCUS        CLARKSVILLE PIKE
+
+2/6/2015 8:27    DRIV. LIC. - NO D/L                                        LENOIR             JUSTICE       MM 215 8 I40 E
+
+2/6/2015 11:08   DRIV. LIC. - NO D/L                                        ROBINSON           BENJI         FAIRFIELD AVE
+
+2/9/2015 0:25    DRIV. LIC. - NO D/L                                        NICELY             ALEXANDER     LEBANON PIKE
+
+2/12/2015 4:49   DRIV. LIC. - NO D/L                                        VILLALOBOS-OVARES  MANFRED       MURFREESBORO PIKE
+
+2/12/2015 7:38   DRIV. LIC. - NO D/L                                        DAVIDSON           ELMER         2ND AVE S
+
+2/12/2015 16:40  DRIV. LIC. - NO D/L                                        THOMAS             KEVIN         3RD AVE S
+
+2/13/2015 8:03   DRIV. LIC. - NO D/L                                        SANCHEZ            FELICIANO     I 40 W
+
+2/13/2015 13:51  DRIV. LIC. - NO D/L                                        COLLIER            RAVEN         DONELSON PIKE
+
+2/13/2015 17:19  DRIV. LIC. - NO D/L                                        ALEMAN             JOSE          MURFREESBORO PIKE
+
+2/13/2015 19:57  DRIV. LIC. - NO D/L                                        SMITH              DANGELO       ED TEMPLE BLVD
+
+2/16/2015 3:30   DRIV. LIC. - NO D/L                                        SOBHY              MICHAEL
+
+2/16/2015 8:14   DRIV. LIC. - NO D/L                                        SERAFIN            BENITO        I 40 E
+
+2/18/2015 18:00  DRIV. LIC. - NO D/L                                        DOMINGUEZ          GERARDO       MURFREESBORO PIKE
+
+2/19/2015 11:54  DRIV. LIC. - NO D/L                                        ALKHAMISI          ALAA          FESSLERS LN
+
+                                                             Page        2  of 12
+                                                                     Arrestee            Arrestee
+
+Arrest Date      Charge Description                                  Last Name           First Name   Street
+
+2/19/2015 19:48  DRIV. LIC. - NO D/L                                 ELLINGTON           HARVEY       LAFAYETTE ST
+
+2/19/2015 20:37  DRIV. LIC. - NO D/L                                 HERNANDEZ           GILBERTO     BRILEY PKWY N
+
+2/21/2015 16:12  DRIV. LIC. - NO D/L                                 HERNANDEZ           MARTIN       FAIRFIELD AVE
+
+2/22/2015 17:50  DRIV. LIC. - NO D/L                                 MITCHELL            DOMINIQUE    MCGAVOCK PIKE
+
+3/7/2015 19:59   DRIV. LIC. - NO D/L                                 BRYANT              TIARA        CHEATHAM PL
+
+2/12/2015 12:33  DRIV. LIC. - NO D/L                                 BRYANT              TIARA        MOOREWOOD DR
+
+2/24/2015 15:40  DRIV. LIC. - NO D/L                                 MITCHELL            KANETHA      LAFAYETTE ST
+
+2/13/2015 18:47  DRIV. LIC. - NO D/L                                 ELIGIO              IRENE        BRILEY PKWY
+
+2/5/2015 14:04   DRIV. LIC. - NO D/L                                 WEBB                ERICCA
+
+2/15/2015        DRIV. LIC. - NO D/L                                 PEREZ               RONALDO      MURFEESBORO PIKE
+
+2/16/2015        DRIV. LIC. - NO D/L                                 SALINAS MANTAMOROS  BEEUTRIZ     BRILEY PKWY N
+
+2/15/2015        DRIV. LIC. - NO D/L                                 SANTIAGO            CLEMENTE     SATURN DR
+
+3/6/2015         DRIV. LIC. - NO D/L                                 BRYANT              TIARA        HARDING PL
+
+3/12/2015 15:08  DRIV. LIC. - NO D/L                                 HALL                PATRICIA     8TH AVE
+
+3/12/2015 15:42  DRIV. LIC. - NO D/L                                 LOVE                FRANK        S 14TH ST
+
+2/9/2015 21:39   DRIV. LIC. - POSS. OF REVOKED,  SUSP.  OR  ALTERED  TARWATER            JACOB        HADLEY AVE
+
+2/10/2015 14:20  DRIV. LIC. - POSS. OF REVOKED,  SUSP.  OR  ALTERED  JONES               WHITNEY      CENTRAL PIKE
+
+2/13/2015 13:48  DRIV. LIC. - POSS. OF REVOKED,  SUSP.  OR  ALTERED  HARRIS              TAYLOR       DONELSON PIKE
+
+2/19/2015 19:34  DRIV. LIC. - POSS. OF REVOKED,  SUSP.  OR  ALTERED  MAYES               LATASHA      1ST AVE S
+
+3/12/2015 0:16   DRIV. LIC. - POSS. OF REVOKED,  SUSP.  OR  ALTERED  STALLWORTH          GEORDANN     4TH AVE N
+
+1/23/2015 10:06  DRIVING- REVOKED LICENSE                            WATERS              CORIE        S 7TH ST
+
+1/31/2015 5:09   DRIVING- REVOKED LICENSE                            YOUNG               JAMES        SHELBY AVE
+
+1/31/2015 6:18   DRIVING- REVOKED LICENSE                            FULLER              LACORIOUS    17TH AVE N
+
+2/5/2015 20:59   DRIVING- REVOKED LICENSE                            ADAMS               LISA         DICKERSON PIKE
+
+2/7/2015 9:32    DRIVING- REVOKED LICENSE                            JOHNSON             DAVID        33RD AVE N
+
+2/11/2015 11:21  DRIVING- REVOKED LICENSE                            COSBY               MARTRESE     MM 218 0 I40 W
+
+2/12/2015 23:03  DRIVING- REVOKED LICENSE                            STEVENS             DEMARCUS     I 40 E
+
+2/14/2015 16:57  DRIVING- REVOKED LICENSE                            CORROLES-AGUILAR    DEYVIS-AMOR  NODYNE DR
+
+2/15/2015 16:33  DRIVING- REVOKED LICENSE                            BATTLE              JEWELL       DICKERSON PIKE
+
+2/15/2015 18:51  DRIVING- REVOKED LICENSE                            MAYO                GERALD       CARROLL ST
+
+2/15/2015 20:35  DRIVING- REVOKED LICENSE                            RODGERS             HEATHER      HWY 45
+
+2/15/2015 23:19  DRIVING- REVOKED LICENSE                            HILL                JAMES        BELL RD
+
+2/18/2015 17:46  DRIVING- REVOKED LICENSE                            PRUDENCIO           FRANCISCO    SMITH SPRINGS RD
+
+                                                                     Page 3 of 12
+                                                                 Arrestee      Arrestee
+
+Arrest Date      Charge Description                              Last Name     First Name   Street
+
+2/19/2015 11:33  DRIVING- REVOKED LICENSE                        CRUTCHFIELD   DANDRE       JUAREZ DR
+
+2/11/2015        DRIVING- REVOKED LICENSE                        PILLOW        WILLIAM      ALTA LOMA RD
+
+2/12/2015 23:20  DRIVING- REVOKED LICENSE                        JEFFERSON     TRACY        MUFREESBORO PKE
+
+2/11/2015 15:17  DRIVING- REVOKED LICENSE                        KIRK          JACOB        I 440 W
+
+2/9/2015 23:30   DRIVING- REVOKED LICENSE                        CUMMINGS      ANTONIO      CARTWRIGHT ST
+
+2/17/2015        DRIVING- REVOKED LICENSE                        WHITE         RODNEY       CANNON ST
+
+2/17/2015        DRIVING- REVOKED LICENSE                        HOBSON        GLENWAN      UNIVERSITY CT
+
+2/20/2015        DRIVING- REVOKED LICENSE                        FRANKLIN      JESSE        21ST AVE N
+
+3/11/2015 22:21  DRIVING- REVOKED LICENSE                        DORRIS        DARIUS       LENORE ST
+
+3/11/2015 23:28  DRIVING- REVOKED LICENSE                        HEAD          BRIAN        I 440 W
+
+3/11/2015 23:36  DRIVING- REVOKED LICENSE                        CHIHI         CHIQUITA     GALLATIN AVE
+
+3/11/2015 23:52  DRIVING- REVOKED LICENSE                        BARNES        WILLIAM      GALLATIN PIKE
+
+3/12/2015 5:58   DRIVING- REVOKED LICENSE                        CARLTON       SHANNON      GRAYLYNN DR
+
+3/3/2015         DRIVING- REVOKED LICENSE                        BATTLE        JEWELL       BRICK CHURCH
+
+2/28/2015        DRIVING- REVOKED LICENSE                        GLOYD         DESTINY      HARDING PL
+
+3/12/2015 11:16  DRIVING- REVOKED LICENSE                        TINCH         ANDREA       N MAIN ST
+
+3/12/2015 11:42  DRIVING- REVOKED LICENSE                        JOHNSON       IVAN         I 40 W
+
+3/12/2015 14:19  DRIVING- REVOKED LICENSE                        TURNER        RONALD       DICKERSON PIKE
+
+2/8/2015 19:18   DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  CATHEY        EBONY        FAIRFIELD AVE
+
+2/9/2015 21:39   DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  TARWATER      JACOB        HADLEY AVE
+
+2/14/2015 22:22  DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  ANDERSON      TSELANE      FORT NEGLEY BLVD
+
+3/12/2015 13:40  DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  PAYNE         KEITH        BRICK CHURCH PIKE
+
+3/12/2015 20:22  DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  WINGO         JOHN         ORDWAY PL
+
+3/12/2015 21:11  DRIVING- REVOKED LICENSE, 2ND  OFFENSE  OR  GT  TURNER        TELVIN       S 10TH ST
+
+1/13/2015 7:15   DRIVING- SUSPENDED LICENSE                      MILLER        WARDNEATRIA  CASS ST
+
+2/4/2015 0:18    DRIVING- SUSPENDED LICENSE                      LAWRENCE      MICAH        I 40 W
+
+2/8/2015 16:46   DRIVING- SUSPENDED LICENSE                      SIMMONS       MOSES        ELM HILL PIKE
+
+2/9/2015 8:42    DRIVING- SUSPENDED LICENSE                      VENSENTA      JACKSON      NOLENSVILLE PIKE
+
+2/10/2015 13:01  DRIVING- SUSPENDED LICENSE                      DELK          AMY          HARDING PL
+
+2/10/2015 14:20  DRIVING- SUSPENDED LICENSE                      JONES         WHITNEY      CENTRAL PIKE
+
+2/10/2015 17:07  DRIVING- SUSPENDED LICENSE                      AMOS          NICK         EXIT 213A I40 E
+
+2/10/2015 18:33  DRIVING- SUSPENDED LICENSE                      BUSH          BRIAN        DONELSON PIKE
+
+2/11/2015 16:21  DRIVING- SUSPENDED LICENSE                      PINSON        TRACEY       OLD HICKORY BLVD
+
+                                                                 Page 4 of 12
+                                              Arrestee      Arrestee
+
+Arrest Date      Charge Description           Last Name     First Name  Street
+
+2/11/2015 17:58  DRIVING- SUSPENDED  LICENSE  SIMS          LARRY       SALEM MASON DR
+
+2/12/2015 19:29  DRIVING- SUSPENDED  LICENSE  BROWN         MICHAEL     LESTER AVE
+
+2/13/2015 7:02   DRIVING- SUSPENDED  LICENSE  WHITE         MICHAEL     OLD HICKORY BLVD
+
+2/13/2015 8:35   DRIVING- SUSPENDED  LICENSE  BRYANT        JERICE      DOUGLAS AVE
+
+2/13/2015 13:48  DRIVING- SUSPENDED  LICENSE  HARRIS        TAYLOR      DONELSON PIKE
+
+2/14/2015 9:18   DRIVING- SUSPENDED  LICENSE  JOHNSON       ANTHONY     SMITH SPRINGS CT
+
+2/14/2015 16:02  DRIVING- SUSPENDED  LICENSE  COLLINS       JOSEPH      I 40 E
+
+2/14/2015 20:19  DRIVING- SUSPENDED  LICENSE  CHRISMAN      JEFFEREY    13TH ST
+
+2/14/2015 20:49  DRIVING- SUSPENDED  LICENSE  MOORE         JONATHAN    ELM HILL PIKE
+
+2/15/2015 23:07  DRIVING- SUSPENDED  LICENSE  STARNES       OMNI        N 11TH ST
+
+2/15/2015 23:08  DRIVING- SUSPENDED  LICENSE  LEWIS         SEGOENY     LEBANON PIKE
+
+2/18/2015 10:51  DRIVING- SUSPENDED  LICENSE  BETTS         RICHARD     CENTRAL PIKE
+
+2/18/2015 11:15  DRIVING- SUSPENDED  LICENSE  MAYES         LATASHA     1ST AVE S
+
+2/18/2015 16:06  DRIVING- SUSPENDED  LICENSE  JOHNSON       SHYANN      BRILEY PKWY W
+
+2/18/2015        DRIVING- SUSPENDED  LICENSE  LUGIAI        ALYSSA      ANDREW JACKSON PKWY
+
+2/19/2015 15:38  DRIVING- SUSPENDED  LICENSE  COLES         ROBERT      BRILEY PKWY N
+
+2/19/2015 18:23  DRIVING- SUSPENDED  LICENSE  LAX           ANGELA      MURFREESBORO PIKE
+
+2/19/2015 19:27  DRIVING- SUSPENDED  LICENSE  MAYES         LATASHA     1ST AVE S
+
+2/19/2015 21:10  DRIVING- SUSPENDED  LICENSE  SEAY          JOHN        DOMINICAN DR
+
+2/20/2015        DRIVING- SUSPENDED  LICENSE  MCLEOD        JOSEPH      OLD HICKORY BLVD
+
+2/26/2015 10:13  DRIVING- SUSPENDED  LICENSE  BRADLEY       JUDY        8TH AVE S
+
+2/13/2015        DRIVING- SUSPENDED  LICENSE  BREWER        MARCUS      BROADWAY
+
+2/8/2015 16:43   DRIVING- SUSPENDED  LICENSE  FITZGERALD    NIJETA      CANNON ST
+
+2/9/2015 16:20   DRIVING- SUSPENDED  LICENSE  BARLOWE       KAHLIEL     S 1ST ST
+
+2/7/2015 19:20   DRIVING- SUSPENDED  LICENSE  HARTMAN       TRENTON     OCALA DR
+
+2/6/2015 18:36   DRIVING- SUSPENDED  LICENSE  SMITH         SHAMEKA     W TRINITY LN
+
+2/9/2015 13:20   DRIVING- SUSPENDED  LICENSE  OAKLEY        RICHARD     ANDERSON RD
+
+2/10/2005 13:22  DRIVING- SUSPENDED  LICENSE  CUNNINGHAM    SHANE       ASHLAND CITY HWY
+
+2/12/2015 14:25  DRIVING- SUSPENDED  LICENSE  LAWRENCE      WALTER      DR D B TODD JR BLVD
+
+2/20/2015 14:45  DRIVING- SUSPENDED  LICENSE  ANTHONY       JAMES       28TH AVE N
+
+2/16/2015 1:27   DRIVING- SUSPENDED  LICENSE  ADAMS         RALEIGH     LEBANON PIKE
+
+2/15/2015        DRIVING- SUSPENDED  LICENSE  LEWIS         SEGOENY     ANDREW JACKSON PKWY
+
+3/12/2015 0:16   DRIVING- SUSPENDED  LICENSE  STALLWORTH    GEORDANN    4TH AVE N
+
+                                              Page 5 of 12
+                                                                              Arrestee           Arrestee
+
+Arrest Date      Charge Description                                           Last Name          First Name   Street
+
+3/12/2015 9:36   DRIVING- SUSPENDED LICENSE                                   TODD               JALISSIA     BETHWOOD DR
+
+1/8/2015 23:48   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT                MILLER             WARDNEATRIA  ELM HILL PIKE
+
+2/3/2015 8:43    DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT                SALAZAR            VICTOR       RURAL HILL RD
+
+2/6/2015 21:40   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT                LAYNE              JAMES        LAUER DR
+
+2/9/2015 15:35   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT                ROGERS             ALLEN        CLAIBORNE ST
+
+2/11/2015 7:45   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT                KENNEDY            DONNY        I 40 E
+
+2/13/2015 2:47   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT                BROWNLOW           RONALD       ASHTON AVE
+
+2/21/2015 13:28  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT                JOHNSON            SHYANN       ARCHWOOD DR
+
+3/10/2015 16:49  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT                ROGERS             ALLEN        2ND AVE S
+
+3/11/2015 23:59  DRIVING UNDER THE INFLUENCE                                  MCKELLIPS          NATHAN       WATERCRESS DR
+
+3/11/2015 22:49  DRIVING UNDER THE INFLUENCE                                  BROOKS             MARCELLUS    JEFFERSON ST
+
+3/12/2015 1:54   DRIVING UNDER THE INFLUENCE                                  WILLIAMS           QUATINA      S 7TH ST
+
+3/12/2015 2:30   DRIVING UNDER THE INFLUENCE                                  JONES              EVAN         MUSIC CIR N
+
+3/12/2015 3:06   DRIVING UNDER THE INFLUENCE                                  REFFEGEE           MICHAEL      CASH LN
+
+3/12/2015 3:00   DRIVING UNDER THE INFLUENCE                                  MILLER             CHELSEA      MONSICELLO AVE
+
+3/12/2015 15:29  DRIVING UNDER THE INFLUENCE - 2ND OFFENSE                    MALDONADO-COLUNGA  FERNANDO     CANE RIDGE RD
+
+3/12/2015 17:18  DRIVING UNDER THE INFLUENCE - 2ND OFFENSE                    PARSONS            JASON        ALBION ST
+
+3/12/2015 19:46  DRIVING UNDER THE INFLUENCE - 2ND OFFENSE                    DOUGLAS            TAYNNA       SHELBY AVE
+
+3/12/2015 5:58   DRIVING UNDER THE INFLUENCE - 4TH OFFENSE OR MORE            CARLTON            SHANNON      GRAYLYNN DR
+
+3/11/2015 21:36  DRUG FREE NONSCH.ZONE-CONT.SUB.-MARIJUANA 14.175-4           EDMONDSON          MAURICE      SCOVEL ST
+
+3/12/2015 10:23  DRUG FREE NONSCH.ZONE-CONT.SUB.-MARIJUANA 14.175-4           WOODS              CHARLES      CLAIBORNE ST
+
+3/12/2015 19:10  DRUG FREE NONSCH.ZONE-CONT.SUB.-MARIJUANA 14.175-4           HAYES              MAONDE       JAMES ROBERTSON PKWY
+
+1/29/2015 14:47  DRUG PARAPHERNALIA- UNLAWFUL USE                             UPCHURCH           DAPHINE      NOLENSVILLE PIKE
+
+2/11/2015 18:21  DRUG PARAPHERNALIA- UNLAWFUL USE                             ARCHIBALD          ERICK        CHARLES E DAVIS BLVD
+
+2/13/2015 12:57  DRUG PARAPHERNALIA- UNLAWFUL USE                             NAIR AMRITHESH     SAI          MCGAVOCK PIKE
+
+2/13/2015 18:12  DRUG PARAPHERNALIA- UNLAWFUL USE                             STEELE             MICHAEL      GLENGARRY DR
+
+2/15/2015 17:06  DRUG PARAPHERNALIA- UNLAWFUL USE                             PETROSSIAN         MATHEW       DONELSON PIKE
+
+2/15/2015 23:24  DRUG PARAPHERNALIA- UNLAWFUL USE                             LEWIS              SEGOENY      LEBANON PIKE
+
+2/19/2015 11:35  DRUG PARAPHERNALIA- UNLAWFUL USE                             CRUTCHFIELD        DANDRE       JUAREZ DR
+
+2/19/2015 11:34  DRUG PARAPHERNALIA- UNLAWFUL USE                             SCOTT              COURTNEY     JUAREZ DR
+
+2/14/2015 0:24   DRUG PARAPHERNALIA- UNLAWFUL USE                             LAW                DOINE        LEBANON PIKE
+
+2/17/2015        DRUG PARAPHERNALIA- UNLAWFUL USE                             WHITE              RODNEY       CANNON ST
+
+2/19/2015        DRUG PARAPHERNALIA- UNLAWFUL USE                             BONO               DEZARN       INDIANA AVE
+
+                                                                     Page  6  of 12
+                                                                                Arrestee           Arrestee
+
+Arrest Date      Charge Description                                             Last Name          First Name  Street
+
+2/14/2015        DRUG PARAPHERNALIA- UNLAWFUL USE                               LUCKY              ROBERT      LEWIS ST
+
+3/11/2015 21:36  DRUG PARAPHERNALIA- UNLAWFUL USE                               EDMONDSON          MAURICE     SCOVEL ST
+
+3/11/2015 22:21  DRUG PARAPHERNALIA- UNLAWFUL USE                               DORRIS             DARIUS      LENORE ST
+
+3/12/2015 0:21   DRUG PARAPHERNALIA- UNLAWFUL USE                               TEAGUE             THOMAS      BUENA VISTA PIKE
+
+3/3/2015         DRUG PARAPHERNALIA- UNLAWFUL USE                               BATTLE             JEWELL      BRICK CHURCH
+
+3/12/2015 7:10   DRUG PARAPHERNALIA- UNLAWFUL USE                               MARLING            NOLAN       ONE TERMINAL DRIVE
+
+3/12/2015 11:25  DRUG PARAPHERNALIA- UNLAWFUL USE                               CAULK              MATTHEW
+
+3/12/2015 14:49  DRUG PARAPHERNALIA- UNLAWFUL USE                               RIVERA-TORRES      GIOVANI     CANE RIDGE RD
+
+3/12/2015 15:29  DRUG PARAPHERNALIA- UNLAWFUL USE                               MALDONADO-COLUNGA  FERNANDO    CANE RIDGE RD
+
+3/12/2015 15:42  DRUG PARAPHERNALIA- UNLAWFUL USE                               LOVE               FRANK       S 14TH ST
+
+3/12/2015 17:26  DRUG PARAPHERNALIA- UNLAWFUL USE                               AVERY              DWAYNE      HILLSIDE AVE
+
+3/12/2015 19:10  DRUG PARAPHERNALIA- UNLAWFUL USE                               HAYES              MAONDE      JAMES ROBERTSON PKWY
+
+3/12/2015 20:22  DRUG PARAPHERNALIA- UNLAWFUL USE                               WINGO              JOHN        ORDWAY PL
+
+3/12/2015 0:21   EVADING ARREST- MOTOR VEHICLE                                  TEAGUE             THOMAS      BUENA VISTA PIKE
+
+3/12/2015 12:44  EVIDENCE- TAMPERING                                            BAIRD              STEVEN      2ND AVE N
+
+3/10/2015 22:18  FAIL TO BE BOOKED (CRIMINAL SUMMONS)                           BIRDSONG           MICHAEL     2ND AVE N
+
+3/12/2015 10:44  FAILURE TO APPEAR - FELONY OR CLASS A MISD.                    KOKO               SLAMA       2ND AVE N
+
+3/11/2015 23:30  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           RAMOS              MERCEDES    DICKERSON PIKE
+
+3/11/2015 23:31  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           SHELTON            ANTOINE     ELECTRIC AVE
+
+3/12/2015 0:05   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           FAYNE              ANDRE       JAMES ROBERTSON PKWY
+
+3/12/2015 0:05   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           FAYNE              ANDRE       JAMES ROBERTSON PKWY
+
+3/12/2015 0:59   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           MITCHELL           JOSHUA      BRILEY PKWY
+
+3/12/2015 0:59   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           MITCHELL           JOSHUA      BRILEY PKWY
+
+3/12/2015 1:21   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           NORIEGA-LUCAS      RODLFO      GREYMONT DR
+
+3/12/2015 3:05   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           TIBBS              ARTHUR      BRIARWICK DR
+
+3/12/2015 5:58   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           CARLTON            SHANNON     GRAYLYNN DR
+
+3/12/2015 5:58   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           CARLTON            SHANNON     GRAYLYNN DR
+
+3/12/2015 5:58   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           CARLTON            SHANNON     GRAYLYNN DR
+
+3/12/2015 9:44   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           WOODS              JOSHUA      2ND AVE N
+
+3/12/2015 9:43   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           FLORA              ANTHONY     LARKIN SPRINGS RD
+
+3/12/2015 9:51   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           HUNTER             JORDAN      2ND AVE N
+
+3/12/2015 12:08  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           GOFF               STEVEN      2ND AVE N
+
+3/12/2015 14:08  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING           HEAD               TANISHA     15TH AVE N
+
+                                                                       Page  7  of 12
+                                                                              Arrestee       Arrestee
+
+Arrest Date      Charge Description                                           Last Name      First Name   Street
+
+3/12/2015 14:22  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           VAZQUEZ        EDWIN        2ND AVE N
+
+3/12/2015 14:22  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           VAZQUEZ        EDWIN        2ND AVE N
+
+3/12/2015 14:49  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           RIVERA-TORRES  GIOVANI      CANE RIDGE RD
+
+3/12/2015 15:22  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           STEWART        JAMES        JAMES ROBERTSON PKWY
+
+3/12/2015 17:01  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           PAUL           BRANDY       GINA BROOKE CT
+
+3/12/2015 17:01  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           PAUL           BRANDY       GINA BROOKE CT
+
+3/12/2015 20:20  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           GREEN          SHANTANIK    2ND AV S
+
+3/12/2015 21:09  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING           JONES          HEATHER      DICKERSON PIKE
+
+3/12/2015 3:26   FAILURE TO BE BOOKED                                         LAWRENCE       MICAH        BELLEVUE RD
+
+3/12/2015 9:20   FAILURE TO BE BOOKED                                         HEATHERLY      CHARLES      2ND AVE N
+
+3/12/2015 10:31  FAILURE TO BE BOOKED                                         MILLER         WARDNEATRIA  JAMES ROBERTSON PKY
+
+3/12/2015 10:31  FAILURE TO BE BOOKED                                         MILLER         WARDNEATRIA  JAMES ROBERTSON PKY
+
+3/12/2015 11:50  FAILURE TO BE BOOKED                                         WATERS         CORIE        MAIN ST
+
+3/12/2015 17:43  FAILURE TO BE BOOKED                                         SHARP          WILLIAM      3RD AVE N
+
+3/12/2015 18:09  FAILURE TO BE BOOKED                                         YOUNG          JAMES        CONNOR DR
+
+3/12/2015 20:07  FAILURE TO BE BOOKED                                         GILBERT        TYNEACE      S 6TH ST
+
+3/12/2015 20:56  FAILURE TO BE BOOKED                                         UPCHURCH       DAPHINE      MELROSE AVE
+
+3/12/2015 21:23  FAILURE TO BE BOOKED                                         CLINTON        MONDRE       LAFAYETTE ST
+
+2/13/2015 12:05  FAILURE TO FILE AN ACCIDENT REPORT                           HALLUM         ALEXANDRIA   N 7TH ST
+
+2/12/2015        HARASSMENT - CAUSE EMOTIONAL DISTRESS, INTIMIDATE,           KLINGER        LINDSAY      BOSCOEL ST
+
+3/12/2015 9:47   HARASSMENT - CAUSE EMOTIONAL DISTRESS, INTIMIDATE,           KLINGER        LINDSAY      N 2ND ST
+
+3/12/2015 9:47   HARASSMENT - CAUSE EMOTIONAL DISTRESS, INTIMIDATE,           KLINGER        LINDSAY      N 2ND ST
+
+3/11/2015 23:59  IMPLIED CONSENT - CIVIL                                      MCKELLIPS      NATHAN       WATERCRESS DR
+
+3/12/2015 3:06   IMPLIED CONSENT - CIVIL                                      REFFEGEE       MICHAEL      CASH LN
+
+3/12/2015 3:00   IMPLIED CONSENT - CIVIL                                      MILLER         CHELSEA      MONSICELLO AVE
+
+3/12/2015 5:58   IMPLIED CONSENT - CRIMINAL                                   CARLTON        SHANNON      GRAYLYNN DR
+
+3/12/2015 0:58   INDECENT EXPOSURE                                            NEELEY         ALONZO       WEST END AVE
+
+3/12/2015 13:58  INTERFERENCE W/EMERGENCY CALL                                HOWARD         ANTELL       2ND AVE N
+
+3/12/2015 16:05  INTERFERENCE W/EMERGENCY CALL                                HALL           HARVENA      CHARLOTTE AVE
+
+3/12/2015 13:58  KIDNAPPING- AGG.- BODILY INJURY                              HOWARD         ANTELL       2ND AVE N
+
+3/12/2015 16:05  KIDNAPPING- AGG.- BODILY INJURY                              HALL           HARVENA      CHARLOTTE AVE
+
+2/25/2015 9:25   LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE                  AMADOR         MILTON       MURFREESBORO PIKE
+
+2/13/2015 12:05  LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE                  HALLUM         ALEXANDRIA   N 7TH ST
+
+                                                                     Page  8  of 12
+                                                                   Arrestee           Arrestee
+
+Arrest Date      Charge Description                                Last Name          First Name    Street
+
+3/12/2015 20:06  OBSTRUCTING A PASSAGEWAY                          MIDDLEBROOK        MICHEALANGLO  2ND AVE N
+
+3/12/2015 3:06   OPEN CONTAINER VIOL.                              REFFEGEE           MICHAEL       CASH LN
+
+3/12/2015 15:29  OPEN CONTAINER VIOL.                              MALDONADO-COLUNGA  FERNANDO      CANE RIDGE RD
+
+3/12/2015 9:20   ORDER OF PROTECTION/RESTRAINING ORDER  VIOLATION  ALFARO             NOE           TUSCULUM RD
+
+3/12/2015 19:57  ORDER OF PROTECTION/RESTRAINING ORDER  VIOLATION  WHITE              LARRY         LEWIS ST
+
+3/12/2015 19:57  ORDER OF PROTECTION/RESTRAINING ORDER  VIOLATION  WHITE              LARRY         LEWIS ST
+
+3/11/2015 21:54  PAROLE VIOLATION                                  BLUNKALL           WILLIAM       2ND AVE N
+
+3/12/2015 15:18  PAROLE VIOLATION                                  RAY                MORRIS        MERRY OAKS DR
+
+1/14/2015        POSS. OR CASUAL EXCHANGE-CONT.SUB.                HEATHERLY          CHARLES       DELTA AVE
+
+2/4/2015 2:40    POSS. OR CASUAL EXCHANGE-CONT.SUB.                GILBERT            TYNEACE       11TH AVE N
+
+2/5/2015 19:19   POSS. OR CASUAL EXCHANGE-CONT.SUB.                REDDEN             BRAUSHAUN     LEWIS ST
+
+2/13/2015 12:57  POSS. OR CASUAL EXCHANGE-CONT.SUB.                NAIR AMRITHESH     SAI           MCGAVOCK PIKE
+
+2/13/2015 18:12  POSS. OR CASUAL EXCHANGE-CONT.SUB.                STEELE             MICHAEL       GLENGARRY DR
+
+2/14/2015 0:37   POSS. OR CASUAL EXCHANGE-CONT.SUB.                SMITH              SHAVONYA      FAIRCLOTH LN
+
+2/14/2015 18:21  POSS. OR CASUAL EXCHANGE-CONT.SUB.                OCONNELL           JAMES         MAPLECREST DR
+
+2/18/2015 18:07  POSS. OR CASUAL EXCHANGE-CONT.SUB.                BROWN              DEANN         MURFREESBORO PIKE
+
+2/19/2015 9:10   POSS. OR CASUAL EXCHANGE-CONT.SUB.                WILLIAMS           JERMAINE      INDIANA AVE
+
+2/19/2015 11:35  POSS. OR CASUAL EXCHANGE-CONT.SUB.                CRUTCHFIELD        DANDRE        JUAREZ DR
+
+2/19/2015 11:34  POSS. OR CASUAL EXCHANGE-CONT.SUB.                SCOTT              COURTNEY      JUAREZ DR
+
+2/8/2015 13:00   POSS. OR CASUAL EXCHANGE-CONT.SUB.                WALLS              WALTER        CENTRAL PIKE
+
+2/8/2015 13:00   POSS. OR CASUAL EXCHANGE-CONT.SUB.                EADY               CHRISTY       CENTRAL PIKE
+
+2/13/2015 5:30   POSS. OR CASUAL EXCHANGE-CONT.SUB.                PATTON             KENNETH       CANNON ST
+
+2/13/2015 13:30  POSS. OR CASUAL EXCHANGE-CONT.SUB.                MCCLAIN            ERICKA        THOMAS AVE
+
+2/20/2015 15:15  POSS. OR CASUAL EXCHANGE-CONT.SUB.                JOHNSON            LARRY         LEWIS ST
+
+2/13/2015        POSS. OR CASUAL EXCHANGE-CONT.SUB.                THOMPSON           DERRICK       OLD HICKORY BLVD
+
+2/17/2015        POSS. OR CASUAL EXCHANGE-CONT.SUB.                MOUSSA             KHALEEL       SHACKLETT DR
+
+3/12/2015        POSS. OR CASUAL EXCHANGE-CONT.SUB.                LILLARD            MICHAEL       SHACKLETT DR
+
+2/17/2015        POSS. OR CASUAL EXCHANGE-CONT.SUB.                WHITE              RODNEY        CANNON ST
+
+2/18/2015        POSS. OR CASUAL EXCHANGE-CONT.SUB.                NORWOOD            DAWN          OLD HICKORY BLVD
+
+2/18/2015        POSS. OR CASUAL EXCHANGE-CONT.SUB.                HANNA              JAMES         OLD HICKORY BLVD
+
+3/11/2015 22:21  POSS. OR CASUAL EXCHANGE-CONT.SUB.                DORRIS             DARIUS        LENORE ST
+
+3/11/2015 22:21  POSS. OR CASUAL EXCHANGE-CONT.SUB.                DORRIS             DARIUS        LENORE ST
+
+3/12/2015 0:21   POSS. OR CASUAL EXCHANGE-CONT.SUB.                HOWARD             DEANDRE       CREEKWOOD DR
+
+                                                                   Page 9 of 12
+                                                                   Arrestee           Arrestee
+
+Arrest Date      Charge Description                                Last Name          First Name  Street
+
+3/3/2015         POSS. OR CASUAL EXCHANGE-CONT.SUB.                BATTLE             JEWELL      BRICK CHURCH
+
+3/3/2015         POSS. OR CASUAL EXCHANGE-CONT.SUB.                BATTLE             JEWELL      BRICK CHURCH
+
+3/12/2015 10:23  POSS. OR CASUAL EXCHANGE-CONT.SUB.                WOODS              CHARLES     CLAIBORNE ST
+
+3/12/2015 11:50  POSS. OR CASUAL EXCHANGE-CONT.SUB.                WATERS             CORIE       MAIN ST
+
+3/12/2015 11:25  POSS. OR CASUAL EXCHANGE-CONT.SUB.                CAULK              MATTHEW
+
+3/12/2015 12:44  POSS. OR CASUAL EXCHANGE-CONT.SUB.                BAIRD              STEVEN      2ND AVE N
+
+3/12/2015 14:52  POSS. OR CASUAL EXCHANGE-CONT.SUB.                MESSICK            KIMBERLY    N GALLATIN PIKE
+
+3/12/2015 14:52  POSS. OR CASUAL EXCHANGE-CONT.SUB.                MESSICK            KIMBERLY    N GALLATIN PIKE
+
+3/12/2015 14:52  POSS. OR CASUAL EXCHANGE-CONT.SUB.                MESSICK            KIMBERLY    N GALLATIN PIKE
+
+3/12/2015 14:49  POSS. OR CASUAL EXCHANGE-CONT.SUB.                RIVERA-TORRES      GIOVANI     CANE RIDGE RD
+
+3/12/2015 15:29  POSS. OR CASUAL EXCHANGE-CONT.SUB.                MALDONADO-COLUNGA  FERNANDO    CANE RIDGE RD
+
+3/12/2015 17:18  POSS. OR CASUAL EXCHANGE-CONT.SUB.                PARSONS            JASON       ALBION ST
+
+3/12/2015 17:26  POSS. OR CASUAL EXCHANGE-CONT.SUB.                AVERY              DWAYNE      HILLSIDE AVE
+
+3/12/2015 20:22  POSS. OR CASUAL EXCHANGE-CONT.SUB.                WINGO              JOHN        ORDWAY PL
+
+3/11/2015 22:03  POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR  CONV.  HAYES              BARRY       SCOVEL ST
+
+3/12/2015 17:19  POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR  CONV.  COOK               DALONTAE    HILLSIDE AVE
+
+3/12/2015 19:10  POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR  CONV.  HAYES              MAONDE      JAMES ROBERTSON  PKWY
+
+2/13/2015 18:15  POSS. W/O PRESCRIPTION, LEGEND DRUGS              STEELE             MICHAEL     GLENGARRY DR
+
+2/15/2015 17:06  POSS. W/O PRESCRIPTION, LEGEND DRUGS              PETROSSIAN         MATHEW      DONELSON PIKE
+
+3/12/2015 17:18  POSS. W/O PRESCRIPTION, LEGEND DRUGS              PARSONS            JASON       ALBION ST
+
+3/12/2015 17:18  POSS.W/INT-CONT.SUB.- SCH. III                    PARSONS            JASON       ALBION ST
+
+3/12/2015 17:18  POSS.W/INT-CONT.SUB.- SCH. IV                     PARSONS            JASON       ALBION ST
+
+3/12/2015 5:58   PROB VIOLATION SEE MIS                            CARLTON            SHANNON     GRAYLYNN DR
+
+3/12/2015 5:58   PROB VIOLATION SEE MIS                            CARLTON            SHANNON     GRAYLYNN DR
+
+3/12/2015 3:14   PROBATION VIOLATION- FELONY                       GARDNER            REGINALD    LAFAYETTE ST
+
+3/11/2015 21:51  PROBATION VIOLATION- FELONY                       CATO               DALLAS      2ND AVE N
+
+3/12/2015 14:20  PROBATION VIOLATION- FELONY                       RICH               TERRA       2ND AVE N
+
+3/11/2015 23:53  PROBATION VIOLATION- MISDEMEANOR                  REDDEN             MARK        HARDING PL
+
+3/12/2015 0:05   PROBATION VIOLATION- MISDEMEANOR                  FAYNE              ANDRE       JAMES ROBERTSON  PKWY
+
+3/12/2015 0:05   PROBATION VIOLATION- MISDEMEANOR                  FAYNE              ANDRE       JAMES ROBERTSON  PKWY
+
+3/10/2015 19:10  PROBATION VIOLATION- MISDEMEANOR                  HORNE              CIMIAN      2ND AVE N
+
+3/12/2015 9:16   PROBATION VIOLATION- MISDEMEANOR                  WILLIAMS           DARNELL     2ND AVE N
+
+3/12/2015 9:58   PROBATION VIOLATION- MISDEMEANOR                  WRIGHT             ERIC        2ND AVE N
+
+                                                                   Page 10 of 12
+                                                                 Arrestee       Arrestee
+
+Arrest Date      Charge Description                              Last Name      First Name  Street
+
+3/12/2015 9:58   PROBATION VIOLATION- MISDEMEANOR                WRIGHT         ERIC        2ND AVE N
+
+3/12/2015 11:33  PROBATION VIOLATION- MISDEMEANOR                JONES          WHITNEY     2ND AVE N
+
+3/12/2015 13:30  PROBATION VIOLATION- MISDEMEANOR                BEATY          RYAN        2ND AVE N
+
+3/12/2015 17:21  PROBATION VIOLATION- MISDEMEANOR                BILLS          LARRISSA    2ND AVE S
+
+3/12/2015 21:44  PROBATION VIOLATION- MISDEMEANOR                HENDRICKS      NICHOLAS    DICKERSON PIKE
+
+3/12/2015 21:44  PROBATION VIOLATION- MISDEMEANOR                HENDRICKS      NICHOLAS    DICKERSON PIKE
+
+3/11/2015 23:33  PUBLIC INTOXICATION                             MOORE          DENNIS      2ND AVE N
+
+3/12/2015 0:21   PUBLIC INTOXICATION                             HOWARD         DEANDRE     CREEKWOOD DR
+
+3/12/2015 0:34   PUBLIC INTOXICATION                             HUDDLESTON     ANTONIO     GALLATIN AVE
+
+3/12/2015 1:36   PUBLIC INTOXICATION                             MEARA          THOMAS      12TH AVE S
+
+3/12/2015 1:48   PUBLIC INTOXICATION                             RAMSEY         NICHOLAS    BROADWAY
+
+3/12/2015 3:20   PUBLIC INTOXICATION                             LATHAM         RICHARD     5TH AVE S
+
+3/12/2015 7:44   PUBLIC INTOXICATION                             BAIN           RAYMOND     FAIRWIN AVE
+
+3/12/2015 10:38  PUBLIC INTOXICATION                             WEST           DANNY       MURFREESBORO PIKE
+
+3/12/2015 13:12  PUBLIC INTOXICATION                             RICE           ROGER       NOLENSVILLE PIKE
+
+3/12/2015 15:05  PUBLIC INTOXICATION                             HIGGINS        SHARON      10TH AVE N
+
+3/12/2015 16:39  PUBLIC INTOXICATION                             LUNKENHEIMER   DALE        BROADWAY
+
+3/12/2015 20:57  PUBLIC INTOXICATION                             PAISLEY        WILLIAM     MIDDLETON ST
+
+3/12/2015 21:33  PUBLIC INTOXICATION                             SEYMORE        JACKIE      CHARLOTTE AVE
+
+2/9/2015 9:20    RECKLESS DRIVING                                TOWNSEND       DEON        I 40 E
+
+2/13/2015        RECKLESS DRIVING                                RAMAZAN        ARAS
+
+3/12/2015 1:48   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  RAMSEY         NICHOLAS    BROADWAY
+
+3/12/2015 5:58   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  CARLTON        SHANNON     GRAYLYNN DR
+
+3/12/2015 20:22  SALE - CONT.SUB.-SCH. I                         WINGO          JOHN        ORDWAY PL
+
+3/12/2015 10:24  SEX OFFENDER REGISTRATION VIOL.-1ST OFFENSE     LITTLEFIELD    DONALD      OLD HICKORY BLVD
+
+3/12/2015 11:11  SEX OFFENDER REGISTRATION VIOL.-1ST OFFENSE     LAWRENCE       JOHN        PECAN ST
+
+2/5/2015 21:17   THEFT OF MERCHANDISE - $500 OR LESS             STARNES        OMNI        N GALLATIN PIKE
+
+2/17/2015 19:28  THEFT OF MERCHANDISE - $500 OR LESS             MORGAN         JOSHUA      RURAL HILL RD
+
+2/18/2015 12:28  THEFT OF MERCHANDISE - $500 OR LESS             CROWELL        RAVONDA     JACKSON DOWNS BLVD
+
+3/10/2015 2:06   THEFT OF MERCHANDISE - $500 OR LESS             HARTMAN        TRENTON     HAMILTON CHURCH RD
+
+3/12/2015 14:15  THEFT OF MERCHANDISE - $500 OR LESS             HATCHER        JENNIFER    N GALLATIN PIKE
+
+3/12/2015 14:05  THEFT OF MERCHANDISE - $500 OR LESS             MESSICK        JUSTIN      N GALLATIN PIKE
+
+3/12/2015 14:52  THEFT OF MERCHANDISE - $500 OR LESS             MESSICK        KIMBERLY    N GALLATIN PIKE
+
+                                                                 Page 11 of 12
+                                                                     Arrestee           Arrestee
+
+Arrest Date      Charge Description                                  Last Name          First Name  Street
+
+3/12/2015 18:38  THEFT OF MERCHANDISE - $500 OR LESS                 WINFIELD           BRIAN       NOLENSVILLE PIKE
+
+3/12/2015 19:11  THEFT OF MERCHANDISE - $500 OR LESS                 HOWSE              LAMONICA    N GALLATIN PIKE
+
+3/12/2015 19:11  THEFT OF MERCHANDISE - $500 OR LESS                 HOWSE              LAMONICA    N GALLATIN PIKE
+
+3/12/2015 19:11  THEFT OF MERCHANDISE - $500 OR LESS                 HOWSE              LAMONICA    N GALLATIN PIKE
+
+3/12/2015 17:56  THEFT OF MERCHANDISE - $500 OR LESS                 RUCKER             JESSICA     N GALLATIN PIKE
+
+3/12/2015 17:56  THEFT OF MERCHANDISE - $500 OR LESS                 RUCKER             JESSICA     N GALLATIN PIKE
+
+3/12/2015 17:56  THEFT OF MERCHANDISE - $500 OR LESS                 RUCKER             JESSICA     N GALLATIN PIKE
+
+3/12/2015 20:13  THEFT OF MERCHANDISE - $500 OR LESS                 HILL               NITCHELLE   DICKERSON PIKE
+
+3/12/2015 18:51  THEFT OF PROPERTY- $1,000 OR GT, LT $10,000         RANKIN             DELLA       LEBANON PIKE
+
+3/12/2015 19:57  THEFT OF PROPERTY- $1,000 OR GT, LT $10,000         WHITE              LARRY       LEWIS ST
+
+2/19/2015 11:30  THEFT OF PROPERTY- $500 OR LESS                     CRUTCHFIELD        DANDRE      JUAREZ DR
+
+2/21/2015        THEFT OF PROPERTY- $500 OR LESS                     BAKY               NADIA       MURFREESBORO PIKE
+
+3/12/2015 15:29  UNL. REMOVAL OF PLATE DECAL                         MALDONADO-COLUNGA  FERNANDO    CANE RIDGE RD
+
+3/12/2015 1:39   VANDALISM- $500 OR LESS                             WOODRUFF           ERIC        STRAIGHTWAY AVE
+
+3/12/2015 9:36   VANDALISM- $500 OR LESS                             TODD               JALISSIA    BETHWOOD DR
+
+3/12/2015 10:04  VANDALISM- $500 OR LESS                             CAMACHO            MARIO       2ND AVE
+
+3/12/2015 15:30  VANDALISM- $500 OR LESS                             STITH              JOHN        ARBOR RIDGE DR
+
+3/12/2015 0:21   VANDALISM- GT $500, LT $1,000                       TEAGUE             THOMAS      BUENA VISTA PIKE
+
+3/12/2015 0:21   Weapon - Felon-Poss-Firearm (Force,Violence,Deadly  TEAGUE             THOMAS      BUENA VISTA PIKE
+
+3/12/2015 7:10   WEAPON - HANDGUN                                    MARLING            NOLAN       ONE TERMINAL DRIVE
+
+3/12/2015 17:26  WEAPON - HANDGUN                                    AVERY              DWAYNE      HILLSIDE AVE
+
+3/12/2015 17:10  WORTHLESS CHECK- ($300 - $500)                      BLACKWELL          DEATRICE    SHELBY AVE
+
+                                                                     Page 12 of 12
