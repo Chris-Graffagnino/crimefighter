@@ -11,6 +11,8 @@ class Crimes(models.Model):
     first_name = models.CharField(max_length=50)
     location = models.CharField(max_length=50, blank=True)
 
+    class Meta:
+        verbose_name_plural = "crimes"
 
 
 class TaskHistory(models.Model):
