@@ -1,0 +1,268 @@
+                                                                  Arrestee      Arrestee
+
+Arrest Date      Charge Description                               Last Name     First Name  Street
+
+3/22/2015 0:50   ALCOHOL- UNDER 21, CONSUMPTION                   THOMPSON      JOHN        CROSSINGS PL
+
+3/22/2015 8:32   ASSAULT OF OFFICER - BODILY INJURY               NEWSOM        TYQUEZE     S 6TH ST
+
+3/20/2015 9:08   ASSAULT OF OFFICER - OFFENSIVE CONTACT           MAEN          MUSTAFA     HAMILTON CHURCH RD
+
+3/21/2015 23:58  ASSAULT, AGG SERIOUS BODILY INJURY- INT/KN       JACKSON       OLIVIA      15TH AVE N
+
+3/22/2015 1:36   ASSAULT, AGG SERIOUS BODILY INJURY- INT/KN       BAILEY        JOSHUA
+
+3/22/2015 20:36  ASSAULT, AGG SERIOUS BODILY INJURY- INT/KN       WILSON        ERICA       E OLD HICKORY BLVD
+
+3/21/2015 22:41  Assault, Aggravated - Deadly Weapon - Int/Kn     ANDERSON      JACQUELINE  ELM HILL PIKE
+
+3/22/2015 1:36   Assault, Aggravated - Deadly Weapon - Int/Kn     BAILEY        JOSHUA
+
+3/22/2015 1:47   Assault, Aggravated - Deadly Weapon - Int/Kn     HOWARD        KIMBERLY    MURFREESBORO PIKE
+
+3/22/2015 20:36  Assault, Aggravated - Deadly Weapon - Int/Kn     WILSON        ERICA       E OLD HICKORY BLVD
+
+3/22/2015 1:53   Assault, Aggravated - Strangulation - Int/Kn     ZUNIGA        JAIME       CHEYENNE BLVD
+
+3/21/2015 23:55  ASSAULT, DOMESTIC BODILY INJURY                  MURPHY        GRASINDRA   STOKERS LN
+
+3/22/2015 3:02   ASSAULT, DOMESTIC BODILY INJURY                  TAYLOR        ANDRE       SHARPE AVE
+
+3/22/2015 3:06   ASSAULT, DOMESTIC BODILY INJURY                  FUQUA         SANDRA      SHARPE AVE
+
+3/22/2015 3:26   ASSAULT, DOMESTIC BODILY INJURY                  ROBINSON      DANIELLE    CLIFF DR
+
+3/22/2015 8:32   ASSAULT, DOMESTIC BODILY INJURY                  NEWSOM        TYQUEZE     S 6TH ST
+
+3/22/2015 18:03  ASSAULT, DOMESTIC BODILY INJURY                  CHEATHAM      KEVIN       BOOKER ST
+
+3/22/2015 20:55  ASSAULT, DOMESTIC BODILY INJURY                  BROWN         CODY        WHITE BRIDGE PIKE
+
+3/22/2015 8:47   ASSAULT, DOMESTIC FEAR OF BODILY INJURY          SWOPES        BEN         NOLENSVILLE PIKE
+
+3/22/2015 9:49   ASSAULT, DOMESTIC FEAR OF BODILY INJURY          TAMIRU        AMSALE      HICKORY HOLLOW TER
+
+3/22/2015 2:46   ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  LEMUS         BRITTAINY   XAVIER DR
+
+3/22/2015 11:51  ASSAULT, DOMESTIC, BODILY INJURY 2ND OFFENSE     JACKSON       MARQUISHA   3RD AND JAMES ROBERTSON  P
+
+3/22/2015 12:33  ASSAULT, DOMESTIC, BODILY INJURY 2ND OFFENSE     MCDANIEL      CODY        MEADE AVE
+
+3/22/2015 3:25   ASSAULT-BODILY INJURY                            CAMPBELL      MICHELLE    CLIFF DR
+
+3/22/2015 3:26   ASSAULT-BODILY INJURY                            ROBINSON      DANIELLE    CLIFF DR
+
+3/22/2015 19:52  ASSAULT-BODILY INJURY                            WILSON        JASMINE     LENA ST
+
+3/22/2015 1:47   BURGLARY- AGGRAVATED                             HOWARD        KIMBERLY    MURFREESBORO PIKE
+
+3/22/2015 3:25   BURGLARY- AGGRAVATED                             CAMPBELL      MICHELLE    CLIFF DR
+
+3/20/2015 9:08   CONTRABAND IN PENAL INSTITUTION-POSSESSION       MAEN          MUSTAFA     HAMILTON CHURCH RD
+
+3/22/2015 20:55  CONTRABAND IN PENAL INSTITUTION-POSSESSION       ESPINAL-BACA  DAYRON      HARDING PL
+
+3/22/2015 0:24   CRIMINAL TRESPASS                                KELLY         KARON       LAFAYETTE ST
+
+3/22/2015 1:27   CRIMINAL TRESPASS                                CAIN          KUYVONTA    S 7TH ST
+
+3/22/2015 1:56   CRIMINAL TRESPASS                                HOLLAND       BRIAN       28TH AVE S
+
+                                                                  Page 1 of 4
+                                                                  Arrestee      Arrestee
+
+Arrest Date      Charge Description                               Last Name     First Name  Street
+
+3/22/2015 1:56   CRIMINAL TRESPASS                                NELSON        KYLE        28TH AVE S
+
+3/22/2015 8:46   CRIMINAL TRESPASS                                BROWN         JEREMY      CHURCH ST
+
+3/22/2015 17:09  CRIMINAL TRESPASS                                SMITH         WILLIAM     NOLENSVILLE PIKE
+
+3/22/2015 1:20   DRIV. LIC. - NO D/L                              HOWARD        COREY       EDMONDSON PIKE
+
+3/22/2015 2:59   DRIV. LIC. - NO D/L                              MOCTEZUMA     JUAN        BELL RD
+
+3/22/2015 4:40   DRIV. LIC. - NO D/L                              SILVESTRE     FELIPE      BRILEY PKWY S
+
+3/22/2015 13:59  DRIV. LIC. - NO D/L                              MIKITA        JOSEPH      LONG HOLLOW PIKE
+
+3/22/2015 20:55  DRIV. LIC. - NO D/L                              ESPINAL-BACA  DAYRON      HARDING PL
+
+3/22/2015 17:35  DRIV. LIC. - POSS. OF REVOKED, SUSP. OR ALTERED  WAHL          JOEL        INTERSTATE DR
+
+10/19/2014 2:41  DRIVING- REVOKED LICENSE                         RUSSELL       TROY        14TH AVE S
+
+3/21/2015 20:30  DRIVING- REVOKED LICENSE                         JENKINS       JEROME      INTERSTATE DR
+
+3/22/2015 1:55   DRIVING- REVOKED LICENSE                         PORTER        MALLORY     CLARKSVILLE PIKE
+
+3/22/2015 17:35  DRIVING- REVOKED LICENSE                         WAHL          JOEL        INTERSTATE DR
+
+2/10/2015 21:35  DRIVING- SUSPENDED LICENSE                       HERNDON       GARRETT     HARDING PL
+
+3/22/2015 6:15   DRIVING- SUSPENDED LICENSE                       WINTERS       KRISTEN     DICKERSON PIKE
+
+3/21/2015 22:52  DRIVING UNDER THE INFLUENCE                      FOSTER        MICHAEL     DICKERSON PIKE
+
+3/21/2015 23:00  DRIVING UNDER THE INFLUENCE                      CHEAIRS       HOSEA       HICKORY HOLLOW PKWY
+
+3/22/2015 0:50   DRIVING UNDER THE INFLUENCE                      THOMPSON      JOHN        CROSSINGS PL
+
+3/21/2015 23:54  DRIVING UNDER THE INFLUENCE                      BRANDON       JOSHUA      S 1ST ST
+
+3/22/2015 1:36   DRIVING UNDER THE INFLUENCE                      SHELTON       GARY        ANTIOCH PIKE
+
+3/22/2015 1:55   DRIVING UNDER THE INFLUENCE                      PORTER        MALLORY     CLARKSVILLE PIKE
+
+3/22/2015 1:43   DRIVING UNDER THE INFLUENCE                      GATES         STEVEN      WEST END AVE
+
+3/22/2015 2:06   DRIVING UNDER THE INFLUENCE                      COBB          MATTHEW     VIETNAM VETERANS BLVD
+
+3/22/2015 2:44   DRIVING UNDER THE INFLUENCE                      KARPER        SARAH       MUSIC SQ E
+
+3/22/2015 2:59   DRIVING UNDER THE INFLUENCE                      MOCTEZUMA     JUAN        BELL RD
+
+3/22/2015 6:15   DRIVING UNDER THE INFLUENCE                      WINTERS       KRISTEN     DICKERSON PIKE
+
+3/22/2015 4:50   DRIVING UNDER THE INFLUENCE                      THOMPSON      CHAD        HWY 70/I 40
+
+3/22/2015 8:28   DRIVING UNDER THE INFLUENCE                      HALEY         JACOB       DONELSON / I40 W ENTRANCE
+
+3/22/2015 17:35  DRIVING UNDER THE INFLUENCE                      WAHL          JOEL        INTERSTATE DR
+
+3/20/2015 9:08   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE        MAEN          MUSTAFA     HAMILTON CHURCH RD
+
+3/21/2015 20:30  DRIVING UNDER THE INFLUENCE - 2ND OFFENSE        JENKINS       JEROME      INTERSTATE DR
+
+3/22/2015 4:40   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE        SILVESTRE     FELIPE      BRILEY PKWY S
+
+3/22/2015 2:39   DRUG PARAPHERNALIA- UNLAWFUL USE                 JORDAN        GEORGE      CLIFTON AVE
+
+                                                                  Page 2 of 4
+                                                                     Arrestee     Arrestee
+
+Arrest Date      Charge Description                                  Last Name    First Name   Street
+
+3/22/2015 0:38   EVADING ARREST- MISDEMEANOR                         GILBERT      ISSAC        JONES AVE
+
+3/22/2015 0:45   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  JELKS        KEITH        N GALLATIN PIKE
+
+3/22/2015 1:20   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  HOWARD       COREY        EDMONDSON PIKE
+
+3/22/2015 1:56   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  JOHNSON      ISAAC        PORT HOPE CT
+
+3/22/2015 4:20   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  THORPE       JAMES        LOVE JOY CT
+
+3/22/2015 4:28   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  MCCORD       DONEISHA     N 6TH ST
+
+3/22/2015 8:02   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  MORTON       ANTANYKA     S 7TH ST
+
+3/22/2015 8:25   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  GONNER       DEMARCUS     LEISURE CT
+
+3/22/2015 15:34  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  SANFORD      KIMBERLY     JAMES ROBERTSON PKWY
+
+3/22/2015 19:30  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  SCULLY       CHRISTOPHER  RUTHERFORD CO. WORK HOUSE
+
+3/22/2015 1:36   FAILURE TO BE BOOKED                                BAILEY       JOSHUA
+
+3/22/2015 9:01   FAILURE TO BE BOOKED                                RUSSELL      TROY         N NATCHEZ CT
+
+3/22/2015 10:11  FAILURE TO BE BOOKED                                HERNDON      GARRETT      WALLACE RD
+
+3/22/2015 14:53  FAILURE TO BE BOOKED                                GORDON       ROGER        JAMES ROBERTSON PKWY
+
+3/22/2015 19:36  FAILURE TO BE BOOKED                                TIDWELL      MATTHEW      FRANKLIN PIKE
+
+3/22/2015 15:12  FUGITIVE FROM JUSTICE- WITH WARRANT                 BATTOE       CHRISTOPHER  DICKERSON PIKE
+
+3/22/2015 6:03   HOMICIDE- CRIMINAL                                  FAULK        DAVID        LEBANON PIKE
+
+3/22/2015 11:34  HOMICIDE- CRIMINAL                                  HEARD        BRIDGETT     TENNESSEE AVE
+
+3/21/2015 22:52  IMPLIED CONSENT - CIVIL                             FOSTER       MICHAEL      DICKERSON PIKE
+
+3/22/2015 0:50   IMPLIED CONSENT - CIVIL                             THOMPSON     JOHN         CROSSINGS PL
+
+3/21/2015 23:54  IMPLIED CONSENT - CIVIL                             BRANDON      JOSHUA       S 1ST ST
+
+3/22/2015 1:36   IMPLIED CONSENT - CIVIL                             SHELTON      GARY         ANTIOCH PIKE
+
+3/22/2015 1:43   IMPLIED CONSENT - CIVIL                             GATES        STEVEN       WEST END AVE
+
+3/22/2015 2:06   IMPLIED CONSENT - CIVIL                             COBB         MATTHEW      VIETNAM VETERANS BLVD
+
+3/22/2015 4:50   IMPLIED CONSENT - CIVIL                             THOMPSON     CHAD         HWY 70/I 40
+
+3/21/2015 20:30  IMPLIED CONSENT - CRIMINAL                          JENKINS      JEROME       INTERSTATE DR
+
+3/22/2015 1:55   IMPLIED CONSENT - CRIMINAL                          PORTER       MALLORY      CLARKSVILLE PIKE
+
+3/22/2015 20:55  INTERFERENCE W/EMERGENCY CALL                       BROWN        CODY         WHITE BRIDGE PIKE
+
+3/22/2015 2:59   LEAVING THE SCENE OF AN ACC. W/PERS. INJURY         MOCTEZUMA    JUAN         BELL RD
+
+3/22/2015 19:10  ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION     ALEXANDER    CLIFTON      S GALLATIN PIKE
+
+2/13/2015 2:25   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  BAILEY       JOSHUA       12TH AVE S
+
+2/18/2015 15:58  POSS. OR CASUAL EXCHANGE-CONT.SUB.                  GORDON       ROGER        N 11TH ST
+
+3/22/2015 0:45   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  JELKS        KEITH        N GALLATIN PIKE
+
+                                                                     Page 3 of 4
+                                                                  Arrestee       Arrestee
+
+Arrest Date      Charge Description                               Last Name      First Name  Street
+
+3/22/2015 13:59  POSS. OR CASUAL EXCHANGE-CONT.SUB.               MIKITA         JOSEPH      LONG HOLLOW PIKE
+
+3/22/2015 2:39   POSS. OR CASUAL EXCHANGE-CONT.SUB.- PRIOR CONV.  JORDAN         GEORGE      CLIFTON AVE
+
+3/22/2015 0:38   PROBATION VIOLATION- FELONY                      GILBERT        ISSAC       JONES AVE
+
+3/22/2015 20:47  PROBATION VIOLATION- FELONY                      SMITH          WILLIAM     PRINCE AVE
+
+3/22/2015 11:51  PROBATION VIOLATION- MISDEMEANOR                 JACKSON        MARQUISHA   3RD AND JAMES ROBERTSON  P
+
+3/22/2015 11:51  PROBATION VIOLATION- MISDEMEANOR                 JACKSON        MARQUISHA   3RD AND JAMES ROBERTSON  P
+
+3/21/2015 23:22  PUBLIC INTOXICATION                              FRANCIS        CHARLES     2ND AVE S
+
+3/22/2015 0:24   PUBLIC INTOXICATION                              KELLY          KARON       LAFAYETTE ST
+
+3/22/2015 2:27   PUBLIC INTOXICATION                              WILLIAMS       LACOREY     BROADWAY
+
+3/22/2015 3:55   PUBLIC INTOXICATION                              MELTON         ANTHONY     BROADWAY
+
+3/22/2015 5:16   PUBLIC INTOXICATION                              KERWOOD        AARON       DONELSON PIKE
+
+3/22/2015 8:46   PUBLIC INTOXICATION                              BROWN          JEREMY      CHURCH ST
+
+3/22/2015 17:14  PUBLIC INTOXICATION                              ROHRBACH       ANDREW      FAIRFIELD AVE
+
+3/22/2015 17:09  PUBLIC INTOXICATION                              SMITH          WILLIAM     NOLENSVILLE PIKE
+
+3/22/2015 17:52  PUBLIC INTOXICATION                              SIMMONS        STEVEN      2ND AVE S
+
+3/22/2015 18:05  PUBLIC INTOXICATION                              SEALE          ALLEN       DIVISION ST
+
+3/22/2015 1:27   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH   CAIN           KUYVONTA    S 7TH ST
+
+3/22/2015 8:32   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH   NEWSOM         TYQUEZE     S 6TH ST
+
+3/22/2015 4:53   THEFT OF PROPERTY- GT $500, LT $1,000            WEEKS          DELANDIS    2ND AVE N
+
+3/22/2015 1:53   VANDALISM- $500 OR LESS                          ZUNIGA         JAIME       CHEYENNE BLVD
+
+3/22/2015 3:25   VANDALISM- $500 OR LESS                          CAMPBELL       MICHELLE    CLIFF DR
+
+3/22/2015 20:55  VANDALISM- $500 OR LESS                          BROWN          CODY        WHITE BRIDGE PIKE
+
+3/22/2015 3:26   VANDALISM- $1,000 OR GT, LT $10,000              ROBINSON       DANIELLE    CLIFF DR
+
+3/22/2015 17:42  VANDALISM- GT $500, LT $1,000                    SMITH          WILLIAM     VALLEY GROVE DR
+
+3/22/2015 13:18  VEHICLE THEFT - $1,000 OR GT, LT $10,000         TAYLOR-YANCEY  MARILYN     OLD HICKORY BLVD
+
+                                                                  Page 4 of 4

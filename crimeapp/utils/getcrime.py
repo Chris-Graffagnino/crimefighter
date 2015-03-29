@@ -37,7 +37,7 @@ def get_first_pdf_link(html_text):
     """
     lines = html_text.split("\n")
     target = re.compile(r'^\s+<li><a href="/Portals/0/SiteContent/Police/docs/Media/Daily')
-    most_recent_arrests = [line.strip()  for line in lines if re.match(target, line)][0]
+    most_recent_arrests = [line.strip()  for line in lines if re.match(target, line)][2]
     end_of_link = string.find(most_recent_arrests, '">')
 
     return "http://www.nashville.gov{}".format(most_recent_arrests[13: end_of_link])
