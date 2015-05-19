@@ -1,0 +1,433 @@
+                                                                    Arrestee     Arrestee
+
+Arrest Date     Charge Description                                  Last Name    First Name   Street
+
+5/9/2015 17:11  ALCOHOL- UNDER 21, CONSUMPTION                      MADDEN       PATRICK      OLD HICKORY BLVD
+
+5/8/2015 18:17  ASSAULT- FEAR OF BODILY INJURY                      SIMMONS      GREGORY      SHADOWOOD DR
+
+5/8/2015 22:04  ASSAULT- FEAR OF BODILY INJURY                      DEGRYSE      BRIEN        OLD HICKORY BLVD
+
+5/8/2015 22:04  ASSAULT- FEAR OF BODILY INJURY                      DEGRYSE      BRIEN        OLD HICKORY BLVD
+
+5/8/2015 21:32  ASSAULT OFFICER -AGG - SERIOUS BODILY INJ - INT/KN  SCOTT        JIMMY        MAPLE ST
+
+5/8/2015 22:04  Assault, Aggravated - Deadly Weapon - Int/Kn        DEGRYSE      BRIEN        OLD HICKORY BLVD
+
+5/8/2015 22:04  Assault, Aggravated - Deadly Weapon - Int/Kn        DEGRYSE      BRIEN        OLD HICKORY BLVD
+
+5/8/2015 23:33  Assault, Aggravated - Deadly Weapon - Int/Kn        WALLACE      ADAM         JUSTIN TOWNE CT
+
+5/9/2015 4:28   Assault, Aggravated - Deadly Weapon - Int/Kn        PICKETT      DEZZION      MAPLE PL
+
+5/8/2015 21:04  ASSAULT, AGGRAVATED - STRANGULATION-INT/KN          FIELDS       SAMUEL       25TH AVE N
+
+5/8/2015 16:46  ASSAULT, DOMESTIC BODILY INJURY                     THOMAS       DANYELLE     WHISPERING HILLS DR
+
+5/9/2015 1:54   ASSAULT, DOMESTIC BODILY INJURY                     STOKES       GARY         ANTIOCH PIKE
+
+5/9/2015 2:34   ASSAULT, DOMESTIC BODILY INJURY                     TAYLOR       DARRELL
+
+5/9/2015 11:23  ASSAULT, DOMESTIC BODILY INJURY                     SMITH        CHRISTOPHER  EWING DR
+
+5/9/2015 11:58  ASSAULT, DOMESTIC BODILY INJURY                     PERRIN       VICTOR       GREEN ST
+
+5/9/2015 21:24  ASSAULT, DOMESTIC BODILY INJURY                     JENKINS      KARDEDREA    CENTRAL PIKE
+
+5/8/2015 18:50  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             KOPULOS      JAMIE        WALTON LN
+
+5/8/2015 21:20  ASSAULT, DOMESTIC FEAR OF BODILY INJURY             SARTAIN      CODY         E MAPLE ST
+
+5/9/2015 2:37   ASSAULT, DOMESTIC FEAR OF BODILY INJURY             HUTCHERSON   MICHAEL      1206 BUBBLING WELL   RD
+
+5/8/2015 23:21  ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     JONES        DETERIO      N 12TH ST
+
+5/9/2015 14:08  ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT     MASON        DWANNA       12TH AVE S
+
+5/9/2015 18:07  ASSAULT-BODILY INJURY                               BINGHAM      JOHNNY       HARDING PL
+
+5/8/2015 18:17  BURGLARY- AGGRAVATED                                SIMMONS      GREGORY      SHADOWOOD DR
+
+5/9/2015 4:28   BURGLARY- AGGRAVATED                                PICKETT      DEZZION      MAPLE PL
+
+5/9/2015 0:10   CHILD NEGLECT - CHILD 8 OR LESS                     RUSSELL      TAMESHA      N DUPONT AVE
+
+5/9/2015 8:54   CONTEMPT-CONDITIONAL BOND RELEASE VIOLATION         BRATTON      LAURIE       GREENWOOD AVE
+
+5/8/2015 22:02  CONTRABAND IN PENAL INSTITUTION-POSSESSION          BIRDSONG     JAMES        JEFFERSON ST
+
+5/9/2015 16:20  CONTRABAND IN PENAL INSTITUTION-POSSESSION          PETERS       CAMPBELL     OLD HICKORY BLVD
+
+2/10/2015       CRIMINAL TRESPASS                                   LANGFORD     JENNIE       DIVISION ST
+
+5/8/2015 22:02  CRIMINAL TRESPASS                                   BIRDSONG     JAMES        JEFFERSON ST
+
+5/8/2015 22:56  CRIMINAL TRESPASS                                   PHAM         KIEM         MIDDLETON ST
+
+5/8/2015 23:53  CRIMINAL TRESPASS                                   BLAISE       BRENT        N 1ST ST
+
+5/9/2015 0:10   CRIMINAL TRESPASS                                   TIDWELL      LISA         N 1ST ST
+
+                                                                    Page 1 of 7
+                                                                  Arrestee        Arrestee
+
+Arrest Date      Charge Description                               Last Name       First Name   Street
+
+5/9/2015 4:29    CRIMINAL TRESPASS                                WILLIAMS        RICHARD      1ST AVE N
+
+5/9/2015 4:41    CRIMINAL TRESPASS                                HORNER          ROBIN        1ST AVE N
+
+5/8/2015 22:04   DISORDERLY CONDUCT                               DEGRYSE         BRIEN        OLD HICKORY BLVD
+
+5/9/2015 15:30   DISORDERLY CONDUCT                               GEHLE           ERICA        OLD HICKORY BLVD
+
+5/9/2015 18:07   DISORDERLY CONDUCT                               BINGHAM         JOHNNY       HARDING PL
+
+5/9/2015 18:40   DISORDERLY CONDUCT                               JOHNSON         TERESA       OLD HICKORY BLVD
+
+5/8/2015 22:03   DRIV. LIC. - NO D/L                              MEJIA           RUBEN        CHARLOTTE PIKE
+
+5/9/2015 5:19    DRIV. LIC. - NO D/L                              GILMER          RICKY        RANDY RD
+
+5/9/2015 16:25   DRIV. LIC. - NO D/L                              MARTINEZ        JOSE         MURFREESBORO PIKE
+
+4/1/2015 16:01   DRIV. LIC. - POSS. OF REVOKED, SUSP. OR ALTERED  ALLEN           SAMUEL       I 24 E
+
+5/9/2015 21:36   DRIV. LIC. - POSS. OF REVOKED, SUSP. OR ALTERED  SADDLER         DONNA        CHURCH ST
+
+4/6/2015 11:35   DRIVING- REVOKED LICENSE                         SHIELDS         CLINT        FOSTER AVE
+
+4/7/2015 17:55   DRIVING- REVOKED LICENSE                         FOXX            KEYONDRA     LAFAYETTE ST
+
+5/8/2015 16:28   DRIVING- REVOKED LICENSE                         HAGAN           CHRISTOPHER  LAFAYETTE ST
+
+5/9/2015 1:45    DRIVING- REVOKED LICENSE                         GIBSON          LEO          S 17TH ST
+
+5/9/2015 15:38   DRIVING- REVOKED LICENSE                         YOUSSEF         KEROLOS      BELL RD
+
+5/9/2015 21:30   DRIVING- REVOKED LICENSE                         HARDIN          TITUS        CLEVELAND ST
+
+5/9/2015 21:25   DRIVING- REVOKED LICENSE                         HUNNICUTT       PHILLIP      DONELSON PIKE
+
+5/8/2015 22:44   DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT      MANDINKA        JIHAD        DICKERSON PIKE
+
+6/23/2014 21:20  DRIVING- SUSPENDED LICENSE                       KING            RAYMOND      BELLSHIRE DR
+
+7/15/2014 10:13  DRIVING- SUSPENDED LICENSE                       GRAY            ANZIO        BRILEY PKWY E
+
+3/14/2015 18:15  DRIVING- SUSPENDED LICENSE                       ALLEN           SAMUEL       E OLD HICKORY BLVD
+
+4/1/2015 16:01   DRIVING- SUSPENDED LICENSE                       ALLEN           SAMUEL       I 24 E
+
+5/9/2015 15:22   DRIVING- SUSPENDED LICENSE                       JONES           GREGORY      S 5TH ST
+
+5/9/2015 1:56    DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT    GRANT           RONALD       CLARKSVILLE PIKE
+
+5/8/2015 18:54   DRIVING UNDER THE INFLUENCE                      PAYNE           STEPHANIE    21ST AVE S
+
+5/8/2015 21:39   DRIVING UNDER THE INFLUENCE                      SMITH-KONIK     MARY         BELL RD
+
+5/8/2015 21:55   DRIVING UNDER THE INFLUENCE                      MOORE-WILLIAMS  TOYIA        2ND AVE S
+
+5/8/2015 23:45   DRIVING UNDER THE INFLUENCE                      AUSTIN          THOMAS       I 40 W
+
+5/9/2015 0:29    DRIVING UNDER THE INFLUENCE                      KIMBRO          ANDRIC       7TH AVE S
+
+5/9/2015 1:56    DRIVING UNDER THE INFLUENCE                      GRANT           RONALD       CLARKSVILLE PIKE
+
+5/9/2015 1:45    DRIVING UNDER THE INFLUENCE                      GIBSON          LEO          S 17TH ST
+
+5/9/2015 0:10    DRIVING UNDER THE INFLUENCE                      RUSSELL         TAMESHA      N DUPONT AVE
+
+                                                                  Page 2 of 7
+                                                                      Arrestee     Arrestee
+
+Arrest Date     Charge Description                                    Last Name    First Name  Street
+
+5/9/2015 4:16   DRIVING UNDER THE INFLUENCE                           COLE         CANDACE     N GALLATIN PIKE
+
+5/9/2015 3:30   DRIVING UNDER THE INFLUENCE                           DEWALT       WALLACE     MM 92 0 I65 S
+
+5/9/2015 5:29   DRIVING UNDER THE INFLUENCE                           RUGGIERO     DANIEL      N 11TH ST
+
+5/9/2015 5:19   DRIVING UNDER THE INFLUENCE                           GILMER       RICKY       RANDY RD
+
+5/9/2015 18:40  DRIVING UNDER THE INFLUENCE                           MOORE        WILSON      OLD HICKORY BLVD
+
+5/9/2015 21:30  DRIVING UNDER THE INFLUENCE                           YONKE        THEODORE
+
+5/8/2015 22:44  DRIVING UNDER THE INFLUENCE - 2ND OFFENSE             MANDINKA     JIHAD       DICKERSON PIKE
+
+5/9/2015 1:12   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE             REED         JOHN        EASTLAND AVE
+
+5/9/2015 2:21   DRIVING UNDER THE INFLUENCE - 3RD OFFENSE             JACKSON      MICHAEL     HWY 70 S
+
+5/9/2015 21:25  DRIVING UNDER THE INFLUENCE - 3RD OFFENSE             HUNNICUTT    PHILLIP     DONELSON PIKE
+
+5/9/2015 11:16  DRUG FREE NONSCH.ZONE-CONT.SUB.-SCH. IV               RUIZ         FIDEL       28TH AVE N
+
+4/6/2015 11:35  DRUG PARAPHERNALIA- UNLAWFUL USE                      SHIELDS      CLINT       FOSTER AVE
+
+4/6/2015 14:10  DRUG PARAPHERNALIA- UNLAWFUL USE                      KEYES        JOSEPH      61ST AVE N
+
+5/8/2015 21:32  DRUG PARAPHERNALIA- UNLAWFUL USE                      SCOTT        JIMMY       MAPLE ST
+
+5/8/2015 21:59  DRUG PARAPHERNALIA- UNLAWFUL USE                      FELTS        KENNETH     4424 LEBANON PIKE
+
+5/9/2015 3:42   DRUG PARAPHERNALIA- UNLAWFUL USE                      SUMMERS      ROY         822 MURFREESBORO PIKE
+
+5/9/2015 11:16  DRUG PARAPHERNALIA- UNLAWFUL USE                      RUIZ         FIDEL       28TH AVE N
+
+5/8/2015 21:32  EVADING ARREST- MISDEMEANOR                           SCOTT        JIMMY       MAPLE ST
+
+5/8/2015 21:59  EVADING ARREST- MISDEMEANOR                           FELTS        KENNETH     4424 LEBANON PIKE
+
+5/9/2015 18:31  FAILURE TO APPEAR - FELONY OR CLASS A MISD.           WIGGINS      TIMOTHY     5TH AVE N
+
+5/8/2015 18:34  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  FLYNN        APRIL       ALHAMBRA CIR
+
+5/8/2015 19:22  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  BOWERS       ASIA        JAMES ROBERTSON PKWY
+
+5/8/2015 19:57  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  WALSTON      BRETT       EWING AVE
+
+5/9/2015 2:54   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  TAYLOR       ERIC        BRICK CHURCH PIKE
+
+5/9/2015 3:42   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  SUMMERS      ROY         822 MURFREESBORO PIKE
+
+5/9/2015 8:40   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  THOMPSON     MARCUS      VANDERHORST DR
+
+5/9/2015 8:48   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  WHITELAW     KEVIN       LITTON AVE
+
+5/9/2015 8:48   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  WHITELAW     KEVIN       LITTON AVE
+
+5/9/2015 8:48   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  WHITELAW     KEVIN       LITTON AVE
+
+5/9/2015 8:09   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  LOHSE        BRIAN       OMOHUNDRO DR
+
+5/9/2015 12:47  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  GOMEZ        IVAN        NATCHEZ CT
+
+5/9/2015 20:51  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS   BOOKING  HARRIS       MARCEO      BLAKEMORE AVE
+
+5/8/2015 20:34  FAILURE TO BE BOOKED                                  ALLEN        SAMUEL      US 41 S
+
+                                                                      Page 3 of 7
+                                                                 Arrestee        Arrestee
+
+Arrest Date     Charge Description                               Last Name       First Name  Street
+
+5/8/2015 20:34  FAILURE TO BE BOOKED                             ALLEN           SAMUEL      US 41 S
+
+5/8/2015 20:34  FAILURE TO BE BOOKED                             ALLEN           SAMUEL      US 41 S
+
+5/8/2015 21:19  FAILURE TO BE BOOKED                             GREER           CARL        LAFAYETTE ST
+
+5/9/2015 5:44   FAILURE TO BE BOOKED                             KEYES           JOSEPH      JAMES AVE
+
+5/7/2015 14:04  FAILURE TO BE BOOKED                             SHIELDS         CLINT       448 2ND AVE N
+
+5/7/2015 14:04  FAILURE TO BE BOOKED                             SHIELDS         CLINT       448 2ND AVE N
+
+5/7/2015 14:04  FAILURE TO BE BOOKED                             SHIELDS         CLINT       448 2ND AVE N
+
+5/9/2015 11:01  FAILURE TO BE BOOKED                             LANGFORD        JENNIE      5TH AVE S
+
+5/9/2015 16:34  FAILURE TO BE BOOKED                             KING            RAYMOND     BRILEY PKWY N
+
+5/9/2015 18:57  FAILURE TO BE BOOKED                             FOXX            KEYONDRA    B UNIVERSITY COURT
+
+5/9/2015 21:26  FAILURE TO BE BOOKED                             GRAY            ANZIO       ROWAN DR
+
+5/8/2015 21:04  FALSE IMPRISONMENT                               FIELDS          SAMUEL      25TH AVE N
+
+5/8/2015 23:21  FALSE IMPRISONMENT                               JONES           DETERIO     N 12TH ST
+
+5/9/2015 2:10   FORFEITURE - VIOL BOND COND. OR BOND INCREASE    BATEY           ADRIANE     BRYAN ST
+
+5/9/2015 16:25  FUGITIVE FROM JUSTICE- WITH WARRANT              MARTINEZ        JOSE        MURFREESBORO PIKE
+
+5/8/2015 21:55  IMPLIED CONSENT - CIVIL                          MOORE-WILLIAMS  TOYIA       2ND AVE S
+
+5/8/2015 23:45  IMPLIED CONSENT - CIVIL                          AUSTIN          THOMAS      I 40 W
+
+5/9/2015 0:29   IMPLIED CONSENT - CIVIL                          KIMBRO          ANDRIC      7TH AVE S
+
+5/9/2015 4:16   IMPLIED CONSENT - CIVIL                          COLE            CANDACE     N GALLATIN PIKE
+
+5/9/2015 5:19   IMPLIED CONSENT - CIVIL                          GILMER          RICKY       RANDY RD
+
+5/8/2015 22:44  IMPLIED CONSENT - CRIMINAL                       MANDINKA        JIHAD       DICKERSON PIKE
+
+5/9/2015 16:25  INSURANCE-EVIDENCE OF COMPLIANCE-TRAFFIC         MARTINEZ        JOSE        MURFREESBORO PIKE
+
+5/9/2015 0:52   INTERFERENCE W/EMERGENCY CALL                    MOORE           JAMIE       WALTON LN
+
+5/9/2015 0:52   KIDNAPPING- AGG.- BODILY INJURY                  MOORE           JAMIE       WALTON LN
+
+5/9/2015 1:45   LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE      GIBSON          LEO         S 17TH ST
+
+5/8/2015 21:32  LITTERING                                        SCOTT           JIMMY       MAPLE ST
+
+5/9/2015 16:46  NONEMERGENCY 911 CALL                            JARRETT         ROBERT      CHAPEL AVE
+
+5/9/2015 18:54  OBSTRUCTING A PASSAGEWAY                         MCCOY           FRANK       EWING AVE
+
+5/8/2015 22:44  OPEN CONTAINER VIOL.                             MANDINKA        JIHAD       DICKERSON PIKE
+
+5/8/2015 19:19  ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION  WILLIAMS        JACK        LAFAYETTE ST
+
+5/9/2015 0:52   ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION  MOORE           JAMIE       WALTON LN
+
+5/9/2015 11:16  ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION  RUIZ            FIDEL       28TH AVE N
+
+5/8/2015 15:20  PAROLE VIOLATION                                 MCMURTREY       CAMERON     PAVILION BLVD
+
+                                                                 Page 4 of 7
+                                                                   Arrestee     Arrestee
+
+Arrest Date     Charge Description                                 Last Name    First Name  Street
+
+4/6/2015 11:35  POSS. OR CASUAL EXCHANGE-CONT.SUB.                 SHIELDS      CLINT       FOSTER AVE
+
+5/8/2015 21:04  POSS. OR CASUAL EXCHANGE-CONT.SUB.                 FIELDS       SAMUEL      25TH AVE N
+
+5/8/2015 21:32  POSS. OR CASUAL EXCHANGE-CONT.SUB.                 SCOTT        JIMMY       MAPLE ST
+
+5/9/2015 0:13   POSS. OR CASUAL EXCHANGE-CONT.SUB.                 DAVIS        TYRONE      N 1ST ST
+
+5/8/2015 21:04  POSS. W/O PRESCRIPTION, LEGEND DRUGS               FIELDS       SAMUEL      25TH AVE N
+
+5/9/2015 4:50   PROBATION VIOLATION- COMMUNITY CORRECTIONS  VIOL.  JONES        MARCUS      448 2ND AVE N
+
+5/9/2015 5:16   PROBATION VIOLATION- COMMUNITY CORRECTIONS  VIOL.  BEECH        CALVIN      448 2ND AVE N
+
+5/8/2015 19:50  PROBATION VIOLATION- FELONY                        MAPLES       DORRIS      FAIRFIELD AVE
+
+5/7/2015 22:12  PROBATION VIOLATION- FELONY                        THOMPSON     MICHAEL     448 2ND AVE N
+
+5/8/2015 21:44  PROBATION VIOLATION- FELONY                        TIDWELL      MATTHEW     FRANKLIN PIKE
+
+5/9/2015 4:29   PROBATION VIOLATION- FELONY                        WILLIAMS     RICHARD     1ST AVE N
+
+5/7/2015 12:35  PROBATION VIOLATION- FELONY                        HALE         SAMMY       448 2ND AVE N
+
+5/9/2015 5:29   PROBATION VIOLATION- FELONY                        BEARD        MICHAEL     448 2ND AVE N
+
+5/9/2015 4:55   PROBATION VIOLATION- FELONY                        TAYLOR       WENDY       448 2ND AVE N
+
+5/9/2015 15:59  PROBATION VIOLATION- FELONY                        SMITH        NATASHA     10TH AVE S
+
+5/9/2015 17:01  PROBATION VIOLATION- FELONY                        MORAN        TERESA      2ND AVE N
+
+5/9/2015 18:36  PROBATION VIOLATION- FELONY                        BUTLER       KIARA       DUE WEST
+
+5/8/2015 22:30  PROBATION VIOLATION- MISDEMEANOR                   WILKERSON    GARY        CHEATHAM CO. JAIL
+
+5/9/2015 9:39   PROBATION VIOLATION- MISDEMEANOR                   PHIFER       WILLIAM     ROBERTSON COUNTY   JAIL
+
+5/9/2015 12:47  PROBATION VIOLATION- MISDEMEANOR                   GOMEZ        IVAN        NATCHEZ CT
+
+5/9/2015 9:54   Public Indecency                                   ARMSTRONG    KEVIN       5TH AVE N
+
+5/8/2015 22:02  PUBLIC INTOXICATION                                BIRDSONG     JAMES       JEFFERSON ST
+
+5/8/2015 21:59  PUBLIC INTOXICATION                                FELTS        KENNETH     4424 LEBANON PIKE
+
+5/8/2015 23:39  PUBLIC INTOXICATION                                SEYMORE      JACKIE      MAIN ST
+
+5/8/2015 23:59  PUBLIC INTOXICATION                                SNELL        ROBERT
+
+5/9/2015 1:08   PUBLIC INTOXICATION                                NICHOLSON    JUSTIN      5TH AVE S
+
+5/9/2015 1:10   PUBLIC INTOXICATION                                BARR         KEVIN       1ST AVE N
+
+5/9/2015 1:11   PUBLIC INTOXICATION                                CLAYTON      NOMA        RIVERGATE PKWY @ WIDE    CIR
+
+5/9/2015 2:35   PUBLIC INTOXICATION                                ORLOWSKI     DANIEL      4TH AVE N
+
+5/9/2015 3:20   PUBLIC INTOXICATION                                PAYNE        CORWIN      1ST AVE N
+
+5/9/2015 3:56   PUBLIC INTOXICATION                                BROWN        MICHAEL     RIVERGATE PKWY
+
+5/9/2015 5:08   PUBLIC INTOXICATION                                JONE         NICHOLIA    MAIN ST
+
+5/9/2015 5:10   PUBLIC INTOXICATION                                TAYLOR       TREY        MAIN ST
+
+                                                                   Page 5 of 7
+                                                                Arrestee     Arrestee
+
+Arrest Date     Charge Description                              Last Name    First Name   Street
+
+5/9/2015 11:25  PUBLIC INTOXICATION                             -FLY         JESSE        6TH AVE S
+
+5/9/2015 15:30  PUBLIC INTOXICATION                             GEHLE        ERICA        OLD HICKORY BLVD
+
+5/9/2015 16:33  PUBLIC INTOXICATION                             POPE         SUSAN        9TH AVE N
+
+5/9/2015 16:20  PUBLIC INTOXICATION                             PETERS       CAMPBELL     OLD HICKORY BLVD
+
+5/9/2015 17:06  PUBLIC INTOXICATION                             SHOPE        JOSEPH       2ND AVE S
+
+5/9/2015 17:11  PUBLIC INTOXICATION                             MADDEN       PATRICK      OLD HICKORY BLVD
+
+5/9/2015 18:16  PUBLIC INTOXICATION                             CLAWSON      STEPHEN      21ST AVE S
+
+5/9/2015 18:07  PUBLIC INTOXICATION                             BINGHAM      JOHNNY       HARDING PL
+
+5/9/2015 18:30  PUBLIC INTOXICATION                             LINTICUM     DARRYL       OPRY PL
+
+5/9/2015 18:29  PUBLIC INTOXICATION                             BUCKLEY      ALVIN        OLD HICKORY BLVD
+
+5/9/2015 18:40  PUBLIC INTOXICATION                             JOHNSON      TERESA       OLD HICKORY BLVD
+
+5/9/2015 19:33  PUBLIC INTOXICATION                             PLANTE       BRIAN        OLD HICKORY BLVD
+
+5/9/2015 19:36  PUBLIC INTOXICATION                             BOXELL       CLAYTON      OLD HICKORY BLVD
+
+5/9/2015 21:15  PUBLIC INTOXICATION                             BAKER        JOHN         40TH AVE N
+
+5/9/2015 21:36  PUBLIC INTOXICATION                             SADDLER      DONNA        CHURCH ST
+
+5/9/2015 21:40  PUBLIC INTOXICATION                             HARDY        PHILLIP      CHURCH ST
+
+5/8/2015 21:32  RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  SCOTT        JIMMY        MAPLE ST
+
+5/8/2015 21:59  RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  FELTS        KENNETH      4424 LEBANON PIKE
+
+5/9/2015 16:33  RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  POPE         SUSAN        9TH AVE N
+
+5/9/2015 5:10   ROBBERY- AGG.- SERIOUS BODILY INJURY            SAWYERS      SUMMER       448 2ND AVE N
+
+5/8/2015 11:01  THEFT OF MERCHANDISE- $1,000 OR GT, LT $10,000  SAWYERS      DEANGELO     448 2ND AVE N
+
+5/9/2015 17:01  THEFT OF MERCHANDISE- GT $500, LT $1,000        OWEN         CANDICE      RIVERGATE PKWY
+
+5/8/2015 18:17  THEFT OF PROPERTY- $1,000 OR GT, LT $10,000     SIMMONS      GREGORY      SHADOWOOD DR
+
+5/8/2015 18:17  THEFT OF PROPERTY- $1,000 OR GT, LT $10,000     SIMMONS      GREGORY      SHADOWOOD DR
+
+5/9/2015 2:28   THEFT OF PROPERTY- $1,000 OR GT, LT $10,000     DICKENS      BRITTANY     38TH AVE N
+
+5/8/2015 11:01  THEFT OF PROPERTY- $1,000 OR GT, LT $10,000     SCHURMAN     CHRISTOPHER  448 2ND AVE N
+
+5/9/2015 4:28   THEFT OF PROPERTY- $10,000 OR GT, LT $60,000    PICKETT      DEZZION      MAPLE PL
+
+5/8/2015 23:59  THEFT OF PROPERTY- $500 OR LESS                 SNELL        ROBERT
+
+5/9/2015 4:59   THEFT OF PROPERTY- GT $500, LT $1,000           NEELY        MYTERIUS     448 2ND AVE N
+
+5/8/2015 23:25  VANDALISM- $500 OR LESS                         COVINGTON    CARLA        N 2ND ST
+
+5/9/2015 0:52   VANDALISM- $500 OR LESS                         MOORE        JAMIE        WALTON LN
+
+5/9/2015 13:07  VANDALISM- $1,000 OR GT, LT $10,000             JAMA         ABDIS        HOMELESS
+
+5/9/2015 13:07  VANDALISM- $1,000 OR GT, LT $10,000             JAMA         ABDIS        HOMELESS
+
+                                                                Page 6 of 7
+                                                           Arrestee     Arrestee
+
+Arrest Date     Charge Description                         Last Name    First Name  Street
+
+5/8/2015 23:59  WEAPON - FELON IN POSSESSION OF A HANDGUN  SNELL        ROBERT
+
+                                                           Page 7 of 7

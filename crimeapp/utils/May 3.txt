@@ -1,0 +1,238 @@
+                                                                   Arrestee        Arrestee
+
+Arrest Date       Charge Description                               Last Name       First Name  Street
+
+5/3/2015 2:28     ALCOHOL- UNDER 21, CONSUMPTION                   GARCIA SORIANO  PASTOR      HARDING PL
+
+5/3/2015 13:32    ASSAULT, AGG VIOLATION OF COURT ORDER            THOMPSON        ANTON       411 MURFREESBORO PIKE
+
+5/3/2015 4:41     Assault, Aggravated - Deadly Weapon - Int/Kn     WINTERS         MARK        WILLOW CREEK RD
+
+5/3/2015 18:03    Assault, Aggravated - Deadly Weapon - Int/Kn     ANDERSON        TRAVANISHA  N 14TH ST
+
+5/2/2015 22:14    Assault, Aggravated - Strangulation - Int/Kn     LEWIS           ERIC        DR D B TODD JR BLVD
+
+5/2/2015 22:47    ASSAULT, DOMESTIC BODILY INJURY                  FAPETU          CAMMIE      DEER VALLEY TRL
+
+5/3/2015 3:25     ASSAULT, DOMESTIC BODILY INJURY                  RIPPETOE        HEATHER     UNA ANTIOCH PIKE
+
+5/3/2015 3:55     ASSAULT, DOMESTIC BODILY INJURY                  CONNER          MARK        GREEN ST
+
+5/3/2015 4:21     ASSAULT, DOMESTIC BODILY INJURY                  DAVIS           ELIZABETH   RIVERCHASE BLVD
+
+5/3/2015 15:37    ASSAULT, DOMESTIC BODILY INJURY                  SHIRLEY         ANTHONY     RUNABOUT DR
+
+5/3/2015 19:42    ASSAULT, DOMESTIC BODILY INJURY                  GREER           NICOLE      ALTERAS DR
+
+5/3/2015 20:54    ASSAULT, DOMESTIC BODILY INJURY                  PAPUCHIS        LEAH        RANDY RD
+
+5/3/2015 11:12    ASSAULT, DOMESTIC FEAR OF BODILY INJURY          MAYS            JASON       CHANDLER PL
+
+5/3/2015 10:56    ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  GALACIA-MATA    JORGE       CEDAR DR
+
+5/3/2015 18:02    ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  GATES           TREL        N 14TH ST
+
+5/3/2015 21:09    ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  CASTILLLO       CRISTIAN    ARCHWOOD PL
+
+5/2/2015 23:30    ASSAULT, DOMESTIC, BODILY INJURY 3RD OR MORE     HUGGINS         KENNETH     16TH AVE N
+
+5/3/2015 0:53     ASSAULT, DOMESTIC, BODILY INJURY 3RD OR MORE     REED            MICHEAL     DICKERSON PIKE
+
+5/3/2015 0:53     ASSAULT, DOMESTIC, BODILY INJURY 3RD OR MORE     REED            MICHEAL     DICKERSON PIKE
+
+5/3/2015 19:40    BOATING - ID NUMBERS REQUIRED                    BISIO           LESLEY      PERCY PRIEST LAKE
+
+5/3/2015 19:40    BOATING - IMPLIED CONSENT VIOLATION              BISIO           LESLEY      PERCY PRIEST LAKE
+
+5/3/2015 19:40    BOATING UNDER THE INFLUENCE - 1ST OFFENSE        BISIO           LESLEY      PERCY PRIEST LAKE
+
+5/3/2015 13:32    BURGLARY- AGGRAVATED                             THOMPSON        ANTON       411 MURFREESBORO PIKE
+
+5/2/2015 23:33    CONTEMPT-CONDITIONAL BOND RELEASE VIOLATION      RUSSELL         STEPHEN     DOUGLAS ST
+
+5/3/2015 17:44    CRIMINAL IMPERSONATION                           KENDRICK        ANTHONY     LAFAYETTE ST
+
+5/3/2015 16:23    CRIMINAL TRESPASS                                COLE            RONNIE      LAFAYETTE ST
+
+5/3/2015 17:39    CRIMINAL TRESPASS                                VAUGHN          JASON       3RD AVE N
+
+5/3/2015 17:44    CRIMINAL TRESPASS                                KENDRICK        ANTHONY     LAFAYETTE ST
+
+5/3/2015 2:42     DISORDERLY CONDUCT                               KASSEM          AHMAD       BROADWAY
+
+5/3/2015 3:04     DISORDERLY CONDUCT                               KELLEHER        SEAN        COMMERCE ST
+
+10/22/2014 10:04  DRIV. LIC. - NO D/L                              ALSAEED         ABDULAZIZ   GREAT CIRCLE RD
+
+5/3/2015 2:28     DRIV. LIC. - NO D/L                              GARCIA SORIANO  PASTOR      HARDING PL
+
+5/3/2015 18:12    DRIV. LIC. - NO D/L                              ABDULHUSSIN     MOHAMMED    ELM HILL PIKE
+
+4/3/2015 12:10    DRIVING- SUSPENDED LICENSE                       MCBRIDE         JEREMY      THOMPSON PL
+
+3/24/2015 4:11    DRIVING- SUSPENDED LICENSE                       PERKINS         TAYLOR      N MAIN ST
+
+                                                                   Page 1 of 4
+                                                                    Arrestee        Arrestee
+
+Arrest Date     Charge Description                                  Last Name       First Name   Street
+
+5/3/2015 2:50   DRIVING- SUSPENDED LICENSE                          RODRIGUEZ       NATHAN       EXIT 50B I 24 E
+
+5/3/2015 2:08   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       ROBINSON        MORRISE      DICKERSON PIKE S
+
+5/3/2015 18:09  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       EDMONDS         YAZZMIN      2540
+
+5/3/2015 0:22   DRIVING UNDER THE INFLUENCE                         GLENN           MILLICENT    BOATNER DR
+
+5/3/2015 2:08   DRIVING UNDER THE INFLUENCE                         ROBINSON        MORRISE      DICKERSON PIKE S
+
+5/3/2015 2:28   DRIVING UNDER THE INFLUENCE                         GARCIA SORIANO  PASTOR       HARDING PL
+
+5/3/2015 3:23   DRIVING UNDER THE INFLUENCE                         COTTON          TIMOTHY      11TH AVE N
+
+5/3/2015 6:44   DRIVING UNDER THE INFLUENCE                         OLSON           RONALD
+
+5/3/2015 17:20  DRIVING UNDER THE INFLUENCE                         CHINODA         TAPIWA       BRILEY PKWY N
+
+5/3/2015 20:09  DRIVING UNDER THE INFLUENCE                         VAUGHN          JERRY        BROADWAY
+
+5/3/2015 2:50   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           RODRIGUEZ       NATHAN       EXIT 50B I 24 E
+
+5/3/2015 16:31  DRUG PARAPHERNALIA- UNLAWFUL USE                    WILSON          JOHN         RIVERGATE PKWY
+
+5/3/2015 18:12  EVADING ARREST- MOTOR VEHICLE                       ABDULHUSSIN     MOHAMMED     ELM HILL PIKE
+
+5/3/2015 4:41   EVIDENCE- TAMPERING                                 WINTERS         MARK         WILLOW CREEK RD
+
+5/2/2015 19:52  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  BAKER           STEPHEN      DICKSON COUNTY JAIL
+
+5/2/2015 20:00  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  HAYNES          KARDRELL     WILLIAMSON COUNTY JAIL
+
+5/3/2015 1:40   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  SWANN           CHRISTOPHER  ROBERTSON COUNTY JAIL
+
+5/3/2015 7:00   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  HAYWARD         JAMIE        EASTMORELAND ST
+
+5/3/2015 11:45  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  FLEMING         JOSHUA       448 2ND AVE N
+
+5/3/2015 15:23  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  PETWAY          CRAIG        JAMES ROBERTSON PKWY
+
+5/2/2015 16:55  FAILURE TO BE BOOKED                                MCBRIDE         JEREMY       448 2ND AVE N
+
+5/3/2015 8:18   FAILURE TO BE BOOKED                                HALL            LAUREN       HARDING PL
+
+5/3/2015 8:18   FAILURE TO BE BOOKED                                HALL            LAUREN       HARDING PL
+
+5/3/2015 8:18   FAILURE TO BE BOOKED                                HALL            LAUREN       HARDING PL
+
+5/3/2015 12:09  FAILURE TO BE BOOKED                                PERKINS         TAYLOR       448 2ND AVE N
+
+5/3/2015 16:23  FAILURE TO BE BOOKED                                ALSAEED         ABDULAZIZ    CHARLOTTE PIKE
+
+5/3/2015 17:44  FUGITIVE FROM JUSTICE- WITH WARRANT                 KENDRICK        ANTHONY      LAFAYETTE ST
+
+5/3/2015 21:59  HABITUAL MOTOR VEH. OFFENDER                        HARRIS          DARRELL      DOUGLAS AVE
+
+5/3/2015 14:10  HOMICIDE- CRIMINAL                                  MICHAVO         DIMITRI      448 2ND AVE N
+
+5/3/2015 13:32  HOMICIDE- CRIMINAL                                  THOMPSON        ANTON        411 MURFREESBORO PIKE
+
+5/3/2015 2:08   IMPLIED CONSENT - CIVIL                             ROBINSON        MORRISE      DICKERSON PIKE S
+
+5/3/2015 2:28   IMPLIED CONSENT - CIVIL                             GARCIA SORIANO  PASTOR       HARDING PL
+
+5/3/2015 2:50   IMPLIED CONSENT - CIVIL                             RODRIGUEZ       NATHAN       EXIT 50B I 24 E
+
+5/3/2015 17:20  IMPLIED CONSENT - CIVIL                             CHINODA         TAPIWA       BRILEY PKWY N
+
+5/3/2015 13:32  KIDNAPPING- AGG.- BODILY INJURY                     THOMPSON        ANTON        411 MURFREESBORO PIKE
+
+                                                                    Page 2 of 4
+                                                                  Arrestee      Arrestee
+
+Arrest Date      Charge Description                               Last Name     First Name  Street
+
+5/3/2015 19:42   LEAVING THE SCENE OF AN ACC. W/PROP. DAMAGE      GREER         NICOLE      ALTERAS DR
+
+5/3/2015 13:51   OBSTRUCTING A PASSAGEWAY                         REID          LARRY       6TH AVE S
+
+5/3/2015 13:32   ORDER OF PROTECTION/RESTRAINING ORDER VIOLATION  THOMPSON      ANTON       411 MURFREESBORO PIKE
+
+3/18/2013 15:20  POSS. OR CASUAL EXCHANGE-CONT.SUB.               HALL          LAUREN      ELM HILL PIKE
+
+5/3/2015 2:42    POSS. OR CASUAL EXCHANGE-CONT.SUB.               KASSEM        AHMAD       BROADWAY
+
+5/3/2015 2:42    POSS. OR CASUAL EXCHANGE-CONT.SUB.               KASSEM        AHMAD       BROADWAY
+
+5/3/2015 2:50    POSS. OR CASUAL EXCHANGE-CONT.SUB.               RODRIGUEZ     NATHAN      EXIT 50B I 24 E
+
+5/3/2015 8:18    POSS. OR CASUAL EXCHANGE-CONT.SUB.               HALL          LAUREN      HARDING PL
+
+5/3/2015 16:31   POSS. OR CASUAL EXCHANGE-CONT.SUB.               WILSON        JOHN        RIVERGATE PKWY
+
+5/3/2015 1:09    PROBATION VIOLATION- FELONY                      HOWARD        CLARENCE    DELLWAY VILLA RD
+
+5/3/2015 1:09    PROBATION VIOLATION- FELONY                      HOWARD        CLARENCE    DELLWAY VILLA RD
+
+5/3/2015 2:13    PROBATION VIOLATION- FELONY                      STEPHENS      KADEN       HIDDEN HILL DR
+
+5/3/2015 21:05   PROBATION VIOLATION- FELONY                      SAMS          TANYA       JAMES ROBERTSON PKWY
+
+5/2/2015 17:56   PROBATION VIOLATION- MISDEMEANOR                 ROBINSON      FRED        LAFAYETTE ST
+
+5/2/2015 16:58   PROBATION VIOLATION- MISDEMEANOR                 RAYMER        ANTHONY     448 2ND AVE N
+
+2/19/2013 19:20  PROSTITUTION                                     HALL          LAUREN      N DUPONT AVE
+
+3/18/2013 15:20  PROSTITUTION                                     HALL          LAUREN      ELM HILL PIKE
+
+5/2/2015 23:06   PUBLIC INTOXICATION                              STOUTLAND     PAUL        CHURCH ST
+
+5/3/2015 0:40    PUBLIC INTOXICATION                              CUNNINGHAM    ERIC        CHURCH ST
+
+5/3/2015 0:49    PUBLIC INTOXICATION                              CUPAK         MICHAEL     COMMERCE ST
+
+5/3/2015 1:49    PUBLIC INTOXICATION                              KOTALIK       SEAN        20TH AVE S
+
+5/3/2015 2:42    PUBLIC INTOXICATION                              KASSEM        AHMAD       BROADWAY
+
+5/3/2015 3:04    PUBLIC INTOXICATION                              KELLEHER      SEAN        COMMERCE ST
+
+5/3/2015 3:28    PUBLIC INTOXICATION                              FREE          RONAN       3RD AVE N
+
+5/3/2015 5:19    PUBLIC INTOXICATION                              MERRIMON      JAMIL       N 1ST ST
+
+5/3/2015 5:32    PUBLIC INTOXICATION                              WATTENBARGER  PATRICIA    PATIO DR
+
+5/3/2015 5:43    PUBLIC INTOXICATION                              HURT          TORREY      5TH AVE S
+
+5/3/2015 16:23   PUBLIC INTOXICATION                              COLE          RONNIE      LAFAYETTE ST
+
+5/3/2015 17:44   PUBLIC INTOXICATION                              KENDRICK      ANTHONY     LAFAYETTE ST
+
+5/3/2015 20:11   PUBLIC INTOXICATION                              SNEED         JIMMY       N 1ST ST
+
+5/3/2015 4:41    RECKLESS ENDANGERMENT- WEAPON                    WINTERS       MARK        WILLOW CREEK RD
+
+5/3/2015 17:18   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH   JASPER        TREHAWE     KINGVIEW DR
+
+5/3/2015 20:36   THEFT OF PROPERTY- $1,000 OR GT, LT $10,000      PARKER        MONICA      2ND AVE S
+
+5/3/2015 20:36   THEFT OF PROPERTY- $10,000 OR GT, LT $60,000     PARKER        MONICA      2ND AVE S
+
+5/3/2015 0:01    VANDALISM- $500 OR LESS                          HERRERA       LEOBARDO    SWAN RIDGE DR
+
+                                                                  Page 3 of 4
+                                                           Arrestee     Arrestee
+
+Arrest Date     Charge Description                         Last Name    First Name  Street
+
+5/3/2015 17:18  VANDALISM- $500 OR LESS                    JASPER       TREHAWE     KINGVIEW DR
+
+5/3/2015 18:03  VANDALISM- GT $500, LT $1,000              ANDERSON     TRAVANISHA  N 14TH ST
+
+5/3/2015 4:41   WEAPON - FELON IN POSSESSION OF A HANDGUN  WINTERS      MARK        WILLOW CREEK RD
+
+5/3/2015 4:41   WEAPON- POSSESSION WHILE UNDER INFLUENCE   WINTERS      MARK        WILLOW CREEK RD
+
+                                                           Page 4 of 4

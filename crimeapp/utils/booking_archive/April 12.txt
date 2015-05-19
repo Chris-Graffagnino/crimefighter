@@ -1,0 +1,242 @@
+                                                                  Arrestee       Arrestee
+
+Arrest Date      Charge Description                               Last Name      First Name   Street
+
+4/11/2015 23:33  ALCOHOL- UNDER 21, CONSUMPTION                   OLDEN-GARDNER  ALEXANDER    WOODLAND ST
+
+4/12/2015 2:19   ASSAULT- OFFENSIVE OR PROVOCATIVE CONTACT        JELLEH         PRINCE       MAIN ST
+
+4/12/2015 2:19   ASSAULT- OFFENSIVE OR PROVOCATIVE CONTACT        JELLEH         PRINCE       MAIN ST
+
+4/12/2015 9:11   Assault, Aggravated - Deadly Weapon - Int/Kn     BROWN          ROBERT       MAXWELL AVE
+
+4/12/2015 11:03  Assault, Aggravated - Deadly Weapon - Int/Kn     RICE           TRENA        STROUSE AVE
+
+4/12/2015 10:55  Assault, Aggravated - Deadly Weapon - Int/Kn     PORTER         COURTNEY     STROUSE AVE
+
+4/12/2015 14:15  Assault, Aggravated - Deadly Weapon - Int/Kn     BARNETT        TERRI        BREWER CT
+
+4/12/2015 1:50   ASSAULT, DOMESTIC BODILY INJURY                  BAIRD          TIFFANY      COMMERCE ST
+
+4/12/2015 4:03   ASSAULT, DOMESTIC BODILY INJURY                  LORAMANO       JUAN         BEECHWOOD AVE
+
+4/12/2015 6:51   ASSAULT, DOMESTIC BODILY INJURY                  IRNEL          DEDRIC       DRUMMOND DR
+
+4/12/2015 7:17   ASSAULT, DOMESTIC BODILY INJURY                  RHODES         TIFFANY      DRUMMOND DR
+
+4/12/2015 14:15  ASSAULT, DOMESTIC BODILY INJURY                  BARNETT        TERRI        BREWER CT
+
+4/12/2015 20:08  ASSAULT, DOMESTIC BODILY INJURY                  HOLLOWAY       CRAIG        HAROLD DR
+
+4/12/2015 20:56  ASSAULT, DOMESTIC BODILY INJURY                  WELCH          REONESHEE    DR D B TODD JR BLVD
+
+4/12/2015 13:31  ASSAULT, DOMESTIC OFFENSIVE/PROVOCATIVE CONDUCT  AIBANGBEE      CHRISTOPHER  COLD SPRING DR
+
+4/11/2015 23:20  ASSAULT, DOMESTIC, BODILY INJURY 3RD OR MORE     WRIGHT         MICHAEL      WILLOW LN
+
+4/11/2015 4:50   BURGLARY- MOTOR VEHICLE                          PHILBRICK      SHAWN        5TH AVE N
+
+4/12/2015 11:03  CHILD ENDANGERMENT                               RICE           TRENA        STROUSE AVE
+
+4/12/2015 10:55  CHILD ENDANGERMENT                               PORTER         COURTNEY     STROUSE AVE
+
+4/11/2015 18:30  CONSP.-CONT.SUB.- COCAINE 300 GR. OR MORE        EDMISTON       CHASE        LAWRENCE COUNTY JAIL
+
+4/12/2015 7:13   CONTRABAND IN PENAL INSTITUTION-POSSESSION       MARTIN         KRISTEN      THEODORE RD
+
+4/12/2015 0:43   CRIMINAL TRESPASS                                CANADA         BILLY        4TH AVE N
+
+4/12/2015 1:35   CRIMINAL TRESPASS                                HARRIS         MICHAEL      BROADWAY
+
+4/12/2015 10:29  CRIMINAL TRESPASS                                GREGORY        WILLIAM      POWELL AVE
+
+4/11/2015 18:53  DISORDERLY CONDUCT                               JOHNSON        RONALD       1ST AVE S
+
+4/11/2015 23:15  DISORDERLY CONDUCT                               TADEYESKE      KENNETH      E CEDAR ST
+
+4/12/2015 1:58   DISORDERLY CONDUCT                               LAVENDER       THOMAS       3RD AVE N
+
+4/12/2015 2:42   DISORDERLY CONDUCT                               SHAKIBAEI      SINA         OLD HICKORY BLVD
+
+4/12/2015 1:54   DISORDERLY CONDUCT                               MARLIN         MICHAEL      3RD AVE N
+
+4/12/2015 3:05   DISORDERLY CONDUCT                               SOLTANI        DAVOUD       OLD HICKORY BLVD
+
+4/12/2015 7:44   DISORDERLY CONDUCT                               HOGENCAMP      JOHN         16TH AVE N
+
+4/12/2015 13:29  DRIV. LIC. - NO D/L                              COOKE          JONATHAN     1ST AVE N
+
+4/12/2015 20:38  DRIV. LIC.-WRONG TYPE D/L FOR VEHICLE            DELACRUZ       LUIS         CEDARCREEK TRL
+
+                                                                  Page 1 of 4
+                                                                     Arrestee        Arrestee
+
+Arrest Date      Charge Description                                  Last Name       First Name  Street
+
+3/8/2015 20:52   DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         RADLEY          MARKCO      8TH AVE S
+
+4/12/2015 10:00  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         MARTINEZ        ELSA        I 24 W
+
+4/12/2015 17:19  DRIVING- REVOKED LICENSE, 2ND OFFENSE OR GT         MCGREGER        WILLIAM     FAIRFIELD AVE
+
+10/17/2014 0:03  DRIVING- SUSPENDED LICENSE                          CRUTCHER        RASHAON     AVERITT EXPRESS DR
+
+4/12/2015 20:42  DRIVING- SUSPENDED LICENSE                          PIRTLE          MICHAEL     DRY CREEK LN
+
+3/12/2015 20:56  DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       WRIGHT          AMY         ELM HILL PIKE
+
+4/12/2015 2:50   DRIVING- SUSPENDED LICENSE, 2ND OFFENSE OR GT       WILLIAMS        TAHNDEEWEH  14TH AVE S
+
+4/12/2015 1:34   DRIVING UNDER THE INFLUENCE                         LINEWEAVER      ROBERT      OLD HARDING PKE
+
+4/12/2015 3:41   DRIVING UNDER THE INFLUENCE                         DEAN            GUALTERIO   LISCHEY AVE
+
+4/12/2015 4:23   DRIVING UNDER THE INFLUENCE                         HARRIS          TIMOTHY     HERMITAGE AVE
+
+4/12/2015 4:09   DRIVING UNDER THE INFLUENCE                         GARCIA          MICHAEL     FAIRWAY DR
+
+4/12/2015 0:36   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           ODOM            NAREN       MURFREESBORO PIKE
+
+4/12/2015 5:50   DRIVING UNDER THE INFLUENCE - 2ND OFFENSE           BASKIN          BRANDON     NOLENSVILLE PIKE
+
+4/11/2015 23:33  DRUG PARAPHERNALIA- UNLAWFUL USE                    OLDEN-GARDNER   ALEXANDER   WOODLAND ST
+
+4/12/2015 13:46  DRUG PARAPHERNALIA- UNLAWFUL USE                    COLE            RONNIE      LAFAYETTE ST
+
+4/11/2015 23:50  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  WALES           CHARLES     LAFAYETTE ST
+
+4/12/2015 7:13   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  MARTIN          KRISTEN     THEODORE RD
+
+4/12/2015 9:42   FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  DORRIS          AMMIE       WEST SMITH ST
+
+4/12/2015 11:06  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  IDEHEN          TIA         MYRTLEWOOD DR
+
+4/12/2015 19:13  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  WASHINGTON      ALPHONSO    BAXTER AVE
+
+4/12/2015 20:42  FAILURE TO APPEAR- B OR C MISD. OR SUMMONS BOOKING  PIRTLE          MICHAEL     DRY CREEK LN
+
+4/11/2015 11:42  FAILURE TO BE BOOKED                                RADLEY          MARKCO      JAMES ROBERTSON PKY
+
+4/12/2015 7:13   FAILURE TO BE BOOKED                                CRUTCHER        RASHAON     EAST HIGH
+
+4/12/2015 8:46   FAILURE TO BE BOOKED                                WRIGHT          AMY         N TIMBER DR
+
+4/12/2015 3:41   IMPLIED CONSENT - CIVIL                             DEAN            GUALTERIO   LISCHEY AVE
+
+4/12/2015 4:23   IMPLIED CONSENT - CIVIL                             HARRIS          TIMOTHY     HERMITAGE AVE
+
+4/12/2015 5:50   IMPLIED CONSENT - CIVIL                             BASKIN          BRANDON     NOLENSVILLE PIKE
+
+4/12/2015 10:29  INHALING FUMES                                      GREGORY         WILLIAM     POWELL AVE
+
+4/12/2015 10:29  INHALING FUMES                                      GREGORY         WILLIAM     POWELL AVE
+
+4/11/2015 18:30  MONEY LAUNDERING                                    EDMISTON        CHASE       LAWRENCE COUNTY JAIL
+
+4/12/2015 2:50   POSS. OR CASUAL EXCHANGE-CONT.SUB.                  WILLIAMS        TAHNDEEWEH  14TH AVE S
+
+4/12/2015 4:10   POSS.W/INT-CONT.SUB.- COCAINE .5 GR. OR MORE        MEJIA-GONZALEZ  JOSUE       HICKORY HOLLOW PKWY
+
+4/11/2015 18:30  POSS.W/INT-CONT.SUB.- COCAINE 26-299 GR.            EDMISTON        CHASE       LAWRENCE COUNTY JAIL
+
+                                                                     Page 2 of 4
+                                                             Arrestee       Arrestee
+
+Arrest Date      Charge Description                          Last Name      First Name  Street
+
+4/11/2015 18:30  POSS.W/INT-CONT.SUB.-  COCAINE 26-299  GR.  EDMISTON       CHASE       LAWRENCE COUNTY JAIL
+
+4/11/2015 18:30  POSS.W/INT-CONT.SUB.-  COCAINE 26-299  GR.  EDMISTON       CHASE       LAWRENCE COUNTY JAIL
+
+4/12/2015 0:29   PROBATION VIOLATION-   FELONY               COLE           LADARIUS    2ND AVE N
+
+4/12/2015 0:20   PROBATION VIOLATION-   FELONY               WATERS         TIMOTHY     2ND AVE N
+
+4/11/2015 11:35  PROBATION VIOLATION-   FELONY               ROBINSON       WALTER      JAMES ROBERTSON PKY
+
+4/11/2015 12:16  PROBATION VIOLATION-   FELONY               LOERA          DANIEL      JAMES ROBERTSON PKY
+
+4/12/2015 6:00   PROBATION VIOLATION-   FELONY               NEWBY          SHAWN       CHESAPEAKE DR
+
+4/12/2015 8:24   PROBATION VIOLATION-   FELONY               JONES          TRAVIS      LISCHEY AVE
+
+4/12/2015 8:34   PROBATION VIOLATION-   FELONY               GODWIN         MICHAEL     LAFAYETTE ST
+
+4/12/2015 0:46   PROBATION VIOLATION-   FELONY               CARTER         DONNA       JAMES ROBERTSON PKY
+
+4/12/2015 0:34   PROBATION VIOLATION-   FELONY               HENDERSON      WILLIAM     2ND AVE N
+
+4/12/2015 16:15  PROBATION VIOLATION-   FELONY               WHITE          TABITHA     NEW SAWYER BROWN RD
+
+4/12/2015 19:03  PROBATION VIOLATION-   FELONY               PHILLIPS       TEVIN       MEDICAL CENTER DR
+
+4/12/2015 0:25   PROBATION VIOLATION-   MISDEMEANOR          ROSS           MARECO      2ND AVE N
+
+4/12/2015 21:43  PROBATION VIOLATION-   MISDEMEANOR          HUGHES         MYRON       JAMES ROBERTSON PKWY
+
+4/12/2015 1:35   Public Indecency                            HARRIS         MICHAEL     BROADWAY
+
+4/11/2015 18:53  PUBLIC INTOXICATION                         JOHNSON        RONALD      1ST AVE S
+
+4/11/2015 23:19  PUBLIC INTOXICATION                         RILEY          ROBERT      15TH AVE S
+
+4/11/2015 23:31  PUBLIC INTOXICATION                         WIREMAN        MICHAEL     BROADWAY
+
+4/11/2015 23:33  PUBLIC INTOXICATION                         OLDEN-GARDNER  ALEXANDER   WOODLAND ST
+
+4/12/2015 0:43   PUBLIC INTOXICATION                         CANADA         BILLY       4TH AVE N
+
+4/12/2015 1:23   PUBLIC INTOXICATION                         FELIX          JAMES       1ST AVE N
+
+4/12/2015 0:59   PUBLIC INTOXICATION                         HENDRICKSON    MONTE       HWY 70 S
+
+4/12/2015 1:33   PUBLIC INTOXICATION                         SANDERS        RODNEY      1ST AVE N
+
+4/12/2015 1:35   PUBLIC INTOXICATION                         HARRIS         MICHAEL     BROADWAY
+
+4/12/2015 1:58   PUBLIC INTOXICATION                         LAVENDER       THOMAS      3RD AVE N
+
+4/12/2015 1:51   PUBLIC INTOXICATION                         ALOTAIBI       MESHARY     OLD HICKORY BLVD
+
+4/12/2015 2:37   PUBLIC INTOXICATION                         MITCHELL       CODY        1ST AVE S
+
+4/12/2015 2:42   PUBLIC INTOXICATION                         SHAKIBAEI      SINA        OLD HICKORY BLVD
+
+4/12/2015 1:54   PUBLIC INTOXICATION                         MARLIN         MICHAEL     3RD AVE N
+
+4/12/2015 3:05   PUBLIC INTOXICATION                         SOLTANI        DAVOUD      OLD HICKORY BLVD
+
+4/12/2015 3:17   PUBLIC INTOXICATION                         ANNAR          HAROON      OLD HICKORY BLVD
+
+4/12/2015 7:43   PUBLIC INTOXICATION                         NAUJOKS        JILL        16TH AVE N
+
+                                                             Page 3 of 4
+                                                                 Arrestee     Arrestee
+
+Arrest Date      Charge Description                              Last Name    First Name  Street
+
+4/12/2015 13:46  PUBLIC INTOXICATION                             COLE         RONNIE      LAFAYETTE ST
+
+4/12/2015 20:38  RECKLESS ENDANGERMENT- MOTOR VEH. - WEAPON      DELACRUZ     LUIS        CEDARCREEK TRL
+
+4/12/2015 20:38  RECKLESS ENDANGERMENT- MOTOR VEH. - WEAPON      DELACRUZ     LUIS        CEDARCREEK TRL
+
+4/12/2015 20:38  RECKLESS ENDANGERMENT- MOTOR VEH. - WEAPON      DELACRUZ     LUIS        CEDARCREEK TRL
+
+4/12/2015 1:54   RESISTING STOP, FRISK, HALT, ARREST, OR SEARCH  MARLIN       MICHAEL     3RD AVE N
+
+4/12/2015 1:40   THEFT OF MERCHANDISE - $500 OR LESS             MOFIELD      SCOTTIE     NOLENSVILLE PIKE
+
+4/12/2015 1:40   THEFT OF MERCHANDISE - $500 OR LESS             FLOWERS      MARIA       NOLENSVILLE PIKE
+
+4/12/2015 2:19   THEFT OF MERCHANDISE - $500 OR LESS             JELLEH       PRINCE      MAIN ST
+
+4/12/2015 10:29  THEFT OF MERCHANDISE - $500 OR LESS             GREGORY      WILLIAM     POWELL AVE
+
+4/11/2015 4:50   VANDALISM- $500 OR LESS                         PHILBRICK    SHAWN       5TH AVE N
+
+4/12/2015 1:30   VANDALISM- $500 OR LESS                         JONES        DARRELL     BRICK CHURCH PIKE
+
+4/11/2015 22:49  WEAPON - FELON IN POSSESSION OF A HANDGUN       MCCLELLAN    KEITH       DICKERSON PIKE
+
+                                                                 Page 4 of 4
